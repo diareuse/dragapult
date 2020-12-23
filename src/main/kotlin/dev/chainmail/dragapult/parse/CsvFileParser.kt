@@ -3,15 +3,25 @@ package dev.chainmail.dragapult.parse
 import dev.chainmail.dragapult.model.KeyedTranslation
 import dev.chainmail.dragapult.model.Translation
 import dev.chainmail.dragapult.model.with
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
+import java.io.File
 
 class CsvFileParser(
     private val separator: String
 ) : AbstractFileParser() {
 
-    override suspend fun parse(lines: List<String>): List<KeyedTranslation> {
+    override suspend fun tryParse(file: File): List<KeyedTranslation> {
+        val lines = withContext(Dispatchers.IO) {
+            file.readLines()
+        }
+        return parse(lines)
+    }
+
+    private suspend fun parse(lines: List<String>): List<KeyedTranslation> = withContext(Dispatchers.IO) {
         val columns = lines.first().split(separator)
         val languages = columns.takeLast(columns.size - 1)
-        return lines
+        lines
             .takeLast(lines.size - 1)
             .asSequence()
             .map { it.split(separator) }
