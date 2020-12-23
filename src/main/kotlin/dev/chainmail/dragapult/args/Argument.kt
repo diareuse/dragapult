@@ -5,6 +5,7 @@ import dev.chainmail.dragapult.model.InputFileFormat
 import dev.chainmail.dragapult.model.OutputFileFormat
 import java.io.File
 import java.nio.file.Paths
+import kotlin.system.exitProcess
 
 sealed class Argument {
 
@@ -14,17 +15,17 @@ sealed class Argument {
 
         companion object : ArgumentDefinition<InputFile> {
             override val callSign = "-i"
-            override fun getInstance(args: Array<String>): InputFile? {
+            override fun getInstance(args: Array<String>): InputFile {
                 val index = args.indexOf(callSign)
                 val path = args.getOrNull(index + 1)
 
                 if (index < 0) {
-                    return null
+                    exitProcess(1)
                 }
 
                 if (path == null) {
                     "path" expects "!= null" given path
-                    return null
+                    exitProcess(1)
                 }
 
                 return InputFile(path)
@@ -39,17 +40,17 @@ sealed class Argument {
 
         companion object : ArgumentDefinition<OutputDirectory> {
             override val callSign = "-o"
-            override fun getInstance(args: Array<String>): OutputDirectory? {
+            override fun getInstance(args: Array<String>): OutputDirectory {
                 val index = args.indexOf(callSign)
                 val path = args.getOrNull(index + 1)
 
                 if (index < 0) {
-                    return null
+                    exitProcess(1)
                 }
 
                 if (path == null) {
                     "path" expects "!= null" given path
-                    return null
+                    exitProcess(1)
                 }
 
                 return OutputDirectory(path)
@@ -77,18 +78,18 @@ sealed class Argument {
 
         companion object : ArgumentDefinition<InputFormat> {
             override val callSign = "-iF"
-            override fun getInstance(args: Array<String>): InputFormat? {
+            override fun getInstance(args: Array<String>): InputFormat {
                 val index = args.indexOf(callSign)
                 val stringFormat = args.getOrNull(index + 1)
                 val format = InputFileFormat.findValue(stringFormat)
 
                 if (index < 0) {
-                    return null
+                    return InputFormat(InputFileFormat.CSV)
                 }
 
                 if (format == null) {
                     "format" expects "!= null" given format
-                    return null
+                    exitProcess(1)
                 }
 
                 return InputFormat(format)
@@ -100,17 +101,17 @@ sealed class Argument {
 
         companion object : ArgumentDefinition<InputSeparator> {
             override val callSign = "-iS"
-            override fun getInstance(args: Array<String>): InputSeparator? {
+            override fun getInstance(args: Array<String>): InputSeparator {
                 val index = args.indexOf(callSign)
                 val separator = args.getOrNull(index + 1)
 
                 if (index < 0) {
-                    return null
+                    return InputSeparator(",")
                 }
 
                 if (separator == null) {
                     "separator" expects "!= null" given separator
-                    return null
+                    exitProcess(1)
                 }
 
                 return InputSeparator(separator)
@@ -135,18 +136,18 @@ sealed class Argument {
 
         companion object : ArgumentDefinition<OutputFormat> {
             override val callSign = "-oF"
-            override fun getInstance(args: Array<String>): OutputFormat? {
+            override fun getInstance(args: Array<String>): OutputFormat {
                 val index = args.indexOf(callSign)
                 val formatString = args.getOrNull(index + 1)
                 val format = OutputFileFormat.findValue(formatString)
 
                 if (index < 0) {
-                    return null
+                    return OutputFormat(OutputFileFormat.JSON)
                 }
 
                 if (format == null) {
                     "output format" expects "!= null" given format
-                    return null
+                    exitProcess(1)
                 }
 
                 return OutputFormat(format)
