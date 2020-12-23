@@ -1,6 +1,7 @@
 package dev.chainmail.dragapult.format
 
-import dev.chainmail.dragapult.args.Argument
+import dev.chainmail.dragapult.args.OutputCommentEnabled
+import dev.chainmail.dragapult.args.OutputFormat
 import dev.chainmail.dragapult.model.KeyedTranslation
 import dev.chainmail.dragapult.model.OutputFileFormat
 
@@ -11,8 +12,8 @@ interface FileFormatter {
     companion object {
 
         operator fun invoke(
-            format: Argument.OutputFormat,
-            comment: Argument.OutputCommentEnabled
+            format: OutputFormat,
+            comment: OutputCommentEnabled
         ) = when (format.format) {
             OutputFileFormat.ANDROID -> AndroidFileFormatter(comment.isEnabled)
             OutputFileFormat.APPLE -> AppleFileFormatter(comment.isEnabled)

@@ -5,4 +5,5 @@ data class KeyedTranslation(
     val translations: List<Translation>
 )
 
-infix fun String.with(translations: List<Translation>) = KeyedTranslation(this, translations)
+infix fun String.with(translations: List<Translation>) =
+    KeyedTranslation(this, translations)

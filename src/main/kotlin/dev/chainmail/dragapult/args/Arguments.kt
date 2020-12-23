@@ -1,29 +1,34 @@
 package dev.chainmail.dragapult.args
 
+import dev.chainmail.dragapult.PrintHelpCollector
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 
 data class Arguments(
-    val input: Argument.InputFile,
-    val inputFormat: Argument.InputFormat,
-    val inputSeparator: Argument.InputSeparator,
-    val output: Argument.OutputDirectory,
-    val outputComment: Argument.OutputCommentEnabled,
-    val outputFormat: Argument.OutputFormat,
-    val help: Argument.Help?
+    val input: InputFile,
+    val inputFormat: InputFormat,
+    val inputSeparator: InputSeparator,
+    val output: OutputDirectory,
+    val outputComment: OutputCommentEnabled,
+    val outputFormat: OutputFormat
 ) {
 
     companion object {
 
         suspend fun findIn(args: Array<String>): Arguments = withContext(Dispatchers.Default) {
+            Flags(args)
+
+            if (Flags.isHelp) {
+                PrintHelpCollector()
+            }
+
             Arguments(
-                input = Argument.InputFile.getInstance(args),
-                inputFormat = Argument.InputFormat.getInstance(args),
-                inputSeparator = Argument.InputSeparator.getInstance(args),
-                output = Argument.OutputDirectory.getInstance(args),
-                outputComment = Argument.OutputCommentEnabled.getInstance(args),
-                outputFormat = Argument.OutputFormat.getInstance(args),
-                help = Argument.Help.getInstance(args)
+                input = InputFile.getInstance(args),
+                inputFormat = InputFormat.getInstance(args),
+                inputSeparator = InputSeparator.getInstance(args),
+                output = OutputDirectory.getInstance(args),
+                outputComment = OutputCommentEnabled.getInstance(args),
+                outputFormat = OutputFormat.getInstance(args)
             )
         }
 

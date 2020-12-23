@@ -1,12 +1,16 @@
 package dev.chainmail.dragapult.log
 
+import dev.chainmail.dragapult.args.Flags
+
 class ExpectationLog(
     @JvmField val name: String,
     @JvmField val expectation: Any?
 ) {
 
     infix fun given(value: Any?) {
-        println("Expected $name -> $expectation, but got $value")
+        if (Flags.isDebug) {
+            println("Expected $name -> $expectation, but got $value")
+        }
     }
 
 }

@@ -1,9 +1,11 @@
 package dev.chainmail.dragapult
 
 import dev.chainmail.dragapult.args.Arguments
+import dev.chainmail.dragapult.args.Flags
 import dev.chainmail.dragapult.format.FileFormatter
 import dev.chainmail.dragapult.parse.FileParser
 import dev.chainmail.dragapult.write.FileWriter
+import java.lang.management.ManagementFactory
 import kotlin.time.ExperimentalTime
 import kotlin.time.TimedValue
 import kotlin.time.measureTimedValue
@@ -13,7 +15,7 @@ class App constructor(
     private val args: Array<String>
 ) {
 
-    suspend fun start(): Int {
+    suspend fun start() {
         val arguments = measureTimedValue { Arguments.findIn(args) }
             .getAndPrint("arguments")
 
@@ -28,13 +30,22 @@ class App constructor(
         val writer = FileWriter(arguments.outputFormat, arguments.output)
         val files = measureTimedValue { writer.write(lines) }
             .getAndPrint("writing files")
-        println(files)
 
-        return 255
+        if (Flags.isDebug) {
+            println()
+            println("Generated these files:")
+            files.forEach {
+                println(it.absolutePath)
+            }
+        }
     }
 
     private fun <T> TimedValue<T>.getAndPrint(name: String) = value.also {
-        println("Execution of \"$name\" took: ${duration.inMilliseconds} ms")
+        if (Flags.isPerformance) {
+            println(">> Execution of \"$name\" took: ${duration.inMilliseconds} ms")
+            val memory = ManagementFactory.getMemoryMXBean().heapMemoryUsage
+            println(">> Memory:\n\tUsed ${memory.used / 1000.0 / 1000.0} MB\n\tAvailable ${(memory.max - memory.used) / 1000.0 / 1000.0} MB")
+        }
     }
 
 }

@@ -1,6 +1,7 @@
 package dev.chainmail.dragapult.write
 
-import dev.chainmail.dragapult.args.Argument
+import dev.chainmail.dragapult.args.OutputDirectory
+import dev.chainmail.dragapult.args.OutputFormat
 import dev.chainmail.dragapult.format.FileInput
 import dev.chainmail.dragapult.format.Language
 import dev.chainmail.dragapult.model.OutputFileFormat
@@ -13,8 +14,8 @@ interface FileWriter {
     companion object {
 
         operator fun invoke(
-            format: Argument.OutputFormat,
-            output: Argument.OutputDirectory
+            format: OutputFormat,
+            output: OutputDirectory
         ): FileWriter = when (format.format) {
             OutputFileFormat.ANDROID -> AndroidFileWriter(output)
             OutputFileFormat.APPLE -> AppleFileWriter(output)

@@ -5,6 +5,7 @@ data class Translation(
     val translation: String
 ) {
 
-    val isComment inline get() = language.equals("comment", ignoreCase = false)
+    val isComment
+        inline get() = language.equals("comment", ignoreCase = false)
 
 }

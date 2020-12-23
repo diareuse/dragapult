@@ -1,6 +1,6 @@
 package dev.chainmail.dragapult.write
 
-import dev.chainmail.dragapult.args.Argument
+import dev.chainmail.dragapult.args.OutputDirectory
 import dev.chainmail.dragapult.format.FileInput
 import dev.chainmail.dragapult.format.Language
 import kotlinx.coroutines.Dispatchers
@@ -8,7 +8,7 @@ import kotlinx.coroutines.withContext
 import java.io.File
 
 class AndroidFileWriter(
-    private val output: Argument.OutputDirectory
+    private val output: OutputDirectory
 ) : AbstractFileWriter() {
 
     override fun getFileName(language: Language): String {

@@ -1,5 +1,6 @@
 package dev.chainmail.dragapult.write
 
+import dev.chainmail.dragapult.args.Flags
 import dev.chainmail.dragapult.format.FileInput
 import dev.chainmail.dragapult.format.Language
 import java.io.File
@@ -19,8 +20,8 @@ abstract class AbstractFileWriter : FileWriter {
         val filename = getFileName(language)
         val file = File(dir, filename)
 
-        if (file.exists() || file.isFile) {
-            println("File (name=$filename) already exists, it will be overwritten.")
+        if (Flags.isDebug && (file.exists() || file.isFile)) {
+            println(">! File (name=$filename) already exists, it will be overwritten.")
         }
 
         file.parentFile?.ensureDirExists()
