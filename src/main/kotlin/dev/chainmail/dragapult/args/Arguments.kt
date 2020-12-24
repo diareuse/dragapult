@@ -1,5 +1,6 @@
 package dev.chainmail.dragapult.args
 
+import dev.chainmail.dragapult.PrintExamples
 import dev.chainmail.dragapult.PrintHelpCollector
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
@@ -18,8 +19,9 @@ data class Arguments(
         suspend fun findIn(args: Array<String>): Arguments = withContext(Dispatchers.Default) {
             Flags(args)
 
-            if (Flags.isHelp) {
-                PrintHelpCollector()
+            when {
+                Flags.isHelp -> PrintHelpCollector()
+                Flags.isHelpExample -> PrintExamples()
             }
 
             Arguments(

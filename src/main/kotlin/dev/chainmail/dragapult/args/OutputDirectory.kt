@@ -10,7 +10,9 @@ data class OutputDirectory(val dir: File) {
     constructor(dir: String) : this(dir = File(Paths.get(".").toAbsolutePath().normalize().toFile(), dir))
 
     companion object : ArgumentDefinition<OutputDirectory> {
+
         override val callSign = "-o"
+
         override fun getInstance(args: Array<String>): OutputDirectory {
             val index = args.indexOf(callSign)
             val path = args.getOrNull(index + 1)
@@ -25,6 +27,12 @@ data class OutputDirectory(val dir: File) {
             }
 
             return OutputDirectory(path)
+        }
+
+        override fun toString(): String {
+            return """
+                -o      Takes in an output dir with a relative location (example: -o app/src/main/res/)
+            """.trimIndent()
         }
     }
 

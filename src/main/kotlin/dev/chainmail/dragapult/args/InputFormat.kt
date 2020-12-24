@@ -7,7 +7,9 @@ import kotlin.system.exitProcess
 data class InputFormat(val format: InputFileFormat) {
 
     companion object : ArgumentDefinition<InputFormat> {
+
         override val callSign = "-iF"
+
         override fun getInstance(args: Array<String>): InputFormat {
             val index = args.indexOf(callSign)
             val stringFormat = args.getOrNull(index + 1)
@@ -24,5 +26,16 @@ data class InputFormat(val format: InputFileFormat) {
 
             return InputFormat(format)
         }
+
+        override fun toString(): String {
+            return """
+                -iF     Specifies input format.
+                            Options:
+                              csv,json,twine
+                            Default:
+                              csv
+            """.trimIndent()
+        }
+
     }
 }
