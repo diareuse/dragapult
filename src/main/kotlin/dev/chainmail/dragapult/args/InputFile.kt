@@ -2,12 +2,17 @@ package dev.chainmail.dragapult.args
 
 import dev.chainmail.dragapult.log.expects
 import java.io.File
-import java.nio.file.Paths
 import kotlin.system.exitProcess
 
 data class InputFile(val file: File) {
 
-    constructor(file: String) : this(file = File(Paths.get(".").toAbsolutePath().normalize().toFile(), file))
+    constructor(file: String) : this(file = File(file))
+
+    init {
+        if (Flags.isDebug) {
+            println("Input file: ${file.absolutePath}")
+        }
+    }
 
     companion object : ArgumentDefinition<InputFile> {
 
