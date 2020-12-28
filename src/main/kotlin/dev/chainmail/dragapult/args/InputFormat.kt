@@ -1,8 +1,8 @@
 package dev.chainmail.dragapult.args
 
+import dev.chainmail.dragapult.Exit
 import dev.chainmail.dragapult.log.expects
 import dev.chainmail.dragapult.model.InputFileFormat
-import kotlin.system.exitProcess
 
 data class InputFormat(val format: InputFileFormat) {
 
@@ -21,7 +21,7 @@ data class InputFormat(val format: InputFileFormat) {
 
             if (format == null) {
                 "format" expects "!= null" given format
-                exitProcess(1)
+                Exit.expectedArgumentNotFound()
             }
 
             return InputFormat(format)

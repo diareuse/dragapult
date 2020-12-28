@@ -1,8 +1,8 @@
 package dev.chainmail.dragapult.args
 
+import dev.chainmail.dragapult.Exit
 import dev.chainmail.dragapult.log.expects
 import java.io.File
-import kotlin.system.exitProcess
 
 data class OutputDirectory(val dir: File) {
 
@@ -23,12 +23,12 @@ data class OutputDirectory(val dir: File) {
             val path = args.getOrNull(index + 1)
 
             if (index < 0) {
-                exitProcess(1)
+                Exit.requiredArgumentMissing()
             }
 
             if (path == null) {
                 "path" expects "!= null" given path
-                exitProcess(1)
+                Exit.expectedArgumentNotFound()
             }
 
             return OutputDirectory(path)

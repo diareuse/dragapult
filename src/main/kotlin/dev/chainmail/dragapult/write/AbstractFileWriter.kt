@@ -1,8 +1,8 @@
 package dev.chainmail.dragapult.write
 
+import dev.chainmail.dragapult.Exit
 import dev.chainmail.dragapult.args.Flags
 import java.io.File
-import kotlin.system.exitProcess
 
 abstract class AbstractFileWriter : FileWriter {
 
@@ -25,7 +25,7 @@ abstract class AbstractFileWriter : FileWriter {
         if (exists() && isDirectory) return@apply
         deleteRecursively()
         if (!mkdirs()) {
-            exitProcess(3)
+            Exit.directoryCannotBeCreated()
         }
     }
 
@@ -33,7 +33,7 @@ abstract class AbstractFileWriter : FileWriter {
         if (exists() && isFile) return@apply
         deleteRecursively()
         if (!createNewFile()) {
-            exitProcess(2)
+            Exit.fileCannotBeCreated()
         }
     }
 

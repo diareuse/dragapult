@@ -8,7 +8,6 @@ data class Arguments(
     val inputFormat: InputFormat,
     val inputSeparator: InputSeparator,
     val output: OutputDirectory,
-    val outputComment: OutputCommentEnabled,
     val outputFormat: OutputFormat
 ) {
 
@@ -27,7 +26,6 @@ data class Arguments(
                 inputFormat = InputFormat.getInstance(args),
                 inputSeparator = InputSeparator.getInstance(args),
                 output = OutputDirectory.getInstance(args),
-                outputComment = OutputCommentEnabled.getInstance(args),
                 outputFormat = OutputFormat.getInstance(args)
             )
         }

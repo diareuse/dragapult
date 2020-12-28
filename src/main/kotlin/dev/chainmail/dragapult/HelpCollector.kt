@@ -1,7 +1,6 @@
 package dev.chainmail.dragapult
 
 import dev.chainmail.dragapult.args.*
-import kotlin.system.exitProcess
 
 @Suppress("FunctionName")
 fun PrintHelpCollector() {
@@ -12,14 +11,13 @@ fun PrintHelpCollector() {
             .appendLine(InputFile.toString())
             .appendLine(InputFormat.toString())
             .appendLine(InputSeparator.toString())
-            .appendLine(OutputCommentEnabled.toString())
             .appendLine(OutputDirectory.toString())
             .appendLine(OutputFormat.toString())
             .appendLine(Flags.toString())
             .toString()
 
     print(help)
-    exitProcess(0)
+    Exit.ok()
 }
 
 @Suppress("FunctionName")
@@ -41,5 +39,5 @@ Common usage for Web (Vue.js like template) is:
     """.trimIndent()
 
     println(examples)
-    exitProcess(0)
+    Exit.ok()
 }

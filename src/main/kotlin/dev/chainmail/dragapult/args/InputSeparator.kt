@@ -1,7 +1,7 @@
 package dev.chainmail.dragapult.args
 
+import dev.chainmail.dragapult.Exit
 import dev.chainmail.dragapult.log.expects
-import kotlin.system.exitProcess
 
 data class InputSeparator(val separator: String) {
 
@@ -19,7 +19,7 @@ data class InputSeparator(val separator: String) {
 
             if (separator == null) {
                 "separator" expects "!= null" given separator
-                exitProcess(1)
+                Exit.expectedArgumentNotFound()
             }
 
             return InputSeparator(separator)
