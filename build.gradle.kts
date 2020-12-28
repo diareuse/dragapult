@@ -1,12 +1,12 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    kotlin("jvm") version "1.4.21"
+    kotlin("jvm") version "1.4.30-M1"
     application
 }
 
 group = "dev.chainmail"
-version = "1.0.0-alpha01"
+version = "release"
 
 repositories {
     mavenCentral()
