@@ -2,8 +2,6 @@ package dev.chainmail.dragapult.args
 
 import dev.chainmail.dragapult.PrintExamples
 import dev.chainmail.dragapult.PrintHelpCollector
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.withContext
 
 data class Arguments(
     val input: InputFile,
@@ -16,7 +14,7 @@ data class Arguments(
 
     companion object {
 
-        suspend fun findIn(args: Array<String>): Arguments = withContext(Dispatchers.Default) {
+        fun findIn(args: Array<String>): Arguments {
             Flags(args)
 
             when {
@@ -24,7 +22,7 @@ data class Arguments(
                 Flags.isHelpExample -> PrintExamples()
             }
 
-            Arguments(
+            return Arguments(
                 input = InputFile.getInstance(args),
                 inputFormat = InputFormat.getInstance(args),
                 inputSeparator = InputSeparator.getInstance(args),

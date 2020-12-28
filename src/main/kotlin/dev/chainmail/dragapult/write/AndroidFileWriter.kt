@@ -1,48 +1,51 @@
 package dev.chainmail.dragapult.write
 
 import dev.chainmail.dragapult.args.OutputDirectory
-import dev.chainmail.dragapult.format.FileInput
-import dev.chainmail.dragapult.format.Language
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.withContext
+import dev.chainmail.dragapult.model.Translation
 import java.io.File
 
 class AndroidFileWriter(
     private val output: OutputDirectory
 ) : AbstractFileWriter() {
 
-    override fun getFileName(language: Language): String {
+    private val files = mutableMapOf<String, File>()
+
+    override fun getFileName(language: String): String {
         return "values.xml"
     }
 
-    override suspend fun write(language: Language, lines: List<FileInput>): File {
-        val parentDir = File(output.dir, getFolderName(language)).ensureDirExists()
-        val file = getOrCreateFile(parentDir, language)
-        val contents = lines.joinToString(
-            prefix = "<resources>" + System.lineSeparator(),
-            separator = System.lineSeparator(),
-            postfix = System.lineSeparator() + "</resources>"
-        ) {
-            linePrefix + it
-        }
+    override suspend fun write(translation: Translation) {
+        val file = files.find(translation)
+        val line = translation.asAndroid()
 
-        withContext(Dispatchers.IO) {
-            file.writeText(contents)
-        }
-
-        return file
+        file.appendText(line)
     }
 
-    private fun getFolderName(language: Language): String {
+    override fun open(file: File) {
+        file.writeText("<resources>" + System.lineSeparator())
+    }
+
+    override fun close() {
+        files.values.forEach {
+            it.appendText("</resources>")
+        }
+    }
+
+    private fun MutableMap<String, File>.find(translation: Translation) = getOrPut(translation.language) {
+        val parent = File(output.dir, getFolderName(translation.language)).ensureDirExists()
+        getOrCreateFile(parent, translation.language)
+    }
+
+    private fun getFolderName(language: String): String {
         return when (language) {
             "en" -> "values"
             else -> "values-$language"
         }
     }
 
-    companion object {
-        // 4 spaces
-        private const val linePrefix = "    "
-    }
+}
 
+private const val linePrefix = "    "
+private fun Translation.asAndroid(): String {
+    return "%s<string name=\"%s\">%s</string>%s".format(linePrefix, key, translation, System.lineSeparator())
 }

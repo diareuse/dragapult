@@ -2,8 +2,7 @@ package dev.chainmail.dragapult
 
 import dev.chainmail.dragapult.args.Arguments
 import dev.chainmail.dragapult.args.Flags
-import dev.chainmail.dragapult.format.FileFormatter
-import dev.chainmail.dragapult.parse.FileParser
+import dev.chainmail.dragapult.read.ReadSequence
 import dev.chainmail.dragapult.write.FileWriter
 import java.lang.management.ManagementFactory
 import kotlin.time.ExperimentalTime
@@ -19,23 +18,16 @@ class App constructor(
         val arguments = measureTimedValue { Arguments.findIn(args) }
             .getAndPrint("arguments")
 
-        val parser = FileParser(arguments.inputFormat, arguments.inputSeparator)
-        val translations = measureTimedValue { parser.parse(arguments.input.file) }
-            .getAndPrint("parsing")
-
-        val formatter = FileFormatter(arguments.outputFormat, arguments.outputComment)
-        val lines = measureTimedValue { formatter.format(translations) }
-            .getAndPrint("formatting")
+        val reader = ReadSequence(arguments.input, arguments.inputFormat, arguments.inputSeparator)
+        val sequence = measureTimedValue { reader.getSequence() }
+            .getAndPrint("fetching sequence")
 
         val writer = FileWriter(arguments.outputFormat, arguments.output)
-        val files = measureTimedValue { writer.write(lines) }
-            .getAndPrint("writing files")
 
-        if (Flags.isDebug) {
-            println()
-            println("Generated these files:")
-            files.forEach {
-                println(it.absolutePath)
+        writer.use { _ ->
+            sequence.use { translations ->
+                measureTimedValue { translations.forEach { writer.write(it) } }
+                    .getAndPrint("writing files")
             }
         }
     }

@@ -2,14 +2,12 @@ package dev.chainmail.dragapult.write
 
 import dev.chainmail.dragapult.args.OutputDirectory
 import dev.chainmail.dragapult.args.OutputFormat
-import dev.chainmail.dragapult.format.FileInput
-import dev.chainmail.dragapult.format.Language
 import dev.chainmail.dragapult.model.OutputFileFormat
-import java.io.File
+import dev.chainmail.dragapult.model.Translation
 
-interface FileWriter {
+interface FileWriter : AutoCloseable {
 
-    suspend fun write(files: Map<Language, List<FileInput>>): List<File>
+    suspend fun write(translation: Translation)
 
     companion object {
 

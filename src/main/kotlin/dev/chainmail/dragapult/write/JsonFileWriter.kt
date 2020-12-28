@@ -1,40 +1,49 @@
 package dev.chainmail.dragapult.write
 
 import dev.chainmail.dragapult.args.OutputDirectory
-import dev.chainmail.dragapult.format.FileInput
-import dev.chainmail.dragapult.format.Language
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.withContext
+import dev.chainmail.dragapult.model.Translation
 import java.io.File
 
 class JsonFileWriter(
     private val output: OutputDirectory
 ) : AbstractFileWriter() {
 
-    override fun getFileName(language: Language): String {
+    private val files = mutableMapOf<String, File>()
+    private var isFirst = true
+
+    override fun getFileName(language: String): String {
         return "$language.json"
     }
 
-    override suspend fun write(language: Language, lines: List<FileInput>): File {
-        val file = getOrCreateFile(output.dir, language)
-        val contents = lines.joinToString(
-            prefix = "{" + System.lineSeparator(),
-            separator = "," + System.lineSeparator(),
-            postfix = System.lineSeparator() + "}"
-        ) {
-            linePrefix + it
-        }
+    override suspend fun write(translation: Translation) {
+        val file = files.find(translation)
+        val line = translation.asJson()
 
-        withContext(Dispatchers.IO) {
-            file.writeText(contents)
+        if (!isFirst) {
+            file.appendText("," + System.lineSeparator())
         }
+        file.appendText(line)
 
-        return file
+        isFirst = false
     }
 
-    companion object {
-        // 4 spaces
-        private const val linePrefix = "    "
+    override fun open(file: File) {
+        file.writeText("{" + System.lineSeparator())
     }
 
+    override fun close() {
+        files.values.forEach {
+            it.appendText("}")
+        }
+    }
+
+    private fun MutableMap<String, File>.find(translation: Translation) = getOrPut(translation.language) {
+        getOrCreateFile(output.dir, translation.language)
+    }
+
+}
+
+private const val linePrefix = "    "
+private fun Translation.asJson(): String {
+    return "%s\"%s\": \"%s\"%s".format(linePrefix, key, translation, System.lineSeparator())
 }

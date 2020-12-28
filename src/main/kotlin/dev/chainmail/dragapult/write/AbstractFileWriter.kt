@@ -1,22 +1,15 @@
 package dev.chainmail.dragapult.write
 
 import dev.chainmail.dragapult.args.Flags
-import dev.chainmail.dragapult.format.FileInput
-import dev.chainmail.dragapult.format.Language
 import java.io.File
 import kotlin.system.exitProcess
 
 abstract class AbstractFileWriter : FileWriter {
 
-    abstract fun getFileName(language: Language): String
+    abstract fun getFileName(language: String): String
+    abstract fun open(file: File)
 
-    abstract suspend fun write(language: Language, lines: List<FileInput>): File
-
-    final override suspend fun write(files: Map<Language, List<FileInput>>): List<File> {
-        return files.map { write(it.key, it.value) }
-    }
-
-    protected fun getOrCreateFile(dir: File, language: Language): File {
+    protected fun getOrCreateFile(dir: File, language: String): File {
         val filename = getFileName(language)
         val file = File(dir, filename)
 
@@ -25,7 +18,7 @@ abstract class AbstractFileWriter : FileWriter {
         }
 
         file.parentFile?.ensureDirExists()
-        return file.ensureFileExists()
+        return file.ensureFileExists().apply(::open)
     }
 
     protected fun File.ensureDirExists() = apply {
