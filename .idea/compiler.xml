@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="18" />
+    <bytecodeTargetLevel target="21" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dragapult-i18n.dragapult-app" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-app.main" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-app.test" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-android" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-android.main" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-android.test" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-apple" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-apple.main" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-apple.test" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-core" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-core.main" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-core.test" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-csv" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-csv.main" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-csv.test" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-json" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-json.main" options="-proc:none" />
+      <module name="dragapult-i18n.dragapult-plugin.plugin-json.test" options="-proc:none" />
+    </option>
   </component>
 </project>
