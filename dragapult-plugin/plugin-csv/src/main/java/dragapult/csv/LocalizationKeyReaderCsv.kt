@@ -35,7 +35,7 @@ class LocalizationKeyReaderCsv(
         val format = CSVFormat.DEFAULT.builder()
             .setHeader()
             .setSkipHeaderRecord(true)
-            .build()
+            .get()
         return format.parse(reader)
     }
 

@@ -1,5 +1,5 @@
 plugins {
-    id 'com.github.johnrengelman.shadow'
+    id 'com.gradleup.shadow'
 }
 
 shadowJar {
@@ -11,6 +11,8 @@ tasks.jar {
 }
 
 tasks.shadowJar {
+    dependsOn tasks.distZip
+    dependsOn tasks.distTar
     archiveFileName.set(project.name + ".jar")
 }
 
