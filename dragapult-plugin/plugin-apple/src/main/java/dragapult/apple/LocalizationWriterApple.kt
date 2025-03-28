@@ -1,6 +1,5 @@
 package dragapult.apple
 
-import com.google.auto.service.AutoService
 import dragapult.core.*
 import java.io.File
 
@@ -21,7 +20,6 @@ class LocalizationWriterApple(
         return "\"%s\" = \"%s\";".format(key, value)
     }
 
-    @AutoService(LocalizationWriter.Factory::class)
     class Factory : LocalizationWriter.Factory {
 
         private var allowBlankValues = false

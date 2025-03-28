@@ -20,14 +20,12 @@ private fun routineArguments(args: Array<out String>): Array<String> {
 }
 
 private fun consumeSubroutine(args: Array<out String>) {
-    println("consumeSubroutine")
     val options = OptionsResolverConsume(getParser()).resolve(args)
     if (options.help) return options.printHelp()
     import(options)
 }
 
 private fun generateSubroutine(args: Array<out String>) {
-    println("geenerateSubroutine")
     val options = OptionsResolverGenerate(getParser()).resolve(args)
     if (options.help) return options.printHelp()
     export(options)

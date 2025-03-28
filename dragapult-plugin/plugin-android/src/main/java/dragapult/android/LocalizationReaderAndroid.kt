@@ -1,6 +1,5 @@
 package dragapult.android
 
-import com.google.auto.service.AutoService
 import dragapult.core.Key
 import dragapult.core.LocalizationReader
 import dragapult.core.LocalizationType
@@ -39,7 +38,6 @@ class LocalizationReaderAndroid(
         }
     }
 
-    @AutoService(LocalizationReader.Factory::class)
     class Factory : LocalizationReader.Factory {
 
         override val type: LocalizationType

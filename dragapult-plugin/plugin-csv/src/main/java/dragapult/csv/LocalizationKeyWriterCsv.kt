@@ -1,13 +1,9 @@
 package dragapult.csv
 
-import com.google.auto.service.AutoService
 import dragapult.core.LocalizationKeyWriter
 import dragapult.core.LocalizationKeyWriterBuffered
 import dragapult.core.LocalizationType
-import org.apache.commons.csv.CSVFormat
-import org.apache.commons.csv.CSVPrinter
 import java.io.File
-import java.nio.charset.Charset
 import java.util.*
 
 class LocalizationKeyWriterCsv(
@@ -26,11 +22,7 @@ class LocalizationKeyWriterCsv(
     // ---
 
     override fun close() {
-        file.csvPrinter().use { printer ->
-            val headers = headers
-            printer.printRecord(headers)
-            printer.printRecords(lines.asSequence().map { it.asRecord(headers) }.asIterable())
-        }
+        TODO()
         super.close()
     }
 
@@ -49,16 +41,8 @@ class LocalizationKeyWriterCsv(
         return firstOrNull { it.locale == locale }?.value
     }
 
-    private fun File.csvPrinter(): CSVPrinter {
-        val format = CSVFormat.Builder.create(CSVFormat.DEFAULT)
-            .setAutoFlush(true)
-            .build()
-        return format.print(this, Charset.defaultCharset())
-    }
-
     // ---
 
-    @AutoService(LocalizationKeyWriter.Factory::class)
     class Factory : LocalizationKeyWriter.Factory {
 
         override val type: LocalizationType

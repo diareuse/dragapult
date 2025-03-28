@@ -1,13 +1,11 @@
 package dragapult.apple.factory
 
-import com.google.auto.service.AutoService
 import dragapult.apple.LocalizationTypeApple
 import dragapult.apple.adapter.PlatformLocalizedFileAppleAdapter
 import dragapult.core.LocalizationType
 import dragapult.core.PlatformLocalizedFile
 import java.io.File
 
-@AutoService(PlatformLocalizedFile.Factory::class)
 class PlatformLocalizedFileFactoryApple : PlatformLocalizedFile.Factory {
 
     override val type: LocalizationType

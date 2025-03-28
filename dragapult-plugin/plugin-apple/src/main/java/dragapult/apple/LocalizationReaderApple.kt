@@ -1,6 +1,5 @@
 package dragapult.apple
 
-import com.google.auto.service.AutoService
 import dragapult.core.Key
 import dragapult.core.LocalizationReader
 import dragapult.core.LocalizationType
@@ -18,7 +17,6 @@ class LocalizationReaderApple(
             .map { (key, value) -> key to value }
     }
 
-    @AutoService(LocalizationReader.Factory::class)
     class Factory : LocalizationReader.Factory {
 
         override val type: LocalizationType
