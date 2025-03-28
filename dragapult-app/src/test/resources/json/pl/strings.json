@@ -1,0 +1,3677 @@
+{
+  "a_notification_has_been_sent_to_your_device": {
+    "value": "Powiadomienie zostało wysłane na urządzenie."
+  },
+  "a_secure_memorable_password": {
+    "value": "Bezpieczne, łatwe do zapamiętania hasło"
+  },
+  "a_verification_code_was_sent_to_your_email": {
+    "value": "Kod weryfikacyjny został wysłany na adres e-mail"
+  },
+  "about": {
+    "value": "O aplikacji"
+  },
+  "about_send": {
+    "value": "O wysyłce"
+  },
+  "accept": {
+    "value": "Zaakceptuj"
+  },
+  "accept_policies": {
+    "value": "Zaznaczając tę opcję, akceptujesz:"
+  },
+  "accept_policies_error": {
+    "value": "Regulamin i polityka prywatności nie zostały zaakceptowane."
+  },
+  "accessibility": {
+    "value": "Użyj ułatwień dostępu"
+  },
+  "accessibility_description": {
+    "value": "Użyj usługi ułatwienia dostępu Bitwarden, aby korzystać z autouzupełniania\n        danych logowania w aplikacjach i na stronach internetowych. Włączenie tej opcji spowoduje wyświetlanie okna\n        podczas zaznaczania pól służących do logowania.\n    "
+  },
+  "accessibility_description2": {
+    "value": "Użyj usługi ułatwienia dostępu Bitwarden, aby korzystać z autouzupełniania\n        danych logowania w aplikacjach i na stronach internetowych. (wymaga włączonej opcji wyświetlania nad innymi\n        aplikacjami)\n    "
+  },
+  "accessibility_description3": {
+    "value": "Użyj usługi ułatwienia dostępu Bitwarden, aby korzystać z szybkiego\n        autouzupełniania i okna wyświetlanego nad innymi aplikacjami (jeśli funkcja jest włączona).\n    "
+  },
+  "accessibility_description4": {
+    "value": "Funkcja wymagana, aby korzystać z szybkiego autouzupełniania lub usługi\n        autouzupełniania wyświetlanej nad innymi aplikacjami (jeśli funkcja jest włączona).\n    "
+  },
+  "accessibility_description5": {
+    "value": "Wymagane aby użyć kafelka Szybkiego Wypełniania."
+  },
+  "accessibility_disclosure_text": {
+    "value": "Bitwarden używa usługi ułatwienia dostępu do wyszukiwania pól logowania\n        w aplikacjach i witrynach internetowych, następnie ustawia odpowiednie identyfikatory polom, aby uzupełnić nazwę\n        użytkownika i hasło, gdy zostaną znalezione dla aplikacji lub witryny. Nie przechowujemy żadnych informacji\n        przedstawionych nam przez usługę, ani nie próbujemy kontrolować żadnych elementów na ekranie poza tekstem danych\n        logowania.\n    "
+  },
+  "accessibility_draw_over_permission_alert": {
+    "value": "Aplikacja Bitwarden wymaga uwagi - włącz \\\"Wyświetlanie nad\n        innymi aplikacjami\\\" w ustawieniach aplikacji Bitwarden\n    "
+  },
+  "accessibility_overlay_permission_alert": {
+    "value": "Aplikacja Bitwarden wymaga uwagi - patrz \\\"Usługa\n        autouzupełniania\\\" w ustawieniach aplikacji\n    "
+  },
+  "accessibility_service_disclosure": {
+    "value": "Omówienie usługi ułatwienia dostępu"
+  },
+  "account": {
+    "value": "Konto"
+  },
+  "account_already_added": {
+    "value": "Konto zostało już dodane"
+  },
+  "account_biometric_invalidated": {
+    "value": "Odblokowanie biometryczne dla tego konta jest wyłączone w oczekiwaniu\n        na weryfikację hasła głównego.\n    "
+  },
+  "account_biometric_invalidated_extension": {
+    "value": "Autouzupełnianie za pomocą danych biometrycznych zostało\n        wyłączone w oczekiwaniu na weryfikację hasła głównego.\n    "
+  },
+  "account_created": {
+    "value": "Konto zostało utworzone! Teraz możesz się zalogować."
+  },
+  "account_created_success": {
+    "value": "Twoje nowe konto zostało utworzone!"
+  },
+  "account_fingerprint_phrase": {
+    "value": "Unikalny identyfikator Twojego konta"
+  },
+  "account_locked": {
+    "value": "Zablokowane"
+  },
+  "account_locked_successfully": {
+    "value": "Konto zostało zablokowane"
+  },
+  "account_logged_out": {
+    "value": "Wylogowano"
+  },
+  "account_logged_out_biometric_exceeded": {
+    "value": "Konto wylogowane."
+  },
+  "account_logged_out_successfully": {
+    "value": "Wylogowano z konta"
+  },
+  "account_removed_successfully": {
+    "value": "Konto zostało usunięte"
+  },
+  "account_security": {
+    "value": "Bezpieczeństwo konta"
+  },
+  "account_setup": {
+    "value": "Konfiguracja konta"
+  },
+  "account_switched_automatically": {
+    "value": "Przełączono na następne dostępne konto"
+  },
+  "account_unlocked": {
+    "value": "Odblokowane"
+  },
+  "add": {
+    "value": "Dodaj"
+  },
+  "add_a_number_or_symbol_to_make_it_even_stronger": {
+    "value": "<annotation emphasis=\"bold\">Dodaj liczbę lub\n        symbol</annotation>, aby uczynić go jeszcze silniejszym. Teraz masz unikalne, bezpieczne i łatwe do zapamiętania\n        hasło wyrazowe!\n    "
+  },
+  "add_a_send": {
+    "value": "Dodaj wysyłkę"
+  },
+  "add_account": {
+    "value": "Dodaj konto"
+  },
+  "add_an_item": {
+    "value": "Dodaj element"
+  },
+  "add_field": {
+    "value": "Dodaj pole"
+  },
+  "add_folder": {
+    "value": "Dodaj folder"
+  },
+  "add_item": {
+    "value": "Dodaj element"
+  },
+  "add_new_attachment": {
+    "value": "Dodaj nowy załącznik"
+  },
+  "add_send": {
+    "value": "Nowa wysyłka"
+  },
+  "add_the_key_to_an_existing_or_new_item": {
+    "value": "Dodaj klucz do istniejącego lub nowego elementu"
+  },
+  "add_this_authenticator_key_to_a_login": {
+    "value": "Dodaj ten klucz uwierzytelniający do istniejącego logowania lub\n        utwórz nowy login.\n    "
+  },
+  "add_totp": {
+    "value": "Dodaj TOTP"
+  },
+  "add_website": {
+    "value": "Dodaj stronę internetową"
+  },
+  "additional_options": {
+    "value": "Dodatkowe opcje"
+  },
+  "address": {
+    "value": "Adres"
+  },
+  "address1": {
+    "value": "Adres 1"
+  },
+  "address2": {
+    "value": "Adres 2"
+  },
+  "address3": {
+    "value": "Adres 3"
+  },
+  "addy_io": {
+    "value": "addy.io"
+  },
+  "admin_approval_requested": {
+    "value": "Poproszono administratora o zatwierdzenie"
+  },
+  "after_you_save_your_new_password_to_bitwarden_don_t_forget_to_update_it_on_your_account_website": {
+    "value": "\"Po\n        zapisaniu nowego hasła w Bitwarden nie zapomnij zaktualizować go na stronie swojego konta. \"\n    "
+  },
+  "alias": {
+    "value": "Alias"
+  },
+  "all": {
+    "value": "Wszystkie"
+  },
+  "all_items": {
+    "value": "Wszystkie elementy"
+  },
+  "all_notifications": {
+    "value": "Wszystkie powiadomienia"
+  },
+  "all_sends": {
+    "value": "Wszystkie wysyłki"
+  },
+  "all_vaults": {
+    "value": "Wszystkie sejfy"
+  },
+  "allow_bitwarden_authenticator_syncing": {
+    "value": "Włącz synchronizację uwierzytelniania"
+  },
+  "allow_notifications": {
+    "value": "Zezwalaj na powiadomienia"
+  },
+  "allow_screen_capture": {
+    "value": "Wykonywanie zrzutów ekranu"
+  },
+  "an_error_has_occurred": {
+    "value": "Wystąpił błąd."
+  },
+  "an_error_occurred_while_sending_a_verification_code_to_your_email_please_try_again": {
+    "value": "Wystąpił błąd\n        podczas wysyłania kodu weryfikacyjnego na adres e-mail. Spróbuj ponownie\n    "
+  },
+  "api_access_token": {
+    "value": "Token dostępu API"
+  },
+  "api_key_required_parenthesis": {
+    "value": "Klucz API (wymagany)"
+  },
+  "api_url": {
+    "value": "Adres URL serwera API"
+  },
+  "app_extension": {
+    "value": "Rozszerzenie aplikacji"
+  },
+  "appearance": {
+    "value": "Wygląd"
+  },
+  "application": {
+    "value": "Aplikacja"
+  },
+  "approve_login_requests": {
+    "value": "Zatwierdź prośby logowania"
+  },
+  "approve_with_master_password": {
+    "value": "Zatwierdź przy użyciu hasła głównego"
+  },
+  "approve_with_my_other_device": {
+    "value": "Zatwierdź za pomocą mojego innego urządzenia"
+  },
+  "april": {
+    "value": "Kwiecień"
+  },
+  "are_you_sure_delete_send": {
+    "value": "Czy na pewno chcesz usunąć tę wysyłkę?"
+  },
+  "are_you_sure_remove_send_password": {
+    "value": "Czy na pewno chcesz usunąć hasło?"
+  },
+  "are_you_sure_you_want_to_decline_all_pending_log_in_requests": {
+    "value": "Czy na pewno chcesz odrzucić wszystkie\n        oczekujące prośby o logowanie?\n    "
+  },
+  "are_you_sure_you_want_to_enable_screen_capture": {
+    "value": "Czy na pewno chcesz zezwolić na wykonywanie zrzutów\n        ekranu?\n    "
+  },
+  "are_you_sure_you_want_to_overwrite_the_current_username": {
+    "value": "Czy na pewno chcesz nadpisać obecną nazwę\n        użytkownika?\n    "
+  },
+  "are_you_trying_to_log_in": {
+    "value": "Próbujesz się zalogować?"
+  },
+  "ask_to_add_login": {
+    "value": "Poproś o dodanie danych logowania"
+  },
+  "ask_to_add_login_description": {
+    "value": "Poproś o dodanie elementu, jeśli nie zostanie on znaleziony w Twoim\n        sejfie.\n    "
+  },
+  "attachement_added": {
+    "value": "Załącznik został dodany"
+  },
+  "attachment_deleted": {
+    "value": "Załącznik został usunięty"
+  },
+  "attachment_large_warning": {
+    "value": "Ten załącznik ma rozmiar %1$s. Czy na pewno chcesz go pobrać na swoje\n        urządzenie?\n    "
+  },
+  "attachments": {
+    "value": "Załączniki"
+  },
+  "august": {
+    "value": "Sierpień"
+  },
+  "authenticator": {
+    "value": "Authenticator"
+  },
+  "authenticator_app_title": {
+    "value": "Aplikacja uwierzytelniająca"
+  },
+  "authenticator_key": {
+    "value": "Klucz uwierzytelniający (TOTP)"
+  },
+  "authenticator_key_added": {
+    "value": "Klucz uwierzytelniający został dodany."
+  },
+  "authenticator_key_help": {
+    "value": "Pomoc dotycząca klucza uwierzytelniającego"
+  },
+  "authenticator_key_read_error": {
+    "value": "Nie można odczytać klucza uwierzytelniającego."
+  },
+  "authenticator_key_scanner": {
+    "value": "Klucz uwierzytelniający"
+  },
+  "authenticator_sync": {
+    "value": "Synchronizacja uwierzytelniania"
+  },
+  "auto_fill_will_not_be_offered_for_these_ur_is": {
+    "value": "Autouzupełnianie nie będzie oferowane dla tych URI.\n    "
+  },
+  "autofill": {
+    "value": "Autouzupełnianie"
+  },
+  "autofill_accessibility_description": {
+    "value": "Użyj usługi ułatwienia dostępu Bitwarden, aby korzystać z\n        autouzupełniania danych logowania w aplikacjach i na stronach internetowych.\n    "
+  },
+  "autofill_accessibility_service": {
+    "value": "Usługa ułatwienia dostępu"
+  },
+  "autofill_accessibility_summary": {
+    "value": "Pomagaj w wypełnianiu pól nazwy użytkownika i hasła w innych\n        aplikacjach i w Internecie.\n    "
+  },
+  "autofill_activated": {
+    "value": "Usługa autouzupełniania została aktywowana!"
+  },
+  "autofill_and_save": {
+    "value": "Autouzupełnij i zapisz"
+  },
+  "autofill_blocked_uris": {
+    "value": "Autouzupełnianie zablokowanych URI"
+  },
+  "autofill_options": {
+    "value": "Opcje autouzupełniania"
+  },
+  "autofill_or_view": {
+    "value": "Czy chcesz automatycznie uzupełnić lub wyświetlić ten element?"
+  },
+  "autofill_passwords": {
+    "value": "Autouzupełnianie haseł"
+  },
+  "autofill_service": {
+    "value": "Usługa autouzupełniania"
+  },
+  "autofill_service_description": {
+    "value": "Usługa autouzupełniania Bitwarden wykorzystuje funkcję Androida, aby\n        wypełnić dane logowania w innych aplikacjach na Twoim urządzeniu.\n    "
+  },
+  "autofill_service_not_enabled": {
+    "value": "Autouzupełnianie ułatwia bezpieczny dostęp do sejfu Bitwarden z innych\n        stron i aplikacji. Wygląda na to, że nie włączyłeś usługi autouzupełniania dla Bitwarden. Włącz ją na ekranie\n        \\\"Ustawienia\\\".\n    "
+  },
+  "autofill_services": {
+    "value": "Usługi autouzupełniania"
+  },
+  "autofill_services_explanation_long": {
+    "value": "Android Autofill Framework jest używany do uzupełniania danych\n        logowania w innych aplikacjach na twoim urządzeniu.\n    "
+  },
+  "autofill_setup": {
+    "value": "Twoje dane logowania są teraz łatwo dostępne bezpośrednio z klawiatury podczas\n        logowania się do aplikacji i witryn internetowych.\n    "
+  },
+  "autofill_setup2": {
+    "value": "Zalecamy wyłączenie innych usług autouzupełniania, jeśli nie zamierzasz ich używać.\n    "
+  },
+  "autofill_suggestion": {
+    "value": "Sugestia autouzupełnienia"
+  },
+  "autofill_tile_accessibility_required": {
+    "value": "Włącz usługę ułatwienia dostępu w ustawieniach aplikacji\n        Bitwarden.\n    "
+  },
+  "autofill_tile_uri_not_found": {
+    "value": "Pole hasła nie zostało wykryte"
+  },
+  "autofill_turn_on": {
+    "value": "Aby włączyć usługę autouzupełniania, wykonaj następujące czynności:"
+  },
+  "autofill_turn_on1": {
+    "value": "1. przejdź do Ustawień systemu iOS"
+  },
+  "autofill_turn_on2": {
+    "value": "2. Dotknij \\\"Hasła\\\""
+  },
+  "autofill_turn_on3": {
+    "value": "3. Dotknij opcji \\\"Usługa autouzupełniania\\\""
+  },
+  "autofill_turn_on4": {
+    "value": "4. Włącz usługę autouzupełniania"
+  },
+  "autofill_turn_on5": {
+    "value": "5. Wybierz \\\"Bitwarden\\\""
+  },
+  "autofill_with_bitwarden": {
+    "value": "Autouzupełnij z Bitwarden"
+  },
+  "available_for_two_step_login": {
+    "value": "Dostępne dla dwustopniowego logowania"
+  },
+  "avoid_ambiguous_characters": {
+    "value": "Unikaj niejednoznacznych znaków"
+  },
+  "back": {
+    "value": "Powrót"
+  },
+  "base_domain": {
+    "value": "Domena podstawowa"
+  },
+  "biometrics": {
+    "value": "Dane biometryczne"
+  },
+  "biometrics_decoding_failure": {
+    "value": "Zaloguj się przy użyciu hasła głównego lub kodu PIN, a następnie ponownie\n        włącz logowanie biometryczne w ustawieniach.\n    "
+  },
+  "biometrics_direction": {
+    "value": "Weryfikacja biometryczna"
+  },
+  "biometrics_failed": {
+    "value": "Dane biometryczne są błędne"
+  },
+  "biometrics_no_longer_supported": {
+    "value": "Zostałeś wylogowany, ponieważ biometria Twojego urządzenia nie spełnia\n        najnowszych wymagań bezpieczeństwa. Aby zaktualizować ustawienia, zaloguj się ponownie lub skontaktuj się z\n        administratorem w celu uzyskania dostępu.\n    "
+  },
+  "biometrics_no_longer_supported_title": {
+    "value": "Biometria nie jest już obsługiwana na tym urządzeniu"
+  },
+  "bitwarden": {
+    "value": "Bitwarden"
+  },
+  "bitwarden_app_extension": {
+    "value": "Rozszerzenie aplikacji Bitwarden"
+  },
+  "bitwarden_app_extension_alert2": {
+    "value": "Najprostszym sposobem dodania nowych danych logowania do sejfu jest\n        Rozszerzenie Aplikacji Bitwarden. Więcej informacji o używaniu Rozszerzenia Aplikacji Bitwarden znajdziesz w\n        widoku \\\"Ustawienia\\\".\n    "
+  },
+  "bitwarden_app_extension_description": {
+    "value": "Użyj Bitwarden do autouzupełniania danych logowania w\n        przeglądarce Safari i innych aplikacjach.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description": {
+    "value": "Użyj usługi ułatwienia dostępu Bitwarden, aby\n        korzystać z autouzupełniania danych logowania.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description2": {
+    "value": "Usługa ułatwienia dostępu może być pomocna w\n        sytuacji, gdy aplikacje nie obsługują standardowej usługi autouzupełniania.\n    "
+  },
+  "bitwarden_autofill_alert2": {
+    "value": "Najprostszym sposobem dodania nowych danych logowania do sejfu jest\n        rozszerzenie autouzupełniania haseł Bitwarden. Więcej informacji o używaniu rozszerzenia autouzupełniania\n        znajdziesz w widoku \\\"Ustawienia\\\".\n    "
+  },
+  "bitwarden_autofill_description": {
+    "value": "Uzyskaj dostęp do sejfu bezpośrednio z klawiatury, aby szybko i\n        automatycznie uzupełniać hasła.\n    "
+  },
+  "bitwarden_autofill_go_to_settings": {
+    "value": "Nie można utworzyć ustawień usługi autouzupełniania Android. Możesz\n        przejść do tego menu ręcznie, poprzez Ustawienia  System  Język i wprowadzanie  Zaawansowane \n        Usługa autouzupełniania.\n    "
+  },
+  "bitwarden_autofill_service": {
+    "value": "Usługa autouzupełniania Bitwarden"
+  },
+  "bitwarden_autofill_service_alert2": {
+    "value": "Najprostszym sposobem dodania nowych danych logowania do sejfu jest\n        usługa autouzupełniania Bitwarden. Więcej informacji o usłudze znajdziesz w ustawieniach.\n    "
+  },
+  "bitwarden_autofill_service_description": {
+    "value": "Użyj usługi autouzupełniania Bitwarden, aby wypełnić dane\n        logowania w innych aplikacjach.\n    "
+  },
+  "bitwarden_autofill_service_match_confirm": {
+    "value": "Czy na pewno chcesz automatycznie uzupełnić tym elementem?\n        Nie jest on w pełni dopasowany do \\\"%1$s\\\".\n    "
+  },
+  "bitwarden_autofill_service_notification_content": {
+    "value": "Dotknij to powiadomienie, aby automatycznie uzupełnić\n        dane z sejfu.\n    "
+  },
+  "bitwarden_autofill_service_notification_content_old": {
+    "value": "Dotknij to powiadomienie, aby wyświetlić dane z\n        sejfu.\n    "
+  },
+  "bitwarden_autofill_service_open_accessibility_settings": {
+    "value": "Otwórz ustawienia ułatwienia dostępu"
+  },
+  "bitwarden_autofill_service_open_autofill_settings": {
+    "value": "Otwórz ustawienia autouzupełniania"
+  },
+  "bitwarden_autofill_service_open_overlay_permission_settings": {
+    "value": "Otwórz uprawnienia aplikacji"
+  },
+  "bitwarden_autofill_service_overlay": {
+    "value": "Kiedy wybierzesz pole formularza i zobaczysz usługę\n        autouzupełniania Bitwarden, dotknij ją, aby ją uruchomić.\n    "
+  },
+  "bitwarden_autofill_service_overlay_permission": {
+    "value": "3. Na ekranie ustawień aplikacji Bitwarden przejdź do\n        opcji \\\"Wyświetlanie nad innymi aplikacjami\\\" (w sekcji zaawansowane) i dotknij przełącznika, aby włączyć\n        obsługę nakładki.\n    "
+  },
+  "bitwarden_autofill_service_search": {
+    "value": "Szukasz element autouzupełniania dla \\\"%1$s\\\"."
+  },
+  "bitwarden_autofill_service_step1": {
+    "value": "1. Na ekranie ustawień usługi ułatwienia dostępu dotknij\n        \\\"Bitwarden\\\" na liście usług.\n    "
+  },
+  "bitwarden_autofill_service_step2": {
+    "value": "2. Przestaw przełącznik i naciśnij OK, aby zaakceptować."
+  },
+  "bitwarden_autofill_service_step3": {
+    "value": "3. Na ekranie ustawień aplikacji Bitwarden przejdź do opcji\n        \\\"Wyświetlanie nad innymi aplikacjami\\\" (w sekcji \\\"zaawansowane\\\") i dotknij przełącznika, aby włączyć obsługę\n        nakładki.\n    "
+  },
+  "bitwarden_can_notify_you_each_time_you_receive_a_new_login_request_from_another_device": {
+    "value": "Bitwarden może\n        powiadamiać Cię za każdym razem, gdy otrzymasz nowe żądanie logowania z innego urządzenia.\n    "
+  },
+  "bitwarden_cannot_recover_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden nie może odzyskać utraconego\n        lub zapomnianego hasła głównego.\n    "
+  },
+  "bitwarden_cannot_reset_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden nie może zresetować utraconego\n        lub zapomnianego hasła głównego.\n    "
+  },
+  "bitwarden_credential_provider_go_to_settings": {
+    "value": "Nie byliśmy w stanie automatycznie otworzyć dla Ciebie\n        menu ustawień dostawcy poświadczeń Androida. Możesz przejść do menu ręcznie w Ustawieniach Android  System\n         Hasła i konta  Hasła, klucze dostępu i usług transmisji danych.\n    "
+  },
+  "bitwarden_help_center": {
+    "value": "Centrum pomocy Bitwarden"
+  },
+  "bitwarden_tools": {
+    "value": "Narzędzia Bitwarden"
+  },
+  "bitwarden_will_soon_send_a_code_to_your_account_email_to_verify_logins_from_new_devices_in_february": {
+    "value": "\n        Bitwarden wyśle kod na Twój adres e-mail w celu zweryfikowania logowania z nowych urządzeń, począwszy od lutego\n        2025 r.\n    "
+  },
+  "black": {
+    "value": "Czarny"
+  },
+  "block_auto_fill": {
+    "value": "Blokuj autouzupełnianie"
+  },
+  "brand": {
+    "value": "Wydawca"
+  },
+  "by_activating_this_switch_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "Aktywując ten\n        przełącznik, zgadzasz się na <annotation link=\"termsOfService\">Warunki korzystania z usługi</annotation> oraz\n        <annotation link=\"privacyPolicy\">Politykę prywatności</annotation>\n    "
+  },
+  "by_continuing_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "Kontynuując, akceptujesz <annotation link=\"termsOfService\">Warunki korzystania z usługi\n    </annotation> i\n        <annotation link=\"privacyPolicy\">Politykę prywatności</annotation>\n    "
+  },
+  "camera": {
+    "value": "Aparat"
+  },
+  "cancel": {
+    "value": "Anuluj"
+  },
+  "cannot_add_authenticator_key": {
+    "value": "Nie możesz dodać klucza uwierzytelniającego?"
+  },
+  "cannot_add_authenticator_key_scan_qr_code": {
+    "value": "Nie można dodać klucza uwierzytelniającego?\n        <annotation link=\"scanQrCode\">Zeskanuj kod QR</annotation>\n    "
+  },
+  "cannot_edit_multiple_ur_is_at_once": {
+    "value": "Nie można edytować wielu URI na raz"
+  },
+  "cannot_open_app": {
+    "value": "Nie można otworzyć aplikacji \\\"%1$s\\\"."
+  },
+  "cannot_scan_qr_code_enter_key_manually": {
+    "value": "Nie możesz zeskanować kodu QR?\n        <annotation link=\"enterKeyManually\">Wprowadź klucz ręcznie</annotation>\n    "
+  },
+  "capitalize": {
+    "value": "Wielkie litery"
+  },
+  "captcha_failed": {
+    "value": "Weryfikacja Captcha nie powiodła się. Spróbuj ponownie."
+  },
+  "captcha_required": {
+    "value": "Weryfikacja Captcha jest wymagana"
+  },
+  "card_details": {
+    "value": "Szczegóły karty"
+  },
+  "cardholder_name": {
+    "value": "Właściciel karty"
+  },
+  "cards": {
+    "value": "Karty"
+  },
+  "catch_all_email": {
+    "value": "Adres catch-all"
+  },
+  "catch_all_email_description": {
+    "value": "Użyj skonfigurowanej skrzynki catch-all w swojej domenie."
+  },
+  "certificate_alias": {
+    "value": "Alias certyfikatu"
+  },
+  "certificate_alias_already_exists": {
+    "value": "Alias certyfikatu już istnieje"
+  },
+  "certificate_installation_failed": {
+    "value": "Instalacja certyfikatu nie powiodła się"
+  },
+  "certificate_installed": {
+    "value": "Certyfikat zainstalowany"
+  },
+  "certificate_password_incorrect": {
+    "value": "Nieprawidłowe hasło certyfikatu"
+  },
+  "certificate_selection_failed": {
+    "value": "Wybór certyfikatu nie powiódł się"
+  },
+  "certificate_used_for_client_authentication": {
+    "value": "Certyfikat używany do uwierzytelniania klienta."
+  },
+  "change_account_email": {
+    "value": "Zmień adres e-mail konta"
+  },
+  "change_email": {
+    "value": "Zmień adres e-mail"
+  },
+  "change_email_address": {
+    "value": "Zmień adres e-mail"
+  },
+  "change_email_confirmation": {
+    "value": "Swój adres e-mail możesz zmienić w sejfie internetowym bitwarden.com. Czy\n        chcesz przejść do tej strony?\n    "
+  },
+  "change_master_password": {
+    "value": "Zmień hasło główne"
+  },
+  "change_master_password_description_long": {
+    "value": "Możesz zmienić swoje hasło główne w aplikacji internetowej\n        Bitwarden.\n    "
+  },
+  "check_known_data_breaches_for_this_password": {
+    "value": "Sprawdź znane naruszenia ochrony danych tego hasła\n    "
+  },
+  "check_out_the_passphrase_generator": {
+    "value": "\"Sprawdź generator haseł wyrazowych\""
+  },
+  "check_password": {
+    "value": "Sprawdź, czy hasło zostało ujawnione."
+  },
+  "check_password_for_data_breaches": {
+    "value": "Sprawdź hasło pod kątem wycieków danych"
+  },
+  "check_your_email": {
+    "value": "Sprawdź swoją pocztę e-mail"
+  },
+  "checking_password": {
+    "value": "Sprawdzanie hasła..."
+  },
+  "choose_a_login_to_save_this_passkey_to": {
+    "value": "Wybierz dane logowania, do których przypisać klucz dostępu\n    "
+  },
+  "choose_a_unique_and_strong_password_to_keep_your_information_safe": {
+    "value": "Wybierz unikalne i mocne hasło, aby\n        Twoje informacje były bezpieczne.\n    "
+  },
+  "choose_file": {
+    "value": "Wybierz plik"
+  },
+  "choose_system_certificate": {
+    "value": "Wybierz certyfikat systemowy"
+  },
+  "choose_three_or_four_random_words": {
+    "value": "Wybierz trzy lub cztery losowe słowa"
+  },
+  "choose_your_master_password": {
+    "value": "Wybierz hasło główne"
+  },
+  "city_town": {
+    "value": "Miasto"
+  },
+  "class_2_biometrics_description": {
+    "value": "Odblokowywanie biometrią wymaga silnego uwierzytelniania\n        biometrycznego i nie jest kompatybilne z dostępnymi opcjami biometrycznymi na tym urządzeniu.\n    "
+  },
+  "class_3_biometrics_description": {
+    "value": "Odblokowywanie biometrią wymaga silnego uwierzytelniania\n        biometrycznego i może nie być kompatybilne ze wszystkimi opcjami biometrycznymi na tym urządzeniu.\n    "
+  },
+  "clear": {
+    "value": "Wyczyść"
+  },
+  "clear_clipboard": {
+    "value": "Wyczyść schowek"
+  },
+  "clear_clipboard_description": {
+    "value": "Automatycznie wyczyść skopiowaną wartość ze schowka."
+  },
+  "client_certificate_mtls": {
+    "value": "Certyfikat klienta (mTLS)"
+  },
+  "clone": {
+    "value": "Klonuj"
+  },
+  "close": {
+    "value": "Zamknij"
+  },
+  "coachmark_1_of_3": {
+    "value": "1 Z 3"
+  },
+  "coachmark_1_of_6": {
+    "value": "1 Z 6"
+  },
+  "coachmark_2_of_3": {
+    "value": "2 Z 3"
+  },
+  "coachmark_2_of_6": {
+    "value": "2 Z 6"
+  },
+  "coachmark_3_of_3": {
+    "value": "3 Z 3"
+  },
+  "coachmark_3_of_6": {
+    "value": "3 Z 6"
+  },
+  "coachmark_4_of_6": {
+    "value": "4 Z 6"
+  },
+  "coachmark_5_of_6": {
+    "value": "5 Z 6"
+  },
+  "coachmark_6_of_6": {
+    "value": "6 Z 6"
+  },
+  "code_sent": {
+    "value": "Kod został wysłany!"
+  },
+  "collections": {
+    "value": "Kolekcje"
+  },
+  "combine_those_words_together": {
+    "value": "Połącz te słowa"
+  },
+  "company": {
+    "value": "Firma"
+  },
+  "confim_log_in_attemp_for_x": {
+    "value": "Potwierdź próbę logowania dla %1$s"
+  },
+  "confirm": {
+    "value": "Potwierdź"
+  },
+  "confirm_file_password": {
+    "value": "Potwierdź hasło do pliku"
+  },
+  "confirm_log_in": {
+    "value": "Potwierdź logowanie"
+  },
+  "confirm_your_identity": {
+    "value": "Potwierdź swoją tożsamość, aby kontynuować."
+  },
+  "connect_to_watch": {
+    "value": "Połącz się z Watch"
+  },
+  "contact_bitwarden_support": {
+    "value": "Skontaktuj się z pomocą techniczną Bitwarden"
+  },
+  "contact_info": {
+    "value": "Dane kontaktowe"
+  },
+  "contact_support_description_long": {
+    "value": "Nie możesz znaleźć tego, czego szukasz? Skontaktuj się z pomocą na\n        bitwarden.com.\n    "
+  },
+  "continue_text": {
+    "value": "Kontynuuj"
+  },
+  "continue_to_app_store": {
+    "value": "Kontynuować do sklepu aplikacji?"
+  },
+  "continue_to_complete_web_authn_verification": {
+    "value": "Kontynuuj, aby dokończyć weryfikację WebAuthn."
+  },
+  "continue_to_contact_support": {
+    "value": "Kontynuować kontakt z pomocą techniczną?"
+  },
+  "continue_to_device_settings": {
+    "value": "Kontynuować do ustawień urządzenia?"
+  },
+  "continue_to_give_feedback": {
+    "value": "Kontynuować przekazywanie opinii?"
+  },
+  "continue_to_help_center": {
+    "value": "Kontynuować do centrum pomocy?"
+  },
+  "continue_to_privacy_policy": {
+    "value": "Kontynuować do polityki prywatności?"
+  },
+  "continue_to_provide_feedback": {
+    "value": "Wybierz kontynuuj, aby przekazać opinie na temat nowej aplikacji!\n    "
+  },
+  "continue_to_web_app": {
+    "value": "Kontynuować do aplikacji internetowej?"
+  },
+  "continue_to_x": {
+    "value": "Kontynuować przez %1$s?"
+  },
+  "copied_to_clipboard": {
+    "value": "Skopiowano do schowka."
+  },
+  "copy": {
+    "value": "Skopiuj"
+  },
+  "copy_address": {
+    "value": "Skopiuj adres"
+  },
+  "copy_app_information": {
+    "value": "Skopiuj informacje o aplikacji"
+  },
+  "copy_application": {
+    "value": "Kopiuj aplikację"
+  },
+  "copy_company": {
+    "value": "Skopiuj firmę"
+  },
+  "copy_email": {
+    "value": "Skopiuj e-mail"
+  },
+  "copy_fingerprint": {
+    "value": "Skopiuj odcisk palca"
+  },
+  "copy_identity_name": {
+    "value": "Skopiuj nazwę tożsamości"
+  },
+  "copy_license_number": {
+    "value": "Skopiuj numer licencji"
+  },
+  "copy_link": {
+    "value": "Kopiuj link"
+  },
+  "copy_notes": {
+    "value": "Kopiuj notatkę"
+  },
+  "copy_number": {
+    "value": "Kopiuj numer"
+  },
+  "copy_passport_number": {
+    "value": "Skopiuj numer paszportu"
+  },
+  "copy_password": {
+    "value": "Skopiuj hasło"
+  },
+  "copy_phone": {
+    "value": "Skopiuj numer telefonu"
+  },
+  "copy_private_key": {
+    "value": "Skopiuj klucz prywatny"
+  },
+  "copy_public_key": {
+    "value": "Skopiuj klucz publiczny"
+  },
+  "copy_security_code": {
+    "value": "Kopiuj kod zabezpieczający"
+  },
+  "copy_send_link_on_save": {
+    "value": "Kopiuj link wysyłki po zapisaniu"
+  },
+  "copy_ssn": {
+    "value": "Skopiuj numer PESEL"
+  },
+  "copy_totp": {
+    "value": "Kopiuj kod TOTP"
+  },
+  "copy_totp_automatically": {
+    "value": "Kopiuj kod TOTP automatycznie"
+  },
+  "copy_totp_automatically_description": {
+    "value": "Jeśli dane logowania posiadają dołączony klucz uwierzytelniający\n        TOTP, kod weryfikacyjny jest automatycznie kopiowany do schowka przy każdym autouzupełnieniu danych logowania.\n    "
+  },
+  "copy_username": {
+    "value": "Skopiuj nazwę użytkownika"
+  },
+  "country": {
+    "value": "Kraj"
+  },
+  "create_a_hint": {
+    "value": "Utwórz wskazówkę"
+  },
+  "create_account": {
+    "value": "Utwórz konto"
+  },
+  "create_account_on": {
+    "value": "Utwórz konto na"
+  },
+  "create_account_on_with_colon": {
+    "value": "Utwórz konto na:"
+  },
+  "create_an_account": {
+    "value": "Utwórz konto"
+  },
+  "created_xy": {
+    "value": "Utworzono %1$s, %2$s"
+  },
+  "creating_account": {
+    "value": "Tworzenie konta..."
+  },
+  "credits": {
+    "value": "Podziękowania"
+  },
+  "current_access_count": {
+    "value": "Obecna liczba dostępów"
+  },
+  "current_master_password_required": {
+    "value": "Obecne hasło główne (wymagane)"
+  },
+  "custom": {
+    "value": "Niestandardowe"
+  },
+  "custom_environment": {
+    "value": "Niestandardowe środowisko"
+  },
+  "custom_environment_footer": {
+    "value": "Dla zaawansowanych użytkowników. Możesz wpisać podstawowy adres URL\n        niezależnie dla każdej usługi.\n    "
+  },
+  "custom_field_name": {
+    "value": "Nazwa pola niestandardowego"
+  },
+  "custom_fields": {
+    "value": "Pola niestandardowe"
+  },
+  "cxp_export": {
+    "value": "Eksport CXP"
+  },
+  "cxp_import": {
+    "value": "Import CXP"
+  },
+  "dark": {
+    "value": "Ciemny"
+  },
+  "data_region": {
+    "value": "Region danych"
+  },
+  "date_password_updated": {
+    "value": "Hasło zostało zaktualizowane"
+  },
+  "date_updated": {
+    "value": "Zaktualizowano"
+  },
+  "december": {
+    "value": "Grudzień"
+  },
+  "decline": {
+    "value": "Odrzuć"
+  },
+  "decline_all_requests": {
+    "value": "Odrzuć wszystkie prośby"
+  },
+  "default_dark_theme": {
+    "value": "Domyślny ciemny motyw"
+  },
+  "default_dark_theme_description_long": {
+    "value": "Wybierz ciemny motyw, gdy używany jest tryb ciemny urządzenia\n    "
+  },
+  "default_system": {
+    "value": "Domyślny (systemowy)"
+  },
+  "default_text": {
+    "value": "Domyślny"
+  },
+  "default_uri_match_detection": {
+    "value": "Domyślne wykrywanie dopasowania"
+  },
+  "default_uri_match_detection_description": {
+    "value": "Wybierz domyślny sposób wykrywania dopasowania adresów dla\n        czynności takich jak autouzupełnienie.\n    "
+  },
+  "delete": {
+    "value": "Usuń"
+  },
+  "delete_account": {
+    "value": "Usuń konto"
+  },
+  "delete_account_explanation": {
+    "value": "Konto i wszystkie dane sejfu zostaną trwale usunięte. Czy na pewno chcesz\n        usunąć konto?\n    "
+  },
+  "delete_this_file_after_import_is_complete": {
+    "value": "Ten plik zostanie usunięty po zakończeniu importu."
+  },
+  "deleting": {
+    "value": "Usuwanie..."
+  },
+  "deleting_your_account": {
+    "value": "Usuwanie konta"
+  },
+  "deleting_your_account_is_permanent": {
+    "value": "Usunięcie konta jest nieodwracalne"
+  },
+  "deletion_date": {
+    "value": "Data usunięcia"
+  },
+  "deletion_date_info": {
+    "value": "Wysyłka zostanie trwale usunięta w określonym czasie."
+  },
+  "deletion_time": {
+    "value": "Czas usunięcia"
+  },
+  "denied": {
+    "value": "Odmowa"
+  },
+  "deny_log_in": {
+    "value": "Odrzuć logowanie"
+  },
+  "device_type": {
+    "value": "Rodzaj urządzenia"
+  },
+  "disable_personal_vault_export_policy_in_effect": {
+    "value": "Co najmniej jedna zasada organizacji uniemożliwia\n        wyeksportowanie osobistego sejfu.\n    "
+  },
+  "disabled": {
+    "value": "Wyłączone"
+  },
+  "do_you_have_a_computer_available": {
+    "value": "Czy masz dostępny komputer?"
+  },
+  "do_you_have_reliable_access_to_your_email": {
+    "value": "Czy masz pewny dostęp do swojego adresu e-mail,\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s?</annotation>\n        </annotation>\n        ?\n    "
+  },
+  "do_you_really_want_to_delete": {
+    "value": "Czy na pewno chcesz to usunąć? Tej operacji nie można cofnąć."
+  },
+  "do_you_really_want_to_permanently_delete_cipher": {
+    "value": "Czy na pewno chcesz to usunąć trwale? Tej operacji\n        nie można cofnąć.\n    "
+  },
+  "do_you_really_want_to_restore_cipher": {
+    "value": "Czy na pewno chcesz przywrócić ten element?"
+  },
+  "do_you_really_want_to_soft_delete_cipher": {
+    "value": "Czy na pewno chcesz to usunąć?"
+  },
+  "domain_name_required_parenthesis": {
+    "value": "Nazwa domeny (wymagana)"
+  },
+  "done_text": {
+    "value": "Gotowe"
+  },
+  "download": {
+    "value": "Pobierz"
+  },
+  "download_the_browser_extension": {
+    "value": "Pobierz rozszerzenie do przeglądarki"
+  },
+  "downloading": {
+    "value": "Pobieranie..."
+  },
+  "dr": {
+    "value": "Doktor"
+  },
+  "draw_over": {
+    "value": "Użyj opcji wyświetlania nad innymi aplikacjami"
+  },
+  "draw_over_description": {
+    "value": "Jeśli funkcja jest włączona, usługa ułatwienia dostępu Bitwarden wyświetla\n        okno, podczas zaznaczania pól służących do logowania.\n    "
+  },
+  "draw_over_description2": {
+    "value": "Jeśli funkcja jest włączona, usługa ułatwienia dostępu Bitwarden wyświetla\n        okno, podczas zaznaczania pól służących do logowania. Usługa automatycznie wypełnia dane logowania.\n    "
+  },
+  "draw_over_description3": {
+    "value": "Jeśli funkcja jest włączona, ułatwienia dostępu pokazują okno usługi\n        autouzupełniania dla starszych aplikacji, które nie obsługują tej opcji.\n    "
+  },
+  "duck_duck_go": {
+    "value": "DuckDuckGo"
+  },
+  "duo_two_step_login_is_required_for_your_account": {
+    "value": "Dwustopniowe logowanie Duo jest wymagane dla Twojego\n        konta.\n    "
+  },
+  "edit": {
+    "value": "Edycja"
+  },
+  "edit_card": {
+    "value": "Edytuj kartę"
+  },
+  "edit_folder": {
+    "value": "Edytuj folder"
+  },
+  "edit_identity": {
+    "value": "Edytuj tożsamość"
+  },
+  "edit_item": {
+    "value": "Edytuj element"
+  },
+  "edit_login": {
+    "value": "Edytuj login"
+  },
+  "edit_note": {
+    "value": "Edytuj notatkę"
+  },
+  "edit_passkey": {
+    "value": "Edytuj klucz dostępu"
+  },
+  "edit_send": {
+    "value": "Edytuj wysyłkę"
+  },
+  "edit_uri": {
+    "value": "Edytuj URI"
+  },
+  "email": {
+    "value": "Adres e-mail"
+  },
+  "email_address": {
+    "value": "Adres e-mail"
+  },
+  "email_address_required": {
+    "value": "Adres e-mail (wymagany)"
+  },
+  "email_required_parenthesis": {
+    "value": "Adres e-mail (wymagany)"
+  },
+  "email_type": {
+    "value": "Rodzaj adresu"
+  },
+  "email_us": {
+    "value": "Napisz do nas"
+  },
+  "email_us_description": {
+    "value": "Napisz do nas, jeśli potrzebujesz pomocy lub chcesz przesłać opinię."
+  },
+  "email_verified": {
+    "value": "Adres e-mail został zweryfikowany"
+  },
+  "enable_automatic_syncing": {
+    "value": "Włącz automatyczną synchronizację"
+  },
+  "enable_camer_permission_to_use_the_scanner": {
+    "value": "Włącz uprawnienia aparatu do korzystania ze skanera\n    "
+  },
+  "enable_notifications": {
+    "value": "Włącz powiadomienia"
+  },
+  "enable_sync_on_refresh": {
+    "value": "Włącz synchronizację podczas odświeżenia"
+  },
+  "enable_sync_on_refresh_description": {
+    "value": "Synchronizuje sejf podczas gestu przeciągnięcia w dół."
+  },
+  "enabled": {
+    "value": "Włączone"
+  },
+  "encryption_key_migration_required_description_long": {
+    "value": "Wymagana jest migracja klucza szyfrowania. Zaloguj\n        się przez sejf internetowy, aby zaktualizować klucz szyfrowania.\n    "
+  },
+  "enter_email_for_hint": {
+    "value": "Wpisz adres e-mail powiązany z kontem, aby otrzymać podpowiedź do hasła\n        głównego.\n    "
+  },
+  "enter_key_manually": {
+    "value": "Wpisz klucz ręcznie"
+  },
+  "enter_pin": {
+    "value": "Wpisz kod PIN"
+  },
+  "enter_the_client_certificate_password_and_alias": {
+    "value": "Wprowadź hasło certyfikatu klienta i żądany alias dla\n        tego certyfikatu.\n    "
+  },
+  "enter_the_verification_code_that_was_sent_to_your_email": {
+    "value": "Wpisz kod weryfikacyjny, który został wysłany\n        na adres e-mail\n    "
+  },
+  "enter_uri": {
+    "value": "Wpisz URI"
+  },
+  "enter_verification_code_app": {
+    "value": "Wpisz 6-cyfrowy kod weryfikacyjny z aplikacji uwierzytelniającej.\n    "
+  },
+  "enter_verification_code_email": {
+    "value": "Wpisz 6-cyfrowy kod weryfikacyjny, który został przesłany na adres\n        %1$s.\n    "
+  },
+  "enter_verification_code_new_device": {
+    "value": "Nie rozpoznajemy tego urządzenia. Wprowadź 8-cyfrowy kod\n        weryfikacyjny, który został wysłany na adres %1$s.\n    "
+  },
+  "environment_page_urls_error": {
+    "value": "Co najmniej jeden ze wpisanych adresów URL jest nieprawidłowy. Popraw je\n        i spróbuj ponownie zapisać.\n    "
+  },
+  "environment_saved": {
+    "value": "Adresy URL środowiska zostały zapisane."
+  },
+  "error_connecting_with_the_duo_service_use_a_different_two_step_login_method_or_contact_duo_for_assistance": {
+    "value": "\n        Wystąpił błąd podczas połączenia z usługą Duo. Aby uzyskać pomoc, użyj innej metody dwustopniowego logowania lub\n        skontaktuj się z Duo.\n    "
+  },
+  "error_creating_passkey": {
+    "value": "Błąd podczas tworzenia klucza dostępu"
+  },
+  "error_loading_certificate": {
+    "value": "Błąd podczas ładowania certyfikatu"
+  },
+  "error_reading_passkey": {
+    "value": "Błąd podczas odczytu klucza dostępu"
+  },
+  "eu": {
+    "value": "UE"
+  },
+  "exact": {
+    "value": "Dokładnie"
+  },
+  "exit": {
+    "value": "Wyjdź"
+  },
+  "exit_confirmation": {
+    "value": "Czy na pewno chcesz zamknąć Bitwarden?"
+  },
+  "exntesion_reenable": {
+    "value": "Ponownie włącz Rozszerzenie Aplikacji"
+  },
+  "expiration": {
+    "value": "Data wygaśnięcia"
+  },
+  "expiration_month": {
+    "value": "Miesiąc wygaśnięcia"
+  },
+  "expiration_year": {
+    "value": "Rok wygaśnięcia"
+  },
+  "expired": {
+    "value": "Wygasła"
+  },
+  "expired_link": {
+    "value": "Link wygasł"
+  },
+  "explore_more_features_of_your_bitwarden_account_on_the_web_app": {
+    "value": "Odkryj więcej funkcji swojego konta\n        Bitwarden w aplikacji internetowej.\n    "
+  },
+  "explore_the_generator": {
+    "value": "Zobacz generator"
+  },
+  "export_vault": {
+    "value": "Eksportuj sejf"
+  },
+  "export_vault_confirmation_title": {
+    "value": "Potwierdź eksportowanie sejfu"
+  },
+  "export_vault_failure": {
+    "value": "Wystąpił problem z wyeksportowaniem sejfu. Jeśli problem nadal występuje, musisz\n        wyeksportować dane z sejfu internetowego.\n    "
+  },
+  "export_vault_file_pw_protect_info": {
+    "value": "Plik będzie chroniony hasłem, które będzie wymagane do\n        odszyfrowania pliku.\n    "
+  },
+  "export_vault_master_password_description": {
+    "value": "Wpisz hasło główne, aby wyeksportować dane z sejfu."
+  },
+  "export_vault_success": {
+    "value": "Sejf został wyeksportowany"
+  },
+  "export_vault_warning": {
+    "value": "Plik zawiera dane sejfu w niezaszyfrowanym formacie. Nie powinieneś go\n        przechowywać, ani przesyłać poprzez niezabezpieczone kanały (takie jak poczta e-mail). Skasuj go natychmiast po\n        użyciu.\n    "
+  },
+  "export_your_passwords_this_option_is_usually_found_in_your_settings": {
+    "value": "\n        <annotation emphasis=\"bold\">Wyeksportuj swoje hasła.</annotation>\n        Ta opcja jest zwykle dostępna w ustawieniach.\n    "
+  },
+  "export_your_saved_logins": {
+    "value": "Eksportuj zapisane loginy"
+  },
+  "exposed_master_password": {
+    "value": "Ujawnione hasło główne"
+  },
+  "extension_activated": {
+    "value": "Rozszerzenie zostało aktywowane!"
+  },
+  "extension_almost_done": {
+    "value": "Prawie gotowe!"
+  },
+  "extension_enable": {
+    "value": "Włącz rozszerzenie aplikacji"
+  },
+  "extension_in_safari": {
+    "value": "W Safari znajdź Bitwarden przy użyciu ikony udostępniania (podpowiedź: przewiń\n        dolny rząd menu do prawej strony).\n    "
+  },
+  "extension_instant_access": {
+    "value": "Uzyskaj natychmiastowy dostęp do haseł!"
+  },
+  "extension_ready": {
+    "value": "Jesteś gotowy do zalogowania się!"
+  },
+  "extension_setup": {
+    "value": "Dane logowania są teraz łatwo dostępne z przeglądarki Safari, Chrome i innych\n        obsługiwanych aplikacji.\n    "
+  },
+  "extension_setup2": {
+    "value": "W przeglądarce Safari i Chrome znajdź Bitwarden przy użyciu ikony udostępniania\n        (podpowiedź: przewiń dolny rząd menu udostępniania do prawej strony).\n    "
+  },
+  "extension_tap_icon": {
+    "value": "Dotknij ikonę Bitwarden w menu, aby uruchomić rozszerzenie."
+  },
+  "extension_turn_on": {
+    "value": "Aby włączyć Bitwarden w Safari i innych aplikacjach, dotknij ikonę \\\"więcej\\\" w\n        dolnym rzędzie menu.\n    "
+  },
+  "face_id": {
+    "value": "Face ID"
+  },
+  "face_id_direction": {
+    "value": "Użyj Face ID do weryfikacji."
+  },
+  "fastmail": {
+    "value": "Fastmail"
+  },
+  "favorite": {
+    "value": "Ulubione"
+  },
+  "favorites": {
+    "value": "Ulubione"
+  },
+  "feature_unavailable": {
+    "value": "Funkcja jest niedostępna"
+  },
+  "february": {
+    "value": "Luty"
+  },
+  "fido2_authenticate_web_authn": {
+    "value": "Uwierzytelnianie WebAuthn"
+  },
+  "fido2_check_browser": {
+    "value": "Upewnij się, że Twoja przeglądarka obsługuje WebAuthn i spróbuj ponownie.\n    "
+  },
+  "fido2_desc": {
+    "value": "FIDO2 WebAuthn pozwala na uwierzytelnianie za pomocą zewnętrznego klucza bezpieczeństwa.\n    "
+  },
+  "fido2_instruction": {
+    "value": "Przygotuj klucz bezpieczeństwa FIDO2 WebAuthn, kliknij przycisk \\'Uwierzytelnianie\n        WebAuthn\\', a następnie postępuj zgodnie z instrukcjami.\n    "
+  },
+  "fido2_return_to_app": {
+    "value": "Wróć do aplikacji"
+  },
+  "fido2_title": {
+    "value": "FIDO2 WebAuthn"
+  },
+  "field_type_boolean": {
+    "value": "Wartość logiczna"
+  },
+  "field_type_hidden": {
+    "value": "Pole maskowane"
+  },
+  "field_type_linked": {
+    "value": "Powiązane pole"
+  },
+  "field_type_text": {
+    "value": "Tekst"
+  },
+  "fifteen_minutes": {
+    "value": "15 minut"
+  },
+  "file": {
+    "value": "Plik"
+  },
+  "file_bug_report": {
+    "value": "Zgłoś błąd"
+  },
+  "file_bug_report_description": {
+    "value": "Zgłoś problem na naszym Githubie."
+  },
+  "file_format": {
+    "value": "Format pliku"
+  },
+  "file_password": {
+    "value": "Hasło do pliku"
+  },
+  "file_source": {
+    "value": "Źródło pliku"
+  },
+  "file_type_is_not_selected": {
+    "value": "Nie wybrano rodzaju pliku. Kliknij, aby go wybrać."
+  },
+  "file_type_is_selected": {
+    "value": "Wybrano rodzaj pliku."
+  },
+  "fill_out_the_form_and_import_your_saved_password_file": {
+    "value": "Wypełnij formularz i\n        <annotation emphasis=\"bold\">zaimportuj swój plik z hasłami.</annotation>\n    "
+  },
+  "filter_by_vault": {
+    "value": "Filtruj elementy według sejfu"
+  },
+  "fingerprint": {
+    "value": "Odcisk palca"
+  },
+  "fingerprint_direction": {
+    "value": "Użyj odcisku palca do weryfikacji."
+  },
+  "fingerprint_phrase": {
+    "value": "Unikalny identyfikator konta"
+  },
+  "firefox_relay": {
+    "value": "Firefox Relay"
+  },
+  "first_dot_go_to_your_device_settings_passwords_password_options": {
+    "value": "1. Przejdź do ustawień urządzenia\n         Hasła  Opcje hasła\n    "
+  },
+  "first_name": {
+    "value": "Imię"
+  },
+  "five_minutes": {
+    "value": "5 minut"
+  },
+  "folder": {
+    "value": "Folder"
+  },
+  "folder_created": {
+    "value": "Folder został utworzony."
+  },
+  "folder_deleted": {
+    "value": "Folder został usunięty."
+  },
+  "folder_none": {
+    "value": "Nieprzypisane"
+  },
+  "folder_updated": {
+    "value": "Folder został zapisany"
+  },
+  "folders": {
+    "value": "Foldery"
+  },
+  "follow_the_instructions_in_the_email_sent_to_x_to_continue_creating_your_account": {
+    "value": "Postępuj zgodnie z\n        instrukcjami zawartymi w wiadomości e-mail wysłanej na\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n        , aby kontynuować tworzenie konta.\n    "
+  },
+  "follow_the_steps_from_duo_to_finish_logging_in": {
+    "value": "Wykonaj kroki od Duo, aby zakończyć logowanie.\n    "
+  },
+  "for_your_security_be_sure_to_delete_your_saved_password_file": {
+    "value": "Dla Twojego bezpieczeństwa upewnij się,\n        że\n        <annotation emphasis=\"bold\">usunąłeś zapisany plik z hasłem.</annotation>\n    "
+  },
+  "format_x": {
+    "value": "Format: %1$s"
+  },
+  "format_x_separate_multiple_ur_is_with_a_comma": {
+    "value": "Format: %1$s. Oddziel wiele URI przecinkiem."
+  },
+  "formatted_incorrectly": {
+    "value": "%1$s nie jest poprawnie sformatowany."
+  },
+  "forward_email": {
+    "value": "ForwardEmail"
+  },
+  "forwarded_email_alias": {
+    "value": "Alias przekierowania"
+  },
+  "forwarded_email_description": {
+    "value": "Wygeneruj alias adresu e-mail z zewnętrznej usługi przekierowania.\n    "
+  },
+  "four_hours": {
+    "value": "4 godziny"
+  },
+  "from_your_computer_follow_these_instructions_to_export_saved_passwords": {
+    "value": "Postępuj zgodnie z poniższymi\n        instrukcjami na swoim komputerze, aby wyeksportować zapisane hasła z przeglądarki lub innego menedżera haseł.\n        Następnie bezpiecznie zaimportuj je do Bitwarden.\n    "
+  },
+  "full_name": {
+    "value": "Imię i nazwisko"
+  },
+  "generate_button_label": {
+    "value": "Generuj"
+  },
+  "generate_master_password": {
+    "value": "Generuj hasło główne"
+  },
+  "generate_password": {
+    "value": "Wygeneruj hasło"
+  },
+  "generate_username": {
+    "value": "Wygeneruj nazwę użytkownika"
+  },
+  "generator": {
+    "value": "Generator"
+  },
+  "generic_error_message": {
+    "value": "Nie mogliśmy przetworzyć żądania. Spróbuj ponownie lub skontaktuj się z nami.\n    "
+  },
+  "get_advice_announcements_and_research_opportunities_from_bitwarden_in_your_inbox_unsubscribe_any_time": {
+    "value": "\n        Otrzymuj porady, ogłoszenia i możliwości badawcze od Bitwarden w swojej skrzynce odbiorczej. Możesz anulować\n        subskrypcję w dowolnym momencie.\n    "
+  },
+  "get_emails_from_bitwarden_for_announcements_advices_and_research_opportunities_unsubscribe_any_time": {
+    "value": "\n        Otrzymuj wiadomości e-mail od Bitwarden z ogłoszeniami, poradami i możliwościami badawczymi. <annotation link=\"unsubscribe\">Możesz anulować subskrypcję\n    </annotation> w dowolnym momencie.\n    "
+  },
+  "get_instant_access_to_your_passwords_and_passkeys": {
+    "value": "Uzyskaj natychmiastowy dostęp do haseł i kluczy\n        dostępu!\n    "
+  },
+  "get_master_passwordword_hint": {
+    "value": "Uzyskaj podpowiedź hasła głównego"
+  },
+  "get_password_hint": {
+    "value": "Uzyskaj podpowiedź do hasła głównego"
+  },
+  "get_started": {
+    "value": "Pierwsze kroki"
+  },
+  "give_feedback": {
+    "value": "Podziel się opinią"
+  },
+  "give_your_vault_a_head_start": {
+    "value": "Daj swojemu sejfowi dobry start"
+  },
+  "go_back": {
+    "value": "Cofnij"
+  },
+  "go_to_bitwarden_com_download_to_integrate_bitwarden_into_browser": {
+    "value": "Przejdź do bitwarden.com/download,\n        aby zintegrować Bitwarden z ulubioną przeglądarką i cieszyć się płynnym doświadczeniem.\n    "
+  },
+  "go_to_my_vault": {
+    "value": "Przejdź do mojego sejfu"
+  },
+  "go_to_website": {
+    "value": "Przejdź do strony"
+  },
+  "good": {
+    "value": "Dobre"
+  },
+  "got_it": {
+    "value": "Rozumiem"
+  },
+  "granted": {
+    "value": "Przyznano"
+  },
+  "help_and_feedback": {
+    "value": "Pomoc i opinie"
+  },
+  "help_with_server_geolocations": {
+    "value": "Pomóż mi z geolokalizacjami serwera."
+  },
+  "hide": {
+    "value": "Ukryj"
+  },
+  "hide_email": {
+    "value": "Ukryj mój adres e-mail przed odbiorcami"
+  },
+  "hide_text_by_default": {
+    "value": "Ukryj domyślnie tekst wysyłki"
+  },
+  "hold_yubikey_near_top": {
+    "value": "Przytrzymaj swój Yubikey w okolicy górnej części urządzenia."
+  },
+  "host": {
+    "value": "Serwer"
+  },
+  "icons": {
+    "value": "Ikony"
+  },
+  "icons_url": {
+    "value": "Adres URL serwera ikon"
+  },
+  "identification": {
+    "value": "Tożsamość"
+  },
+  "identities": {
+    "value": "Tożsamości"
+  },
+  "identity_name": {
+    "value": "Nazwa profilu"
+  },
+  "identity_url": {
+    "value": "Adres URL serwera tożsamości"
+  },
+  "immediately": {
+    "value": "Natychmiast"
+  },
+  "import_certificate": {
+    "value": "Importuj certyfikat"
+  },
+  "import_client_certificate": {
+    "value": "Importuj certyfikat klienta"
+  },
+  "import_error": {
+    "value": "Błąd importu"
+  },
+  "import_items": {
+    "value": "Importuj elementy"
+  },
+  "import_items_confirmation": {
+    "value": "Możesz zaimportować wiele elementów z sejfu internetowego bitwarden.com.\n        Czy chcesz przejść do tej strony?\n    "
+  },
+  "import_items_description": {
+    "value": "Szybko zaimportuj wiele elementów z innych menedżerów haseł."
+  },
+  "import_logins": {
+    "value": "Importuj loginy"
+  },
+  "import_logins_later": {
+    "value": "Importuj loginy później"
+  },
+  "import_logins_later_dialog_title": {
+    "value": "Importować loginy później?"
+  },
+  "import_logins_to_bitwarden": {
+    "value": "Importuj loginy do Bitwarden"
+  },
+  "import_saved_logins": {
+    "value": "Importuj zapisane logowania"
+  },
+  "import_successful": {
+    "value": "Importowanie powiodło się!"
+  },
+  "important": {
+    "value": "Ważne"
+  },
+  "important_notice": {
+    "value": "Ważna informacja"
+  },
+  "improves_login_filling_for_supported_websites_on_chrome": {
+    "value": "Ulepsza wypełnianie logowań dla obsługiwanych\n        stron w przeglądarce Chrome. Po włączeniu zostaniesz przekierowany do ustawień Chrome, aby włączyć\n        autouzupełnianie innych firm.\n    "
+  },
+  "in_the_bitwarden_navigation_find_the_tools_option_and_select_import_data": {
+    "value": "W nawigacji Bitwarden <annotation emphasis=\"bold\">znajdź opcję Narzędzia\n    </annotation> i\n        <annotation emphasis=\"bold\">wybierz Importuj dane.</annotation>\n    "
+  },
+  "include_number": {
+    "value": "Uwzględnij cyfry"
+  },
+  "inline_autofill": {
+    "value": "Użyj usługi autouzupełniania"
+  },
+  "inline_autofill_description": {
+    "value": "Użyj usługi autouzupełniania, jeśli metoda wprowadzania (klawiatura)\n        obsługuję tę funkcję. Jeśli konfiguracja nie jest obsługiwana (lub jest wyłączona), zostanie użyta domyślna\n        usługa autouzupełniania wyświetlana nad innymi aplikacjami.\n    "
+  },
+  "internet_connection_required_message": {
+    "value": "Połącz się z internetem, zanim przejdziesz dalej."
+  },
+  "internet_connection_required_title": {
+    "value": "Połączenie z Internetem jest wymagane"
+  },
+  "invalid_api_key": {
+    "value": "Nieprawidłowy klucz API"
+  },
+  "invalid_api_token": {
+    "value": "Nieprawidłowy token API"
+  },
+  "invalid_certificate_chain": {
+    "value": "Nieprawidłowy łańcuch certyfikatów"
+  },
+  "invalid_email": {
+    "value": "Adres e-mail jest nieprawidłowy."
+  },
+  "invalid_format_use_https_http_or_android_app": {
+    "value": "Nieprawidłowy format. Użyj https://, http://, lub\n        androidapp://\n    "
+  },
+  "invalid_master_password": {
+    "value": "Hasło główne jest nieprawidłowe. Spróbuj ponownie."
+  },
+  "invalid_pin": {
+    "value": "Kod PIN jest nieprawidłowy. Spróbuj ponownie."
+  },
+  "invalid_uri": {
+    "value": "Nieprawidłowy URI"
+  },
+  "invalid_verification_code": {
+    "value": "Kod weryfikacyjny jest nieprawidłowy"
+  },
+  "ip_address": {
+    "value": "Adres IP"
+  },
+  "item_deleted": {
+    "value": "Element został usunięty"
+  },
+  "item_details": {
+    "value": "Szczegóły elementu"
+  },
+  "item_information": {
+    "value": "Informacje o elemencie"
+  },
+  "item_name_required": {
+    "value": "Nazwa elementu (wymagana)"
+  },
+  "item_restored": {
+    "value": "Element został przywrócony"
+  },
+  "item_shared": {
+    "value": "Element został udostępniony."
+  },
+  "item_soft_deleted": {
+    "value": "Element został przeniesiony do kosza."
+  },
+  "item_updated": {
+    "value": "Element został zapisany"
+  },
+  "items": {
+    "value": "Elementy"
+  },
+  "items_for_uri": {
+    "value": "Elementy dla %1$s"
+  },
+  "january": {
+    "value": "Styczeń"
+  },
+  "july": {
+    "value": "Lipiec"
+  },
+  "june": {
+    "value": "Czerwiec"
+  },
+  "just_now": {
+    "value": "Teraz"
+  },
+  "keep_it_secret_keep_it_safe": {
+    "value": "Zachowaj ostrożność, i przechowuj zapisane hasło tam gdzie będzie\n        bezpieczne.\n    "
+  },
+  "language": {
+    "value": "Język"
+  },
+  "language_change_requires_app_restart": {
+    "value": "Zmiana języka wymaga ponownego uruchomienia aplikacji"
+  },
+  "language_change_x_description": {
+    "value": "Język został zmieniony na %1$s. Uruchom ponownie aplikację, aby\n        zobaczyć zmiany\n    "
+  },
+  "last_name": {
+    "value": "Nazwisko"
+  },
+  "last_sync": {
+    "value": "Ostatnia synchronizacja:"
+  },
+  "launch": {
+    "value": "Uruchom"
+  },
+  "launch_duo": {
+    "value": "Uruchom Duo"
+  },
+  "launch_web_authn": {
+    "value": "Uruchom WebAuthn"
+  },
+  "learn_about_new_logins": {
+    "value": "Dowiedz się więcej o nowych loginach"
+  },
+  "learn_about_organizations_description_long": {
+    "value": "Bitwarden pozwala na udostępnianie zawartości sejfu innym\n        osobom za pośrednictwem organizacji. Dowiedz się wiecej na bitwarden.com.\n    "
+  },
+  "learn_about_other_ways_to_prevent_account_lockout": {
+    "value": "Dowiedz się więcej o innych sposobach zapobiegania\n        blokowaniu konta\n    "
+  },
+  "learn_about_ways_to_prevent_account_lockout": {
+    "value": "\n        <annotation link=\"onPreventAccountLockout\">Dowiedz się więcej o sposobach zapobiegania blokowaniu konta\n        </annotation>\n    "
+  },
+  "learn_more": {
+    "value": "Dowiedz się więcej"
+  },
+  "learn_more_about_generating_secure_login_credentials_with_guided_tour": {
+    "value": "Dowiedz się więcej o\n        generowaniu bezpiecznych danych logowania z przewodnikiem.\n    "
+  },
+  "learn_more_about_how_to_use_bitwarden_on_the_help_center": {
+    "value": "Dowiedz się więcej o tym, jak korzystać z\n        centrum pomocy Bitwarden.\n    "
+  },
+  "learn_org": {
+    "value": "Dowiedz się więcej o organizacjach"
+  },
+  "learn_org_confirmation": {
+    "value": "Bitwarden pozwala na udostępnianie zawartości sejfu innym osobom za\n        pośrednictwem organizacji. Czy chcesz odwiedzić stronę bitwarden.com, aby dowiedzieć się więcej?\n    "
+  },
+  "leave_organization": {
+    "value": "Opuść organizację"
+  },
+  "leave_organization_name": {
+    "value": "Opuścić organizację %1$s?"
+  },
+  "length": {
+    "value": "Długość"
+  },
+  "level_up_your_logins": {
+    "value": "Ulepsz swoje loginy"
+  },
+  "license_number": {
+    "value": "Numer prawa jazdy"
+  },
+  "light": {
+    "value": "Jasny"
+  },
+  "link": {
+    "value": "Powiąż"
+  },
+  "loading": {
+    "value": "Ładowanie"
+  },
+  "lock": {
+    "value": "Zablokuj"
+  },
+  "lock_now": {
+    "value": "Zablokuj"
+  },
+  "log_in_accepted": {
+    "value": "Logowanie zostało potwierdzone"
+  },
+  "log_in_at_bitwarden_com_to_easily_manage_your_account": {
+    "value": "Zaloguj się na bitwarden.com, aby łatwo\n        zarządzać swoim kontem i aktualizować ustawienia.\n    "
+  },
+  "log_in_attempt_by_x_on_y": {
+    "value": "Próba logowania przez %1$s na %2$s"
+  },
+  "log_in_denied": {
+    "value": "Logowanie zostało odrzucone"
+  },
+  "log_in_initiated": {
+    "value": "Logowanie rozpoczęte"
+  },
+  "log_in_noun": {
+    "value": "Zaloguj się"
+  },
+  "log_in_quickly_and_easily_across_devices": {
+    "value": "Zaloguj się szybko i łatwo na urządzeniach"
+  },
+  "log_in_requested": {
+    "value": "Wysłano prośbę logowania"
+  },
+  "log_in_sso": {
+    "value": "Logowanie jednokrotne"
+  },
+  "log_in_sso_summary": {
+    "value": "Zaloguj się szybko za pomocą logowania jednokrotnego SSO swojej organizacji. Aby\n        rozpocząć, wpisz swój identyfikator organizacji.\n    "
+  },
+  "log_in_to_bitwarden": {
+    "value": "Zaloguj się do Bitwarden"
+  },
+  "log_in_to_the_bitwarden_web_app": {
+    "value": "Zaloguj się do aplikacji internetowej Bitwarden."
+  },
+  "log_in_verb": {
+    "value": "Zaloguj się"
+  },
+  "log_in_with_another_device": {
+    "value": "Logowanie innym urządzeniem"
+  },
+  "log_in_with_device": {
+    "value": "Zaloguj się za pomocą urządzenia"
+  },
+  "log_in_with_device_must_be_set_up_in_the_settings_of_the_bitwarden_app_need_another_option": {
+    "value": "Logowanie\n        za pomocą urządzenia musi być włączone w ustawieniach aplikacji Bitwarden. Potrzebujesz innej opcji?\n    "
+  },
+  "log_in_with_master_password": {
+    "value": "Logowanie hasłem głównym"
+  },
+  "log_out": {
+    "value": "Wyloguj się"
+  },
+  "logged_in": {
+    "value": "Zalogowano!"
+  },
+  "logged_in_as_on": {
+    "value": "Zalogowano jako %1$s do %2$s."
+  },
+  "logging_in": {
+    "value": "Logowanie..."
+  },
+  "logging_in_as_x": {
+    "value": "Logowanie jako %1$s"
+  },
+  "logging_in_as_x_on_y": {
+    "value": "Logowanie jako %1$s do %2$s"
+  },
+  "logging_in_on": {
+    "value": "Logowanie do"
+  },
+  "logging_in_on_with_colon": {
+    "value": "Logowanie na:"
+  },
+  "login_approved": {
+    "value": "Logowanie zatwierdzone"
+  },
+  "login_attempt_from_x_do_you_want_to_switch_to_this_account": {
+    "value": "Próba logowania z:\n        %1$s\n        Czy chcesz przełączyć się na to konto?\n    "
+  },
+  "login_credentials": {
+    "value": "Dane logowania"
+  },
+  "login_expired": {
+    "value": "Twoja sesja wygasła."
+  },
+  "login_request_has_already_expired": {
+    "value": "Prośba logowania wygasła."
+  },
+  "login_sso_error": {
+    "value": "Obecnie nie możesz zalogować się za pomocą logowania jednokrotnego SSO"
+  },
+  "login_to_bitwarden": {
+    "value": "Zaloguj się do Bitwarden"
+  },
+  "login_unavailable": {
+    "value": "Logowanie jest niedostępne"
+  },
+  "logins": {
+    "value": "Dane logowania"
+  },
+  "logins_imported": {
+    "value": "Loginy zaimportowane"
+  },
+  "logout_confirmation": {
+    "value": "Czy na pewno chcesz się wylogować?"
+  },
+  "lost_2fa_app": {
+    "value": "Utraciłeś dostęp do aplikacji uwierzytelniającej?"
+  },
+  "lowercase_ato_z": {
+    "value": "Małe litery (a-z)"
+  },
+  "make_it_yours": {
+    "value": "Uczyń go swym"
+  },
+  "manage": {
+    "value": "Zarządzaj"
+  },
+  "manage_your_logins_from_anywhere_with_bitwarden_tools": {
+    "value": "Zarządzaj swoimi loginami z dowolnego miejsca\n        za pomocą narzędzi Bitwarden dla przeglądarek i komputerów.\n    "
+  },
+  "march": {
+    "value": "Marzec"
+  },
+  "master_password": {
+    "value": "Hasło główne"
+  },
+  "master_password_confirmation_val_message": {
+    "value": "Potwierdzenie hasła nie pasuje."
+  },
+  "master_password_description": {
+    "value": "Hasło główne zapewnia dostęp do sejfu. To bardzo ważne, aby je pamiętać,\n        ponieważ zapomnianego hasła nie będzie można odzyskać. Nie ma możliwości odzyskania hasła, jeśli je zapomnisz.\n    "
+  },
+  "master_password_hint": {
+    "value": "Podpowiedź do hasła głównego (opcjonalnie)"
+  },
+  "master_password_hint_description": {
+    "value": "Podpowiedź do hasła głównego może pomóc Ci przypomnieć hasło, jeśli\n        je zapomnisz.\n    "
+  },
+  "master_password_hint_not_specified": {
+    "value": "Wskazówka do hasła głównego"
+  },
+  "master_password_important_hint": {
+    "value": "Ważne: Twoje hasło główne nie może zostać odzyskane, jeśli je\n        zapomnisz! Co najmniej 12 znaków.\n    "
+  },
+  "master_password_length_val_message_x": {
+    "value": "Hasło główne musi zawierać co najmniej %1$s znaków."
+  },
+  "master_password_policy_in_effect": {
+    "value": "Co najmniej jedna zasada organizacji wymaga, aby hasło główne\n        spełniało następujące wymagania:\n    "
+  },
+  "master_password_policy_validation_message": {
+    "value": "Hasło nie spełnia wymogów organizacji. Sprawdź wymaganą\n        zasadę i spróbuj ponownie.\n    "
+  },
+  "master_password_policy_validation_title": {
+    "value": "Hasło jest nieprawidłowe"
+  },
+  "master_password_re_prompt_help": {
+    "value": "Pomoc dotycząca potwierdzania hasłem głównym"
+  },
+  "master_password_required": {
+    "value": "Hasło główne (wymagane)"
+  },
+  "match_detection": {
+    "value": "Wykrywanie dopasowania"
+  },
+  "matching_items": {
+    "value": "Pasujące elementy"
+  },
+  "max_file_size": {
+    "value": "Maksymalny rozmiar pliku to 100 MB."
+  },
+  "maximum_access_count": {
+    "value": "Maksymalna liczba dostępów"
+  },
+  "maximum_access_count_info": {
+    "value": "Jeśli funkcja jest włączona, po osiągnięciu maksymalnej liczby dostępów,\n        użytkownicy nie będą mieli dostępu do tej wysyłki.\n    "
+  },
+  "maximum_access_count_reached": {
+    "value": "Maksymalna liczba dostępów została osiągnięta"
+  },
+  "may": {
+    "value": "Maj"
+  },
+  "middle_name": {
+    "value": "Drugie imię"
+  },
+  "min_numbers": {
+    "value": "Minimalna liczba cyfr"
+  },
+  "min_special": {
+    "value": "Minimalna liczba znaków specjalnych"
+  },
+  "minimum_characters": {
+    "value": "%1$s znaków"
+  },
+  "miscellaneous": {
+    "value": "Różne"
+  },
+  "more": {
+    "value": "Więcej"
+  },
+  "more_settings": {
+    "value": "Więcej ustawień"
+  },
+  "move": {
+    "value": "Przenieś"
+  },
+  "move_down": {
+    "value": "Przenieś w dół"
+  },
+  "move_to_org_desc": {
+    "value": "Wybierz organizację, do której chcesz przenieść ten element. Ta czynność spowoduje\n        utratę własności elementu i przenosi te uprawnienia do organizacji.\n    "
+  },
+  "move_to_organization": {
+    "value": "Przenieś do organizacji"
+  },
+  "move_up": {
+    "value": "Przenieś w górę"
+  },
+  "moved_item_to_org": {
+    "value": "%1$s został przeniesiony do %2$s."
+  },
+  "mr": {
+    "value": "Pan"
+  },
+  "mrs": {
+    "value": "Pani"
+  },
+  "ms": {
+    "value": "Pani"
+  },
+  "must_log_in_main_app": {
+    "value": "Musisz zalogować się do aplikacji głównej Bitwarden, zanim będziesz mógł używać\n        rozszerzenia.\n    "
+  },
+  "must_log_in_main_app_autofill": {
+    "value": "Musisz zalogować się do aplikacji Bitwarden, zanim będziesz mógł używać\n        usługi autouzupełniania.\n    "
+  },
+  "mutual_tls": {
+    "value": "Wzajemny TLS"
+  },
+  "mx": {
+    "value": "Pan(i)"
+  },
+  "my_vault": {
+    "value": "Mój sejf"
+  },
+  "name": {
+    "value": "Nazwa"
+  },
+  "near": {
+    "value": "Blisko"
+  },
+  "need_another_option": {
+    "value": "Potrzebujesz innego sposobu?"
+  },
+  "need_help_check_out_import_help": {
+    "value": "Potrzebujesz pomocy? Sprawdź <annotation link=\"importHelp\">pomoc\n        dotyczącą importowania</annotation>.\n    "
+  },
+  "need_some_inspiration": {
+    "value": "\"Potrzebujesz inspiracji?\""
+  },
+  "never": {
+    "value": "Nigdy"
+  },
+  "never_lock_warning": {
+    "value": "Ustawienie opcji blokady na „Nigdy” sprawi, że sejf będzie dostępny dla każdego,\n        kto ma dostęp do urządzenia. Jeśli korzystasz z tej opcji, upewnij się, że urządzenie jest odpowiednio\n        chronione.\n    "
+  },
+  "never_lose_access_to_your_vault": {
+    "value": "Nigdy nie trać dostępu do swojego sejfu"
+  },
+  "new_blocked_uri": {
+    "value": "Nowy zablokowany URI"
+  },
+  "new_card": {
+    "value": "Nowa karta"
+  },
+  "new_custom_field": {
+    "value": "Nowe pole niestandardowe"
+  },
+  "new_file_send": {
+    "value": "Nowa wysyłka pliku"
+  },
+  "new_identity": {
+    "value": "Nowa tożsamość"
+  },
+  "new_item": {
+    "value": "Nowy element"
+  },
+  "new_item_created": {
+    "value": "Element został dodany"
+  },
+  "new_login": {
+    "value": "Nowe dane logowania"
+  },
+  "new_master_password_hint": {
+    "value": "Nowa podpowiedź do hasła głównego"
+  },
+  "new_master_password_required": {
+    "value": "Nowe hasło główne (wymagane)"
+  },
+  "new_note": {
+    "value": "Nowa notatka"
+  },
+  "new_passkey": {
+    "value": "Nowy klucz dostępu"
+  },
+  "new_password": {
+    "value": "Nowe hasło"
+  },
+  "new_send_created": {
+    "value": "Wysyłka została utworzona"
+  },
+  "new_ssh_key": {
+    "value": "Nowy klucz SSH"
+  },
+  "new_text_send": {
+    "value": "Nowa wysyłka tekstu"
+  },
+  "new_to_bitwarden": {
+    "value": "Nowy na Bitwarden?"
+  },
+  "new_uri": {
+    "value": "Nowy URI"
+  },
+  "next": {
+    "value": "Dalej"
+  },
+  "no": {
+    "value": "Nie"
+  },
+  "no_attachments": {
+    "value": "Brak załączników."
+  },
+  "no_cards": {
+    "value": "W twoim sejfie nie ma żadnych kart."
+  },
+  "no_collections_to_list": {
+    "value": "Brak kolekcji do wyświetlenia."
+  },
+  "no_email_go_back_to_edit_your_email_address": {
+    "value": "Brak adresu e-mail? <annotation link=\"goBack\">\n        Wróć</annotation>, aby edytować adres e-mail.\n    "
+  },
+  "no_favorites": {
+    "value": "Brak ulubionych w sejfie."
+  },
+  "no_file_chosen": {
+    "value": "Nie wybrano pliku"
+  },
+  "no_file_sends": {
+    "value": "W twoim sejfie nie ma żadnych wysyłek plików."
+  },
+  "no_folder": {
+    "value": "Brak folderu"
+  },
+  "no_folders_to_list": {
+    "value": "Brak folderów do wyświetlenia."
+  },
+  "no_identities": {
+    "value": "W twoim sejfie nie ma żadnych tożsamości."
+  },
+  "no_items": {
+    "value": "Brak elementów w sejfie."
+  },
+  "no_items_collection": {
+    "value": "Brak elementów w tej kolekcji."
+  },
+  "no_items_folder": {
+    "value": "Brak elementów w tym folderze."
+  },
+  "no_items_for_uri": {
+    "value": "Brak elementów dla %1$s w sejfie. Dotknij, aby je dodać."
+  },
+  "no_items_for_vault": {
+    "value": "W twoim sejfie nie ma żadnych elementów pasujących do “%1$s”"
+  },
+  "no_items_tap": {
+    "value": "Brak elementów dla tej strony w sejfie. Dotknij, aby je dodać."
+  },
+  "no_items_to_list": {
+    "value": "Brak elementów do wyświetlenia."
+  },
+  "no_items_trash": {
+    "value": "Brak elementów w koszu."
+  },
+  "no_logins": {
+    "value": "W twoim sejfie nie ma żadnych loginów."
+  },
+  "no_logins_were_imported": {
+    "value": "Nie zaimportowano loginów"
+  },
+  "no_notes": {
+    "value": "W twoim sejfie nie ma żadnych notatek."
+  },
+  "no_orgs_to_list": {
+    "value": "Brak organizacji do wyświetlenia."
+  },
+  "no_passwords_to_list": {
+    "value": "Brak haseł do wyświetlenia."
+  },
+  "no_pending_requests": {
+    "value": "Brak oczekujących próśb"
+  },
+  "no_sends": {
+    "value": "Brak wysyłek na koncie."
+  },
+  "no_ssh_keys": {
+    "value": "W twoim sejfie nie ma żadnych kluczy SSH."
+  },
+  "no_text_sends": {
+    "value": "W twoim sejfie nie ma żadnych wysyłek tekstów."
+  },
+  "no_thanks": {
+    "value": "Nie, dziękuję"
+  },
+  "no_two_step_available": {
+    "value": "Konto posiada włączoną opcję logowania dwustopniowego, jednak to urządzenie nie\n        wspiera żadnego ze skonfigurowanych mechanizmów autoryzacji dwustopniowej. Skorzystaj ze wspieranego urządzenia\n        i/lub dodatkowych mechanizmów, które są lepiej obsługiwane przez różne urządzenia (np. aplikacja\n        uwierzytelniająca).\n    "
+  },
+  "no_username": {
+    "value": "Brak nazwy użytkownika"
+  },
+  "no_username_password_configured": {
+    "value": "Dane logowania nie posiadają skonfigurowanej nazwy użytkownika lub\n        hasła.\n    "
+  },
+  "nord": {
+    "value": "Nord"
+  },
+  "not_you": {
+    "value": "To nie Ty?"
+  },
+  "notes": {
+    "value": "Notatki"
+  },
+  "notes_info": {
+    "value": "Prywatne notatki o tej wysyłce."
+  },
+  "notice": {
+    "value": "Zawiadomienie"
+  },
+  "november": {
+    "value": "Listopad"
+  },
+  "number": {
+    "value": "Numer"
+  },
+  "number_of_words": {
+    "value": "Liczba słów"
+  },
+  "numbers_zero_to_nine": {
+    "value": "Cyfry (0-9)"
+  },
+  "october": {
+    "value": "Październik"
+  },
+  "off": {
+    "value": "Wyłączone"
+  },
+  "ok": {
+    "value": "Ok"
+  },
+  "ok_got_it": {
+    "value": "Ok, rozumiem!"
+  },
+  "on": {
+    "value": "Włączone"
+  },
+  "on_restart": {
+    "value": "Po restarcie aplikacji"
+  },
+  "on_your_computer_log_in_to_your_current_browser_or_password_manager": {
+    "value": "Na swoim komputerze\n        <annotation emphasis=\"bold\">zaloguj się do aktualnej przeglądarki lub menedżera haseł.</annotation>\n    "
+  },
+  "on_your_computer_open_a_new_browser_tab_and_go_to_vault_bitwarden_com": {
+    "value": "Na komputerze otwórz nową kartę\n        w przeglądarce i\n        <annotation emphasis=\"bold\">przejdź do\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "once_the_key_is_successfully_entered": {
+    "value": "Gdy klucz zostanie pomyślnie wprowadzony,\n        wybierz Dodaj TOTP, aby bezpiecznie przechowywać klucz\n    "
+  },
+  "one_day": {
+    "value": "1 dzień"
+  },
+  "one_hour": {
+    "value": "1 godzina"
+  },
+  "one_hour_and_one_minute": {
+    "value": "Godzina i minuta"
+  },
+  "one_hour_and_x_minute": {
+    "value": "Godzina i %1$s minut"
+  },
+  "one_minute": {
+    "value": "1 minuta"
+  },
+  "one_of_the_best_ways_to_create_a_secure_and_memorable_password": {
+    "value": "Jednym z najlepszych sposobów na\n        stworzenie bezpiecznego i łatwego do zapamiętania hasła jest użycie hasła wyrazowego. \\nOto jak:\n    "
+  },
+  "open": {
+    "value": "Otwórz"
+  },
+  "open_email_app": {
+    "value": "Otwórz aplikację poczty e-mail"
+  },
+  "option_defaults": {
+    "value": "Opcje domyślne są pobierane z narzędzia generatora haseł głównej aplikacji\n        Bitwarden.\n    "
+  },
+  "options": {
+    "value": "Opcje"
+  },
+  "options_collapsed": {
+    "value": "Opcje są zwinięte. Kliknij, aby rozwinąć."
+  },
+  "options_expanded": {
+    "value": "Opcje są rozwinięte. Kliknij, aby zwinąć."
+  },
+  "or_log_in_you_may_already_have_an_account": {
+    "value": "Lub <annotation link=\"logIn\">zaloguj się</annotation>,\n        jeśli już posiadasz konto.\n    "
+  },
+  "org_identifier": {
+    "value": "Identyfikator organizacji"
+  },
+  "organization": {
+    "value": "Organizacja"
+  },
+  "organization_is_using_sso_with_a_self_hosted_key_server": {
+    "value": "%1$s używa SSO z własnym serwerem kluczy.\n        Hasło główne nie jest już wymagane do zalogowania się dla członków tej organizacji.\n    "
+  },
+  "organization_sso_identifier_required": {
+    "value": "Identyfikator organizacji jest wymagany."
+  },
+  "organization_unassigned_items_message_self_host_041624_description_long": {
+    "value": "16 maja 2024 r. nieprzypisane\n        elementy w organizacji nie będą już widoczne w widoku Wszystkie sejfy i będą dostępne tylko przez Konsolę\n        Administracyjną. Przypisz te elementy do kolekcji z konsoli administracyjnej, aby były one widoczne.\n    "
+  },
+  "organization_unassigned_items_message_useu_description_long": {
+    "value": "Nieprzypisane elementy w organizacji nie\n        są już widoczne w widoku Wszystkie sejfy i są dostępne tylko przez Konsolę Administracyjną. Przypisz te elementy\n        do kolekcji z konsoli administracyjnej, aby były one widoczne.\n    "
+  },
+  "other": {
+    "value": "Inne"
+  },
+  "overlay_permission": {
+    "value": "Uprawnienie"
+  },
+  "overwrite_passkey": {
+    "value": "Zastąpić klucz dostępu?"
+  },
+  "owner": {
+    "value": "Właściciel"
+  },
+  "ownership": {
+    "value": "Właściciel"
+  },
+  "page_number_x_of_y": {
+    "value": "%1$s z %2$s"
+  },
+  "passkey": {
+    "value": "Klucz dostępu"
+  },
+  "passkey_authentication_failed_due_to_an_internal_error": {
+    "value": "Autoryzacja klucza dostępu nie powiodła się z\n        powodu błędu wewnętrznego.\n    "
+  },
+  "passkey_management": {
+    "value": "Zarządzanie kluczami dostępu"
+  },
+  "passkey_management_explanation_long": {
+    "value": "Użyj Bitwarden, aby zapisać nowe klucze dostępu i zalogować się\n        za pomocą kluczy dostępu przechowywanych w Twoim sejfie.\n    "
+  },
+  "passkey_operation_failed_because_app_could_not_be_verified": {
+    "value": "Operacja z kluczem dostępu nie powiodła\n        się, ponieważ aplikacja nie mogła zostać zweryfikowana\n    "
+  },
+  "passkey_operation_failed_because_app_is_signed_incorrectly": {
+    "value": "Operacja klucza dostępu nie powiodła się,\n        ponieważ aplikacja jest podpisana nieprawidłowo.\n    "
+  },
+  "passkey_operation_failed_because_app_not_found_in_asset_links": {
+    "value": "Operacja klucza dostępu nie powiodła\n        się, ponieważ nie znaleziono aplikacji w połączonych zasobach\n    "
+  },
+  "passkey_operation_failed_because_app_signature_is_invalid": {
+    "value": "Operacja klucza dostępu nie powiodła się,\n        ponieważ podpis aplikacji jest nieprawidłowy.\n    "
+  },
+  "passkey_operation_failed_because_browser_is_not_privileged": {
+    "value": "Operacja z kluczem dostępu nie powiodła\n        się, ponieważ przeglądarka nie ma uprawnień\n    "
+  },
+  "passkey_operation_failed_because_browser_signature_does_not_match": {
+    "value": "Operacja z kluczem dostępu nie\n        powiodła się, ponieważ podpis przeglądarki się nie zgadza\n    "
+  },
+  "passkey_operation_failed_because_host_url_is_not_present_in_request": {
+    "value": "Operacja klucza dostępu nie\n        powiodła się, ponieważ adres URL hosta nie jest obecny w żądaniu.\n    "
+  },
+  "passkey_operation_failed_because_no_item_was_selected": {
+    "value": "Operacja klucza dostępu nie powiodła się,\n        ponieważ nie wybrano żadnego elementu.\n    "
+  },
+  "passkey_operation_failed_because_of_missing_asset_links": {
+    "value": "Operacja klucza dostępu nie powiodła się z\n        powodu brakujących połączeń zasobów\n    "
+  },
+  "passkey_operation_failed_because_relying_party_cannot_be_identified": {
+    "value": "Operacja klucza dostępu nie\n        powiodła się, ponieważ nie można zidentyfikować strony zależnej.\n    "
+  },
+  "passkey_operation_failed_because_the_request_is_invalid": {
+    "value": "Operacja klucza dostępu nie powiodła się,\n        ponieważ żądanie jest nieprawidłowe.\n    "
+  },
+  "passkey_operation_failed_because_the_selected_item_does_not_exist": {
+    "value": "Operacja klucza dostępu nie\n        powiodła się, ponieważ wybrany element nie istnieje.\n    "
+  },
+  "passkey_operation_failed_because_user_could_not_be_verified": {
+    "value": "Operacja z kluczem dostępu nie powiodła\n        się, ponieważ użytkownik nie mógł zostać zweryfikowany.\n    "
+  },
+  "passkey_operation_failed_because_user_is_locked_out": {
+    "value": "Operacja klucza dostępu nie powiodła się,\n        ponieważ użytkownik jest zablokowany.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_attempts_exceeded": {
+    "value": "Operacja klucza dostępu nie\n        powiodła się, ponieważ przekroczono liczbę prób weryfikacji użytkownika.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_was_cancelled": {
+    "value": "Operacja klucza dostępu nie powiodła\n        się, ponieważ weryfikacja użytkownika została anulowana.\n    "
+  },
+  "passkey_registration_failed_due_to_an_internal_error": {
+    "value": "Rejestracja klucza dostępu nie powiodła się z\n        powodu błędu wewnętrznego.\n    "
+  },
+  "passkey_removed": {
+    "value": "Klucz dostępu został usunięty"
+  },
+  "passkey_will_not_be_copied": {
+    "value": "Klucz dostępu nie zostanie skopiowany"
+  },
+  "passkeys": {
+    "value": "Klucze dostępu"
+  },
+  "passkeys_for_x": {
+    "value": "Klucze dostępu dla %1$s"
+  },
+  "passkeys_not_supported_for_this_app": {
+    "value": "Klucze dostępu nie są obsługiwane dla tej aplikacji"
+  },
+  "passphrase": {
+    "value": "Hasło wyrazowe"
+  },
+  "passphrases_are_strong_passwords_that_are_often_easier_to_remember_and_type_than_random_passwords": {
+    "value": "\n        Hasła wyrazowe to silne hasła, które często są łatwiejsze do zapamiętania i wpisania niż losowe hasła. Są\n        przydatne podczas logowania się do kont, gdzie autouzupełnianie nie jest dostępne, np. na usługach\n        streamingowych na telewizorze.\n    "
+  },
+  "passport_number": {
+    "value": "Numer paszportu"
+  },
+  "password": {
+    "value": "Hasło"
+  },
+  "password_autofill": {
+    "value": "Usługa autouzupełniania haseł"
+  },
+  "password_confirmation": {
+    "value": "Potwierdź hasło główne"
+  },
+  "password_confirmation_desc": {
+    "value": "Ta operacja jest chroniona. Aby kontynuować, wpisz ponownie hasło\n        główne.\n    "
+  },
+  "password_exposed": {
+    "value": "To hasło znajduje się w %1$s wykradzionej(ych) bazie(ach) danych. Należy je\n        zmienić.\n    "
+  },
+  "password_found_in_a_data_breach_alert_description": {
+    "value": "Hasło ujawnione w wyniku naruszenia ochrony danych.\n        Użyj unikalnego hasła, aby chronić swoje konto. Czy na pewno chcesz użyć ujawnionego hasła?\n    "
+  },
+  "password_generated": {
+    "value": "Hasło zostało wygenerowane"
+  },
+  "password_generator": {
+    "value": "Generator hasła"
+  },
+  "password_generator_policy_in_effect": {
+    "value": "Co najmniej jedna zasada organizacji wpływa na ustawienia\n        generatora\n    "
+  },
+  "password_hint": {
+    "value": "Podpowiedź do hasła"
+  },
+  "password_hint_alert": {
+    "value": "Wysłaliśmy Ci wiadomość e-mail z podpowiedzią do hasła głównego."
+  },
+  "password_history": {
+    "value": "Historia hasła"
+  },
+  "password_history_count": {
+    "value": "\n        <annotation link=\"passwordHistory\">Historia haseł:\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "password_info": {
+    "value": "Opcjonalne hasło dla użytkownika, aby uzyskać dostęp do wysyłki."
+  },
+  "password_is_not_visible_tap_to_show": {
+    "value": "Hasło nie jest widoczne. Kliknij, aby je pokazać."
+  },
+  "password_is_visible_tap_to_hide": {
+    "value": "Hasło jest widoczne. Kliknij, aby je ukryć."
+  },
+  "password_override_alert": {
+    "value": "Czy na pewno chcesz zastąpić obecne hasło?"
+  },
+  "password_prompt": {
+    "value": "Potwierdź hasłem głównym"
+  },
+  "password_protected": {
+    "value": "Zabezpieczone hasłem"
+  },
+  "password_safe": {
+    "value": "To hasło nie znajduje się w żadnej znanej wykradzionej bazie danych. Powinno być\n        bezpieczne w użyciu.\n    "
+  },
+  "password_type": {
+    "value": "Rodzaj hasła"
+  },
+  "password_used_to_export": {
+    "value": "Hasło będzie używane do eksportowania i importowania pliku"
+  },
+  "passwords": {
+    "value": "Hasła"
+  },
+  "passwords_for_x": {
+    "value": "Hasła dla %1$s"
+  },
+  "pending_delete": {
+    "value": "Oczekiwanie na usunięcie"
+  },
+  "pending_log_in_requests": {
+    "value": "Oczekujące prośby o logowanie"
+  },
+  "personal_details": {
+    "value": "Dane osobowe"
+  },
+  "personal_ownership_policy_in_effect": {
+    "value": "Zasada organizacji ma wpływ na opcję własności elementów.\n    "
+  },
+  "personal_ownership_submit_error": {
+    "value": "Ze względu na zasadę przedsiębiorstwa, nie możesz zapisywać elementów\n        w osobistym sejfie. Zmień właściciela elementu na organizację i wybierz jedną z dostępnych kolekcji.\n    "
+  },
+  "phone": {
+    "value": "Telefon"
+  },
+  "photos": {
+    "value": "Zdjęcia"
+  },
+  "pick_three_or_four_random_unrelated_words": {
+    "value": "Wybierz trzy lub cztery losowe, niezwiązane ze sobą słowa,\n        które łatwo zapamiętasz. Pomyśl o <annotation emphasis=\"bold\">przedmiotach, miejscach lub rzeczach</annotation>,\n        które lubisz.\n    "
+  },
+  "pin": {
+    "value": "Kod PIN"
+  },
+  "pin_require_master_password_restart": {
+    "value": "Czy chcesz wymagać odblokowywania hasłem głównym po ponownym\n        uruchomieniu aplikacji?\n    "
+  },
+  "please_make_sure_your_vault_is_unlocked_and_the_fingerprint_phrase_matches_on_the_other_device": {
+    "value": "\n        Upewnij się, że sejf jest odblokowany, a unikalny identyfikator konta pasuje do drugiego urządzenia.\n    "
+  },
+  "please_restart_registration_or_try_logging_in": {
+    "value": "Zacznij rejestrację od początku lub spróbuj się\n        zalogować. Możesz mieć już konto.\n    "
+  },
+  "plus_addressed_email": {
+    "value": "Adres e-mail z plusem"
+  },
+  "plus_addressed_email_description": {
+    "value": "Użyj możliwości dodawania aliasów u swojego dostawcy poczty e-mail\n    "
+  },
+  "point_your_camera_at_the_qr_code": {
+    "value": "Skieruj kamerę na kod QR.\n        Skanowanie nastąpi automatycznie.\n    "
+  },
+  "policy_in_effect_lowercase": {
+    "value": "Zawiera co najmniej jedną małą literę"
+  },
+  "policy_in_effect_min_complexity": {
+    "value": "Minimalny poziom złożoności wynosi %1$s"
+  },
+  "policy_in_effect_min_length": {
+    "value": "Minimalna długość wynosi %1$s"
+  },
+  "policy_in_effect_numbers": {
+    "value": "Zawiera co najmniej jedną cyfrę"
+  },
+  "policy_in_effect_special": {
+    "value": "Zawiera co najmniej jeden następujący znak specjalny: %1$s"
+  },
+  "policy_in_effect_uppercase": {
+    "value": "Zawiera co najmniej jedną wielką literę"
+  },
+  "possible_matching_items": {
+    "value": "Prawdopodobnie pasujące elementy"
+  },
+  "premium_required": {
+    "value": "Konto Premium jest wymagane, aby skorzystać z tej funkcji."
+  },
+  "premium_subscription_required": {
+    "value": "Wymagana jest subskrypcja Premium"
+  },
+  "prevent_account_lockout": {
+    "value": "Zapobiegaj blokowaniu konta"
+  },
+  "privacy_policy": {
+    "value": "Polityka prywatności"
+  },
+  "privacy_policy_description_long": {
+    "value": "Sprawdź naszą politykę prywatności na bitwarden.com."
+  },
+  "private_key": {
+    "value": "Klucz prywatny"
+  },
+  "private_notes": {
+    "value": "Prywatne notatki"
+  },
+  "public_key": {
+    "value": "Klucz publiczny"
+  },
+  "push_notification_alert": {
+    "value": "Bitwarden przeprowadza automatyczną synchronizację sejfu przy użyciu\n        powiadomień push. Aby uzyskać najlepsze możliwe wyniki, wybierz \\\"Zezwalaj\\\", gdy za chwilę zostaniesz\n        poproszony o włączenie powiadomień push.\n    "
+  },
+  "put_the_words_together_in_any_order_to_form_your_passphrase": {
+    "value": "Połącz słowa w dowolnej kolejności, aby\n        utworzyć swoje hasło wyrazowe. <annotation emphasis=\"bold\">Używaj łączników, spacji lub pozostaw je jako jedno\n            długie słowo</annotation>—to Twój wybór!\n    "
+  },
+  "quick_and_easy_login": {
+    "value": "Szybkie i łatwe logowanie"
+  },
+  "random": {
+    "value": "Losowy"
+  },
+  "random_and_complex_using_numbers_and_special_characters": {
+    "value": "Losowo i złożone, używające liczb i znaków\n        specjalnych\n    "
+  },
+  "random_word": {
+    "value": "Losowe słowo"
+  },
+  "rate_app_description_long": {
+    "value": "Pomóż innym dowiedzieć się, czy Bitwarden jest dla nich odpowiedni. Odwiedź\n        sklep z aplikacją i zostaw ocenę.\n    "
+  },
+  "rate_the_app": {
+    "value": "Oceń aplikację"
+  },
+  "rate_the_app_description": {
+    "value": "Wesprzyj nas pozytywną opinią!"
+  },
+  "receive_push_notifications_for_new_login_requests": {
+    "value": "Otrzymuj powiadomienia push dla nowych próśb\n        logowania\n    "
+  },
+  "recovery_code_title": {
+    "value": "Kod odzyskiwania"
+  },
+  "reg_ex": {
+    "value": "Wyrażenie regularne"
+  },
+  "regenerate_password": {
+    "value": "Wygeneruj ponownie hasło"
+  },
+  "region": {
+    "value": "Region"
+  },
+  "remember": {
+    "value": "Zapamiętaj"
+  },
+  "remember_email": {
+    "value": "Zapamiętaj e-mail"
+  },
+  "remember_this_device": {
+    "value": "Zapamiętaj to urządzenie"
+  },
+  "remember_to_delete_your_imported_password_file_from_your_computer": {
+    "value": "Pamiętaj, aby usunąć zaimportowany\n        plik hasła z komputera\n    "
+  },
+  "remind_me_later": {
+    "value": "Przypomnij mi później"
+  },
+  "remove": {
+    "value": "Usuń"
+  },
+  "remove_account": {
+    "value": "Usuń konto"
+  },
+  "remove_account_confirmation": {
+    "value": "Czy na pewno chcesz usunąć to konto?"
+  },
+  "remove_master_password": {
+    "value": "Usuń hasło główne"
+  },
+  "remove_master_password_warning": {
+    "value": "Organizacja %1$s używa logowania jednokrotnego SSO z własnym serwerem\n        kluczy. Kontynuacja spowoduje usunięcie hasła głównego Twojego konta i wymusi logowanie jednokrotne SSO.\n    "
+  },
+  "remove_master_password_warning2": {
+    "value": "Jeśli nie chcesz usuwać hasła głównego, opuść organizację."
+  },
+  "remove_passkey": {
+    "value": "Usuń klucz dostępu"
+  },
+  "remove_password": {
+    "value": "Usuń hasło"
+  },
+  "removing_send_password": {
+    "value": "Usuwanie hasła"
+  },
+  "request_admin_approval": {
+    "value": "Poproś administratora o zatwierdzenie"
+  },
+  "request_otp": {
+    "value": "Poproś o jednorazowe hasło"
+  },
+  "requests_declined": {
+    "value": "Prośba odrzucona"
+  },
+  "require_master_password_on_app_restart": {
+    "value": "Wymagać hasła głównego przy ponownym uruchomieniu aplikacji?\n    "
+  },
+  "resend_code": {
+    "value": "Wyślij ponownie kod"
+  },
+  "resend_notification": {
+    "value": "Wyślij ponownie powiadomienie"
+  },
+  "reset_password_auto_enroll_invite_warning": {
+    "value": "Ta organizacja posługuje się zasadą, która automatycznie\n        rejestruje użytkowników do resetowania hasła. Rejestracja umożliwia administratorom organizacji zmianę Twojego\n        hasła głównego.\n    "
+  },
+  "restart_registration": {
+    "value": "Zacznij rejestrację od początku"
+  },
+  "restore": {
+    "value": "Przywróć"
+  },
+  "restoring": {
+    "value": "Przywracanie..."
+  },
+  "return_to_complete_this_step_anytime_in_settings": {
+    "value": "Możesz wrócić, aby zakończyć ten krok w dowolnym\n        momencie w Ustawieniach.\n    "
+  },
+  "retype_master_password": {
+    "value": "Wpisz ponownie hasło główne"
+  },
+  "retype_master_password_required": {
+    "value": "Powtórz hasło główne (wymagane)"
+  },
+  "retype_new_master_password_required": {
+    "value": "Powtórz nowe hasło główne (wymagane)"
+  },
+  "review_flow_launched": {
+    "value": "Przepływ przeglądu uruchomiony!"
+  },
+  "save": {
+    "value": "Zapisz"
+  },
+  "save_and_protect_your_data": {
+    "value": "Zapisz i chroń swoje dane"
+  },
+  "save_attachment_success": {
+    "value": "Załącznik został zapisany"
+  },
+  "save_passkey": {
+    "value": "Zapisz klucz dostępu"
+  },
+  "save_passkey_as_new_login": {
+    "value": "Zapisz klucz dostępu jako nowe dane logowania"
+  },
+  "save_the_exported_file_somewhere_on_your_computer_you_can_find_easily": {
+    "value": "\n        <annotation emphasis=\"bold\">Zapisz wyeksportowany plik</annotation>\n        w miejscu na komputerze, które łatwo znajdziesz.\n    "
+  },
+  "saving": {
+    "value": "Zapisywanie..."
+  },
+  "scan_qr_code": {
+    "value": "Zeskanuj kod QR"
+  },
+  "scan_qr_title": {
+    "value": "Zeskanuj kod QR"
+  },
+  "search": {
+    "value": "Szukaj"
+  },
+  "search_collection": {
+    "value": "Szukaj w kolekcji"
+  },
+  "search_file_sends": {
+    "value": "Szukaj w wysłanych plikach"
+  },
+  "search_for_a_login_or_add_a_new_login": {
+    "value": "Wyszukaj login lub dodaj nowy login"
+  },
+  "search_for_an_item_or_add_a_new_item": {
+    "value": "Wyszukaj element lub dodaj nowy"
+  },
+  "search_group": {
+    "value": "Szukaj %1$s"
+  },
+  "search_sends": {
+    "value": "Szukaj w wysyłkach"
+  },
+  "search_text_sends": {
+    "value": "Szukaj w wysłanych tekstach"
+  },
+  "search_trash": {
+    "value": "Szukaj w koszu"
+  },
+  "search_vault": {
+    "value": "Szukaj w sejfie"
+  },
+  "second_dot_turn_on_auto_fill": {
+    "value": "2. Włącz autouzupełnianie"
+  },
+  "secure_notes": {
+    "value": "Bezpieczne notatki"
+  },
+  "security": {
+    "value": "Zabezpieczenia"
+  },
+  "security_code": {
+    "value": "Kod zabezpieczający"
+  },
+  "security_prioritized": {
+    "value": "Priorytetowe bezpieczeństwo"
+  },
+  "select": {
+    "value": "Wybierz"
+  },
+  "select_import_data_in_the_web_app_then_done_to_finish_syncing": {
+    "value": "\n        <annotation emphasis=\"bold\">Wybierz Importuj dane</annotation>\n        w aplikacji internetowej, a następnie kliknij Gotowe poniżej, aby zakończyć synchronizację.\n    "
+  },
+  "select_one_collection": {
+    "value": "Musisz wybrać co najmniej jedną kolekcję."
+  },
+  "select_the_link_in_the_email_to_verify_your_email_address_and_continue_creating_your_account": {
+    "value": "\"Kliknij\n        w link we wiadomości e-mail, aby zweryfikować swój adres e-mail i kontynuować tworzenie konta. \"\n    "
+  },
+  "select_type_field": {
+    "value": "Jakiego rodzaju pole niestandardowe chcesz dodać?"
+  },
+  "self_host_server_url": {
+    "value": "URL samodzielnie hostowanego serwera"
+  },
+  "self_hosted": {
+    "value": "Samodzielnie hostowany"
+  },
+  "self_hosted_environment": {
+    "value": "Samodzielnie hostowane środowisko"
+  },
+  "self_hosted_environment_footer": {
+    "value": "Wpisz podstawowy adres URL hostowanej instalacji Bitwarden."
+  },
+  "self_hosted_server_url": {
+    "value": "Adres URL własnejgo serwera"
+  },
+  "send": {
+    "value": "Wyślij"
+  },
+  "send_code": {
+    "value": "Wyślij kod"
+  },
+  "send_deleted": {
+    "value": "Wysyłka została usunięta"
+  },
+  "send_details": {
+    "value": "Wyślij szczegóły"
+  },
+  "send_disabled_warning": {
+    "value": "Ze względu na zasadę przedsiębiorstwa, tylko Ty możesz usunąć obecną wysyłkę.\n    "
+  },
+  "send_file_email_verification_required": {
+    "value": "Musisz zweryfikować adres e-mail, aby wysyłać pliki za pomocą\n        wysyłek.\n    "
+  },
+  "send_file_premium_required": {
+    "value": "Darmowe konto jest ograniczone do udostępniania tylko tekstu. Konto\n        Premium jest wymagane do udostępniania plików.\n    "
+  },
+  "send_link": {
+    "value": "Link wysyłki"
+  },
+  "send_name_required": {
+    "value": "\"Wyślij nazwę (wymagane)\""
+  },
+  "send_options_policy_in_effect": {
+    "value": "Co najmniej jedna zasada organizacji wpływa na ustawienia wysyłek.\n    "
+  },
+  "send_password_removed": {
+    "value": "Hasło zostało usunięte."
+  },
+  "send_sensitive_information_safely": {
+    "value": "Wysyłaj bezpiecznie poufne informacje"
+  },
+  "send_updated": {
+    "value": "Wysyłka została zapisana"
+  },
+  "send_verification_code_again": {
+    "value": "Wyślij ponownie wiadomość z kodem weryfikacyjnym"
+  },
+  "send_verification_code_to_email": {
+    "value": "Wyślij kod weryfikacyjny na adres e-mail"
+  },
+  "sending": {
+    "value": "Wysyłanie"
+  },
+  "sending_code": {
+    "value": "Wysyłanie kodu"
+  },
+  "sends": {
+    "value": "Wysyłki"
+  },
+  "september": {
+    "value": "Wrzesień"
+  },
+  "server_url": {
+    "value": "Adres URL serwera"
+  },
+  "service": {
+    "value": "Usługa"
+  },
+  "session_timeout": {
+    "value": "Limit czasu sesji"
+  },
+  "session_timeout_action": {
+    "value": "Akcja po przekroczeniu czasu sesji"
+  },
+  "set_bitwarden_as_passkey_manager_description": {
+    "value": "Ustaw Bitwarden jako dostawcę kluczy dostępu w\n        ustawieniach urządzenia.\n    "
+  },
+  "set_master_password": {
+    "value": "Ustaw hasło główne"
+  },
+  "set_master_password_summary": {
+    "value": "W celu zakończenia jednokrotnego logowania SSO, ustaw hasło główne, aby\n        uzyskać dostęp do sejfu.\n    "
+  },
+  "set_password": {
+    "value": "Ustaw hasło"
+  },
+  "set_pin": {
+    "value": "Ustaw kod PIN"
+  },
+  "set_pin_description": {
+    "value": "Ustaw kod PIN do odblokowywania aplikacji Bitwarden. Ustawienia odblokowywania\n        kodem PIN zostaną zresetowane po wylogowaniu.\n    "
+  },
+  "set_pin_direction": {
+    "value": "Wpisz 4-cyfrowy kod PIN do odblokowywania aplikacji."
+  },
+  "set_up_an_unlock_option_to_change_your_vault_timeout_action": {
+    "value": "Ustaw opcje odblokowania, aby zmienić\n        czas blokowania sejfu.\n    "
+  },
+  "set_up_authenticator_key": {
+    "value": "Ustaw klucz uwierzytelniający"
+  },
+  "set_up_auto_fill_description_long": {
+    "value": "Aby skonfigurować automatyczne uzupełnianie haseł i zarządzanie\n        kluczami dostępu, ustaw Bitwarden jako preferowanego dostawcę w ustawieniach iOS.\n    "
+  },
+  "set_up_autofill": {
+    "value": "Ustaw autouzupełnianie"
+  },
+  "set_up_autofill_on_all_your_devices": {
+    "value": "Skonfiguruj autouzupełnianie na wszystkich swoich urządzeniach,\n        aby logować się jednym kliknięciem w dowolnym miejscu.\n    "
+  },
+  "set_up_biometrics_or_choose_a_pin_code_to_quickly_access_your_vault_and_autofill_your_logins": {
+    "value": "\n        Skonfiguruj biometrię lub wybierz kod PIN, aby szybko uzyskać dostęp do sejfu i autouzupełnić swoje dane\n        logowania.\n    "
+  },
+  "set_up_later": {
+    "value": "Skonfiguruj później"
+  },
+  "set_up_two_step_login": {
+    "value": "Skonfiguruj dwustopniowe logowanie"
+  },
+  "set_up_unlock": {
+    "value": "Ustaw odblokowanie"
+  },
+  "set_up_unlock_later": {
+    "value": "Ustawić odblokowanie później?"
+  },
+  "settings": {
+    "value": "Ustawienia"
+  },
+  "setup_totp": {
+    "value": "Skonfiguruj TOTP"
+  },
+  "seven_days": {
+    "value": "7 dni"
+  },
+  "share": {
+    "value": "Udostępnij"
+  },
+  "share_error_details": {
+    "value": "Udostępnij szczegóły błędu"
+  },
+  "share_files_and_data_securely_with_anyone_on_any_platform": {
+    "value": "Udostępniaj pliki i dane bezpiecznie\n        każdemu, na każdej platformie. Twoje dane pozostaną zaszyfrowane end-to-end przy jednoczesnym ograniczeniu\n        narażenia.\n    "
+  },
+  "share_item": {
+    "value": "Udostępnij element"
+  },
+  "share_link": {
+    "value": "Udostępnij link"
+  },
+  "share_on_save": {
+    "value": "Udostępnij wysyłkę po zapisaniu"
+  },
+  "shared": {
+    "value": "Udostępnione"
+  },
+  "show": {
+    "value": "Pokaż"
+  },
+  "show_less": {
+    "value": "Pokaż mniej"
+  },
+  "show_more": {
+    "value": "Pokaż więcej"
+  },
+  "show_website_icons": {
+    "value": "Pokaż ikony witryn"
+  },
+  "show_website_icons_description": {
+    "value": "Pokaż rozpoznawalny obraz obok danych logowania"
+  },
+  "simple_login": {
+    "value": "SimpleLogin"
+  },
+  "single_tap_passkey_authentication": {
+    "value": "Logowanie kluczem dostępu jednym dotknięciem"
+  },
+  "single_tap_passkey_creation": {
+    "value": "Tworzenie klucza dostępu jednym dotknięciem"
+  },
+  "skip_for_now": {
+    "value": "Pomiń na razie"
+  },
+  "soft_deleting": {
+    "value": "Przenoszenie do kosza..."
+  },
+  "solarized_dark": {
+    "value": "Solarized Dark"
+  },
+  "special_characters": {
+    "value": "Znaki specjalne (!@#$%^*)"
+  },
+  "ssh_keys": {
+    "value": "Klucze SSH"
+  },
+  "ssn": {
+    "value": "Numer PESEL"
+  },
+  "starts_with": {
+    "value": "Rozpoczyna się od"
+  },
+  "state_province": {
+    "value": "Województwo"
+  },
+  "status": {
+    "value": "Status"
+  },
+  "step_1_of_3": {
+    "value": "Krok 1 z 3"
+  },
+  "step_2_of_3": {
+    "value": "Krok 2 z 3"
+  },
+  "step_3_of_3": {
+    "value": "Krok 3 z 3"
+  },
+  "strong": {
+    "value": "Silne"
+  },
+  "submit": {
+    "value": "Prześlij"
+  },
+  "submit_crash_logs": {
+    "value": "Wyślij logi awarii"
+  },
+  "submit_crash_logs_description": {
+    "value": "Pomóż Bitwarden poprawić stabilność aplikacji, przesyłając raporty o\n        awariach.\n    "
+  },
+  "submitting": {
+    "value": "Wysyłanie..."
+  },
+  "switch_to_already_added_account_confirmation": {
+    "value": "Czy chcesz przełączyć się teraz?"
+  },
+  "sync": {
+    "value": "Synchronizacja"
+  },
+  "sync_now": {
+    "value": "Synchronizuj teraz"
+  },
+  "sync_vault_now": {
+    "value": "Synchronizuj sejf"
+  },
+  "syncing": {
+    "value": "Synchronizuję..."
+  },
+  "syncing_complete": {
+    "value": "Synchronizacja została zakończona"
+  },
+  "syncing_failed": {
+    "value": "Synchronizacja nie powiodła się"
+  },
+  "syncing_logins_loading_message": {
+    "value": "Synchronizowanie loginów..."
+  },
+  "system_certificates_are_not_as_secure_as_importing_certificates_to_bitwarden": {
+    "value": "Używanie certyfikatu\n        systemowego jest mniej bezpieczne niż przechowywanie certyfikatu w Bitwarden. Kontynuowanie wyświetli listę\n        dostępnych certyfikatów systemowych, jeśli któryś jest już zainstalowany.\n    "
+  },
+  "tap_to_go_back": {
+    "value": "Kliknij, aby wrócić"
+  },
+  "ten_seconds": {
+    "value": "10 sekund"
+  },
+  "terms_of_service": {
+    "value": "Regulamin"
+  },
+  "text": {
+    "value": "Tekst"
+  },
+  "text_to_share": {
+    "value": "Tekst do udostępnienia"
+  },
+  "text_type_is_not_selected": {
+    "value": "Nie wybrano rodzaju tekstu. Kliknij, aby go wybrać."
+  },
+  "text_type_is_selected": {
+    "value": "Wybrano rodzaj tekstu."
+  },
+  "thank_you": {
+    "value": "Dziękujemy"
+  },
+  "the_best_way_to_make_sure_you_can_always_access_your_vault": {
+    "value": "Najlepszym sposobem zapewnienia dostępu do\n        swojego sejfu jest konfiguracja zabezpieczeń od początku.\n    "
+  },
+  "the_following_instructions_will_guide_you_through_importing_logins": {
+    "value": "Poniższe instrukcje poprowadzą Cię\n        przez proces importowania loginów z komputera lub laptopa\n    "
+  },
+  "the_longer_your_password_the_more_difficult_to_hack": {
+    "value": "Im dłuższe hasło, tym trudniej je zhakować.\n        Minimalna liczba znaków dla utworzenia konta to 12, ale jeśli użyjesz 14 znaków, czas na złamanie hasła wzrośnie\n        do stuleci!\n    "
+  },
+  "the_passkey_will_not_be_copied_to_the_cloned_item_do_you_want_to_continue_cloning_this_item": {
+    "value": "Klucz\n        dostępu nie zostanie skopiowany do sklonowanego elementu. Czy chcesz kontynuować klonowanie tego elementu?\n    "
+  },
+  "the_strongest_passwords_are_usually": {
+    "value": "Najsilniejsze hasła to zwykle:"
+  },
+  "the_urix_is_already_blocked": {
+    "value": "URI %1$s jest już zablokowany"
+  },
+  "the_vault_protects_more_than_just_passwords": {
+    "value": "Sejf chroni nie tylko hasła. Przechowuj tutaj bezpiecznie\n        loginy, identyfikatory, karty i notatki.\n    "
+  },
+  "theme": {
+    "value": "Motyw"
+  },
+  "theme_applied_on_restart": {
+    "value": "Zmiana motywu zostanie zastosowana po uruchomieniu ponownym."
+  },
+  "theme_default": {
+    "value": "Domyślny (systemowy)"
+  },
+  "theme_description": {
+    "value": "Zmień motyw kolorów aplikacji"
+  },
+  "there_are_no_blocked_ur_is": {
+    "value": "Brak zablokowanych URI"
+  },
+  "there_are_no_items_in_your_vault_that_match_x": {
+    "value": "W Twoim sejfie nie ma żadnych elementów, które pasują\n        do \\\"%1$s\\\"\n    "
+  },
+  "there_are_no_items_that_match_the_search": {
+    "value": "Brak elementów, które pasują do wyszukiwania"
+  },
+  "there_was_a_problem_creating_a_passkey_for_x_try_again_later": {
+    "value": "Wystąpił problem podczas tworzenia\n        klucza dostępu dla %1$s. Spróbuj ponownie później.\n    "
+  },
+  "there_was_a_problem_reading_a_passkey_for_x_try_again_later": {
+    "value": "Wystąpił problem podczas odczytu klucza\n        dostępu dla %1$s. Spróbuj ponownie później.\n    "
+  },
+  "there_was_an_error_starting_web_authn_two_factor_authentication": {
+    "value": "Wystąpił błąd podczas uruchamiania\n        uwierzytelniania dwuskładnikowego WebAuthn\n    "
+  },
+  "there_was_an_issue_validating_the_registration_token": {
+    "value": "Wystąpił błąd podczas sprawdzania poprawności\n        tokenu rejestracyjnego.\n    "
+  },
+  "third_dot_select_bitwarden_to_use_for_passwords_and_passkeys": {
+    "value": "3. Wybierz \\\"Bitwarden\\\" dla haseł i\n        kluczy dostępu\n    "
+  },
+  "thirty_days": {
+    "value": "30 dni"
+  },
+  "thirty_minutes": {
+    "value": "30 minut"
+  },
+  "thirty_seconds": {
+    "value": "30 sekund"
+  },
+  "this_is_not_a_recognized_bitwarden_server_you_may_need_to_check_with_your_provider_or_update_your_server": {
+    "value": "\n        To nie jest rozpoznany serwer Bitwarden. Może być konieczne skontaktowanie się z dostawcą lub zaktualizowanie\n        serwera.\n    "
+  },
+  "this_item_already_contains_a_passkey_are_you_sure_you_want_to_overwrite_the_current_passkey": {
+    "value": "Ten\n        element zawiera już klucz dostępu. Czy na pewno chcesz nadpisać bieżący klucza dostępu?\n    "
+  },
+  "this_request_is_no_longer_valid": {
+    "value": "Ta prośba nie jest już ważna"
+  },
+  "three_days": {
+    "value": "3 dni"
+  },
+  "time": {
+    "value": "Czas"
+  },
+  "title": {
+    "value": "Tytuł"
+  },
+  "toggle_visibility": {
+    "value": "Pokaż / Ukryj"
+  },
+  "too_many_attempts": {
+    "value": "Zbyt wiele prób"
+  },
+  "tools": {
+    "value": "Narzędzia"
+  },
+  "totally_different_from_your_other_passwords": {
+    "value": "Zupełnie inne od reszty twoich haseł"
+  },
+  "totp": {
+    "value": "TOTP"
+  },
+  "touch_id": {
+    "value": "Touch ID"
+  },
+  "translations": {
+    "value": "Tłumaczenia"
+  },
+  "trash": {
+    "value": "Kosz"
+  },
+  "trouble_logging_in": {
+    "value": "Problem z zalogowaniem?"
+  },
+  "try_again": {
+    "value": "Spróbuj ponownie"
+  },
+  "try_it_out": {
+    "value": "Wypróbuj to"
+  },
+  "turn_off_using_public_device": {
+    "value": "Wyłącz za pomocą urządzenia publicznego"
+  },
+  "turn_on_autofill": {
+    "value": "Włącz autouzupełnienie"
+  },
+  "turn_on_autofill_later": {
+    "value": "Włączyć autouzupełnianie później?"
+  },
+  "turn_on_later": {
+    "value": "Włącz później"
+  },
+  "turn_on_two_step_login": {
+    "value": "Włącz dwustopniowe logowanie"
+  },
+  "twelve_or_more_characters": {
+    "value": "12 lub więcej znaków"
+  },
+  "twenty_seconds": {
+    "value": "20 sekund"
+  },
+  "two_days": {
+    "value": "2 dni"
+  },
+  "two_minutes": {
+    "value": "2 minuty"
+  },
+  "two_step_login": {
+    "value": "Logowanie dwustopniowe"
+  },
+  "two_step_login_description_long": {
+    "value": "Spraw, aby Twoje konto było bezpieczniejsze poprzez skonfigurowanie\n        dwustopniowego logowania w aplikacji internetowej Bitwarden.\n    "
+  },
+  "two_step_login_options": {
+    "value": "Opcje logowania dwustopniowego"
+  },
+  "type": {
+    "value": "Rodzaj"
+  },
+  "type_card": {
+    "value": "Karta"
+  },
+  "type_file": {
+    "value": "Plik"
+  },
+  "type_file_info": {
+    "value": "Plik, który chcesz wysłać."
+  },
+  "type_identity": {
+    "value": "Tożsamość"
+  },
+  "type_login": {
+    "value": "Dane logowania"
+  },
+  "type_secure_note": {
+    "value": "Bezpieczna notatka"
+  },
+  "type_ssh_key": {
+    "value": "Klucz SSH"
+  },
+  "type_text": {
+    "value": "Tekst"
+  },
+  "types": {
+    "value": "Rodzaje"
+  },
+  "unable_to_download_file": {
+    "value": "Nie można pobrać pliku."
+  },
+  "unable_to_open_file": {
+    "value": "Twoje urządzenie nie może otworzyć pliku tego typu."
+  },
+  "unable_to_save_attachment": {
+    "value": "Wystąpił problem z zapisaniem załącznika. Jeśli problem nadal występuje,\n        musisz zapisać plik w sejfie internetowym.\n    "
+  },
+  "unfavorite": {
+    "value": "Usuń z ulubionych"
+  },
+  "unique_usernames_add_an_extra_layer_of_security_and_can_help_prevent_hackers_from_finding_your_accounts": {
+    "value": "\n        Unikalne nazwy użytkownika dodają dodatkową warstwę bezpieczeństwa i mogą pomóc w uniemożliwieniu hakerom\n        odnalezienia Twoich kont.\n    "
+  },
+  "unknown_account": {
+    "value": "Nieznane konto"
+  },
+  "unknown_x_error_message": {
+    "value": "Wystąpił nieznany błąd %1$s."
+  },
+  "unlock": {
+    "value": "Odblokuj"
+  },
+  "unlock_options": {
+    "value": "Odblokuj Opcje"
+  },
+  "unlock_vault": {
+    "value": "Odblokuj sejf"
+  },
+  "unlock_with": {
+    "value": "Odblokuj przez %1$s"
+  },
+  "unlock_with_pin": {
+    "value": "Odblokuj kodem PIN"
+  },
+  "unlocking_may_fail_due_to_insufficient_memory_decrease_your_kdf_memory_settings_to_resolve": {
+    "value": "\n        Odblokowanie może się nie udać z powodu niewystarczającej ilości pamięci. Zmniejsz ustawienia pamięci KDF lub\n        ustaw odblokowanie biometryczne, aby rozwiązać ten problem.\n    "
+  },
+  "unsubscribe": {
+    "value": "Anuluj subskrypcję"
+  },
+  "unsupported_certificate_type": {
+    "value": "Nieobsługiwany typ certyfikatu"
+  },
+  "update_key": {
+    "value": "Nie możesz używać tej funkcji, dopóki nie zaktualizujesz klucza szyfrowania."
+  },
+  "update_master_password": {
+    "value": "Zaktualizuj hasło główne"
+  },
+  "update_master_password_warning": {
+    "value": "Hasło główne zostało zmienione przez administratora Twojej\n        organizacji. Musisz je zaktualizować, aby uzyskać dostęp do sejfu. Ta czynność spowoduje wylogowanie z bieżącej\n        sesji, przez co konieczne będzie ponowne zalogowanie się. Aktywne sesje na innych urządzeniach mogą pozostać\n        aktywne przez maksymalnie godzinę.\n    "
+  },
+  "update_password_error": {
+    "value": "Obecnie nie można zaktualizować hasła"
+  },
+  "update_weak_master_password_warning": {
+    "value": "Twoje hasło główne nie spełnia jednej lub kilku zasad\n        organizacji. Aby uzyskać dostęp do sejfu, musisz teraz zaktualizować swoje hasło główne. Kontynuacja wyloguje\n        Cię z bieżącej sesji, wymagając zalogowania się ponownie. Aktywne sesje na innych urządzeniach mogą pozostać\n        aktywne przez maksymalnie jedną godzinę.\n    "
+  },
+  "updated_master_password": {
+    "value": "Hasło główne zostało zaktualizowane"
+  },
+  "updating_password": {
+    "value": "Aktualizowanie hasła"
+  },
+  "uppercase_ato_z": {
+    "value": "Wielkie litery (A-Z)"
+  },
+  "ur_is": {
+    "value": "URI"
+  },
+  "uri": {
+    "value": "URI"
+  },
+  "uri_match_detection": {
+    "value": "Wykrywanie dopasowania URI"
+  },
+  "uri_position": {
+    "value": "URI %1$s"
+  },
+  "uri_removed": {
+    "value": "Usunięto URI"
+  },
+  "uri_saved": {
+    "value": "Zapisano URI"
+  },
+  "us": {
+    "value": "US"
+  },
+  "use_a_computer_to_import_logins": {
+    "value": "Użyj komputera, aby zaimportować loginy z istniejącego menedżera\n        haseł\n    "
+  },
+  "use_another_two_step_method": {
+    "value": "Użyj innej metody logowania dwustopniowego"
+  },
+  "use_autofill_to_log_into_your_accounts": {
+    "value": "Użyj autouzupełniania, aby zalogować się na swoje konta jednym\n        dotknięciem.\n    "
+  },
+  "use_biometrics_to_unlock": {
+    "value": "Odblokuj danymi biometrycznymi"
+  },
+  "use_chrome_autofill_integration": {
+    "value": "Użyj integracji z autouzupełnianiem Chrome"
+  },
+  "use_chrome_beta_autofill_integration": {
+    "value": "Użyj integracji z autouzupełnianiem Chrome (beta)"
+  },
+  "use_face_id_to_unlock": {
+    "value": "Odblokuj za pomocą Touch ID"
+  },
+  "use_fingerprint_to_unlock": {
+    "value": "Odblokuj odciskiem palca"
+  },
+  "use_inline_autofill_explanation_long": {
+    "value": "Użyj bezpośredniego autouzupełniania, jeśli wybrana klawiatura\n        je obsługuje. W przeciwnym razie użyj domyślnej nakładki.\n    "
+  },
+  "use_system_certificate": {
+    "value": "Użyj certyfikatu systemowego"
+  },
+  "use_the_generator_to_create_a_strong_unique_password": {
+    "value": "Użyj generatora, aby stworzyć silne i unikalne\n        hasło\n    "
+  },
+  "use_the_generator_to_create_secure_passwords_passphrases_and_usernames": {
+    "value": "\"Użyj generatora, aby tworzyć\n        bezpieczne hasła, hasła wyrazowe i nazwy użytkownika. \"\n    "
+  },
+  "use_the_web_app": {
+    "value": "Użyj aplikacji internetowej"
+  },
+  "use_these_options_to_adjust_your_password_to_your_account_requirements": {
+    "value": "Użyj tych opcji, aby\n        dostosować swoje hasło do wymagań strony Twojego konta.\n    "
+  },
+  "use_this_button_to_generate_a_new_unique_password": {
+    "value": "Użyj tego przycisku, aby wygenerować nowe, unikalne\n        hasło.\n    "
+  },
+  "use_this_device_to_approve_login_requests_made_from_other_devices": {
+    "value": "Użyj tego urządzenia, aby\n        zatwierdzić prośby logowania z innych urządzeń\n    "
+  },
+  "user_verification_direction": {
+    "value": "Weryfikacja użytkownika"
+  },
+  "username": {
+    "value": "Nazwa użytkownika"
+  },
+  "username_type": {
+    "value": "Rodzaj nazwy użytkownika"
+  },
+  "validating": {
+    "value": "Weryfikuję"
+  },
+  "validation_field_required": {
+    "value": "Pole %1$s jest wymagane."
+  },
+  "value": {
+    "value": "Wartość"
+  },
+  "value_has_been_copied": {
+    "value": "Skopiowano %1$s"
+  },
+  "vault": {
+    "value": "Sejf"
+  },
+  "vault_filter_description": {
+    "value": "Sejf: %1$s"
+  },
+  "vault_is_locked": {
+    "value": "Sejf jest zablokowany"
+  },
+  "vault_locked_identity": {
+    "value": "Sejf jest zablokowany. Zweryfikuj swoją tożsamość, aby kontynuować."
+  },
+  "vault_locked_master_password": {
+    "value": "Sejf jest zablokowany. Wpisz hasło główne, aby kontynuować."
+  },
+  "vault_locked_pin": {
+    "value": "Sejf jest zablokowany. Wpisz kod PIN, aby kontynuować."
+  },
+  "vault_timeout": {
+    "value": "Blokowanie sejfu"
+  },
+  "vault_timeout_action": {
+    "value": "Sposób blokowania sejfu"
+  },
+  "vault_timeout_action_changed_to_log_out": {
+    "value": "Sposób blokowania sejfu został zmieniony na wylogowanie\n    "
+  },
+  "vault_timeout_action_policy_in_effect": {
+    "value": "Zasady organizacji ustawiły czas blokowania sejfu na %1$s.\n    "
+  },
+  "vault_timeout_log_out_confirmation": {
+    "value": "Po wylogowaniu się z sejfu musisz ponownie zalogować się, aby\n        uzyskać do niego dostęp. Czy na pewno chcesz użyć tego ustawienia?\n    "
+  },
+  "vault_timeout_policy_in_effect": {
+    "value": "Zasady organizacji mają wpływ na czas blokowania sejfu. Maksymalny\n        dozwolony czas wynosi %1$s godz. i %2$s min.\n    "
+  },
+  "vault_timeout_policy_with_action_in_effect": {
+    "value": "Zasady organizacji mają wpływ na czas blokowania sejfu.\n        Maksymalny dozwolony czas wynosi %1$s godz. i %2$s min. Twój czas blokowania sejfu to %3$s.\n    "
+  },
+  "vault_timeout_to_large": {
+    "value": "Czas blokowania sejfu przekracza limit określony przez organizację."
+  },
+  "vaults": {
+    "value": "Sejfy"
+  },
+  "verification_code": {
+    "value": "Kod weryfikacyjny"
+  },
+  "verification_code_totp": {
+    "value": "Kod weryfikacyjny (TOTP)"
+  },
+  "verification_codes": {
+    "value": "Kody weryfikacyjne"
+  },
+  "verification_email_not_sent": {
+    "value": "Nie można wysłać wiadomości weryfikacyjnej. Spróbuj ponownie."
+  },
+  "verification_email_sent": {
+    "value": "Kod weryfikacyjny został wysłany"
+  },
+  "verification_required_by_x": {
+    "value": "Weryfikacja wymagana przez %1$s"
+  },
+  "verification_required_for_this_action_set_up_an_unlock_method_in_bitwarden_to_continue": {
+    "value": "Weryfikacja\n        wymagana dla tej akcji. Ustaw metodę odblokowania w Bitwarden, aby kontynuować.\n    "
+  },
+  "verified_sso_domain_verified": {
+    "value": "Zweryfikowany punkt końcowy domeny SSO"
+  },
+  "verify_face_id": {
+    "value": "Zweryfikuj Face ID"
+  },
+  "verify_fingerprint": {
+    "value": "Zweryfikuj odcisk palca"
+  },
+  "verify_master_password": {
+    "value": "Zweryfikuj hasło główne"
+  },
+  "verify_pin": {
+    "value": "Zweryfikuj kod PIN"
+  },
+  "verify_your_identity": {
+    "value": "Zweryfikuj swoją tożsamość"
+  },
+  "verifying": {
+    "value": "Weryfikowanie"
+  },
+  "verifying_identity_ellipsis": {
+    "value": "Weryfikowanie tożsamości..."
+  },
+  "version": {
+    "value": "Wersja"
+  },
+  "view": {
+    "value": "Zobacz"
+  },
+  "view_all_login_options": {
+    "value": "Zobacz wszystkie sposoby logowania"
+  },
+  "view_card": {
+    "value": "Wyświetl karty"
+  },
+  "view_identity": {
+    "value": "Wyświetl tożsamość"
+  },
+  "view_item": {
+    "value": "Zobacz element"
+  },
+  "view_login": {
+    "value": "Wyświetl login"
+  },
+  "view_note": {
+    "value": "Wyświetl notatkę"
+  },
+  "view_passkey": {
+    "value": "Wyświetl klucze dostępu"
+  },
+  "visit_our_website": {
+    "value": "Odwiedź naszą stronę"
+  },
+  "warning": {
+    "value": "Ostrzeżenie"
+  },
+  "we_couldnt_verify_the_servers_certificate": {
+    "value": "Nie mogliśmy zweryfikować certyfikatu serwera. Łańcuch\n        certyfikatów lub ustawienia proxy na Twoim urządzeniu lub serwerze Bitwarden mogą być nieprawidłowo\n        skonfigurowane.\n    "
+  },
+  "we_ll_walk_you_through_the_key_features_to_add_a_new_login": {
+    "value": "Przeprowadzimy Cię przez kluczowe funkcje,\n        aby dodać nowe dane logowania.\n    "
+  },
+  "we_sent_an_email_to": {
+    "value": "Wysłaliśmy e-mail do\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n        .\n    "
+  },
+  "weak": {
+    "value": "Słabe"
+  },
+  "weak_and_exposed_master_password": {
+    "value": "Słabe i ujawnione hasło główne"
+  },
+  "weak_master_password": {
+    "value": "Słabe hasło główne"
+  },
+  "weak_password_identified_and_found_in_a_data_breach_alert_description": {
+    "value": "Słabe hasło ujawnione w wyniku\n        naruszenia ochrony danych. Użyj silnego i unikalnego hasła, aby chronić swoje konto. Czy na pewno chcesz użyć\n        tego hasła?\n    "
+  },
+  "weak_password_identified_use_a_strong_password_to_protect_your_account": {
+    "value": "Zidentyfikowano słabe hasło.\n        Użyj silnego hasła, aby chronić swoje konto. Czy na pewno chcesz użyć słabego hasła?\n    "
+  },
+  "web_vault": {
+    "value": "Sejf internetowy Bitwarden"
+  },
+  "web_vault_url": {
+    "value": "Adres URL serwera sejfu internetowego"
+  },
+  "website": {
+    "value": "Strona"
+  },
+  "website_required": {
+    "value": "Strona internetowa (wymagana)"
+  },
+  "website_uri": {
+    "value": "Strona internetowa (URI)"
+  },
+  "welcome_message_1": {
+    "value": "Zapisz dane logowania, karty i tożsamości w bezpiecznym sejfie. Bitwarden używa\n        szyfrowania end-to-end w celu ochrony tego, co jest dla Ciebie ważne.\n    "
+  },
+  "welcome_message_2": {
+    "value": "Skonfiguruj odblokowanie i autouzupełnianie biometryczne, aby zalogować się na\n        swoje konta bez wpisywania nawet pojedynczej litery.\n    "
+  },
+  "welcome_message_3": {
+    "value": "Użyj generatora, aby utworzyć i zapisać silne, unikalne hasła do wszystkich swoich\n        kont.\n    "
+  },
+  "welcome_message_4": {
+    "value": "Zapisuj nieograniczone ilości haseł dzięki aplikacjom Bitwarden które są dostępne\n        na urządzenia mobilne, w przeglądarce i systemy stacjonarne.\n    "
+  },
+  "what_bitwarden_has_to_offer": {
+    "value": "Możesz teraz użyć autouzupełniania, aby zalogować się do aplikacji i\n        stron internetowych przy użyciu zapisanych haseł. Teraz możesz odkryć wszystkie inne oferty Bitwarden.\n    "
+  },
+  "what_makes_a_password_strong": {
+    "value": "Co czyni hasło silnym?"
+  },
+  "what_would_you_like_to_generate": {
+    "value": "Co chcesz wygenerować?"
+  },
+  "windows_hello": {
+    "value": "Funkcja Windows Hello"
+  },
+  "word_separator": {
+    "value": "Separator słów"
+  },
+  "write_this_password_down_and_keep_it_somewhere_safe": {
+    "value": "Zapisz to hasło i przechowuj je w bezpiecznym\n        miejscu.\n    "
+  },
+  "write_your_password_down": {
+    "value": "Zapisz sobie hasło"
+  },
+  "x_ellipses": {
+    "value": "%s..."
+  },
+  "x_hours": {
+    "value": "%1$s godzin(y)"
+  },
+  "x_hours_and_one_minute": {
+    "value": "%1$s godzin i minuta"
+  },
+  "x_hours_and_y_minutes": {
+    "value": "%1$s godzin(y) i %2$s minut(y)"
+  },
+  "x_minutes_ago": {
+    "value": "%1$s min temu"
+  },
+  "yes": {
+    "value": "Tak"
+  },
+  "yes_and_save": {
+    "value": "Tak i zapisz"
+  },
+  "yes_i_can_reliably_access_my_email": {
+    "value": "Tak, mam pewny dostęp do mojego adresu e-mail"
+  },
+  "you_can_change_your_account_email_on_the_bitwarden_web_app": {
+    "value": "Możesz zmienić adres e-mail swojego konta\n        w aplikacji internetowej Bitwarden.\n    "
+  },
+  "you_can_import_data_to_your_vault_on_x": {
+    "value": "Możesz zaimportować dane do swojego sejfu na %1$s."
+  },
+  "you_can_return_to_complete_this_step_anytime_from_account_security_in_settings": {
+    "value": "Możesz wrócić, aby\n        zakończyć ten krok w dowolnym momencie z zabezpieczeń konta w Ustawieniach.\n    "
+  },
+  "you_can_return_to_complete_this_step_anytime_from_settings": {
+    "value": "Możesz wrócić, aby ukończyć ten krok w\n        dowolnym momencie w ustawieniach sejfu.\n    "
+  },
+  "you_can_set_up_two_step_login_as_an_alternative_way_to_protect_your_account_or_change_your_email_to_one_you_can_access": {
+    "value": "\n        Możesz skonfigurować dwustopniowe logowanie jako alternatywny sposób ochrony konta lub zmienić swój adres\n        e-mail, do którego masz dostęp.\n    "
+  },
+  "you_cannot_edit_passkey_application_because_it_would_invalidate_the_passkey": {
+    "value": "Nie możesz edytować\n        aplikacji, ponieważ spowodowałoby to unieważnienie klucza dostępu\n    "
+  },
+  "you_ll_only_need_to_set_up_authenticator_key": {
+    "value": "Musisz skonfigurować klucz uwierzytelniający tylko dla\n        loginów, które wymagają uwierzytelniania dwuskładnikowego za pomocą kodu. Klucz będzie stale generował\n        sześciocyfrowe kody, których możesz użyć do logowania.\n    "
+  },
+  "you_must_add_a_web_address_to_use_autofill_to_access_this_account": {
+    "value": "Aby użyć funkcji autouzupełniania i\n        uzyskać dostęp do tego konta, musisz dodać adres strony internetowej.\n    "
+  },
+  "you_will_be_notified_once_approved": {
+    "value": "Zostaniesz powiadomiony po zatwierdzeniu."
+  },
+  "your_account_has_been_permanently_deleted": {
+    "value": "Konto zostało trwale usunięte"
+  },
+  "your_accounts_fingerprint": {
+    "value": "Unikalny identyfikator Twojego konta"
+  },
+  "your_data_when_and_where_you_need_it": {
+    "value": "Twoje dane, kiedy i gdzie ich potrzebujesz"
+  },
+  "your_hint_will_be_send_to_you_via_email_when_you_request_it": {
+    "value": "Twoja wskazówka zostanie wysłana do\n        Ciebie pocztą e-mail, gdy o nią poprosisz.\n    "
+  },
+  "your_master_password_cannot_be_recovered_if_you_forget_it_x_characters_minimum": {
+    "value": "Twoje hasło główne nie\n        może zostać odzyskane, jeśli je zapomnisz! Minimum znaków: %1$s.\n    "
+  },
+  "your_organization_permissions_were_updated_requering_you_to_set_a_master_password": {
+    "value": "Uprawnienia w\n        Twojej organizacji zostały zaktualizowane, musisz teraz ustawić hasło główne.\n    "
+  },
+  "your_organization_requires_you_to_set_a_master_password": {
+    "value": "Twoja organizacja wymaga ustawienia hasła\n        głównego.\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault": {
+    "value": "Twój klucz dostępu zostanie zapisany w Twoim\n        sejfie Bitwarden\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault_for_x": {
+    "value": "Twój klucz dostępu zostanie zapisany w Twoim\n        sejfie Bitwarden dla %1$s\n    "
+  },
+  "your_request_has_been_sent_to_your_admin": {
+    "value": "Twoja prośba została wysłana do Twojego administratora.\n    "
+  },
+  "youre_all_set": {
+    "value": "Wszystko gotowe!"
+  },
+  "yubi_key_instruction": {
+    "value": "Przyłóż klucz YubiKey NEO z tyłu urządzenia lub włóż klucz do portu USB\n        urządzenia, a następnie dotknij jego przycisku.\n    "
+  },
+  "yubi_key_instruction_ios": {
+    "value": "Aby kontynuować, przyłóż swój YubiKey NEO do tylnej części urządzenia.\n    "
+  },
+  "yubi_key_title": {
+    "value": "Klucz bezpieczeństwa YubiKey"
+  },
+  "zip_postal_code": {
+    "value": "Kod pocztowy"
+  }
+}

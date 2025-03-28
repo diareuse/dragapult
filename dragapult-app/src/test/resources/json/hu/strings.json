@@ -1,0 +1,3677 @@
+{
+  "a_notification_has_been_sent_to_your_device": {
+    "value": "A rendszer értesítést küldött az eszközre."
+  },
+  "a_secure_memorable_password": {
+    "value": "Biztonságos, megjegyezhető jelszó"
+  },
+  "a_verification_code_was_sent_to_your_email": {
+    "value": "Egy ellenőrző kód lett elküldve a saját email címre.\n    "
+  },
+  "about": {
+    "value": "Névjegy"
+  },
+  "about_send": {
+    "value": "A Sendről"
+  },
+  "accept": {
+    "value": "Elfogadás"
+  },
+  "accept_policies": {
+    "value": "A kapcsoló bekapcsolásával egyetértünk a következőkkel:"
+  },
+  "accept_policies_error": {
+    "value": "A szolgáltatási feltételeket és az adatvédelmi irányelveket nem vették\n        figyelembe.\n    "
+  },
+  "accessibility": {
+    "value": "Akadálymentes használat"
+  },
+  "accessibility_description": {
+    "value": "Használjuk a Bitwarden Kisegítő Szolgáltatást a bejelentkezések automatikus\n        kitöltéséhez az alkalmazásokban és az interneten. Ha engedélyezve van, akkor a bejelentkezési mezők\n        kiválasztásakor megjelenik egy felbukkanó ablak.\n    "
+  },
+  "accessibility_description2": {
+    "value": "Használjuk a Bitwarden Kisegítő Szolgáltatást a bejelentkezések\n        automatikus kitöltéséhez az alkalmazásokban és az interneten. (Megköveteli a Felülrajzolás engedélyezését is)\n    "
+  },
+  "accessibility_description3": {
+    "value": "Használjuk a Bitwarden Kisegítő Szolgáltatást az Automatikus kitöltés\n        gyorsműveleti csempe használatához és/vagy egy felugró ablak megjelenítéséhez a Felülrajzolás használatával (ha\n        engedélyezve van).\n    "
+  },
+  "accessibility_description4": {
+    "value": "Szükséges az Automatikus kitöltés gyorsműveleti csempe használatához, vagy\n        az automatikus kitöltési szolgáltatás bővítéséhez a Felülrajzolás használatával (ha engedélyezve van).\n    "
+  },
+  "accessibility_description5": {
+    "value": "Az automatikus kitöltési gyorsművelet csempe használatához szükséges.\n    "
+  },
+  "accessibility_disclosure_text": {
+    "value": "A Bitwarden az akadálymentesítési szolgáltatást használja a\n        bejelentkezési mezők megkeresésére az alkalmazásokban és webhelyeken, majd létrehozza a megfelelő\n        mezőazonosítókat a felhasználónév és jelszó megadásához, ha talál egyezést az alkalmazáshoz vagy webhelyhez. A\n        szolgáltatás által rendelkezésünkre bocsátott információk nem kerülnek tárolásra és nincs kísérlet a képernyőn\n        megjelenő elemek vezérlésére a hitelesítő adatok szöveges bevitelén túl.\n    "
+  },
+  "accessibility_draw_over_permission_alert": {
+    "value": "A Bitwarden figyelmet igényel - Engedélyezzük Bitwarden\n        beállításokban a \\\"Felülrajzolás\\\" opciót az \\\"Automatikus kitöltési szolgáltatások\\\" résznél.\n    "
+  },
+  "accessibility_overlay_permission_alert": {
+    "value": "A Bitwarden figyelmet igényel - Információ az \\\"Automatikus\n        kitöltés elérési szolgáltatás\\\" elemnél a Bitwarden beállításaiban\n    "
+  },
+  "accessibility_service_disclosure": {
+    "value": "Kisegítő lehetőségek szolgáltatás publikálása"
+  },
+  "account": {
+    "value": "Fiók"
+  },
+  "account_already_added": {
+    "value": "A fiók már hozzáadásra került."
+  },
+  "account_biometric_invalidated": {
+    "value": "A biometrikus feloldás ennél a fióknál letiltásra került a mesterjelszó\n        ellenőrzéséig.\n    "
+  },
+  "account_biometric_invalidated_extension": {
+    "value": "Az automatikus kitöltés biometrikus feloldása ennél a fióknál\n        letiltásra került a mesterjelszó ellenőrzéséig.\n    "
+  },
+  "account_created": {
+    "value": "Fiókodat létrehoztuk. Most már be tudsz jelentkezni."
+  },
+  "account_created_success": {
+    "value": "Az új fiók létrrejött."
+  },
+  "account_fingerprint_phrase": {
+    "value": "Fiók ujjnyomat kifejezés"
+  },
+  "account_locked": {
+    "value": "Lezárva"
+  },
+  "account_locked_successfully": {
+    "value": "A fiók lezárásra került."
+  },
+  "account_logged_out": {
+    "value": "Megtörtént a kijelentkezés."
+  },
+  "account_logged_out_biometric_exceeded": {
+    "value": "A fiók kijelentkezett."
+  },
+  "account_logged_out_successfully": {
+    "value": "A fiókból kijelentkezés sikeres volt."
+  },
+  "account_removed_successfully": {
+    "value": "A fiók eltávolítása sikeres volt."
+  },
+  "account_security": {
+    "value": "Fiókbiztonság"
+  },
+  "account_setup": {
+    "value": "Fiók beüzemelés"
+  },
+  "account_switched_automatically": {
+    "value": "Megtörtént az átkapcsolás a következő elérhető fiókra."
+  },
+  "account_unlocked": {
+    "value": "Feloldva"
+  },
+  "add": {
+    "value": "Hozzáadás"
+  },
+  "add_a_number_or_symbol_to_make_it_even_stronger": {
+    "value": "Adjunk hozzá egy számot vagy szimbólumot, hogy még\n        erősebb legyen. Most egyedi, biztonságos és emlékezetes jelmondattal rendelkezünk!\n    "
+  },
+  "add_a_send": {
+    "value": "Send hozzáadása"
+  },
+  "add_account": {
+    "value": "Fiók hozzáadása"
+  },
+  "add_an_item": {
+    "value": "Elem hozzáadása"
+  },
+  "add_field": {
+    "value": "Mező hozzáadása"
+  },
+  "add_folder": {
+    "value": "Mappa hozzáadása"
+  },
+  "add_item": {
+    "value": "Elem hozzáadása"
+  },
+  "add_new_attachment": {
+    "value": "Melléklet hozzáadása"
+  },
+  "add_send": {
+    "value": "Send hozzáadása"
+  },
+  "add_the_key_to_an_existing_or_new_item": {
+    "value": "Adjuk hozzá a kulcsot egy meglévő vagy új elemhez."
+  },
+  "add_this_authenticator_key_to_a_login": {
+    "value": "Add this authenticator key to an existing login, or create a\n        new login.\n    "
+  },
+  "add_totp": {
+    "value": "TOTP hozzáadása"
+  },
+  "add_website": {
+    "value": "Webhely hozzáadása"
+  },
+  "additional_options": {
+    "value": "Kiegészítő opciók"
+  },
+  "address": {
+    "value": "Postai cím"
+  },
+  "address1": {
+    "value": "Cím 1"
+  },
+  "address2": {
+    "value": "Cím 2"
+  },
+  "address3": {
+    "value": "Cím 3"
+  },
+  "addy_io": {
+    "value": "addy.io"
+  },
+  "admin_approval_requested": {
+    "value": "Adminisztrátori jóváhagyás kérés történt"
+  },
+  "after_you_save_your_new_password_to_bitwarden_don_t_forget_to_update_it_on_your_account_website": {
+    "value": "\n        \"Miután elmentettük az új jelszót a Bitwardenbe, ne felejtsük el frissíteni azt a fiók webhelyén. \"\n    "
+  },
+  "alias": {
+    "value": "Álnév"
+  },
+  "all": {
+    "value": "Összes"
+  },
+  "all_items": {
+    "value": "Összes elem"
+  },
+  "all_notifications": {
+    "value": "Összes értesítés"
+  },
+  "all_sends": {
+    "value": "Összes Send"
+  },
+  "all_vaults": {
+    "value": "Összes széf"
+  },
+  "allow_bitwarden_authenticator_syncing": {
+    "value": "Bitwarden Hitelesítő szinkronizálás engedélyezése"
+  },
+  "allow_notifications": {
+    "value": "Értesítések engedélyezése"
+  },
+  "allow_screen_capture": {
+    "value": "Képernyőrögzítés engedélyezése"
+  },
+  "an_error_has_occurred": {
+    "value": "Hiba történt."
+  },
+  "an_error_occurred_while_sending_a_verification_code_to_your_email_please_try_again": {
+    "value": "Hiba történt az\n        ellenőrző kód saját email címre történő elküldésekor. Próbáljuk újra.\n    "
+  },
+  "api_access_token": {
+    "value": "API hozzáférési vezérjel"
+  },
+  "api_key_required_parenthesis": {
+    "value": "API kulcs (kötelező)"
+  },
+  "api_url": {
+    "value": "API szerver webcím"
+  },
+  "app_extension": {
+    "value": "App kiterjesztés"
+  },
+  "appearance": {
+    "value": "Megjelenés"
+  },
+  "application": {
+    "value": "Alkalmazás"
+  },
+  "approve_login_requests": {
+    "value": "Bejelentkezési kérelmek jóváhagyása"
+  },
+  "approve_with_master_password": {
+    "value": "Jóváhagyás mesterjelszóval"
+  },
+  "approve_with_my_other_device": {
+    "value": "Jóváhagyás másik eszközzel"
+  },
+  "april": {
+    "value": "április"
+  },
+  "are_you_sure_delete_send": {
+    "value": "Biztosan törlésre kerüljön ez a Send elem?"
+  },
+  "are_you_sure_remove_send_password": {
+    "value": "Biztosan eltávolításra kerüljön ez a jelszó?"
+  },
+  "are_you_sure_you_want_to_decline_all_pending_log_in_requests": {
+    "value": "Biztosan elutasításra kerüljön az összes\n        függőben levő bejelentkezési kérés?\n    "
+  },
+  "are_you_sure_you_want_to_enable_screen_capture": {
+    "value": "Biztosan engedélyzni szeretnénk a képernyőrögzítést?\n    "
+  },
+  "are_you_sure_you_want_to_overwrite_the_current_username": {
+    "value": "Biztosan felülírásra kerüljön az aktuális\n        felhasználónév?\n    "
+  },
+  "are_you_trying_to_log_in": {
+    "value": "Megpróbálunk bejelentkezni?"
+  },
+  "ask_to_add_login": {
+    "value": "Bejelentkezés hozzáadás kérése"
+  },
+  "ask_to_add_login_description": {
+    "value": "Kérjünk egy elem hozzáadást, ha az nem található a széfben."
+  },
+  "attachement_added": {
+    "value": "Melléklet hozzáadva"
+  },
+  "attachment_deleted": {
+    "value": "Melléklet törölve"
+  },
+  "attachment_large_warning": {
+    "value": "Ez a melléklet %1$s méretű. Biztosan letöltésre kerüljön az eszközre?\n    "
+  },
+  "attachments": {
+    "value": "Mellékletek"
+  },
+  "august": {
+    "value": "augusztus"
+  },
+  "authenticator": {
+    "value": "Hitelesítő"
+  },
+  "authenticator_app_title": {
+    "value": "Hitelesítő alkalmazás"
+  },
+  "authenticator_key": {
+    "value": "Igazolókód (TOTP)"
+  },
+  "authenticator_key_added": {
+    "value": "Hitelesítő kulcs hozzáadva."
+  },
+  "authenticator_key_help": {
+    "value": "Hitelesítő kulcs súgó"
+  },
+  "authenticator_key_read_error": {
+    "value": "Nem lehet olvasni a hitelesítő kulcsot."
+  },
+  "authenticator_key_scanner": {
+    "value": "Hitelesítő kulcs"
+  },
+  "authenticator_sync": {
+    "value": "Hitelesítő szinkronizálás"
+  },
+  "auto_fill_will_not_be_offered_for_these_ur_is": {
+    "value": "Az automatikus kitöltés nem kerül felajánlásra ezeknél\n        a webcímeknél.\n    "
+  },
+  "autofill": {
+    "value": "Automatikus kitöltés"
+  },
+  "autofill_accessibility_description": {
+    "value": "A Bitwarden kisegítő szolgáltatás használata bejelentkezések\n        automatikus kitöltéséhez alkalmazásból és weben.\n    "
+  },
+  "autofill_accessibility_service": {
+    "value": "Automatikus kitöltés akadálymentesítő szolgáltatás"
+  },
+  "autofill_accessibility_summary": {
+    "value": "Segítségnyújtás a felhasználónév és jelszó mezők kitöltésében más\n        alkalmazásokban és a weben.\n    "
+  },
+  "autofill_activated": {
+    "value": "Az automatikus kitöltés bekapcsolásra került."
+  },
+  "autofill_and_save": {
+    "value": "Automatikus kitöltés és mentés"
+  },
+  "autofill_blocked_uris": {
+    "value": "Automatikus kitöltés elől blokkolt URI elemek"
+  },
+  "autofill_options": {
+    "value": "Automatikus kitöltés opciók"
+  },
+  "autofill_or_view": {
+    "value": "Automatikusan kitöltésre vagy megtekintésre kerüljön ez az elem?"
+  },
+  "autofill_passwords": {
+    "value": "Jelszavak automatikus kitöltése"
+  },
+  "autofill_service": {
+    "value": "Automatikus kitöltő szolgáltatás"
+  },
+  "autofill_service_description": {
+    "value": "A Bitwarden automatikus kitöltési szolgáltatása az Android automatikus\n        kitöltő keretrendszerét használja a bejelentkezési adatok, hitelkártyaadatok és azonosítóadatok kitöltésére az\n        eszközén telepített más alkalmazásokban.\n    "
+  },
+  "autofill_service_not_enabled": {
+    "value": "Az automatikus kitöltés megkönnyíti a Bitwarden széf biztonságos\n        elérését más webhelyekről és alkalmazásokból. Úgy tűnik, hogy nem engedélyezett az automatikus kitöltés a\n        Bitwardennél. Az automatikus kitöltés a Bitwardennél a \\\"Beállítások\\\" képernyőn engedélyezhető.\n    "
+  },
+  "autofill_services": {
+    "value": "Automatikus kitöltés"
+  },
+  "autofill_services_explanation_long": {
+    "value": "Az Android automatikus kitöltési keretrendszere segít a\n        bejelentkezési adatok kitöltésében az eszközön lévő más alkalmazásokba.\n    "
+  },
+  "autofill_setup": {
+    "value": "Az alkalmazásokba és webhelyekre a belépési adatok most már könnyedén elérhető a\n        billentyűzetről.\n    "
+  },
+  "autofill_setup2": {
+    "value": "Célszerű kikapcsolni minden más automatikus kitöltő alkalmazást, ha nem tervezzük\n        használni azokat.\n    "
+  },
+  "autofill_suggestion": {
+    "value": "Automatikus kitöltés javaslatok"
+  },
+  "autofill_tile_accessibility_required": {
+    "value": "Engedélyezzük az \\\"Automatikus kitöltés elérés szolgáltatás\\\"\n        lehetőséget a Bitwarden beállításainál az automatikus kitöltés engedélyezéséhez.\n    "
+  },
+  "autofill_tile_uri_not_found": {
+    "value": "Nincs érzékelt jelszó mező."
+  },
+  "autofill_turn_on": {
+    "value": "A jelszó automatikus kitöltés szolgáltatás engedélyezéséhez kövessük az alábbi\n        utasításokat:\n    "
+  },
+  "autofill_turn_on1": {
+    "value": "1. Lépjünk be az iOS \\\"Beállítások\\\" alkalmazásba"
+  },
+  "autofill_turn_on2": {
+    "value": "2. Válasszuk a \\\"Jelszavak\\\" lehetőséget"
+  },
+  "autofill_turn_on3": {
+    "value": "3. Válasszuk ki az \\\"Jelszavak automatikus kitöltése\\\" lehetőséget"
+  },
+  "autofill_turn_on4": {
+    "value": "4. Kapcsoljuk be az Automatikus kitöltést"
+  },
+  "autofill_turn_on5": {
+    "value": "5. Válasszuk ki a \\\"Bitwarden\\\"-t"
+  },
+  "autofill_with_bitwarden": {
+    "value": "Automatikus kitöltés Bitwardennel"
+  },
+  "available_for_two_step_login": {
+    "value": "Kétlépcsős bejelentkezéshez érhető el"
+  },
+  "avoid_ambiguous_characters": {
+    "value": "Félreérthető karakterek mellőzése"
+  },
+  "back": {
+    "value": "Vissza"
+  },
+  "base_domain": {
+    "value": "Alap domain"
+  },
+  "biometrics": {
+    "value": "Biometria"
+  },
+  "biometrics_decoding_failure": {
+    "value": "Jelentkezzünk be a mesterjelszóval vagy a PIN kóddal, majd engedélyezzük\n        újra a biometrikus bejelentkezést a Beállításokban.\n    "
+  },
+  "biometrics_direction": {
+    "value": "Biometrikus ellenőrzés"
+  },
+  "biometrics_failed": {
+    "value": "A biometria nem sikerült."
+  },
+  "biometrics_no_longer_supported": {
+    "value": "Kijelentkeztetés történt, mert az eszköz biometrikus adatai nem\n        felelnek meg a legújabb biztonsági követelményeknek. A beállítások frissítéséhez jelentkezzünk be még egyszer\n        vagy lépjünk kapcsolatba az adminisztrátorral.\n    "
+  },
+  "biometrics_no_longer_supported_title": {
+    "value": "A biometrikus adatok már nem támogatottak ezen az eszközön.\n    "
+  },
+  "bitwarden": {
+    "value": "Bitwarden"
+  },
+  "bitwarden_app_extension": {
+    "value": "Bitwarden alkalmazáskiegészítő"
+  },
+  "bitwarden_app_extension_alert2": {
+    "value": "A legegyszerűbben a Bitwarden alkalmazás bővítményből adhatunk hozzá\n        új bejelentkezéseket a séfhez. Ha többet szeretnénk megtudni a Bitwarden alkalmazás bővítmény használatáról,\n        lépjünk a \\\"Beállítások\\\" képernyőre.\n    "
+  },
+  "bitwarden_app_extension_description": {
+    "value": "A Bitwarden használata Safariban és más alkalmazásokban a\n        bejelentkezések automatikus kitöltéséhez.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description": {
+    "value": "A Bitwarden kisegítő szolgáltatás használata\n        bejelentkezések automatikus kitöltéséhez.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description2": {
+    "value": "A kisegítő szolgáltatás használata hasznos\n        lehet, ha az alkalmazások nem támogatják a szabványos automatikus kitöltési szolgáltatást.\n    "
+  },
+  "bitwarden_autofill_alert2": {
+    "value": "A legkönnyebb módja új bejelentkezések széfbe helyezéséhez a Bitwarden\n        automatikus jelszó kitöltés bővítmény. További információ olvasható a Bitwarden automatikus jelszó kitöltés\n        bővítmény használatáról a \\\"Beállítások\\\" képernyőn.\n    "
+  },
+  "bitwarden_autofill_description": {
+    "value": "A széf közvetlenül a billentyűzetről érhető el a jelszavak gyors\n        kitöltéséhez.\n    "
+  },
+  "bitwarden_autofill_go_to_settings": {
+    "value": "Nem sikerült automatikusan megnyitni az Android automatikus\n        kitöltés beállításai menüt. A beállítás megnyitásához nyitssuk meg a Beállítások  Rendszer  Nyelv és\n        bevitel  Speciális  Automatikus kitöltés menüpontot.\n    "
+  },
+  "bitwarden_autofill_service": {
+    "value": "Bitwarden automatikus kitöltő szolgáltatás"
+  },
+  "bitwarden_autofill_service_alert2": {
+    "value": "A legkönnyebb módja új bejelentkezések széfbe helyezéséhez a\n        Bitwarden automatikus kitöltés szolgáltatásból. További információ olvasható a Bitwarden automatikus kitöltés\n        szolgáltatás használatáról a \\\"Beállítások\\\" képernyőn.\n    "
+  },
+  "bitwarden_autofill_service_description": {
+    "value": "A Bitwarden automatikus kitöltési szolgáltatás használata a\n        bejelentkezési-, hitelkártya- és azonosítóadatok kitöltéséhez más alkalmazásokban.\n    "
+  },
+  "bitwarden_autofill_service_match_confirm": {
+    "value": "Biztos, hogy automatikusan kitöltésre kerüljön ez az elem?\n        Nem teljesen egyezik: %1$s.\n    "
+  },
+  "bitwarden_autofill_service_notification_content": {
+    "value": "Erre az értesítésre koppintva automatikusan\n        kitölthető egy elem a széfből.\n    "
+  },
+  "bitwarden_autofill_service_notification_content_old": {
+    "value": "Koppintunk erre az értesítésre a széfben tárolt\n        elemek megtekintéséhez.\n    "
+  },
+  "bitwarden_autofill_service_open_accessibility_settings": {
+    "value": "Akadálymentesítési szolgáltatások megnyitása\n    "
+  },
+  "bitwarden_autofill_service_open_autofill_settings": {
+    "value": "Automatikus kitöltés beállításainak megnyitása\n    "
+  },
+  "bitwarden_autofill_service_open_overlay_permission_settings": {
+    "value": "Átfedés jogosultságok beállítás\n        megnyitása\n    "
+  },
+  "bitwarden_autofill_service_overlay": {
+    "value": "Egy beviteli mezőt kiválasztva és megjelenik a Bitwarden\n        automatikus kitöltési ablaka, arra rákoppintva elindítható az automatikus kitöltési szolgáltatás.\n    "
+  },
+  "bitwarden_autofill_service_overlay_permission": {
+    "value": "3. Az Android Alkalmazás beállítások képernyőn a\n        \\\"Megjelenítés más alkalmazások felett\\\" opcióknál (a Bővített alatt) koppintsunk az átfedés támogatást\n        engedélyező váltóra.\n    "
+  },
+  "bitwarden_autofill_service_search": {
+    "value": "Automatikus kitöltési elem keresése folyik: \\\"%1$s\\\"."
+  },
+  "bitwarden_autofill_service_step1": {
+    "value": "1. Az Android Kisegítő lehetőségek képernyőjén koppintsunk a\n        Bitwarden elemre a Szolgáltatások szakaszban.\n    "
+  },
+  "bitwarden_autofill_service_step2": {
+    "value": "2. A felugró ablakban a jóváhagyáshoz bökj az OK gombra."
+  },
+  "bitwarden_autofill_service_step3": {
+    "value": "3. A Bitwardenre érvényes Android Alkalmazás beállítások képernyőn\n        válasszuk a \\\"Megjelenítés más alkalmazások felett\\\" opciót (a Bővített alatt) és állítsuk át a váltóz az\n        átfedés támogatást engedélyezésre.\n    "
+  },
+  "bitwarden_can_notify_you_each_time_you_receive_a_new_login_request_from_another_device": {
+    "value": "A Bitwarden\n        minden alkalommal értesíthetést küld, amikor új bejelentkezési kérelem érkezik egy másik eszközről.\n    "
+  },
+  "bitwarden_cannot_recover_a_lost_or_forgotten_master_password": {
+    "value": "A Bitward nem tudja visszaállítani az\n        elveszett vagy elfelejtett mesterjelszót.\n    "
+  },
+  "bitwarden_cannot_reset_a_lost_or_forgotten_master_password": {
+    "value": "A Bitward nem tudja visszaállítani az\n        elveszett vagy elfelejtett mesterjelszót.\n    "
+  },
+  "bitwarden_credential_provider_go_to_settings": {
+    "value": "Nem lehetett automatikusan megnyitni az Android\n        hitelesítő adatszolgáltató beállítási menüjét. Manuálisan navigálhatunk a hitelesítő adatszolgáltató beállítási\n        menüjébe az Android Beállítások  Rendszer  Jelszavak és fiókok  Jelszavak, belépőkulcsok és\n        adatszolgáltatások menüpontban.\n    "
+  },
+  "bitwarden_help_center": {
+    "value": "Bitwarden Segítségközpont"
+  },
+  "bitwarden_tools": {
+    "value": "Bitwarden eszközök"
+  },
+  "bitwarden_will_soon_send_a_code_to_your_account_email_to_verify_logins_from_new_devices_in_february": {
+    "value": "A\n        Bitwarden 2025 februárjától kódot küld a fiókhoz tartozó email-címre, amellyel ellenőrizhetők az új eszközökről\n        történő bejelentkezések.\n    "
+  },
+  "black": {
+    "value": "Fekete"
+  },
+  "block_auto_fill": {
+    "value": "Automatikus kitöltés blokkolása"
+  },
+  "brand": {
+    "value": "Márka"
+  },
+  "by_activating_this_switch_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "A kapcsoló\n        aktiválásával elfogadjuk az <annotation link=\"termsOfService\">Általános Szerződési Feltételeket</annotation> és\n        az <annotation link=\"privacyPolicy\">Adatvédelmi irányelveket</annotation>.\n    "
+  },
+  "by_continuing_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "A folytatással elfogadjuk a\n        Használati feltételeket és az Adatvédelmi szabályokat\n    "
+  },
+  "camera": {
+    "value": "Kamera"
+  },
+  "cancel": {
+    "value": "Mégse"
+  },
+  "cannot_add_authenticator_key": {
+    "value": "Nem lehet hozzáadni a hitelesítő kulcsot."
+  },
+  "cannot_add_authenticator_key_scan_qr_code": {
+    "value": "Nem lehet hozzáadni hitelesítő kulcsot?\n        <annotation link=\"scanQrCode\">QR-kód beolvasása</annotation>\n    "
+  },
+  "cannot_edit_multiple_ur_is_at_once": {
+    "value": "Nem szerkeszthető több URI egyszerre."
+  },
+  "cannot_open_app": {
+    "value": "\\\"%1$s\\\" alkalmazás nem nyitható meg."
+  },
+  "cannot_scan_qr_code_enter_key_manually": {
+    "value": "Nem lehet beolvasni a QR kódot?\n        <annotation link=\"enterKeyManually\">Kulcs megadása manuálisan</annotation>\n    "
+  },
+  "capitalize": {
+    "value": "Nagy kezdőbetű"
+  },
+  "captcha_failed": {
+    "value": "A Captcha sikertelen. Próbáljuk újra."
+  },
+  "captcha_required": {
+    "value": "Captcha szükséges"
+  },
+  "card_details": {
+    "value": "Kártya adatok"
+  },
+  "cardholder_name": {
+    "value": "Kártyatulajdonos neve"
+  },
+  "cards": {
+    "value": "Kártyák"
+  },
+  "catch_all_email": {
+    "value": "Összes email cím begyűjtése"
+  },
+  "catch_all_email_description": {
+    "value": "Használjuk a domain konfigurált összes befogási bejövő postaládát.\n    "
+  },
+  "certificate_alias": {
+    "value": "Tanúsítvány álnév"
+  },
+  "certificate_alias_already_exists": {
+    "value": "A tanúsítvány álnév már létezik."
+  },
+  "certificate_installation_failed": {
+    "value": "A tanúsítvány telepítése sikertelen volt."
+  },
+  "certificate_installed": {
+    "value": "A tanúsítvány telepítésre került."
+  },
+  "certificate_password_incorrect": {
+    "value": "A tanúsítvány jelszó helytelen."
+  },
+  "certificate_selection_failed": {
+    "value": "A tanúsítvány kiválasztása sikertelen volt."
+  },
+  "certificate_used_for_client_authentication": {
+    "value": "Az ügyfél hitelesítéshez használt tanúsítvány."
+  },
+  "change_account_email": {
+    "value": "Change account email"
+  },
+  "change_email": {
+    "value": "Email cím megváltoztatása"
+  },
+  "change_email_address": {
+    "value": "Email cím megváltoztatása"
+  },
+  "change_email_confirmation": {
+    "value": "E-mail címedet a bitwarden.com webes széfében tudod megváltoztatni.\n        Szeretnéd meglátogatni most a weboldalt?\n    "
+  },
+  "change_master_password": {
+    "value": "Mesterjelszó megváltoztatása"
+  },
+  "change_master_password_description_long": {
+    "value": "A mesterjelszó a Bitwarden webalkalmazásban módosítható.\n    "
+  },
+  "check_known_data_breaches_for_this_password": {
+    "value": "Az ehhez a jelszóhoz tartozó ismert adatvédelmi\n        incidensek ellenőrzése\n    "
+  },
+  "check_out_the_passphrase_generator": {
+    "value": "\"Nézzük meg a jelszógenerátort\""
+  },
+  "check_password": {
+    "value": "Ellenőrizzük, hogy a jelszó kiszivárgott-e."
+  },
+  "check_password_for_data_breaches": {
+    "value": "A jelszó ellenőrzése, hogy nem történt-e adatszivárgás"
+  },
+  "check_your_email": {
+    "value": "Email cím postaláda ellenőrzése"
+  },
+  "checking_password": {
+    "value": "A jelszó ellenőrzése folyamatban van..."
+  },
+  "choose_a_login_to_save_this_passkey_to": {
+    "value": "Válasszunk egy bejelentkezési nevet, amelyhez menteni\n        szeretnénk ezt a belépőkulcsot.\n    "
+  },
+  "choose_a_unique_and_strong_password_to_keep_your_information_safe": {
+    "value": "Válasszunk egyedi és erős jelszót\n        az adatok biztonságának megőrzése érdekében.\n    "
+  },
+  "choose_file": {
+    "value": "Fájl kiválasztása"
+  },
+  "choose_system_certificate": {
+    "value": "Rendszer tanúsítvány kiválasztása"
+  },
+  "choose_three_or_four_random_words": {
+    "value": "Válasszunk három vagy négy véletlenszerű szót"
+  },
+  "choose_your_master_password": {
+    "value": "Mesterjelszó kiválasztása"
+  },
+  "city_town": {
+    "value": "Település"
+  },
+  "class_2_biometrics_description": {
+    "value": "A biometrikus adatokkal feloldás erős biometrikus hitelesítést igényel\n        és nem kompatibilis az eszközön elérhető biometrikus beállításokkal.\n    "
+  },
+  "class_3_biometrics_description": {
+    "value": "A biometrikus adatokkal feloldás erős biometrikus hitelesítést igényel\n        és előfordulhat, hogy nem kompatibilis az eszköz összes biometrikus beállításával.\n    "
+  },
+  "clear": {
+    "value": "Törlés"
+  },
+  "clear_clipboard": {
+    "value": "Vágólap ürítése"
+  },
+  "clear_clipboard_description": {
+    "value": "Automatikusan törli a vágólapra másolt értékeket."
+  },
+  "client_certificate_mtls": {
+    "value": "Ügyfél tanúsítvány (mTLS)"
+  },
+  "clone": {
+    "value": "Klónozás"
+  },
+  "close": {
+    "value": "Bezár"
+  },
+  "coachmark_1_of_3": {
+    "value": "1/3"
+  },
+  "coachmark_1_of_6": {
+    "value": "1/6"
+  },
+  "coachmark_2_of_3": {
+    "value": "2/3"
+  },
+  "coachmark_2_of_6": {
+    "value": "2/6"
+  },
+  "coachmark_3_of_3": {
+    "value": "3/3"
+  },
+  "coachmark_3_of_6": {
+    "value": "3/6"
+  },
+  "coachmark_4_of_6": {
+    "value": "4/6"
+  },
+  "coachmark_5_of_6": {
+    "value": "5/6"
+  },
+  "coachmark_6_of_6": {
+    "value": "6/6"
+  },
+  "code_sent": {
+    "value": "A kód elküldésre került."
+  },
+  "collections": {
+    "value": "Gyűjtemények"
+  },
+  "combine_those_words_together": {
+    "value": "Kombináljuk ezeket a szavakat"
+  },
+  "company": {
+    "value": "Cég"
+  },
+  "confim_log_in_attemp_for_x": {
+    "value": "Bejelentkezési kísérlet megerősítése: %1$s"
+  },
+  "confirm": {
+    "value": "Megerősítés"
+  },
+  "confirm_file_password": {
+    "value": "Fájl jelszó megerősítés"
+  },
+  "confirm_log_in": {
+    "value": "Bejelentkezés megerősítése"
+  },
+  "confirm_your_identity": {
+    "value": "A folytatáshoz meg kell erősíteni a személyazonosságot."
+  },
+  "connect_to_watch": {
+    "value": "Kapcsolódás a Watch-hoz"
+  },
+  "contact_bitwarden_support": {
+    "value": "Bitwarden ügyfélszolgálat"
+  },
+  "contact_info": {
+    "value": "Kapcsolattartó infó"
+  },
+  "contact_support_description_long": {
+    "value": "Nem találjuk, amit keresünk? Lépjünk kapcsolatba a Bitwarden\n        ügyfélszolgálatával a bitwarden.com oldalon.\n    "
+  },
+  "continue_text": {
+    "value": "Folytatás"
+  },
+  "continue_to_app_store": {
+    "value": "Tovább az alkalmazásboltba?"
+  },
+  "continue_to_complete_web_authn_verification": {
+    "value": "Folytatás a WebAuthn ellenőrzés befejezésével."
+  },
+  "continue_to_contact_support": {
+    "value": "Tovább az ügyfélszolgálathoz?"
+  },
+  "continue_to_device_settings": {
+    "value": "Továbblépés az eszköz beállításokhoz?"
+  },
+  "continue_to_give_feedback": {
+    "value": "Folytatás visszajelzés adással?"
+  },
+  "continue_to_help_center": {
+    "value": "Tovább a Segítség Központhoz?"
+  },
+  "continue_to_privacy_policy": {
+    "value": "Tovább az adatvédelmi szabályzathoz?"
+  },
+  "continue_to_provide_feedback": {
+    "value": "Válasszuk a Folytatás visszajelzés adással lehetőséget az új\n        alkalmazásban!\n    "
+  },
+  "continue_to_web_app": {
+    "value": "Tovább a webes alkalmazáshoz?"
+  },
+  "continue_to_x": {
+    "value": "Tovább: %1$s?"
+  },
+  "copied_to_clipboard": {
+    "value": "Megtörtént a vágólapra másolás."
+  },
+  "copy": {
+    "value": "Másolás"
+  },
+  "copy_address": {
+    "value": "Postai cím másolása"
+  },
+  "copy_app_information": {
+    "value": "Alkalmazás információ másolása"
+  },
+  "copy_application": {
+    "value": "Alkalmazás másolása"
+  },
+  "copy_company": {
+    "value": "Cég másolása"
+  },
+  "copy_email": {
+    "value": "Email cím másolása"
+  },
+  "copy_fingerprint": {
+    "value": "Ujjlenyomat másolása"
+  },
+  "copy_identity_name": {
+    "value": "Az azonosító név másolása"
+  },
+  "copy_license_number": {
+    "value": "Vezetői engedély szám másolása"
+  },
+  "copy_link": {
+    "value": "Hivatkozás másolása"
+  },
+  "copy_notes": {
+    "value": "Jegyzet másolása"
+  },
+  "copy_number": {
+    "value": "Szám másolása"
+  },
+  "copy_passport_number": {
+    "value": "Útlevélszám másolása"
+  },
+  "copy_password": {
+    "value": "Jelszó másolása"
+  },
+  "copy_phone": {
+    "value": "Telefonszám másolása"
+  },
+  "copy_private_key": {
+    "value": "Személyes kulcs másolása"
+  },
+  "copy_public_key": {
+    "value": "Nyilvános kulcs másolása"
+  },
+  "copy_security_code": {
+    "value": "Biztonsági kód másolása"
+  },
+  "copy_send_link_on_save": {
+    "value": "Send hivatkozás másolása mentéskor"
+  },
+  "copy_ssn": {
+    "value": "Társadalombiztosítási szám másolása"
+  },
+  "copy_totp": {
+    "value": "Egyszeri jelszó másolása"
+  },
+  "copy_totp_automatically": {
+    "value": "TOTP automatikus másolása"
+  },
+  "copy_totp_automatically_description": {
+    "value": "Ha a bejelentkezéshez csatolva van egy hitelesítő kulcs, a TOTP\n        ellenőrző kód automatikusan a vágólapra kerül a bejelentkezési adatok automatikus kitöltésénél.\n    "
+  },
+  "copy_username": {
+    "value": "Felhasználónév másolása"
+  },
+  "country": {
+    "value": "Ország"
+  },
+  "create_a_hint": {
+    "value": "Tipp létrehozása"
+  },
+  "create_account": {
+    "value": "Fiók létrehozása"
+  },
+  "create_account_on": {
+    "value": "Fiók létrehozása:"
+  },
+  "create_account_on_with_colon": {
+    "value": "Fiók létrehozása:"
+  },
+  "create_an_account": {
+    "value": "Fiók létrehozása"
+  },
+  "created_xy": {
+    "value": "Létrehozta: %1$s, %2$s"
+  },
+  "creating_account": {
+    "value": "Fiók létrehozása..."
+  },
+  "credits": {
+    "value": "Készítők"
+  },
+  "current_access_count": {
+    "value": "Aktuális elérési szám"
+  },
+  "current_master_password_required": {
+    "value": "Jelenlegi mesterjelszó (kötelező)"
+  },
+  "custom": {
+    "value": "Egyedi"
+  },
+  "custom_environment": {
+    "value": "Egyedi környezet"
+  },
+  "custom_environment_footer": {
+    "value": "Haladó felhasználóknak. Minden egyes szolgáltatásnak külön megadhatod az\n        alap URL-t.\n    "
+  },
+  "custom_field_name": {
+    "value": "Egyedi mezőnév"
+  },
+  "custom_fields": {
+    "value": "Egyedi mezők"
+  },
+  "cxp_export": {
+    "value": "CXP Exportálás"
+  },
+  "cxp_import": {
+    "value": "CXP Importálás"
+  },
+  "dark": {
+    "value": "Sötét"
+  },
+  "data_region": {
+    "value": "Adatrégió"
+  },
+  "date_password_updated": {
+    "value": "A jelszó frissítésre került."
+  },
+  "date_updated": {
+    "value": "Frissítve"
+  },
+  "december": {
+    "value": "december"
+  },
+  "decline": {
+    "value": "Elutasítás"
+  },
+  "decline_all_requests": {
+    "value": "Összes kérés elutasítása"
+  },
+  "default_dark_theme": {
+    "value": "Alapértelmezett sötét téma"
+  },
+  "default_dark_theme_description_long": {
+    "value": "Válasszuk a sötét témát az eszköz sötét módban történő használata\n        esetén.\n    "
+  },
+  "default_system": {
+    "value": "Alapértelmezett (rendszer)"
+  },
+  "default_text": {
+    "value": "Alapértelmezett"
+  },
+  "default_uri_match_detection": {
+    "value": "URI-egyezések alapértelmezett felismerése"
+  },
+  "default_uri_match_detection_description": {
+    "value": "Az URI egyezés érzékelés alapértelmezett módjának\n        kiválasztása a bejelentkezéseknél olyan műveletek esetében mint az automatikus kitöltés.\n    "
+  },
+  "delete": {
+    "value": "Törlés"
+  },
+  "delete_account": {
+    "value": "Fiók törlése"
+  },
+  "delete_account_explanation": {
+    "value": "A fiók és az összes társított adat törlésre kerül és nem állítható vissza.\n        Biztosan folytassuk?\n    "
+  },
+  "delete_this_file_after_import_is_complete": {
+    "value": "Az importálás befejezése után ez a fájl törölhető."
+  },
+  "deleting": {
+    "value": "Törlés..."
+  },
+  "deleting_your_account": {
+    "value": "A fiók törlése folyamatban van."
+  },
+  "deleting_your_account_is_permanent": {
+    "value": "A fiók törlése végleges."
+  },
+  "deletion_date": {
+    "value": "Törlési dátum"
+  },
+  "deletion_date_info": {
+    "value": "A Send véglegesen törlésre kerül a meghatározott időpontban."
+  },
+  "deletion_time": {
+    "value": "Törlési időpont"
+  },
+  "denied": {
+    "value": "Megtagadva"
+  },
+  "deny_log_in": {
+    "value": "Bejelentkezés megtagadása"
+  },
+  "device_type": {
+    "value": "Eszköz típus"
+  },
+  "disable_personal_vault_export_policy_in_effect": {
+    "value": "Egy vagy több szervezeti házirend tiltja a személyes\n        széf exportálását.\n    "
+  },
+  "disabled": {
+    "value": "Letiltva"
+  },
+  "do_you_have_a_computer_available": {
+    "value": "Rendelkezésre áll a számítógép?"
+  },
+  "do_you_have_reliable_access_to_your_email": {
+    "value": "Megbízható a hozzáférés az email címhez, %1$s?"
+  },
+  "do_you_really_want_to_delete": {
+    "value": "Tényleg törölni akarod? Ezt nem lehet visszavonni."
+  },
+  "do_you_really_want_to_permanently_delete_cipher": {
+    "value": "Valóban végleges legyen a törlés? A művelet nem\n        vonható vissza.\n    "
+  },
+  "do_you_really_want_to_restore_cipher": {
+    "value": "Biztosan visszaállításra kerüljön ezt az elem?"
+  },
+  "do_you_really_want_to_soft_delete_cipher": {
+    "value": "Biztosan a lomtárba kerüljön?"
+  },
+  "domain_name_required_parenthesis": {
+    "value": "Domain név (kötelező)"
+  },
+  "done_text": {
+    "value": "Kész"
+  },
+  "download": {
+    "value": "Letöltés"
+  },
+  "download_the_browser_extension": {
+    "value": "Böngésző bővítmény letöltése"
+  },
+  "downloading": {
+    "value": "Letöltés..."
+  },
+  "dr": {
+    "value": "Dr."
+  },
+  "draw_over": {
+    "value": "Felülrajzolás használata"
+  },
+  "draw_over_description": {
+    "value": "Engedélyezve a Bitwarden Akadálymentes Szolgáltatás egy felbukkanó ablakot\n        jelenít meg, amikor a bejelentkezési mezők kiválasztottak.\n    "
+  },
+  "draw_over_description2": {
+    "value": "Engedélyezve a Bitwarden Kisegítő Szolgáltatás egy felbukkanó ablakot jelenít\n        meg a bejelentkezések automatikus kitöltéséhez, amikor a bejelentkezési mezők kiválasztottak.\n    "
+  },
+  "draw_over_description3": {
+    "value": "Engedélyezve a a Kisegítő felbukkanó ablakot jelenít meg az Automatikus\n        Kitöltési Szolgáltatás kibővítéséhez olyan régebbi alkalmazások számára, amelyek nem támogatják az Android\n        automatikus kitöltés keretrendszerét.\n    "
+  },
+  "duck_duck_go": {
+    "value": "DuckDuckGo"
+  },
+  "duo_two_step_login_is_required_for_your_account": {
+    "value": "DUO kétlépéses bejelentkezés szükséges a fiókhoz.\n    "
+  },
+  "edit": {
+    "value": "Szerkesztés"
+  },
+  "edit_card": {
+    "value": "Kártya szerkesztése"
+  },
+  "edit_folder": {
+    "value": "Mappa szerkesztése"
+  },
+  "edit_identity": {
+    "value": "Személyazonossság szerkesztése"
+  },
+  "edit_item": {
+    "value": "Elem szerkesztése"
+  },
+  "edit_login": {
+    "value": "Bejelentkezés szerkesztése"
+  },
+  "edit_note": {
+    "value": "Jegyzet szerkesztése"
+  },
+  "edit_passkey": {
+    "value": "Hozzáférési kulcs szerkesztése"
+  },
+  "edit_send": {
+    "value": "Send szerkesztése"
+  },
+  "edit_uri": {
+    "value": "URI szerkesztése"
+  },
+  "email": {
+    "value": "E-mail"
+  },
+  "email_address": {
+    "value": "Email cím"
+  },
+  "email_address_required": {
+    "value": "Email cím (kötelező)"
+  },
+  "email_required_parenthesis": {
+    "value": "Email cím (kötelező)"
+  },
+  "email_type": {
+    "value": "Email típus"
+  },
+  "email_us": {
+    "value": "Írjon nekünk emailt"
+  },
+  "email_us_description": {
+    "value": "Írjon nekünk E-mailt közvetlenül a segítség kéréshez vagy visszajelzés\n        beküldéséhez.\n    "
+  },
+  "email_verified": {
+    "value": "Az email cím ellenőrzésre került."
+  },
+  "enable_automatic_syncing": {
+    "value": "Automatikus szinkronizálás engedélyezése"
+  },
+  "enable_camer_permission_to_use_the_scanner": {
+    "value": "Kamera engedélyezése a lapolvasó használatához"
+  },
+  "enable_notifications": {
+    "value": "Értesítések engedélyezése"
+  },
+  "enable_sync_on_refresh": {
+    "value": "Szinkronizálás engedélyezése frissítéskor"
+  },
+  "enable_sync_on_refresh_description": {
+    "value": "A széf szinkronizálása lehúzó művelettel."
+  },
+  "enabled": {
+    "value": "Engedélyezve"
+  },
+  "encryption_key_migration_required_description_long": {
+    "value": "Titkosítási kulcs migráció szükséges.\n        Jelentkezzünk be a webes széfen keresztül a titkosítási kulcs frissítéséhez.\n    "
+  },
+  "enter_email_for_hint": {
+    "value": "Írd be a fiókod e-mail címét, hogy megkapd a mesterjelszó emlékeztetőt."
+  },
+  "enter_key_manually": {
+    "value": "Kód megadása manuálisan"
+  },
+  "enter_pin": {
+    "value": "Add meg a PIN-kódodat."
+  },
+  "enter_the_client_certificate_password_and_alias": {
+    "value": "Adjuk meg az ügyfél tanúsítvány jelszavát és a\n        tanúsítvány kívánt álnevét.\n    "
+  },
+  "enter_the_verification_code_that_was_sent_to_your_email": {
+    "value": "Az emailben elküldött ellenőrző kód\n        megadása\n    "
+  },
+  "enter_uri": {
+    "value": "URI megadása"
+  },
+  "enter_verification_code_app": {
+    "value": "Add meg a 6 számjegyű ellenőrző kódot a hitelesítő alkalmazásodból.\n    "
+  },
+  "enter_verification_code_email": {
+    "value": "6 számjegyű ellenőrző kód megadása, ami %1$s e-mail címre lett\n        küldve.\n    "
+  },
+  "enter_verification_code_new_device": {
+    "value": "Nem ismerhető fel ez az eszköz. Írjuk be a 8 számjegyű ellenőrző\n        kódot, amelyet emailben lett elküldve %1$s email címre.\n    "
+  },
+  "environment_page_urls_error": {
+    "value": "A beírt webcímek közül egy vagy több érvénytelen. Vizsgáljuk át és\n        próbáljuk meg újra elmenteni.\n    "
+  },
+  "environment_saved": {
+    "value": "A környezet URL-ek el lettek mentve."
+  },
+  "error_connecting_with_the_duo_service_use_a_different_two_step_login_method_or_contact_duo_for_assistance": {
+    "value": "\n        Hiba történt a Duo szolgáltatáshoz csatlakozáskor. Használjunk másik kétlépcsős bejelentkezési módot vagy\n        kérjünk segítséget a Duotól.\n    "
+  },
+  "error_creating_passkey": {
+    "value": "Hiba történt a belépőkulcs létrehozásakor."
+  },
+  "error_loading_certificate": {
+    "value": "Hiba történt a tanúsítványok betöltésekor."
+  },
+  "error_reading_passkey": {
+    "value": "Hiba történt a belépőkulcs olvasásakor."
+  },
+  "eu": {
+    "value": "EU"
+  },
+  "exact": {
+    "value": "Pontos"
+  },
+  "exit": {
+    "value": "Kilépés"
+  },
+  "exit_confirmation": {
+    "value": "Biztosan kilépünk?"
+  },
+  "exntesion_reenable": {
+    "value": "Alkalmazáskiegészítő újraengedélyezése"
+  },
+  "expiration": {
+    "value": "Lejárat"
+  },
+  "expiration_month": {
+    "value": "Lejárati hónap"
+  },
+  "expiration_year": {
+    "value": "Lejárati év"
+  },
+  "expired": {
+    "value": "Lejárt"
+  },
+  "expired_link": {
+    "value": "A hivatkozás lejárt."
+  },
+  "explore_more_features_of_your_bitwarden_account_on_the_web_app": {
+    "value": "Fedezzük fel a Bitwarden-fiók további\n        funkcióit a webalkalmazásban.\n    "
+  },
+  "explore_the_generator": {
+    "value": "A generátor felfedezése"
+  },
+  "export_vault": {
+    "value": "Széf exportálása"
+  },
+  "export_vault_confirmation_title": {
+    "value": "Széf export megerősítése"
+  },
+  "export_vault_failure": {
+    "value": "Hiba lépett fel exportálás közben. Ha a hiba továbbra is fennáll, próbáluk\n        exportálni a webes felületen.\n    "
+  },
+  "export_vault_file_pw_protect_info": {
+    "value": "Ez a fájl exportálás jelszóval védett és a visszafejtéshez a fájl\n        jelszó megadása szükséges.\n    "
+  },
+  "export_vault_master_password_description": {
+    "value": "A mesterjelszó megadása a széfadatok exportálásához.\n    "
+  },
+  "export_vault_success": {
+    "value": "A széf sikeresen exportálásra került."
+  },
+  "export_vault_warning": {
+    "value": "Az exportált széfadatok titkosítatlan formátumban kerülnek elmentésre. Ne\n        tároljuk sehol, illetve ne küldjük el senkinek a fájlt nem biztonságos felületeken (például email). Használat\n        után azonnal töröljük.\n    "
+  },
+  "export_your_passwords_this_option_is_usually_found_in_your_settings": {
+    "value": "A jelszavak exportálása. Ez az\n        opció általában a beállításokban található.\n    "
+  },
+  "export_your_saved_logins": {
+    "value": "Mentett bejelentkezések exportálása"
+  },
+  "exposed_master_password": {
+    "value": "Kitett mesterjelszó"
+  },
+  "extension_activated": {
+    "value": "A kiegészítő bekapcsolásra került."
+  },
+  "extension_almost_done": {
+    "value": "Mindjárt kész!"
+  },
+  "extension_enable": {
+    "value": "Alkalmazáskiegészítő engedélyezése"
+  },
+  "extension_in_safari": {
+    "value": "A Safariban keressük meg a Bitwardent a megosztás ikon használatával (tipp:\n        gördítés a menü alsó sorának jobb oldalára).\n    "
+  },
+  "extension_instant_access": {
+    "value": "Kérj azonnali hozzáférést a jelszavakhoz!"
+  },
+  "extension_ready": {
+    "value": "Készen állsz a bejelentkezéshez!"
+  },
+  "extension_setup": {
+    "value": "A bejelentkezések mostantól könnyen hozzáférhetők a Safariból, a Chrome-ból és más\n        támogatott alkalmazásból.\n    "
+  },
+  "extension_setup2": {
+    "value": "A Safariban és a Chrome-ban keressük meg a Bitwardent a megosztás ikon használatával\n        (tipp: gördítés a menü alsó sorának jobb oldalára).\n    "
+  },
+  "extension_tap_icon": {
+    "value": "Koppintás a Bitwarden ikonra a menüben a bővítmény elindításához."
+  },
+  "extension_turn_on": {
+    "value": "A Safariban és más alkalmazásban a Bitwarden bekapcsolásához koppintsunk az\n        \\\"egyéb\\\" ikonra a menü alsó sorában.\n    "
+  },
+  "face_id": {
+    "value": "Arc AZ"
+  },
+  "face_id_direction": {
+    "value": "Arc AZ használata a azonosság ellenőrzéséhez."
+  },
+  "fastmail": {
+    "value": "FastMail"
+  },
+  "favorite": {
+    "value": "Kedvenc"
+  },
+  "favorites": {
+    "value": "Kedvencek"
+  },
+  "feature_unavailable": {
+    "value": "Ez a funkció nem érhető el."
+  },
+  "february": {
+    "value": "február"
+  },
+  "fido2_authenticate_web_authn": {
+    "value": "WebAuthn hitelesítése"
+  },
+  "fido2_check_browser": {
+    "value": "Biztosítsuk, hogy az alapértelmezett böngésző támogassa a WebAuthn technológiát\n        és próbáljuk újra.\n    "
+  },
+  "fido2_desc": {
+    "value": "Hitelesítés FIDO2 WebAuthn használatával - hitelesíthetjük magunkat egy külső biztonsági\n        kulcs segítségével.\n    "
+  },
+  "fido2_instruction": {
+    "value": "A folytatáshoz készítsük elő a FIDO2 WebAuthn-kompatibilis biztonsági kulcsot,\n        azután kattintsunk a WebAuthn hitelesítése lehetőségre a következő képernyőn és kövessük a megjelenő\n        utasításokat.\n    "
+  },
+  "fido2_return_to_app": {
+    "value": "Vissza az alkalmazásba"
+  },
+  "fido2_title": {
+    "value": "FIDO2 WebAuthn"
+  },
+  "field_type_boolean": {
+    "value": "Logikai"
+  },
+  "field_type_hidden": {
+    "value": "Rejtett"
+  },
+  "field_type_linked": {
+    "value": "Csatolva"
+  },
+  "field_type_text": {
+    "value": "Szöveg"
+  },
+  "fifteen_minutes": {
+    "value": "15 perc"
+  },
+  "file": {
+    "value": "Fájl"
+  },
+  "file_bug_report": {
+    "value": "Hibabejelentés"
+  },
+  "file_bug_report_description": {
+    "value": "Nyiss egy Issuet a mi Gthub repositorynkban."
+  },
+  "file_format": {
+    "value": "Fájlformátum"
+  },
+  "file_password": {
+    "value": "Fájl jelszó"
+  },
+  "file_source": {
+    "value": "Fájl forrás"
+  },
+  "file_type_is_not_selected": {
+    "value": "A fájltípus nem lett kiválasztva, koppintsunk a kiválasztáshoz."
+  },
+  "file_type_is_selected": {
+    "value": "A fájltípus kiválasztásra került."
+  },
+  "fill_out_the_form_and_import_your_saved_password_file": {
+    "value": "Töltsük ki az űrlapot és importáljuk a mentett\n        jelszófájlt.\n    "
+  },
+  "filter_by_vault": {
+    "value": "Elemek szűrése széf szerint"
+  },
+  "fingerprint": {
+    "value": "Ujjlenyomat"
+  },
+  "fingerprint_direction": {
+    "value": "Használd az ujjlenyomatod az ellenőrzéshez."
+  },
+  "fingerprint_phrase": {
+    "value": "Ujjlenyomat mondat"
+  },
+  "firefox_relay": {
+    "value": "Firefox Relay"
+  },
+  "first_dot_go_to_your_device_settings_passwords_password_options": {
+    "value": "1. Nyissuk meg az eszköz Beállítások\n         Jelszavak  Jelszó opciók menüpontot.\n    "
+  },
+  "first_name": {
+    "value": "Személynév"
+  },
+  "five_minutes": {
+    "value": "5 perc"
+  },
+  "folder": {
+    "value": "Mappa"
+  },
+  "folder_created": {
+    "value": "Új mappa létrehozva."
+  },
+  "folder_deleted": {
+    "value": "A mappa törlése megtörtént."
+  },
+  "folder_none": {
+    "value": "Nincs mappa"
+  },
+  "folder_updated": {
+    "value": "A mappa mentésre került."
+  },
+  "folders": {
+    "value": "Mappák"
+  },
+  "follow_the_instructions_in_the_email_sent_to_x_to_continue_creating_your_account": {
+    "value": "Kövessük %1$s címre\n        küldött emailben található utasításokat a fiók létrehozásának folytatásához.\n    "
+  },
+  "follow_the_steps_from_duo_to_finish_logging_in": {
+    "value": "Kövessük a Duo lépéseit a bejelentkezés\n        befejezéséhez.\n    "
+  },
+  "for_your_security_be_sure_to_delete_your_saved_password_file": {
+    "value": "A biztonság érdekében töröljük a mentett\n        jelszó fájlt.\n    "
+  },
+  "format_x": {
+    "value": "Formátum: %1$s"
+  },
+  "format_x_separate_multiple_ur_is_with_a_comma": {
+    "value": "Formátum: %1$s. A több URI elemet vesszővel válasszuk\n        el.\n    "
+  },
+  "formatted_incorrectly": {
+    "value": "%1$s nem megfelelő formátumú."
+  },
+  "forward_email": {
+    "value": "ForwardEmail"
+  },
+  "forwarded_email_alias": {
+    "value": "Továbbított email álnevek"
+  },
+  "forwarded_email_description": {
+    "value": "Email álnév generálása külső továbbító szolgáltatással."
+  },
+  "four_hours": {
+    "value": "4 óra"
+  },
+  "from_your_computer_follow_these_instructions_to_export_saved_passwords": {
+    "value": "A számítógépről kövessük az\n        alábbi utasításokat a mentett jelszavak exportálásához a böngészőből vagy más jelszókezelőből. Ezután\n        biztonságosan importáljuk azokat a Bitwardenbe.\n    "
+  },
+  "full_name": {
+    "value": "Teljes név"
+  },
+  "generate_button_label": {
+    "value": "Generálás"
+  },
+  "generate_master_password": {
+    "value": "Mesterjelszó generálás"
+  },
+  "generate_password": {
+    "value": "Jelszó generálása"
+  },
+  "generate_username": {
+    "value": "Felhasználónév generálása"
+  },
+  "generator": {
+    "value": "Generátor"
+  },
+  "generic_error_message": {
+    "value": "Nem lehetett feldolgozni a kérést. Próbáljuk újra vagy vegyük fel a kapcsolatot\n        a Bitwarden szolgáltatóval.\n    "
+  },
+  "get_advice_announcements_and_research_opportunities_from_bitwarden_in_your_inbox_unsubscribe_any_time": {
+    "value": "\n        Tanácsokat, bejelentéseket és kutatási lehetőségeket kaphatunk a Bitwardentől a postaládába. Bármikor\n        leiratkozhatunk.\n    "
+  },
+  "get_emails_from_bitwarden_for_announcements_advices_and_research_opportunities_unsubscribe_any_time": {
+    "value": "\n        Emaileket kaphatunk a Bitwardentől bejelentésekről, tanácsokról és kutatási lehetőségekről. Bármikor\n        leiratkozhatunk.\n    "
+  },
+  "get_instant_access_to_your_passwords_and_passkeys": {
+    "value": "Azonnali hozzáférés a jelszavakhoz és\n        belépőkulcsokhoz!\n    "
+  },
+  "get_master_passwordword_hint": {
+    "value": "Mesterjelszó emlékeztető kérése"
+  },
+  "get_password_hint": {
+    "value": "Kérj mesterjelszó emlékeztetőt"
+  },
+  "get_started": {
+    "value": "Kezdés"
+  },
+  "give_feedback": {
+    "value": "Visszajelzés adása"
+  },
+  "give_your_vault_a_head_start": {
+    "value": "Adjunk esélyt a széfnek"
+  },
+  "go_back": {
+    "value": "Vissza"
+  },
+  "go_to_bitwarden_com_download_to_integrate_bitwarden_into_browser": {
+    "value": "Keressük fel a\n        bitwarden.com/download webhelyet és integráljuk a Bitwardent kedvenc böngészőbe a zökkenőmentes élmény\n        érdekében.\n    "
+  },
+  "go_to_my_vault": {
+    "value": "Saját széf megnyitása"
+  },
+  "go_to_website": {
+    "value": "Ugrás a webhelyre"
+  },
+  "good": {
+    "value": "Jó"
+  },
+  "got_it": {
+    "value": "Rendben"
+  },
+  "granted": {
+    "value": "Engedélyezve"
+  },
+  "help_and_feedback": {
+    "value": "Súgó és visszajelzés"
+  },
+  "help_with_server_geolocations": {
+    "value": "Segítség szerver geolokációval."
+  },
+  "hide": {
+    "value": "Elrejt"
+  },
+  "hide_email": {
+    "value": "Saját email cím elrejtése a címzettek elől."
+  },
+  "hide_text_by_default": {
+    "value": "A Send elérésekor alapértelmezés szerint a szöveg elrejtése"
+  },
+  "hold_yubikey_near_top": {
+    "value": "Tartsuk lenyomva a Yubikey-t, a készülék tetején."
+  },
+  "host": {
+    "value": "Kiszolgáló"
+  },
+  "icons": {
+    "value": "Ikonok"
+  },
+  "icons_url": {
+    "value": "Ikonszerver webcím"
+  },
+  "identification": {
+    "value": "Azonosítás"
+  },
+  "identities": {
+    "value": "Azonosságok"
+  },
+  "identity_name": {
+    "value": "Azonosság név"
+  },
+  "identity_url": {
+    "value": "Azonosító szerver webcím"
+  },
+  "immediately": {
+    "value": "Azonnal"
+  },
+  "import_certificate": {
+    "value": "Tanúsítvány importálása"
+  },
+  "import_client_certificate": {
+    "value": "Ügyfél tanúsítvány importálása"
+  },
+  "import_error": {
+    "value": "Importálási hiba"
+  },
+  "import_items": {
+    "value": "Elemek importálása"
+  },
+  "import_items_confirmation": {
+    "value": "Egyszerre importálhatunk elemeket a bitwarden.com webes széfjéből.\n        Meglátogatjuk most a webhelyet?\n    "
+  },
+  "import_items_description": {
+    "value": "Több bejelentkezés gyors importálása egyszerre egy másik jelszókezelő\n        alkalmazásból.\n    "
+  },
+  "import_logins": {
+    "value": "Bejelentkezések importálása"
+  },
+  "import_logins_later": {
+    "value": "Bejelentkezések importálása később"
+  },
+  "import_logins_later_dialog_title": {
+    "value": "Bejelentkezések importálása később?"
+  },
+  "import_logins_to_bitwarden": {
+    "value": "Bejelentkezések importálása a Bitwardenbe"
+  },
+  "import_saved_logins": {
+    "value": "Mentett bejelentkezések importálása"
+  },
+  "import_successful": {
+    "value": "Az Importálás sikeres volt."
+  },
+  "important": {
+    "value": "Fontos"
+  },
+  "important_notice": {
+    "value": "Fontos megjegyzés"
+  },
+  "improves_login_filling_for_supported_websites_on_chrome": {
+    "value": "Javítja a bejelentkezési adatok kitöltését a\n        támogatott webhelyeken a Chrome-ban. Az engedélyezést követően a Chrome beállításaiba kerülünk, ahol\n        engedélyezhetjük a harmadik féltől származó automatikus kitöltést.\n    "
+  },
+  "in_the_bitwarden_navigation_find_the_tools_option_and_select_import_data": {
+    "value": "A Bitwarden navigációban\n        keressük meg az Eszközök opciót és válasszuk az Adatok importálása lehetőséget.\n    "
+  },
+  "include_number": {
+    "value": "Szám is"
+  },
+  "inline_autofill": {
+    "value": "Szövegközi automatikus kitöltés használata"
+  },
+  "inline_autofill_description": {
+    "value": "Használjuk a szövegközi automatikus kitöltést, ha azt a kiválasztott IME\n        (billentyűzet) támogatja. Ha a konfiguráció nem támogatott (vagy ez az opció le van tiltva), akkor az\n        alapértelmezett automatikus kitöltési átfedőréteg kerül használatba.\n    "
+  },
+  "internet_connection_required_message": {
+    "value": "Csatlakozzunk az internetre a folytatás előtt."
+  },
+  "internet_connection_required_title": {
+    "value": "Internetkapcsolat szükséges"
+  },
+  "invalid_api_key": {
+    "value": "Érvénytelen API kulcs"
+  },
+  "invalid_api_token": {
+    "value": "Érvénytelen API vezérjel"
+  },
+  "invalid_certificate_chain": {
+    "value": "A tanúsítvány lánc érvénytelen."
+  },
+  "invalid_email": {
+    "value": "Az email cím érvénytelen."
+  },
+  "invalid_format_use_https_http_or_android_app": {
+    "value": "A formátum érvénytelen. Használjuk a https://, http://\n        vagy androidapp:// elemet.\n    "
+  },
+  "invalid_master_password": {
+    "value": "A mesterjelszó érvénytelen. Próbáljuk újra."
+  },
+  "invalid_pin": {
+    "value": "A pinkód érvénytelen. Próbáljuk újra."
+  },
+  "invalid_uri": {
+    "value": "Az URI érvénytelen."
+  },
+  "invalid_verification_code": {
+    "value": "A hitelesítő kód érvénytelen."
+  },
+  "ip_address": {
+    "value": "IP cím"
+  },
+  "item_deleted": {
+    "value": "Az elem törlésre került."
+  },
+  "item_details": {
+    "value": "Elem részletek"
+  },
+  "item_information": {
+    "value": "Elem információ"
+  },
+  "item_name_required": {
+    "value": "Elem név (kötelező)"
+  },
+  "item_restored": {
+    "value": "Az elem visszaállításra került."
+  },
+  "item_shared": {
+    "value": "Az elem megosztásra került."
+  },
+  "item_soft_deleted": {
+    "value": "Az elem a lomtárba került."
+  },
+  "item_updated": {
+    "value": "Az elem frissítésre került."
+  },
+  "items": {
+    "value": "Elemek"
+  },
+  "items_for_uri": {
+    "value": "%1$s elemei"
+  },
+  "january": {
+    "value": "január"
+  },
+  "july": {
+    "value": "július"
+  },
+  "june": {
+    "value": "június"
+  },
+  "just_now": {
+    "value": "Éppen most"
+  },
+  "keep_it_secret_keep_it_safe": {
+    "value": "Ügyeljünk arra, hogy leírt jelszót titokban és biztonságos helyen\n        tároljuk.\n    "
+  },
+  "language": {
+    "value": "Nyelv"
+  },
+  "language_change_requires_app_restart": {
+    "value": "A nyelvváltáshoz újra kell indítani az alkalmazást."
+  },
+  "language_change_x_description": {
+    "value": "A nyelv a %1$s nyelvre módosult. A változás megtekintéséhez indítsuk\n        újra az alkalmazást.\n    "
+  },
+  "last_name": {
+    "value": "Családnév"
+  },
+  "last_sync": {
+    "value": "Utolsó szinkronizálás:"
+  },
+  "launch": {
+    "value": "Indítás"
+  },
+  "launch_duo": {
+    "value": "Duo indítása"
+  },
+  "launch_web_authn": {
+    "value": "WebAuthn indítása"
+  },
+  "learn_about_new_logins": {
+    "value": "További információ az új bejelentkezésekről"
+  },
+  "learn_about_organizations_description_long": {
+    "value": "A Bitwarden lehetővé teszi a széf elemeinek megosztását\n        másokkal egy szervezet használatával. További információ a bitwarden.com webhelyen.\n    "
+  },
+  "learn_about_other_ways_to_prevent_account_lockout": {
+    "value": "További információ a fiókzárolás megelőzésének\n        egyéb módjairól\n    "
+  },
+  "learn_about_ways_to_prevent_account_lockout": {
+    "value": "\n        <annotation link=\"onPreventAccountLockout\">További információ a fiókzárolás megelőzésének módjairól</annotation>\n    "
+  },
+  "learn_more": {
+    "value": "További információ"
+  },
+  "learn_more_about_generating_secure_login_credentials_with_guided_tour": {
+    "value": "Tudjunk meg többet a\n        biztonságos bejelentkezési hitelesítő adatok létrehozásáról egy vezetett bemutatóval.\n    "
+  },
+  "learn_more_about_how_to_use_bitwarden_on_the_help_center": {
+    "value": "További információ a Bitwarden használatáról\n        a Súgó Központban.\n    "
+  },
+  "learn_org": {
+    "value": "Információ szervezetekről"
+  },
+  "learn_org_confirmation": {
+    "value": "A Bitwardenben szervezeti fiók használatával megoszthatók másokkal a széfben\n        lévő elemek.. Szeretnénk megnyitni a bitwarden.com webhelyet további információért?\n    "
+  },
+  "leave_organization": {
+    "value": "Kilépés a szervezetből"
+  },
+  "leave_organization_name": {
+    "value": "Elhagyjuk %1$s szervezetet?"
+  },
+  "length": {
+    "value": "Hossz"
+  },
+  "level_up_your_logins": {
+    "value": "A bejelentkezések magasabb szintre emelése"
+  },
+  "license_number": {
+    "value": "Vezetői engedély száma"
+  },
+  "light": {
+    "value": "Világos"
+  },
+  "link": {
+    "value": "Hivatkozás"
+  },
+  "loading": {
+    "value": "A betöltés folyamatban van."
+  },
+  "lock": {
+    "value": "Lezárás"
+  },
+  "lock_now": {
+    "value": "Zárolás most"
+  },
+  "log_in_accepted": {
+    "value": "A bejelentkezés megerősítésre került."
+  },
+  "log_in_at_bitwarden_com_to_easily_manage_your_account": {
+    "value": "Jelentkezzünk be a bitwarden.com webhelyen,\n        hogy egyszerűen kezeljük a fiókot és frissítsük a beállításokat.\n    "
+  },
+  "log_in_attempt_by_x_on_y": {
+    "value": "Bejelentlezési kísérlet %1$s - %2$s"
+  },
+  "log_in_denied": {
+    "value": "A bejelentkezés megtagadásra került."
+  },
+  "log_in_initiated": {
+    "value": "A bejelentkezés elindításra került."
+  },
+  "log_in_noun": {
+    "value": "Bejelentkezés"
+  },
+  "log_in_quickly_and_easily_across_devices": {
+    "value": "Bejelentkezés gyorsan és egyszerűen minden eszközön"
+  },
+  "log_in_requested": {
+    "value": "Bejelentkezés megkérve"
+  },
+  "log_in_sso": {
+    "value": "Vállalati egyszeri bejelentkezés"
+  },
+  "log_in_sso_summary": {
+    "value": "Gyors bejelentkezés a szervezeti önálló bejelentkező portálba. A kezdéshez meg\n        kell adni a szervezeti azonosítót.\n    "
+  },
+  "log_in_to_bitwarden": {
+    "value": "Bejelentkezés a Bitwardenbe"
+  },
+  "log_in_to_the_bitwarden_web_app": {
+    "value": "Jelentkezzünk be a Bitwarden webes alkalmazásba."
+  },
+  "log_in_verb": {
+    "value": "Bejelentkezés"
+  },
+  "log_in_with_another_device": {
+    "value": "Bejelentkezés más eszközzel"
+  },
+  "log_in_with_device": {
+    "value": "Bejelentkezés eszközzel"
+  },
+  "log_in_with_device_must_be_set_up_in_the_settings_of_the_bitwarden_app_need_another_option": {
+    "value": "Az\n        eszközzel történő bejelentkezést be kell állítani a Bitwarden alkalmazás beállításaiban. Más opcióra van\n        szükség?\n    "
+  },
+  "log_in_with_master_password": {
+    "value": "Bejelentkezés mesterjelszóval"
+  },
+  "log_out": {
+    "value": "Kijelentkezés"
+  },
+  "logged_in": {
+    "value": "Megtörtént a bejelentkezés."
+  },
+  "logged_in_as_on": {
+    "value": "Bejelentkezve mint %1$s :: %2$s."
+  },
+  "logging_in": {
+    "value": "Bejelentkezés..."
+  },
+  "logging_in_as_x": {
+    "value": "Bejelentkezés mint %1$s"
+  },
+  "logging_in_as_x_on_y": {
+    "value": "Bejelentkezve mint %1$s :: %2$s"
+  },
+  "logging_in_on": {
+    "value": "Bejelentkezés:"
+  },
+  "logging_in_on_with_colon": {
+    "value": "Bejelentkezés:"
+  },
+  "login_approved": {
+    "value": "A bejelentkezés jóváhagyásra került."
+  },
+  "login_attempt_from_x_do_you_want_to_switch_to_this_account": {
+    "value": "Bejelentkezési kísérlet történt:\n        %1$s\n        Szeretnénk átváltani erre a fiókra?\n    "
+  },
+  "login_credentials": {
+    "value": "Bejelentkezési hitelesítő adatok"
+  },
+  "login_expired": {
+    "value": "A bejelentkezési munkamenet lejárt."
+  },
+  "login_request_has_already_expired": {
+    "value": "A bejelentkezési kérés már lejárt."
+  },
+  "login_sso_error": {
+    "value": "Jelenleg nem lehet bejelentkezni SSO segítségével"
+  },
+  "login_to_bitwarden": {
+    "value": "Bejelentkezés a Bitwardenbe"
+  },
+  "login_unavailable": {
+    "value": "A bejelentkezés nem érhető el."
+  },
+  "logins": {
+    "value": "Bejelentkezések"
+  },
+  "logins_imported": {
+    "value": "A bejelentkezések importálásra kerültek."
+  },
+  "logout_confirmation": {
+    "value": "Biztos, hogy ki szeretnél jelentkezni?"
+  },
+  "lost_2fa_app": {
+    "value": "Elveszett hitelesítő alkalmazás?"
+  },
+  "lowercase_ato_z": {
+    "value": "Kisbetűs (a-z)"
+  },
+  "make_it_yours": {
+    "value": "Tegyük sajátunkká"
+  },
+  "manage": {
+    "value": "Kezelés"
+  },
+  "manage_your_logins_from_anywhere_with_bitwarden_tools": {
+    "value": "Állítsuk be az automatikus kitöltést az összes\n        eszközön, hogy bárhol egyetlen érintéssel bejelentkezhessünk.\n    "
+  },
+  "march": {
+    "value": "március"
+  },
+  "master_password": {
+    "value": "Mesterjelszó"
+  },
+  "master_password_confirmation_val_message": {
+    "value": "A megadott két jelszó nem egyezik."
+  },
+  "master_password_description": {
+    "value": "A mesterjelszó az a jelszó amit a széfed eléréséhez fogsz használni.\n        Nagyon fontos, hogy ne felejtsd el a mesterjelszavad, mert nincs lehetőséged visszaállítani ha elfelejtetted.\n    "
+  },
+  "master_password_hint": {
+    "value": "Mesterjelszó emlékeztető (nem kötelező)"
+  },
+  "master_password_hint_description": {
+    "value": "A mesterjelszó emlékeztető segíthet emlékezni a jelszavadra ha\n        elfejetetted volna.\n    "
+  },
+  "master_password_hint_not_specified": {
+    "value": "Master password hint"
+  },
+  "master_password_important_hint": {
+    "value": "Important: Your master password cannot be recovered if you forget it!\n        12 characters minimum.\n    "
+  },
+  "master_password_length_val_message_x": {
+    "value": "A mesterjelszónak legalább %1$s karakter hosszúnak kell\n        lennie.\n    "
+  },
+  "master_password_policy_in_effect": {
+    "value": "Egy vagy több szervezeti rendszabályhoz mesterjelszó szükséges a\n        következő követelmények megfeleléséhez:\n    "
+  },
+  "master_password_policy_validation_message": {
+    "value": "A jelszó nem egyezik a szervezeti követelményekhez.\n        Ellenőrizzük a szabály információt és próbáljuk újra.\n    "
+  },
+  "master_password_policy_validation_title": {
+    "value": "Érvénytelen jelszó."
+  },
+  "master_password_re_prompt_help": {
+    "value": "Mesterjelszó újbóli bekérés súgó"
+  },
+  "master_password_required": {
+    "value": "Mesterjelszó (kötelező)"
+  },
+  "match_detection": {
+    "value": "Egyezés felismerése"
+  },
+  "matching_items": {
+    "value": "Megegyező elemek"
+  },
+  "max_file_size": {
+    "value": "Maximális fájl méret 100 MB."
+  },
+  "maximum_access_count": {
+    "value": "Maximális elérési szám"
+  },
+  "maximum_access_count_info": {
+    "value": "Beállítva a Send elérhetetlen lesz a meghatározott hozzáférések számának\n        elérése után.\n    "
+  },
+  "maximum_access_count_reached": {
+    "value": "A maximális hozzáférések száma elérésre került."
+  },
+  "may": {
+    "value": "május"
+  },
+  "middle_name": {
+    "value": "Középső név"
+  },
+  "min_numbers": {
+    "value": "Legalább ennyi szám"
+  },
+  "min_special": {
+    "value": "Legalább ennyi speciális karakter"
+  },
+  "minimum_characters": {
+    "value": "%1$s karakter"
+  },
+  "miscellaneous": {
+    "value": "Egyebek"
+  },
+  "more": {
+    "value": "Továbbiak"
+  },
+  "more_settings": {
+    "value": "További beállítások"
+  },
+  "move": {
+    "value": "Áthelyezés"
+  },
+  "move_down": {
+    "value": "Lefelé mozgatás"
+  },
+  "move_to_org_desc": {
+    "value": "Válasszunk egy szervezetet, ahová áthelyezni szeretnénk ezt az elemet. A szervezetbe\n        áthelyezés átruházza az elem tulajdonjogát az adott szervezetre. Az áthelyezés után többé nem leszünk az elem\n        közvetlen tulajdonosa.\n    "
+  },
+  "move_to_organization": {
+    "value": "Áthelyezés szervezetbe"
+  },
+  "move_up": {
+    "value": "Felfelé mozgatás"
+  },
+  "moved_item_to_org": {
+    "value": "%1$s áthelyezésre került: %2$s."
+  },
+  "mr": {
+    "value": "Úr"
+  },
+  "mrs": {
+    "value": "Asszony"
+  },
+  "ms": {
+    "value": "Kisasszony"
+  },
+  "must_log_in_main_app": {
+    "value": "A kiegészítő használatához be kell jelentkezni a Bitwarden alkalmazásba.\n    "
+  },
+  "must_log_in_main_app_autofill": {
+    "value": "Az automatikus kitöltő szolgáltatás használata előtt be kell\n        jelentkezni a fő Bitwarden alkalmazásba.\n    "
+  },
+  "mutual_tls": {
+    "value": "Kölcsönös TLS"
+  },
+  "mx": {
+    "value": "Mx"
+  },
+  "my_vault": {
+    "value": "Saját széf"
+  },
+  "name": {
+    "value": "Név"
+  },
+  "near": {
+    "value": "Közelében"
+  },
+  "need_another_option": {
+    "value": "Másik opció szükséges?"
+  },
+  "need_help_check_out_import_help": {
+    "value": "Segítségre van szükség? Nézzük meg az importálás súgót."
+  },
+  "need_some_inspiration": {
+    "value": "\"Szükség van egy kis inspirációra?\""
+  },
+  "never": {
+    "value": "Soha"
+  },
+  "never_lock_warning": {
+    "value": "Ha a zárolási lehetőségeket \\\"Soha” értékre állítjuk, akkor a széf bárki számára\n        elérhető lesz, aki hozzáfér az eszközhöz. Ha ezt az opciót használjuk, akkor gondoskodni kell arról, hogy az\n        eszköz megfelelően védett legyen.\n    "
+  },
+  "never_lose_access_to_your_vault": {
+    "value": "Soha ne veszítsük el a hozzáférést a széfhez."
+  },
+  "new_blocked_uri": {
+    "value": "Új blokkolt URI"
+  },
+  "new_card": {
+    "value": "Új kártya"
+  },
+  "new_custom_field": {
+    "value": "Új egyedi mező"
+  },
+  "new_file_send": {
+    "value": "Új fájl Send elem"
+  },
+  "new_identity": {
+    "value": "Új személyazonosság"
+  },
+  "new_item": {
+    "value": "Új elem"
+  },
+  "new_item_created": {
+    "value": "Az új elem létrejött."
+  },
+  "new_login": {
+    "value": "Új bejelentkezés"
+  },
+  "new_master_password_hint": {
+    "value": "Új mesterjelszó kérés"
+  },
+  "new_master_password_required": {
+    "value": "Új mesterjelszó (kötelező)"
+  },
+  "new_note": {
+    "value": "Új jegyzet"
+  },
+  "new_passkey": {
+    "value": "Új hozzáférési kulcs"
+  },
+  "new_password": {
+    "value": "Új jelszó"
+  },
+  "new_send_created": {
+    "value": "Az új Send elem létrejött."
+  },
+  "new_ssh_key": {
+    "value": "Új SSH kulcs"
+  },
+  "new_text_send": {
+    "value": "Új szöveges Send elem"
+  },
+  "new_to_bitwarden": {
+    "value": "Új vagyunk a Bitwardenben?"
+  },
+  "new_uri": {
+    "value": "Új URI"
+  },
+  "next": {
+    "value": "Következő"
+  },
+  "no": {
+    "value": "Nem"
+  },
+  "no_attachments": {
+    "value": "Nincsenek mellékletek."
+  },
+  "no_cards": {
+    "value": "Nincsenek kártyák a széfben."
+  },
+  "no_collections_to_list": {
+    "value": "Nincsenek megjeleníthető gyűjtemények."
+  },
+  "no_email_go_back_to_edit_your_email_address": {
+    "value": "Nincs email? Visszalépés az email cím szerkesztéséhez.\n    "
+  },
+  "no_favorites": {
+    "value": "Nincsenek kedvencek a széfedben."
+  },
+  "no_file_chosen": {
+    "value": "Nincs kiválasztott fájl"
+  },
+  "no_file_sends": {
+    "value": "Nincsenek fájl Send elemek a széfben."
+  },
+  "no_folder": {
+    "value": "Nincs mappa"
+  },
+  "no_folders_to_list": {
+    "value": "Nincsenek megjeleníthető mappák."
+  },
+  "no_identities": {
+    "value": "Nincsenek kedvencek a széfben."
+  },
+  "no_items": {
+    "value": "Nincsenek elemek a széfben."
+  },
+  "no_items_collection": {
+    "value": "Nincsenek elemek ebben a gyűjteményben."
+  },
+  "no_items_folder": {
+    "value": "Nincsenek elemek ebben a mappában."
+  },
+  "no_items_for_uri": {
+    "value": "Nincs elem a széfben: %1$s."
+  },
+  "no_items_for_vault": {
+    "value": "Nincs elem a széfben \\\"%1$s\\\" egyezéssel."
+  },
+  "no_items_tap": {
+    "value": "Ehhez a webhelyhez vagy alkalmazáshoz nincs elem a széfben. Koppintás létrehozható\n        egy.\n    "
+  },
+  "no_items_to_list": {
+    "value": "Nincsenek megjeleníthető elemek."
+  },
+  "no_items_trash": {
+    "value": "Nincs elem a lomtárban."
+  },
+  "no_logins": {
+    "value": "Nincsenek bejelentkezések a széfben."
+  },
+  "no_logins_were_imported": {
+    "value": "Nem lett bejelentkezés importáva."
+  },
+  "no_notes": {
+    "value": "Nincsenek jegyzetek a széfben."
+  },
+  "no_orgs_to_list": {
+    "value": "Nincs megjeleníthető szervezet."
+  },
+  "no_passwords_to_list": {
+    "value": "Nincs megjeleníthető jelszó."
+  },
+  "no_pending_requests": {
+    "value": "Nincs függőben levő kérés."
+  },
+  "no_sends": {
+    "value": "A fiókban nincsenek Send elemek."
+  },
+  "no_ssh_keys": {
+    "value": "Nincsenek SSH kulcsok a széfben."
+  },
+  "no_text_sends": {
+    "value": "Nincsenek szöveges Send elemek a széfben."
+  },
+  "no_thanks": {
+    "value": "Nem, köszönöm"
+  },
+  "no_two_step_available": {
+    "value": "Ennél a fióknál engedélyezett a kétlépcsős bejelentkezés, de a beállított\n        kétlépcsős bejelentkezési szolgáltatók egyike sem támogatott ezen az eszközön. Használjunk támogatott eszközt\n        és/vagy olyan szolgáltatókat, amelyek jobban támogatják a több eszközzel történő használatot (ilyenek például a\n        hitelesítőalkalmazások).\n    "
+  },
+  "no_username": {
+    "value": "Nincs felhasználónév"
+  },
+  "no_username_password_configured": {
+    "value": "Ehhez a bejelentkezéshez nem lett felhasználónév vagy jelszó\n        beállítva.\n    "
+  },
+  "nord": {
+    "value": "Nord"
+  },
+  "not_you": {
+    "value": "Ez tévedés?"
+  },
+  "notes": {
+    "value": "Jegyzetek"
+  },
+  "notes_info": {
+    "value": "Személyes megjegyzések erről a Sendről."
+  },
+  "notice": {
+    "value": "Megjegyzés"
+  },
+  "november": {
+    "value": "november"
+  },
+  "number": {
+    "value": "Szám"
+  },
+  "number_of_words": {
+    "value": "Szavak száma"
+  },
+  "numbers_zero_to_nine": {
+    "value": "Számok (0-9)"
+  },
+  "october": {
+    "value": "október"
+  },
+  "off": {
+    "value": "Ki"
+  },
+  "ok": {
+    "value": "Ok"
+  },
+  "ok_got_it": {
+    "value": "Ok, megvan!"
+  },
+  "on": {
+    "value": "Be"
+  },
+  "on_restart": {
+    "value": "Újraindításkor"
+  },
+  "on_your_computer_log_in_to_your_current_browser_or_password_manager": {
+    "value": "A számítógépen jelentkezzünk be\n        az aktuális böngészőbe vagy a jelszókezelőbe.\n    "
+  },
+  "on_your_computer_open_a_new_browser_tab_and_go_to_vault_bitwarden_com": {
+    "value": "A számítógépén nyissunk meg egy\n        új böngészőfület és ugrás a vault.bitwarden.com webcímre.\n    "
+  },
+  "once_the_key_is_successfully_entered": {
+    "value": "A kulcs sikeres megadása után válasszuk ki a\n        TOTP hozzáadása a kulcs biztonságos tárolásához lehetőséget.\n    "
+  },
+  "one_day": {
+    "value": "1 nap"
+  },
+  "one_hour": {
+    "value": "1 óra"
+  },
+  "one_hour_and_one_minute": {
+    "value": "Egy óra és egy perc"
+  },
+  "one_hour_and_x_minute": {
+    "value": "Egy óra és %1$s perc"
+  },
+  "one_minute": {
+    "value": "1 perc"
+  },
+  "one_of_the_best_ways_to_create_a_secure_and_memorable_password": {
+    "value": "A biztonságos és megjegyezhető jelszó\n        létrehozásának egyik legjobb módja a jelmondat használata. \\nItt van, hogy hogyan:\n    "
+  },
+  "open": {
+    "value": "Megnyitás"
+  },
+  "open_email_app": {
+    "value": "Email alkalmazás megnyitása"
+  },
+  "option_defaults": {
+    "value": "Az opció alapértelmezések a Bitwarden főalkalmazás jelszógeneráló eszközéből\n        származnak.\n    "
+  },
+  "options": {
+    "value": "Beállítások"
+  },
+  "options_collapsed": {
+    "value": "Az opciók bezártak, koppintásra kinyílnak."
+  },
+  "options_expanded": {
+    "value": "Az opciók nyitottak, koppintásra bezárulnak."
+  },
+  "or_log_in_you_may_already_have_an_account": {
+    "value": "Vagy Bejelentkezés, ha már van fiók."
+  },
+  "org_identifier": {
+    "value": "Szervezeti azonosító"
+  },
+  "organization": {
+    "value": "Szervezet"
+  },
+  "organization_is_using_sso_with_a_self_hosted_key_server": {
+    "value": "%1$s jelenleg saját tárolású aláíráskulcsú\n        SSO szervert használ. A mesterjelszó a továbbiakban nem szükséges a szervezeti tagsági bejelentkezéshez.\n    "
+  },
+  "organization_sso_identifier_required": {
+    "value": "A szervezeti SSO azonosító megadása szükséges."
+  },
+  "organization_unassigned_items_message_self_host_041624_description_long": {
+    "value": "2024. május 16-tól a nem\n        hozzá rendelt szervezeti elemek többé nem lesznek láthatók az Összes széf nézetben és csak az Adminisztrátori\n        konzolon keresztül érhetők el. Rendeljük ezeket az elemeket egy gyűjteményhez az Adminisztrátori konzolból, hogy\n        láthatóvá tegyük azokat.\n    "
+  },
+  "organization_unassigned_items_message_useu_description_long": {
+    "value": "Megjegyzés: A nem hozzá nem rendelt\n        szervezeti elemek már nem láthatók az Összes széf nézetben és csak az Adminisztrátori konzolon keresztül érhetők\n        el. Rendeljük ezeket az elemeket egy gyűjteményhez az Adminisztrátor konzolból, hogy láthatóvá tegyük azokat.\n    "
+  },
+  "other": {
+    "value": "Egyéb"
+  },
+  "overlay_permission": {
+    "value": "Jogosultság"
+  },
+  "overwrite_passkey": {
+    "value": "Belépőkulcs felülírása?"
+  },
+  "owner": {
+    "value": "Tulajdonos"
+  },
+  "ownership": {
+    "value": "Tulajdonjog"
+  },
+  "page_number_x_of_y": {
+    "value": "%1$s / %2$s"
+  },
+  "passkey": {
+    "value": "Hozzáférési kulcs"
+  },
+  "passkey_authentication_failed_due_to_an_internal_error": {
+    "value": "A belépőkulcs hitelesítés meghiúsult egy belső\n        hiba miatt.\n    "
+  },
+  "passkey_management": {
+    "value": "Belépőkulcs kezelés"
+  },
+  "passkey_management_explanation_long": {
+    "value": "A Bitwarden használata az új belépőkulcsok mentéséhez és\n        bejelentkezés a széfben tárolt belépőkulcskkal.\n    "
+  },
+  "passkey_operation_failed_because_app_could_not_be_verified": {
+    "value": "A belépőkulcs művelet nem sikerült, mert\n        az alkalmazás nem lett ellenőrizve.\n    "
+  },
+  "passkey_operation_failed_because_app_is_signed_incorrectly": {
+    "value": "A jbelépőkulcs művelet nem sikerült, mert\n        az alkalmazás hibásan van aláírva.\n    "
+  },
+  "passkey_operation_failed_because_app_not_found_in_asset_links": {
+    "value": "A belépőkulcs művelet nem sikerült,\n        mert az alkalmazás nem található a készlet hivatkozásokban.\n    "
+  },
+  "passkey_operation_failed_because_app_signature_is_invalid": {
+    "value": "A belépőkulcs művelet meghiúsult, mert az\n        alkalmazás aláírás érvénytelen.\n    "
+  },
+  "passkey_operation_failed_because_browser_is_not_privileged": {
+    "value": "A belépőkulcs művelet nem sikerült, mert a\n        böngésző nem privilegizált.\n    "
+  },
+  "passkey_operation_failed_because_browser_signature_does_not_match": {
+    "value": "A belépőkulcs művelet nem sikerült,\n        mert a böngésző aláírás nem egyezik.\n    "
+  },
+  "passkey_operation_failed_because_host_url_is_not_present_in_request": {
+    "value": "A belépőkulcs művelet meghiúsult,\n        mert a kiszolgáló webcíme nem szerepel a kérésben.\n    "
+  },
+  "passkey_operation_failed_because_no_item_was_selected": {
+    "value": "A belépőkulcs művelet meghiúsult, mert nincs\n        kiválasztott elem.\n    "
+  },
+  "passkey_operation_failed_because_of_missing_asset_links": {
+    "value": "A belépőkulcs művelet nem sikerült, mert a\n        készlet hivatkozások hiányoznak.\n    "
+  },
+  "passkey_operation_failed_because_relying_party_cannot_be_identified": {
+    "value": "A belépőkulcs művelet meghiúsult,\n        mert az megcélzott fél nem lett azonosítva.\n    "
+  },
+  "passkey_operation_failed_because_the_request_is_invalid": {
+    "value": "A belépőkulcs művelet meghiúsult, mert a\n        kérés érvénytelen.\n    "
+  },
+  "passkey_operation_failed_because_the_selected_item_does_not_exist": {
+    "value": "A belépőkulcs művelet meghiúsult,\n        mert a kiválasztott elem nem létezik.\n    "
+  },
+  "passkey_operation_failed_because_user_could_not_be_verified": {
+    "value": "A belépőkulcs művelet nem sikerült, mert\n        az alkalmazás nem lett ellenőrizve.\n    "
+  },
+  "passkey_operation_failed_because_user_is_locked_out": {
+    "value": "A belépőkulcs művelet meghiúsult, mert a\n        felhasználó kizárásra került.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_attempts_exceeded": {
+    "value": "A belépőkulcs művelet\n        meghiúsult, mert a felhasználó ellenőrzések száma átlépésre került.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_was_cancelled": {
+    "value": "A belépőkulcs művelet meghiúsult,\n        mert a felhasználó ellenőrzés törlésre került.\n    "
+  },
+  "passkey_registration_failed_due_to_an_internal_error": {
+    "value": "A belépőkulcs művelet meghiúsult egy belső hiba\n        miatt.\n    "
+  },
+  "passkey_removed": {
+    "value": "A belépőlulcs eltávolításra került."
+  },
+  "passkey_will_not_be_copied": {
+    "value": "A hozzáférési kulcs nem kerül másolásra."
+  },
+  "passkeys": {
+    "value": "Hozzáférési kulcsok"
+  },
+  "passkeys_for_x": {
+    "value": "Belépőkulcs: %1$s"
+  },
+  "passkeys_not_supported_for_this_app": {
+    "value": "Ennél az alkalmazásnál a belépőkulcsok nem támogatottak."
+  },
+  "passphrase": {
+    "value": "Kulcsszó"
+  },
+  "passphrases_are_strong_passwords_that_are_often_easier_to_remember_and_type_than_random_passwords": {
+    "value": "A\n        jelmondatok erős jelszavak, amelyeket gyakran könnyebb megjegyezni és begépelni, mint a véletlenszerű\n        jelszavakat. Hasznosak az olyan fiókokba bejelentkezéshez, ahol az Automatikus kitöltés nem érhető el, például a\n        tévén a streaming szolgáltatásba.\n    "
+  },
+  "passport_number": {
+    "value": "Útlevélszám"
+  },
+  "password": {
+    "value": "Jelszó"
+  },
+  "password_autofill": {
+    "value": "Jelszó automatikus kitöltése"
+  },
+  "password_confirmation": {
+    "value": "Mesterjelszó megerősítése"
+  },
+  "password_confirmation_desc": {
+    "value": "Ez a művelet védett. A folytatásért ismételten meg kell adni a\n        mesterjelszőt az személyazonosság ellenőrzéséhez.\n    "
+  },
+  "password_exposed": {
+    "value": "Ez a jelszó %1$s alkalommal jelent meg az adatszivárgásban. Változtassuk meg.\n    "
+  },
+  "password_found_in_a_data_breach_alert_description": {
+    "value": "A jelszó megtalálható egy adatvédelmi incidensben.\n        A fiók védelméhez használjunk egyedi jelszót. Biztos, hogy kitett jelszót szeretnénk használni?\n    "
+  },
+  "password_generated": {
+    "value": "A jelszó generálásra került."
+  },
+  "password_generator": {
+    "value": "Jelszógenerátor"
+  },
+  "password_generator_policy_in_effect": {
+    "value": "Egy vagy több szervezet szabályai érintik a generátor\n        beállításokat.\n    "
+  },
+  "password_hint": {
+    "value": "Jelszó emlékeztető"
+  },
+  "password_hint_alert": {
+    "value": "Elküldtünk neked egy E-mailt mely tartalmazza a mesterjelszó emlékeztetődet.\n    "
+  },
+  "password_history": {
+    "value": "Jelszó előzmények"
+  },
+  "password_history_count": {
+    "value": "\n        <annotation link=\"passwordHistory\">Jelszó előzmények:\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "password_info": {
+    "value": "Opcionálissan egy jelszó kérhető a felhasználóktól a Send eléréséhez."
+  },
+  "password_is_not_visible_tap_to_show": {
+    "value": "A jelszó nem látható, koppintással megjeleníthető."
+  },
+  "password_is_visible_tap_to_hide": {
+    "value": "A jelszó látható, koppintással elrejthető."
+  },
+  "password_override_alert": {
+    "value": "Biztosan felül akarod írni a jelenlegi jelszót?"
+  },
+  "password_prompt": {
+    "value": "Mesterjelszó újbóli bekérése"
+  },
+  "password_protected": {
+    "value": "Jelszóval védett"
+  },
+  "password_safe": {
+    "value": "Ez a jelszó nem érintett egyetlen ismert adatszivárgásban sem. Biztonságos a\n        használata.\n    "
+  },
+  "password_type": {
+    "value": "Jelszótípus"
+  },
+  "password_used_to_export": {
+    "value": "Ezt a jelszó kerül használatba a fájl exportálására és importálására.\n    "
+  },
+  "passwords": {
+    "value": "Jelszavak"
+  },
+  "passwords_for_x": {
+    "value": "Belépőkulcs: %1$s"
+  },
+  "pending_delete": {
+    "value": "Függőben lévő törlés"
+  },
+  "pending_log_in_requests": {
+    "value": "Függő bejelentkezési kérések"
+  },
+  "personal_details": {
+    "value": "Személyes adatok"
+  },
+  "personal_ownership_policy_in_effect": {
+    "value": "Egy szervezeti házirend befolyásolja a tulajdonjog\n        beállításait.\n    "
+  },
+  "personal_ownership_submit_error": {
+    "value": "Egy vállalati házirend miatt korlátozható az elemek személyes\n        tárolóba történő mentése. Módosítsuk a Tulajdon opciót egy szervezetre és válasszunk az elérhető gyűjtemények\n        közül.\n    "
+  },
+  "phone": {
+    "value": "Telefonszám"
+  },
+  "photos": {
+    "value": "Képek"
+  },
+  "pick_three_or_four_random_unrelated_words": {
+    "value": "Válasszunk három vagy négy véletlenszerű, egymáshoz nem\n        kapcsolódó szót, amelyeket könnyen megjegyezhetünk. Gondoljunk olyan tárgyakra, helyekre vagy dolgokra,\n        amelyeket szeretünk.\n    "
+  },
+  "pin": {
+    "value": "Pinkód"
+  },
+  "pin_require_master_password_restart": {
+    "value": "Szükséges a feloldás mesterjelszóval az alkalmazás\n        újraindításakor?\n    "
+  },
+  "please_make_sure_your_vault_is_unlocked_and_the_fingerprint_phrase_matches_on_the_other_device": {
+    "value": "\n        Ellenőrizzük, hogy a széf feloldásra került és az Ujjlenyomat kifejezés egyezik a másik eszközön levővel.\n    "
+  },
+  "please_restart_registration_or_try_logging_in": {
+    "value": "Indítsuk újra a regisztrációt vagy próbáljunk meg\n        bejelentkezni. Valószínűleg már létezik a fiók.\n    "
+  },
+  "plus_addressed_email": {
+    "value": "További címzési email cím"
+  },
+  "plus_addressed_email_description": {
+    "value": "Használjuk az email cím szolgáltató alcímzési képességeit."
+  },
+  "point_your_camera_at_the_qr_code": {
+    "value": "Irányítsuk a kamerát a QR-kódra."
+  },
+  "policy_in_effect_lowercase": {
+    "value": "Egy vagy több kisbetűs karaktert tartalmaz"
+  },
+  "policy_in_effect_min_complexity": {
+    "value": "%1$s minimális összetettségi pontszáma"
+  },
+  "policy_in_effect_min_length": {
+    "value": "%1$s minimális hossza"
+  },
+  "policy_in_effect_numbers": {
+    "value": "Egy vagy több számot tartalmaz"
+  },
+  "policy_in_effect_special": {
+    "value": "%1$s speciális karakterekből egyet vagy többet tartalmaz."
+  },
+  "policy_in_effect_uppercase": {
+    "value": "Egy vagy több nagybetűs karaktert tartalmaz"
+  },
+  "possible_matching_items": {
+    "value": "Lehetséges megfelelő elemek"
+  },
+  "premium_required": {
+    "value": "A funkció használatához prémium tagság szükséges."
+  },
+  "premium_subscription_required": {
+    "value": "Prémium előfizetés szükséges"
+  },
+  "prevent_account_lockout": {
+    "value": "A fiókzárolás megakadályozása"
+  },
+  "privacy_policy": {
+    "value": "Adatvédelmi Irányelvek"
+  },
+  "privacy_policy_description_long": {
+    "value": "Az adatvédelmi szabályzat megtekintése a bitwarden.com webhelyen.\n    "
+  },
+  "private_key": {
+    "value": "Személyes kulcs"
+  },
+  "private_notes": {
+    "value": "Személyes jegyzetek"
+  },
+  "public_key": {
+    "value": "Nyilvános kulcs"
+  },
+  "push_notification_alert": {
+    "value": "A Bitwarden push-értesítések használatával gondoskodik a széf automatikus\n        szinkronizálásáról. A funkció előnyeinek kihasználásához a push-értesítések engedélyezésére vonatkozó kérdés\n        megjelenésekor válasszuk az \\\"Engedélyezés\\\" lehetőséget.\n    "
+  },
+  "put_the_words_together_in_any_order_to_form_your_passphrase": {
+    "value": "Állítsuk össze a szavakat tetszőleges\n        sorrendben a jelmondat kialakításához. Használjunk kötőjeleket, szóközöket, vagy hagyjuk azokat egyetlen hosszú\n        szóként – ez saját választás!\n    "
+  },
+  "quick_and_easy_login": {
+    "value": "Gyors és könnyű bejelentkezés"
+  },
+  "random": {
+    "value": "Véletlen"
+  },
+  "random_and_complex_using_numbers_and_special_characters": {
+    "value": "Véletlenszerű és összetett, számokat és\n        speciális karakterek használatával\n    "
+  },
+  "random_word": {
+    "value": "Véletlenszerű szó"
+  },
+  "rate_app_description_long": {
+    "value": "Segítsünk másoknak megtudni, hogy a Bitwarden megfelelő-e számukra.\n        Látogassunk el az alkalmazásboltba és értékeljünk most.\n    "
+  },
+  "rate_the_app": {
+    "value": "Az alkalmazás értékelése"
+  },
+  "rate_the_app_description": {
+    "value": "Egy jó értékeléssel mindig segíted a munkánkat!"
+  },
+  "receive_push_notifications_for_new_login_requests": {
+    "value": "Leküldéses értesítések fogadása az új\n        bejelentkezési kérésekhez\n    "
+  },
+  "recovery_code_title": {
+    "value": "Helyreállító kód"
+  },
+  "reg_ex": {
+    "value": "Reguláris kifejezés"
+  },
+  "regenerate_password": {
+    "value": "Jelszó újragenerálása"
+  },
+  "region": {
+    "value": "Régió"
+  },
+  "remember": {
+    "value": "Megjegyzés"
+  },
+  "remember_email": {
+    "value": "Email cím megjegyzése"
+  },
+  "remember_this_device": {
+    "value": "Eszköz megjegyzése"
+  },
+  "remember_to_delete_your_imported_password_file_from_your_computer": {
+    "value": "Ne felejtsük el törölni az\n        importált jelszófájlt a számítógépről.\n    "
+  },
+  "remind_me_later": {
+    "value": "Emlékeztetés később"
+  },
+  "remove": {
+    "value": "Eltávolítás"
+  },
+  "remove_account": {
+    "value": "Fiók eltávolítása"
+  },
+  "remove_account_confirmation": {
+    "value": "Biztosan törlésre kerüljön ez a fiók?"
+  },
+  "remove_master_password": {
+    "value": "Mesterjelszó eltávolítása"
+  },
+  "remove_master_password_warning": {
+    "value": "%1$s SSO szolgáltatást használ ügyfél által kezelt titkosítással. A\n        folytatással eltávolító a mesterjelszó a fiókból és egyszeri bejelentkezés szükséges a bejelentkezéshez.\n    "
+  },
+  "remove_master_password_warning2": {
+    "value": "Ha nem szeretnénk eltávolítani a mesterjelszót, kiléphetünk ebből a\n        szervezetből.\n    "
+  },
+  "remove_passkey": {
+    "value": "Belépőkulcs eltávolítása"
+  },
+  "remove_password": {
+    "value": "Jelszó eltávolítása"
+  },
+  "removing_send_password": {
+    "value": "Jelszó eltávolítása.."
+  },
+  "request_admin_approval": {
+    "value": "Adminisztrátori jóváhagyás kérés"
+  },
+  "request_otp": {
+    "value": "Egyszeri jelszó kérése"
+  },
+  "requests_declined": {
+    "value": "A kérések elutasításra kerültek."
+  },
+  "require_master_password_on_app_restart": {
+    "value": "Lezárás mesterjelszóval az alkalmazás újraindításakor?\n    "
+  },
+  "resend_code": {
+    "value": "Újraküldési kód"
+  },
+  "resend_notification": {
+    "value": "Értesítés újraküldése"
+  },
+  "reset_password_auto_enroll_invite_warning": {
+    "value": "Ennek a szervezetnek van egy vállalati házirendje, amely\n        automatikusan regisztrál a jelszó alaphelyzetbe állítására. A regisztráció lehetővé teszi a szervezet\n        adminisztrátorainak a mesterjelszó megváltoztatását.\n    "
+  },
+  "restart_registration": {
+    "value": "Regisztráció újra indítása"
+  },
+  "restore": {
+    "value": "Visszaállítás"
+  },
+  "restoring": {
+    "value": "A visszaállítás folyamatban van..."
+  },
+  "return_to_complete_this_step_anytime_in_settings": {
+    "value": "You can return to complete this step anytime in\n        Settings.\n    "
+  },
+  "retype_master_password": {
+    "value": "Mesterjelszó ismételt beírása"
+  },
+  "retype_master_password_required": {
+    "value": "Adja meg újra a mesterjelszót (kötelező)"
+  },
+  "retype_new_master_password_required": {
+    "value": "Az új mesterjelszó ismételt megadása (kötelező)"
+  },
+  "review_flow_launched": {
+    "value": "A felülvizsgálati folyamat elindult!"
+  },
+  "save": {
+    "value": "Mentés"
+  },
+  "save_and_protect_your_data": {
+    "value": "A saját adatok mentése és védelme"
+  },
+  "save_attachment_success": {
+    "value": "A melléklet sikeresen mentésre került."
+  },
+  "save_passkey": {
+    "value": "Belépőkulcs mentése"
+  },
+  "save_passkey_as_new_login": {
+    "value": "Belépőkulcs mentése új bejelentkezésként"
+  },
+  "save_the_exported_file_somewhere_on_your_computer_you_can_find_easily": {
+    "value": "Mentsük el az exportált fájlt\n        olyan helyre a számítógépen, ahol könnyen megtalálhatjuk.\n    "
+  },
+  "saving": {
+    "value": "Mentés..."
+  },
+  "scan_qr_code": {
+    "value": "QR kód beolvasása"
+  },
+  "scan_qr_title": {
+    "value": "QR kód beolvasása"
+  },
+  "search": {
+    "value": "Keresés"
+  },
+  "search_collection": {
+    "value": "Gyűjtemény keresése"
+  },
+  "search_file_sends": {
+    "value": "Sends fájl elemek keresése"
+  },
+  "search_for_a_login_or_add_a_new_login": {
+    "value": "Keressünk egy bejelentkezést vagy adjunk hozzá új\n        bejelentkezést.\n    "
+  },
+  "search_for_an_item_or_add_a_new_item": {
+    "value": "Keressünk egy elemet vagy adjunk hozzá új elemet."
+  },
+  "search_group": {
+    "value": "%1$s keresése"
+  },
+  "search_sends": {
+    "value": "Send elemek keresése"
+  },
+  "search_text_sends": {
+    "value": "Szöveges Sends elemek keresése"
+  },
+  "search_trash": {
+    "value": "Keresés a lomtárban"
+  },
+  "search_vault": {
+    "value": "Keresés a széfben"
+  },
+  "second_dot_turn_on_auto_fill": {
+    "value": "4. Kapcsoljuk be az Automatikus kitöltést."
+  },
+  "secure_notes": {
+    "value": "Védett jegyzetek"
+  },
+  "security": {
+    "value": "Biztonság"
+  },
+  "security_code": {
+    "value": "Biztonsági Kód"
+  },
+  "security_prioritized": {
+    "value": "Biztonság, prioritásos"
+  },
+  "select": {
+    "value": "Kijelölés"
+  },
+  "select_import_data_in_the_web_app_then_done_to_finish_syncing": {
+    "value": "Válasszuk ki az adatok importálását a\n        webes alkalmazásban, majd Kész a szinkronizálás befejezéséhez.\n    "
+  },
+  "select_one_collection": {
+    "value": "Legalább egy gyűjteményt ki kell választani."
+  },
+  "select_the_link_in_the_email_to_verify_your_email_address_and_continue_creating_your_account": {
+    "value": "\n        \"Válasszuk ki az emailben található hivatkozást az email cím ellenőrzéséhez és folytassuk a fiók létrehozását. \"\n    "
+  },
+  "select_type_field": {
+    "value": "Milyen típusú egyéni mező legyen hozzáadva?"
+  },
+  "self_host_server_url": {
+    "value": "Saját üzemeltetésű szerver webcím"
+  },
+  "self_hosted": {
+    "value": "Saját kiszolgáló"
+  },
+  "self_hosted_environment": {
+    "value": "Saját üzemeltetésű környezet"
+  },
+  "self_hosted_environment_footer": {
+    "value": "Adjuk meg a helyileg üzemeltetett Bitwarden telepítés alap webcímét.\n    "
+  },
+  "self_hosted_server_url": {
+    "value": "Saját üzemeltetésű szerver webcím"
+  },
+  "send": {
+    "value": "Küldés"
+  },
+  "send_code": {
+    "value": "Send kód"
+  },
+  "send_deleted": {
+    "value": "A Send elem törlésre került."
+  },
+  "send_details": {
+    "value": "Send részletek"
+  },
+  "send_disabled_warning": {
+    "value": "A vállalati házirend miatt csak egy meglévő Send elem törölhető."
+  },
+  "send_file_email_verification_required": {
+    "value": "Ha fájlokat szeretnénk használni a Senddel, ellenőrizni kell az\n        email címet.\n    "
+  },
+  "send_file_premium_required": {
+    "value": "Ingyenes fiókkal csak szöveget lehet megosztani. Prémium tagság szükséges\n        a fájlok használatához a Sendnél.\n    "
+  },
+  "send_link": {
+    "value": "Send hivatkozás"
+  },
+  "send_name_required": {
+    "value": "\"Send név (kötelező)\""
+  },
+  "send_options_policy_in_effect": {
+    "value": "Egy vagy több szervezeti szabály érinti a Send opciókat."
+  },
+  "send_password_removed": {
+    "value": "A jelszó eltávolításra került."
+  },
+  "send_sensitive_information_safely": {
+    "value": "Send sensitive information, safely"
+  },
+  "send_updated": {
+    "value": "A Send elem frissítésre került."
+  },
+  "send_verification_code_again": {
+    "value": "Send megerősítő kód újraküldése emailben"
+  },
+  "send_verification_code_to_email": {
+    "value": "Ellenőrző kód elküldése a saját email címre"
+  },
+  "sending": {
+    "value": "Küldés..."
+  },
+  "sending_code": {
+    "value": "Küldési kód"
+  },
+  "sends": {
+    "value": "Küldések"
+  },
+  "september": {
+    "value": "szeptember"
+  },
+  "server_url": {
+    "value": "Szerver URL"
+  },
+  "service": {
+    "value": "Szolgáltatás"
+  },
+  "session_timeout": {
+    "value": "Munkamenet időkifutás"
+  },
+  "session_timeout_action": {
+    "value": "Munkamenet időkifutási művelet"
+  },
+  "set_bitwarden_as_passkey_manager_description": {
+    "value": "A Bitwarden beállítása jelszó szolgáltatóként az\n        eszközbeállításokban.\n    "
+  },
+  "set_master_password": {
+    "value": "Mesterjelszó beállítása"
+  },
+  "set_master_password_summary": {
+    "value": "Az SSO-val történő bejelentkezés befejezéséhez mesterjelszót kell\n        beállítani a széf eléréséhez és védelméhez.\n    "
+  },
+  "set_password": {
+    "value": "Jelszó beállítása"
+  },
+  "set_pin": {
+    "value": "PIN beállítása"
+  },
+  "set_pin_description": {
+    "value": "A pinkód beállítása a Bitwarden feloldásához. A pinkód beállítás alaphelyzetbe\n        kerül, ha teljesen kijelentkezünk az alkalmazásból.\n    "
+  },
+  "set_pin_direction": {
+    "value": "Egy 4 számjegyű PIN-kód beállítása az alkalmazás kinyitásához."
+  },
+  "set_up_an_unlock_option_to_change_your_vault_timeout_action": {
+    "value": "Állítsunk be egy feloldási módot a széf\n        időkifutási műveletének módosításához.\n    "
+  },
+  "set_up_authenticator_key": {
+    "value": "Hitelesítő kulcs beüzemelése"
+  },
+  "set_up_auto_fill_description_long": {
+    "value": "A jelszó automatikus kitöltésének és a belépőkulcs kezelésnek a\n        beüzemeléséhez állítsuk be a Bitwardent preferált szolgáltatóként az iOS beállításokban.\n    "
+  },
+  "set_up_autofill": {
+    "value": "Automatikus kitöltés beüzemelése"
+  },
+  "set_up_autofill_on_all_your_devices": {
+    "value": "Állítsuk be az automatikus kitöltést az összes eszközön, hogy\n        bárhol egyetlen érintéssel bejelentkezhessünk.\n    "
+  },
+  "set_up_biometrics_or_choose_a_pin_code_to_quickly_access_your_vault_and_autofill_your_logins": {
+    "value": "\n        Állítsunk be biometrikus adatokat vagy válasszunk egy PIN kódot a széf gyors eléréséhez és a bejelentkezések\n        automatikus kitöltéséhez.\n    "
+  },
+  "set_up_later": {
+    "value": "Beállítás később"
+  },
+  "set_up_two_step_login": {
+    "value": "Set up two-step login"
+  },
+  "set_up_unlock": {
+    "value": "Feloldás beállítás"
+  },
+  "set_up_unlock_later": {
+    "value": "Feloldás beállítás később?"
+  },
+  "settings": {
+    "value": "Beállítások"
+  },
+  "setup_totp": {
+    "value": "TOTP beállítása"
+  },
+  "seven_days": {
+    "value": "7 nap"
+  },
+  "share": {
+    "value": "Megosztás"
+  },
+  "share_error_details": {
+    "value": "Hiba részletek megosztása"
+  },
+  "share_files_and_data_securely_with_anyone_on_any_platform": {
+    "value": "Share files and data securely with anyone,\n        on any platform. Your information will remain end-to-end encrypted while limiting exposure.\n    "
+  },
+  "share_item": {
+    "value": "Elem megosztása"
+  },
+  "share_link": {
+    "value": "Hivatkozás megosztása"
+  },
+  "share_on_save": {
+    "value": "A Send elem megosztása mentéskor."
+  },
+  "shared": {
+    "value": "Megosztott"
+  },
+  "show": {
+    "value": "Mutat"
+  },
+  "show_less": {
+    "value": "Kevesebb megjelenítése"
+  },
+  "show_more": {
+    "value": "Több megjelenítése"
+  },
+  "show_website_icons": {
+    "value": "Webhely ikonok megjelenítése"
+  },
+  "show_website_icons_description": {
+    "value": "Felismerhető kép megjelenítése minden bejelentkezés mellett."
+  },
+  "simple_login": {
+    "value": "SimpleLogin"
+  },
+  "single_tap_passkey_authentication": {
+    "value": "Belépőkulcs létrhozása egyetlen érintéssel"
+  },
+  "single_tap_passkey_creation": {
+    "value": "Jelszó létrehozása egyetlen érintéssel"
+  },
+  "skip_for_now": {
+    "value": "Kihagyás most"
+  },
+  "soft_deleting": {
+    "value": "A lomtárba küldés folyamatban van..."
+  },
+  "solarized_dark": {
+    "value": "Szolarizált sötét"
+  },
+  "special_characters": {
+    "value": "Speciális karakterek (!@#$%^*)"
+  },
+  "ssh_keys": {
+    "value": "SSH kulcsok"
+  },
+  "ssn": {
+    "value": "Társadalombiztosítási szám"
+  },
+  "starts_with": {
+    "value": "Ezzel kezdődik"
+  },
+  "state_province": {
+    "value": "Állam / Megye"
+  },
+  "status": {
+    "value": "Állapot"
+  },
+  "step_1_of_3": {
+    "value": "1/3. lépés"
+  },
+  "step_2_of_3": {
+    "value": "2/3. lépés"
+  },
+  "step_3_of_3": {
+    "value": "3/3. lépés"
+  },
+  "strong": {
+    "value": "Erős"
+  },
+  "submit": {
+    "value": "Mehet"
+  },
+  "submit_crash_logs": {
+    "value": "Összeomlási naplózások beküldése"
+  },
+  "submit_crash_logs_description": {
+    "value": "Segítség a Bitwarden-nek az alkalmazás stabilitás továbbfejlesztésében\n        összeomlási naplózási jelentésekkel.\n    "
+  },
+  "submitting": {
+    "value": "Küldés..."
+  },
+  "switch_to_already_added_account_confirmation": {
+    "value": "Szeretnénk most átkapcsolni erre?"
+  },
+  "sync": {
+    "value": "Szinkronizálás"
+  },
+  "sync_now": {
+    "value": "Szinkronizálás most"
+  },
+  "sync_vault_now": {
+    "value": "Széf szinkronizálása most"
+  },
+  "syncing": {
+    "value": "Szinkronizálás..."
+  },
+  "syncing_complete": {
+    "value": "A szinkronizálás kész."
+  },
+  "syncing_failed": {
+    "value": "A szinkronizálás nem sikerült."
+  },
+  "syncing_logins_loading_message": {
+    "value": "Bejelentkezések szinkronizálása..."
+  },
+  "system_certificates_are_not_as_secure_as_importing_certificates_to_bitwarden": {
+    "value": "A rendszer tanúsítvány\n        használata kevésbé biztonságos, mint a tanúsítvány Bitwardennél történő tárolása. A folytatás megjeleníti az\n        elérhető rendszer tanúsítványok listáját, ha már telepítve van.\n    "
+  },
+  "tap_to_go_back": {
+    "value": "Koppintás a visszalépéshez"
+  },
+  "ten_seconds": {
+    "value": "10 másodperc"
+  },
+  "terms_of_service": {
+    "value": "Szolgáltatási feltételek"
+  },
+  "text": {
+    "value": "Szöveg"
+  },
+  "text_to_share": {
+    "value": "Megosztandó szöveg"
+  },
+  "text_type_is_not_selected": {
+    "value": "A szövegtípus nem lett kiválasztva, koppintsunk a kiválasztáshoz."
+  },
+  "text_type_is_selected": {
+    "value": "A szövegtípus kiválasztásra került."
+  },
+  "thank_you": {
+    "value": "Köszönjük!"
+  },
+  "the_best_way_to_make_sure_you_can_always_access_your_vault": {
+    "value": "A legjobb módja annak, hogy mindig\n        hozzáférhessünk a fiókhoz, ha a kezdetektől fogva biztosítékokat állítunk be.\n    "
+  },
+  "the_following_instructions_will_guide_you_through_importing_logins": {
+    "value": "A következő utasítások\n        végigvezetnek a bejelentkezési adatok asztali vagy hordozható számítógépéről történő importálásában.\n    "
+  },
+  "the_longer_your_password_the_more_difficult_to_hack": {
+    "value": "Minél hosszabb a jelszó, annál nehezebb feltörni.\n        A fiók létrehozásához minimuma 12 karakter kell, de ha 14 karaktert használunk, akkor a jelszó feltörésének\n        ideje évszázadok lehetnek!\n    "
+  },
+  "the_passkey_will_not_be_copied_to_the_cloned_item_do_you_want_to_continue_cloning_this_item": {
+    "value": "A\n        hozzáférési kulcs nem másolódik át a klónozott elembe. Folytatjuk ennek az elemnek a klónozását?\n    "
+  },
+  "the_strongest_passwords_are_usually": {
+    "value": "A legerősebb jelszavak általában a következők:"
+  },
+  "the_urix_is_already_blocked": {
+    "value": "%1$s URI már blokkolásra került."
+  },
+  "the_vault_protects_more_than_just_passwords": {
+    "value": "A széf nemcsak a jelszavakat védi. Itt biztonságosan\n        tárolhatjuk a bejelentkezési adatokat, egyéb azonosítókat, kártyákat és jegyzeteket.\n    "
+  },
+  "theme": {
+    "value": "Téma"
+  },
+  "theme_applied_on_restart": {
+    "value": "A témaváltás az alkalmazás újraindítása után lép életbe."
+  },
+  "theme_default": {
+    "value": "Alapértelmezett (rendszer)"
+  },
+  "theme_description": {
+    "value": "Az alkalmazás színének megváltoztatása."
+  },
+  "there_are_no_blocked_ur_is": {
+    "value": "Nincsenek blokkolt URI elemek."
+  },
+  "there_are_no_items_in_your_vault_that_match_x": {
+    "value": "Nincs elem a széfben %1$s egyezéssel."
+  },
+  "there_are_no_items_that_match_the_search": {
+    "value": "Nincsenek a keresésnek megfelelő elemek."
+  },
+  "there_was_a_problem_creating_a_passkey_for_x_try_again_later": {
+    "value": "Hiba történt %1$s belépőkulcsának\n        létrehozásakor. Próbáljuk újra később.\n    "
+  },
+  "there_was_a_problem_reading_a_passkey_for_x_try_again_later": {
+    "value": "Hiba történt %1$s belépőkulcsának\n        olvasásakor. Próbáljuk újra később.\n    "
+  },
+  "there_was_an_error_starting_web_authn_two_factor_authentication": {
+    "value": "Hiba történt a WebAuthn kétfaktoros\n        hitelesítés indításakor.\n    "
+  },
+  "there_was_an_issue_validating_the_registration_token": {
+    "value": "Hiba történt a regisztrációs vezérkód\n        érvényesítése során.\n    "
+  },
+  "third_dot_select_bitwarden_to_use_for_passwords_and_passkeys": {
+    "value": "3. A jelszavakhoz és a belépőkulcsokhoz\n        válasszuk a \\\"Bitwarden\\\" lehetőséget.\n    "
+  },
+  "thirty_days": {
+    "value": "30 nap"
+  },
+  "thirty_minutes": {
+    "value": "30 perc"
+  },
+  "thirty_seconds": {
+    "value": "30 másodperc"
+  },
+  "this_is_not_a_recognized_bitwarden_server_you_may_need_to_check_with_your_provider_or_update_your_server": {
+    "value": "\n        Ez nem egy felismert Bitwarden szerver. Konzultálhatunk a szolgáltatóval vagy frissítsük a szervert.\n    "
+  },
+  "this_item_already_contains_a_passkey_are_you_sure_you_want_to_overwrite_the_current_passkey": {
+    "value": "Ez az\n        elem már tartalmaz egy belépőkulcsot. Biztosan felülírásra kerüljön az aktuális belépőkulcs?\n    "
+  },
+  "this_request_is_no_longer_valid": {
+    "value": "A kérés már nem érvényes."
+  },
+  "three_days": {
+    "value": "3 nap"
+  },
+  "time": {
+    "value": "Időpont"
+  },
+  "title": {
+    "value": "Titulus"
+  },
+  "toggle_visibility": {
+    "value": "Láthatóság váltás"
+  },
+  "too_many_attempts": {
+    "value": "Túl sok próbálkozás történt"
+  },
+  "tools": {
+    "value": "Eszközök"
+  },
+  "totally_different_from_your_other_passwords": {
+    "value": "Teljesen más, mint a többi jelszó"
+  },
+  "totp": {
+    "value": "TOTP"
+  },
+  "touch_id": {
+    "value": "Touch ID"
+  },
+  "translations": {
+    "value": "Fordítások"
+  },
+  "trash": {
+    "value": "Lomtár"
+  },
+  "trouble_logging_in": {
+    "value": "Probléma van a bejelentkezéssel?"
+  },
+  "try_again": {
+    "value": "Próbáluk újra"
+  },
+  "try_it_out": {
+    "value": "Kipróbálás"
+  },
+  "turn_off_using_public_device": {
+    "value": "Kikapcsolás nyilvános eszközzel"
+  },
+  "turn_on_autofill": {
+    "value": "Turn on autofill"
+  },
+  "turn_on_autofill_later": {
+    "value": "Turn on autofill later?"
+  },
+  "turn_on_later": {
+    "value": "Turn on later"
+  },
+  "turn_on_two_step_login": {
+    "value": "Turn on two-step login"
+  },
+  "twelve_or_more_characters": {
+    "value": "12 vagy több karakter"
+  },
+  "twenty_seconds": {
+    "value": "20 másodperc"
+  },
+  "two_days": {
+    "value": "2 nap"
+  },
+  "two_minutes": {
+    "value": "2 perc"
+  },
+  "two_step_login": {
+    "value": "Kétlépcsős bejelentkezés"
+  },
+  "two_step_login_description_long": {
+    "value": "Tegyük biztonságosabbá a fiókot a kétlépcsős bejelentkezés\n        beállításával a Bitwarden webalkalmazásban.\n    "
+  },
+  "two_step_login_options": {
+    "value": "Kétlépcsős bejelentkezés beállításai"
+  },
+  "type": {
+    "value": "Típus"
+  },
+  "type_card": {
+    "value": "Kártya"
+  },
+  "type_file": {
+    "value": "Fájl"
+  },
+  "type_file_info": {
+    "value": "A küldendő fájl."
+  },
+  "type_identity": {
+    "value": "Azonosság"
+  },
+  "type_login": {
+    "value": "Bejelentkezés"
+  },
+  "type_secure_note": {
+    "value": "Védett jegyzet"
+  },
+  "type_ssh_key": {
+    "value": "SSH kulcs"
+  },
+  "type_text": {
+    "value": "Szöveg"
+  },
+  "types": {
+    "value": "Típusok"
+  },
+  "unable_to_download_file": {
+    "value": "Nem lehet letölteni a fájlt."
+  },
+  "unable_to_open_file": {
+    "value": "A készülék nem tudja megnyitni az ilyen típusú fájlt."
+  },
+  "unable_to_save_attachment": {
+    "value": "Hiba lépett fel a melléklet mentése közben. Ha a hiba továbbra is fennáll,\n        próbáljuk meg menteni a webes felületen.\n    "
+  },
+  "unfavorite": {
+    "value": "Nem kedvenc"
+  },
+  "unique_usernames_add_an_extra_layer_of_security_and_can_help_prevent_hackers_from_finding_your_accounts": {
+    "value": "\n        Az egyedi felhasználónevek további biztonsági réteget adnak és megakadályozhatják, hogy a hackerek megtalálják a\n        fiókokat.\n    "
+  },
+  "unknown_account": {
+    "value": "Ismeretlen fiók"
+  },
+  "unknown_x_error_message": {
+    "value": "Ismeretlen %1$s hiba történt."
+  },
+  "unlock": {
+    "value": "Feloldás"
+  },
+  "unlock_options": {
+    "value": "Zárolási opciók"
+  },
+  "unlock_vault": {
+    "value": "Széf feloldása"
+  },
+  "unlock_with": {
+    "value": "Feloldás: %1$s"
+  },
+  "unlock_with_pin": {
+    "value": "Kinyitás PIN-kóddal"
+  },
+  "unlocking_may_fail_due_to_insufficient_memory_decrease_your_kdf_memory_settings_to_resolve": {
+    "value": "A feloldás\n        meghiúsulhat, mert nincs elegendő memória. A megoldáshoz csökkentsük a KDF memóriabeállításait.\n    "
+  },
+  "unsubscribe": {
+    "value": "Leiratkozás"
+  },
+  "unsupported_certificate_type": {
+    "value": "Nem-támogatott tanúsítvány típus"
+  },
+  "update_key": {
+    "value": "Ez a funkció nem használható, amíg nem frissíted a titkosítási kulcsodat."
+  },
+  "update_master_password": {
+    "value": "Mesterjelszó frissítése"
+  },
+  "update_master_password_warning": {
+    "value": "A szervezet egyik adminisztrátora nemrég megváltoztatta a\n        mesterjelszót. A széf eléréséhez most frissíteni kell a mesterjelszót. Továbblépéskor kijelentkezés történik a\n        jelenlegi munkamenetből és újra be kell jelentkezni. Ha van aktív munkamenet más eszközön, az még legfeljebb egy\n        óráig aktív maradhat.\n    "
+  },
+  "update_password_error": {
+    "value": "Jelenleg nem lehet frissíteni a jelszót."
+  },
+  "update_weak_master_password_warning": {
+    "value": "A mesterjelszó nem felel meg egy vagy több szervezeti\n        szabályzatnak. A széf eléréséhez frissíteni kell a meszerjelszót. A továbblépés kijelentkeztet az aktuális\n        munkamenetből és újra be kell jelentkezni. A többi eszközön lévő aktív munkamenetek akár egy óráig is aktívak\n        maradhatnak.\n    "
+  },
+  "updated_master_password": {
+    "value": "A mesterjelszó frisstésre került."
+  },
+  "updating_password": {
+    "value": "Jelszó frissítése"
+  },
+  "uppercase_ato_z": {
+    "value": "Nagybetűs (A-Z)"
+  },
+  "ur_is": {
+    "value": "URI elemek"
+  },
+  "uri": {
+    "value": "URI"
+  },
+  "uri_match_detection": {
+    "value": "URI-egyezés felismerése"
+  },
+  "uri_position": {
+    "value": "URI %1$s"
+  },
+  "uri_removed": {
+    "value": "Az URI eltávolításra került."
+  },
+  "uri_saved": {
+    "value": "Az URI mentésre került."
+  },
+  "us": {
+    "value": "US"
+  },
+  "use_a_computer_to_import_logins": {
+    "value": "A számítógép segítségével importáljunk bejelentkezéseket egy meglévő\n        jelszókezelőből.\n    "
+  },
+  "use_another_two_step_method": {
+    "value": "Más kétlépcsős bejelentkezés használata"
+  },
+  "use_autofill_to_log_into_your_accounts": {
+    "value": "Use autofill to log into your accounts with a single tap.\n    "
+  },
+  "use_biometrics_to_unlock": {
+    "value": "Biometria használata a feloldáshoz"
+  },
+  "use_chrome_autofill_integration": {
+    "value": "Chrome automatikus kitöltés integráció használata"
+  },
+  "use_chrome_beta_autofill_integration": {
+    "value": "Chrome automatikus kitöltés integráció használata (Béta)\n    "
+  },
+  "use_face_id_to_unlock": {
+    "value": "Arc AZ használata a feloldáshoz"
+  },
+  "use_fingerprint_to_unlock": {
+    "value": "Ujjlenyomat használata feloldáshoz"
+  },
+  "use_inline_autofill_explanation_long": {
+    "value": "Használjuk a sorközi automatikus kitöltést, ha a kiválasztott\n        billentyűzet azt támogatja. Ellenkező esetben használjuk az alapértelmezett átfedést.\n    "
+  },
+  "use_system_certificate": {
+    "value": "Rendszer tanúsítvány használata"
+  },
+  "use_the_generator_to_create_a_strong_unique_password": {
+    "value": "Használjuk a generátort egy erős, egyedi jelszó\n        létrehozásához.\n    "
+  },
+  "use_the_generator_to_create_secure_passwords_passphrases_and_usernames": {
+    "value": "\"Használjuk a generátort\n        biztonságos jelszavak, jelmondatok és felhasználónevek létrehozásához.\"\n    "
+  },
+  "use_the_web_app": {
+    "value": "Webalkalmazás használata"
+  },
+  "use_these_options_to_adjust_your_password_to_your_account_requirements": {
+    "value": "Ezekkel az opciókkal\n        állíthatjuk be a jelszót a fiók követelményeihez.\n    "
+  },
+  "use_this_button_to_generate_a_new_unique_password": {
+    "value": "Ezzel a gombbal új egyedi jelszót hozhatunk\n        létre.\n    "
+  },
+  "use_this_device_to_approve_login_requests_made_from_other_devices": {
+    "value": "Ezen eszköz használata a más\n        eszközökről történő bejelentkezési kérések jóváhagyására.\n    "
+  },
+  "user_verification_direction": {
+    "value": "Felhasználó ellenőrzés"
+  },
+  "username": {
+    "value": "Felhasználónév"
+  },
+  "username_type": {
+    "value": "Felhasználónév típusa"
+  },
+  "validating": {
+    "value": "Hitelesítés"
+  },
+  "validation_field_required": {
+    "value": "%1$s mező megadása kötelező."
+  },
+  "value": {
+    "value": "Érték"
+  },
+  "value_has_been_copied": {
+    "value": "%1$s másolásra került."
+  },
+  "vault": {
+    "value": "Széf"
+  },
+  "vault_filter_description": {
+    "value": "Széf: %1$s"
+  },
+  "vault_is_locked": {
+    "value": "A széf zárolva van."
+  },
+  "vault_locked_identity": {
+    "value": "A széf zárolásra került. A folytatáshoz ellenőrizni kell az azonosítást.\n    "
+  },
+  "vault_locked_master_password": {
+    "value": "A széf zárolva van. A folytatáshoz adjuk meg a mesterjelszót."
+  },
+  "vault_locked_pin": {
+    "value": "A széf zárolva van. A folytatáshoz adjuk meg a pinkódot."
+  },
+  "vault_timeout": {
+    "value": "Széf időkifutás"
+  },
+  "vault_timeout_action": {
+    "value": "Széf időkifutás művelet"
+  },
+  "vault_timeout_action_changed_to_log_out": {
+    "value": "A széf időkifutási művelete kijelentkezésre módosult.\n    "
+  },
+  "vault_timeout_action_policy_in_effect": {
+    "value": "A szervezeti házirendek által jelenleg beállított időkifutási\n        művelet %1$s.\n    "
+  },
+  "vault_timeout_log_out_confirmation": {
+    "value": "Kijelentkezve az összes széf elérés eltávolításra kerül és webes\n        hitelesítésre van szükség az időkifutás után. Biztosan szeretnénk használni ezt a beállítást?\n    "
+  },
+  "vault_timeout_policy_in_effect": {
+    "value": "A szervezeti házirendek hatással vannak a széf időkorlátjára. A széf\n        időkorlátja legfeljebb %1$s óra és %2$s perc lehet.\n    "
+  },
+  "vault_timeout_policy_with_action_in_effect": {
+    "value": "A szervezeti házirendek hatással vannak a széf\n        időkorlátjára. A széf időkorlátja legfeljebb %1$s óra és %2$s perc lehet. A széf időkifutási művelete %3$s.\n    "
+  },
+  "vault_timeout_to_large": {
+    "value": "A széf időkorlátja túllépi a szervezet által beállított korlátozást."
+  },
+  "vaults": {
+    "value": "Széfek"
+  },
+  "verification_code": {
+    "value": "Ellenőrzőkód"
+  },
+  "verification_code_totp": {
+    "value": "Ellenőrzőkód (TOTP)"
+  },
+  "verification_codes": {
+    "value": "Hitelesítő kód"
+  },
+  "verification_email_not_sent": {
+    "value": "Nem sikerült elküldeni a megerősítő emailt. Próbáljuk újra."
+  },
+  "verification_email_sent": {
+    "value": "Az ellenőrző kódot tartalmazó email elküldésre került."
+  },
+  "verification_required_by_x": {
+    "value": "Ellenőrzés szükséges: %1$s"
+  },
+  "verification_required_for_this_action_set_up_an_unlock_method_in_bitwarden_to_continue": {
+    "value": "Ehhez a\n        művelethez ellenőrzés szükséges. A folytatáshoz állítsunk be egy feloldási módot a Bitwardenben.\n    "
+  },
+  "verified_sso_domain_verified": {
+    "value": "Ellenőrzött SSO tartomány végpont"
+  },
+  "verify_face_id": {
+    "value": "Arc AZ ellenőrzése"
+  },
+  "verify_fingerprint": {
+    "value": "Ujjlenyomat megerősítése"
+  },
+  "verify_master_password": {
+    "value": "Mesterjelszó megerősítése"
+  },
+  "verify_pin": {
+    "value": "PIN megerősítése"
+  },
+  "verify_your_identity": {
+    "value": "Személyazonosság ellenőrzése"
+  },
+  "verifying": {
+    "value": "Ellenőrzés"
+  },
+  "verifying_identity_ellipsis": {
+    "value": "Személyazonosság ellenőrzése..."
+  },
+  "version": {
+    "value": "Verzió"
+  },
+  "view": {
+    "value": "Megtekintés"
+  },
+  "view_all_login_options": {
+    "value": "Összes bejelentkezési opció megtekintése"
+  },
+  "view_card": {
+    "value": "Kártya megtekintése"
+  },
+  "view_identity": {
+    "value": "Személyazonosság megtekintése"
+  },
+  "view_item": {
+    "value": "Elem megtekintése"
+  },
+  "view_login": {
+    "value": "Bejelentkezés megtekintése"
+  },
+  "view_note": {
+    "value": "Jegyzet megtekintése"
+  },
+  "view_passkey": {
+    "value": "Hozzáférési kulcs megtekintése"
+  },
+  "visit_our_website": {
+    "value": "Fejlesztői webhely felkeresése"
+  },
+  "warning": {
+    "value": "Figyelmeztetés"
+  },
+  "we_couldnt_verify_the_servers_certificate": {
+    "value": "Nem lehetett ellenőrizni a szerver tanúsítványát.\n        Előfordulhat, hogy a tanúsítványlánc vagy a proxy beállítások az eszközön vagy a Bitwarden szerveren nincsenek\n        megfelelően beállítva.\n    "
+  },
+  "we_ll_walk_you_through_the_key_features_to_add_a_new_login": {
+    "value": "Végigmegyünk az új bejelentkezés\n        hozzáadásához szükséges legfontosabb funkciókon.\n    "
+  },
+  "we_sent_an_email_to": {
+    "value": "Egy email került kiküldésre: %1$s."
+  },
+  "weak": {
+    "value": "Gyenge"
+  },
+  "weak_and_exposed_master_password": {
+    "value": "Gyenge vagy kitett mesterjelszó"
+  },
+  "weak_master_password": {
+    "value": "Gyenge mesterjelszó"
+  },
+  "weak_password_identified_and_found_in_a_data_breach_alert_description": {
+    "value": "Gyenge jelszó lett azonosítva\n        és megtalálva egy adatvédelmi incidens során. A fók védelme érdekében használjunk erős és egyedi jelszót.\n        Biztosan használni szeretnénk ezt a jelszót?\n    "
+  },
+  "weak_password_identified_use_a_strong_password_to_protect_your_account": {
+    "value": "Gyenge jelszó lett azonosítva.\n        A fiók védelme érdekében használjunk erős jelszót. Biztos, hogy gyenge jelszót akarunk használni?\n    "
+  },
+  "web_vault": {
+    "value": "Bitwarden webes széf"
+  },
+  "web_vault_url": {
+    "value": "Webes széf szerver webcím"
+  },
+  "website": {
+    "value": "Weboldal"
+  },
+  "website_required": {
+    "value": "Webhely (kötelező)"
+  },
+  "website_uri": {
+    "value": "Webhely (URI)"
+  },
+  "welcome_message_1": {
+    "value": "Mentsük el a bejelentkezési adatokat, kártyákat és azonosításokat a biztonságos\n        széfbe. A Bitwarden tudás nélküli, végpontok közötti titkosítást használ a felhasználók számára fontos dolgok\n        védelmére.\n    "
+  },
+  "welcome_message_2": {
+    "value": "Állítsuk be a biometrikus feloldást és az automatikus kitöltést, hogy egyetlen betű\n        beírása nélkül jelentkezzünk be a fiókokba.\n    "
+  },
+  "welcome_message_3": {
+    "value": "Használjuk a generátort, hogy erős, egyedi jelszavakat hozzunk létre és mentsük az\n        összes fióknál.\n    "
+  },
+  "welcome_message_4": {
+    "value": "Mentsünk el a korlátlan jelszót korlátlan számú eszközön a Bitwarden mobil,\n        böngésző és asztali alkalmazásokkal.\n    "
+  },
+  "what_bitwarden_has_to_offer": {
+    "value": "Mostantól az automatikus kitöltéssel bejelentkezhetünk az alkalmazásokba\n        és webhelyekre a mentett jelszavakkal. Most mindent felfedezhetünk, amit a Bitwarden kínál.\n    "
+  },
+  "what_makes_a_password_strong": {
+    "value": "Mitől erős egy jelszó?"
+  },
+  "what_would_you_like_to_generate": {
+    "value": "Mit szeretnénk generálni?"
+  },
+  "windows_hello": {
+    "value": "Windows Hello"
+  },
+  "word_separator": {
+    "value": "Szóelválasztó"
+  },
+  "write_this_password_down_and_keep_it_somewhere_safe": {
+    "value": "Írjuk le ezt a jelszót és tartsuk biztonságos\n        helyen.\n    "
+  },
+  "write_your_password_down": {
+    "value": "Írjuk le a jelszót."
+  },
+  "x_ellipses": {
+    "value": "%s..."
+  },
+  "x_hours": {
+    "value": "%1$s óra"
+  },
+  "x_hours_and_one_minute": {
+    "value": "%1$s óra és egy perc"
+  },
+  "x_hours_and_y_minutes": {
+    "value": "%1$s óra és %2$s perc"
+  },
+  "x_minutes_ago": {
+    "value": "%1$s perce"
+  },
+  "yes": {
+    "value": "Igen"
+  },
+  "yes_and_save": {
+    "value": "Igen és mentés"
+  },
+  "yes_i_can_reliably_access_my_email": {
+    "value": "Igen, megbízhatóan hozzáférek az emailjeimhez"
+  },
+  "you_can_change_your_account_email_on_the_bitwarden_web_app": {
+    "value": "A fiók email cím a Bitwarden\n        webalkalmazásban módosítható.\n    "
+  },
+  "you_can_import_data_to_your_vault_on_x": {
+    "value": "Adatokat importálhatunk a széfbe itt: %1$s."
+  },
+  "you_can_return_to_complete_this_step_anytime_from_account_security_in_settings": {
+    "value": "Ehhez a lépéshez\n        bármikor visszatérhetünk a Beállítások Fiókbiztonság menüpontból.\n    "
+  },
+  "you_can_return_to_complete_this_step_anytime_from_settings": {
+    "value": "Bármikor visszatérhetünk, hogy befejezzük\n        ezt a Széf beállításaiban.\n    "
+  },
+  "you_can_set_up_two_step_login_as_an_alternative_way_to_protect_your_account_or_change_your_email_to_one_you_can_access": {
+    "value": "\n        You can set up two-step login as an alternative way to protect your account or change your email to one you can\n        access.\n    "
+  },
+  "you_cannot_edit_passkey_application_because_it_would_invalidate_the_passkey": {
+    "value": "Nem szerkeszthető a\n        hozzáférési kulcs alkalmazás, mert az érvénytelenítené a hozzáférési kulcsot.\n    "
+  },
+  "you_ll_only_need_to_set_up_authenticator_key": {
+    "value": "Csak azokhoz a bejelentkezésekhez kell beállítani a\n        Hitelesítő kulcsot, amelyek kétlépcsős hitelesítést igényelnek kóddal. A kulcs folyamatosan hatjegyű kódokat\n        generál, amelyek segítségével bejelentkezhetümk.\n    "
+  },
+  "you_must_add_a_web_address_to_use_autofill_to_access_this_account": {
+    "value": "Meg kell adnia egy webcímet, hogy\n        az automatikus kitöltést használjunk a fiók eléréséhez.\n    "
+  },
+  "you_will_be_notified_once_approved": {
+    "value": "A jóváhagyás után értesítés érkezik."
+  },
+  "your_account_has_been_permanently_deleted": {
+    "value": "A fiók véglegesen törlésre került."
+  },
+  "your_accounts_fingerprint": {
+    "value": "A fiók ujjlenyomat mondata"
+  },
+  "your_data_when_and_where_you_need_it": {
+    "value": "Saját adatok, mikor és hol van rá szükség"
+  },
+  "your_hint_will_be_send_to_you_via_email_when_you_request_it": {
+    "value": "A tipp emailben kerül elküldére\n        kérelemre.\n    "
+  },
+  "your_master_password_cannot_be_recovered_if_you_forget_it_x_characters_minimum": {
+    "value": "A fő jelszót nem lehet\n        visszaállítani, ha elfelejtjük! Legalább %1$s karakter.\n    "
+  },
+  "your_organization_permissions_were_updated_requering_you_to_set_a_master_password": {
+    "value": "A szervezeti\n        jogosultságok frissítésre kerültek, ezért be kell állítani egy mesterjelszót.\n    "
+  },
+  "your_organization_requires_you_to_set_a_master_password": {
+    "value": "A szervezet megköveteli egy mesterjelszó\n        beállítását.\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault": {
+    "value": "A belépőkulcs mentésre került a Bitwarden\n        széfbe.\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault_for_x": {
+    "value": "A belépőkulcs mentésre kerül a Bitwarden\n        széfbe: %1$s\n    "
+  },
+  "your_request_has_been_sent_to_your_admin": {
+    "value": "A kérés elküldésre került az adminisztrátornak."
+  },
+  "youre_all_set": {
+    "value": "Készen is vagyunk!"
+  },
+  "yubi_key_instruction": {
+    "value": "A folytatáshoz tartsuk a YubiKey NEO-t a készülék hátuljához vagy\n        csatlakoztassuk a YubiKey-t az eszköz USB-portjához és koppintsunk annak gombjára.\n    "
+  },
+  "yubi_key_instruction_ios": {
+    "value": "A folytatáshoz tartsuk lenyomva a YubiKey NEO-t a készülék hátoldalán.\n    "
+  },
+  "yubi_key_title": {
+    "value": "YubiKey biztonsági kulcs"
+  },
+  "zip_postal_code": {
+    "value": "Irányítószám"
+  }
+}

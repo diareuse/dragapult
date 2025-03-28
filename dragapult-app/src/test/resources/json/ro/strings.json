@@ -1,0 +1,3677 @@
+{
+  "a_notification_has_been_sent_to_your_device": {
+    "value": "O notificare a fost trimisă pe dispozitivul dvs."
+  },
+  "a_secure_memorable_password": {
+    "value": "A secure, memorable password"
+  },
+  "a_verification_code_was_sent_to_your_email": {
+    "value": "Un cod de verificare a fost trimis la adresa dvs. de\n        e-mail\n    "
+  },
+  "about": {
+    "value": "Despre"
+  },
+  "about_send": {
+    "value": "Despre Send"
+  },
+  "accept": {
+    "value": "Acceptare"
+  },
+  "accept_policies": {
+    "value": "Dacă activați acest comutator sunteți de acord cu următoarele:"
+  },
+  "accept_policies_error": {
+    "value": "Termeni de utilizare și Politica de confidențialitate nu au fost recunoscute.\n    "
+  },
+  "accessibility": {
+    "value": "Utilizare accesibilitate"
+  },
+  "accessibility_description": {
+    "value": "Utilizați Serviciul de Accesibilitate Bitwarden pentru auto-completarea\n        conectărilor dvs. în aplicații și pe web. Dacă este configurat, va afișa o fereastră pop-up când câmpurile de\n        conectare sunt selectate.\n    "
+  },
+  "accessibility_description2": {
+    "value": "Utilizați Serviciul de Accesibilitate Bitwarden pentru auto-completarea\n        conectărilor dvs. în aplicații și pe web. (Necesită de asemenea să activați \\\"Afișare peste\\\")\n    "
+  },
+  "accessibility_description3": {
+    "value": "Folosiți Serviciul de Accesibilitate Bitwarden pentru a utiliza fila\n        \\\"Acțiune rapidă de auto-completare\\\" și/sau a afișa o fereastră pop-up folosind \\\"Afișare peste\\\" (dacă este\n        activat).\n    "
+  },
+  "accessibility_description4": {
+    "value": "Necesar la folosirea filei \\\"Acțiune rapidă de auto-completare\\\" sau la\n        îmbunătățirea Serviciului de auto-completare folosind \\\"Afișare peste\\\" (dacă este activat).\n    "
+  },
+  "accessibility_description5": {
+    "value": "Este necesar pentru a utiliza comanda rapidă Completare automată."
+  },
+  "accessibility_disclosure_text": {
+    "value": "Bitwarden utilizează Serviciul de accesibilitate pentru a căuta câmpuri\n        de autentificare în aplicații și site-uri web, apoi stabilește ID-urile de câmp corespunzătoare pentru a\n        introduce un nume de utilizator și o parolă atunci când se găsește o potrivire pentru aplicație sau site. Nu\n        stocăm niciuna dintre informațiile care ne sunt prezentate de către serviciu și nici nu încercăm să controlăm\n        vreun element de pe ecran, dincolo de introducerea textului de identificare.\n    "
+  },
+  "accessibility_draw_over_permission_alert": {
+    "value": "Bitwarden are nevoie de atenție - Activați \\\"Afișare peste\\\"\n        în \\\"Serviciul de auto-completare\\\" din Setările Bitwarden\n    "
+  },
+  "accessibility_overlay_permission_alert": {
+    "value": "Bitwarden are nevoie de atenție - Vedeți „Serviciul de\n        accesibilitate pentru completarea automată\\\" din setările Bitwarden”\n    "
+  },
+  "accessibility_service_disclosure": {
+    "value": "Dezvăluirea serviciilor de accesibilitate"
+  },
+  "account": {
+    "value": "Cont"
+  },
+  "account_already_added": {
+    "value": "Cont deja adăugat"
+  },
+  "account_biometric_invalidated": {
+    "value": "Deblocarea biometrică pentru acest cont este dezactivată în așteptarea\n        verificării parolei principale.\n    "
+  },
+  "account_biometric_invalidated_extension": {
+    "value": "Completarea automată a deblocării biometrice pentru acest\n        cont este dezactivată în așteptarea verificării parolei principale.\n    "
+  },
+  "account_created": {
+    "value": "Noul cont a fost creat! Acum te poți autentifica."
+  },
+  "account_created_success": {
+    "value": "Noul tău cont a fost creat!"
+  },
+  "account_fingerprint_phrase": {
+    "value": "Frază de amprentă digitală a contului"
+  },
+  "account_locked": {
+    "value": "Blocat"
+  },
+  "account_locked_successfully": {
+    "value": "Cont blocat"
+  },
+  "account_logged_out": {
+    "value": "Deconectat"
+  },
+  "account_logged_out_biometric_exceeded": {
+    "value": "Cont deconectat."
+  },
+  "account_logged_out_successfully": {
+    "value": "Contul s-a deconectat cu succes"
+  },
+  "account_removed_successfully": {
+    "value": "Cont eliminat cu succes"
+  },
+  "account_security": {
+    "value": "Securitate cont"
+  },
+  "account_setup": {
+    "value": "Configurare cont"
+  },
+  "account_switched_automatically": {
+    "value": "Comutat la următorul cont disponibil"
+  },
+  "account_unlocked": {
+    "value": "Deblocat"
+  },
+  "add": {
+    "value": "Adăugare"
+  },
+  "add_a_number_or_symbol_to_make_it_even_stronger": {
+    "value": "\n        <annotation emphasis=\"bold\">Add a number or symbol</annotation>\n        to make it even stronger. Now you have a unique, secure, and memorable passphrase!\n    "
+  },
+  "add_a_send": {
+    "value": "Adăugați un Send"
+  },
+  "add_account": {
+    "value": "Adăugare cont"
+  },
+  "add_an_item": {
+    "value": "Adăugare articol"
+  },
+  "add_field": {
+    "value": "Add field"
+  },
+  "add_folder": {
+    "value": "Adăugare dosar"
+  },
+  "add_item": {
+    "value": "Adăugare articol"
+  },
+  "add_new_attachment": {
+    "value": "Adăugare atașament nou"
+  },
+  "add_send": {
+    "value": "Adăugare Send"
+  },
+  "add_the_key_to_an_existing_or_new_item": {
+    "value": "Adăugați cheia la un articol existent sau nou"
+  },
+  "add_this_authenticator_key_to_a_login": {
+    "value": "Adaugă această cheie de autentificare la o autentificare\n        existentă, sau creează o nouă autentificare.\n    "
+  },
+  "add_totp": {
+    "value": "Adăugare TOTP"
+  },
+  "add_website": {
+    "value": "Add website"
+  },
+  "additional_options": {
+    "value": "Opțiuni adiționale"
+  },
+  "address": {
+    "value": "Adresă"
+  },
+  "address1": {
+    "value": "Adresă 1"
+  },
+  "address2": {
+    "value": "Adresă 2"
+  },
+  "address3": {
+    "value": "Adresă 3"
+  },
+  "addy_io": {
+    "value": "addy.io"
+  },
+  "admin_approval_requested": {
+    "value": "Se solicită aprobarea administratorului"
+  },
+  "after_you_save_your_new_password_to_bitwarden_don_t_forget_to_update_it_on_your_account_website": {
+    "value": "\n        \"After you save your new password to Bitwarden, don’t forget to update it on your account website. \"\n    "
+  },
+  "alias": {
+    "value": "Alias"
+  },
+  "all": {
+    "value": "Toate"
+  },
+  "all_items": {
+    "value": "Toate articolele"
+  },
+  "all_notifications": {
+    "value": "Toate notificările"
+  },
+  "all_sends": {
+    "value": "Toate Send-urile"
+  },
+  "all_vaults": {
+    "value": "Toate seifurile"
+  },
+  "allow_bitwarden_authenticator_syncing": {
+    "value": "Allow authenticator syncing"
+  },
+  "allow_notifications": {
+    "value": "Permitere notificări"
+  },
+  "allow_screen_capture": {
+    "value": "Permitere captură de ecran"
+  },
+  "an_error_has_occurred": {
+    "value": "S-a produs o eroare."
+  },
+  "an_error_occurred_while_sending_a_verification_code_to_your_email_please_try_again": {
+    "value": "S-a produs o\n        eroare la trimiterea codului de verificare la adresa dvs. de e-mail. Vă rugăm să încercați din nou\n    "
+  },
+  "api_access_token": {
+    "value": "Token de acces API"
+  },
+  "api_key_required_parenthesis": {
+    "value": "Cheia API (necesară)"
+  },
+  "api_url": {
+    "value": "URL server API"
+  },
+  "app_extension": {
+    "value": "Extensie aplicație"
+  },
+  "appearance": {
+    "value": "Aspect"
+  },
+  "application": {
+    "value": "Aplicare"
+  },
+  "approve_login_requests": {
+    "value": "Aprobare solicitări de autentificare"
+  },
+  "approve_with_master_password": {
+    "value": "Aprobă cu parola principală"
+  },
+  "approve_with_my_other_device": {
+    "value": "Aprobă cu alt dispozitiv"
+  },
+  "april": {
+    "value": "aprilie"
+  },
+  "are_you_sure_delete_send": {
+    "value": "Sigur doriți să ștergeți acest Send?"
+  },
+  "are_you_sure_remove_send_password": {
+    "value": "Sigur doriți să eliminați parola?"
+  },
+  "are_you_sure_you_want_to_decline_all_pending_log_in_requests": {
+    "value": "Sunteţi sigur că doriţi să refuzaţi\n        toate solicitările de conectare în aşteptare?\n    "
+  },
+  "are_you_sure_you_want_to_enable_screen_capture": {
+    "value": "Sunteți sigur că doriți să activați captura de\n        ecran?\n    "
+  },
+  "are_you_sure_you_want_to_overwrite_the_current_username": {
+    "value": "Sunteți sigur că doriți să suprascrieți\n        numele de utilizator curent?\n    "
+  },
+  "are_you_trying_to_log_in": {
+    "value": "Încercați să vă conectați?"
+  },
+  "ask_to_add_login": {
+    "value": "Solicitare de adăugare cont"
+  },
+  "ask_to_add_login_description": {
+    "value": "Solicitați adăugarea unui element dacă nu se găsește unul în seif.\n    "
+  },
+  "attachement_added": {
+    "value": "Atașamentul s-a adăugat"
+  },
+  "attachment_deleted": {
+    "value": "Atașamentul s-a șters"
+  },
+  "attachment_large_warning": {
+    "value": "Acest atașament are o mărime de %1$s. Sigur doriți să îl descărcați pe\n        dispozitivul dvs.?\n    "
+  },
+  "attachments": {
+    "value": "Atașamente"
+  },
+  "august": {
+    "value": "august"
+  },
+  "authenticator": {
+    "value": "Autentificator"
+  },
+  "authenticator_app_title": {
+    "value": "Aplicația Autentificator"
+  },
+  "authenticator_key": {
+    "value": "Cheie de autentificare (TOTP)"
+  },
+  "authenticator_key_added": {
+    "value": "Cheia de autentificare s-a adăugat."
+  },
+  "authenticator_key_help": {
+    "value": "Authenticator key help"
+  },
+  "authenticator_key_read_error": {
+    "value": "Nu se poate citi cheia de autentificare."
+  },
+  "authenticator_key_scanner": {
+    "value": "Cheie de autentificare"
+  },
+  "authenticator_sync": {
+    "value": "Authenticator Sync"
+  },
+  "auto_fill_will_not_be_offered_for_these_ur_is": {
+    "value": "Completarea automată nu va fi oferită pentru aceste\n        URI-uri.\n    "
+  },
+  "autofill": {
+    "value": "Auto-completare"
+  },
+  "autofill_accessibility_description": {
+    "value": "Utilizează serviciul de accesibilitate Bitwarden pentru a completa\n        automat datele de autentificare între aplicații și pagini web.\n    "
+  },
+  "autofill_accessibility_service": {
+    "value": "Serviciul de accesibilitate pentru auto-completare"
+  },
+  "autofill_accessibility_summary": {
+    "value": "Asistă la completarea câmpurilor numelui de utilizator și a parolei în\n        alte aplicații și pe web.\n    "
+  },
+  "autofill_activated": {
+    "value": "Auto-completare activată!"
+  },
+  "autofill_and_save": {
+    "value": "Auto-completare și salvare"
+  },
+  "autofill_blocked_uris": {
+    "value": "Completarea automată a URI-urilor blocate"
+  },
+  "autofill_options": {
+    "value": "Autofill Options"
+  },
+  "autofill_or_view": {
+    "value": "Doriți să auto-completați sau să vizualizați acest articol?"
+  },
+  "autofill_passwords": {
+    "value": "Autofill passwords"
+  },
+  "autofill_service": {
+    "value": "Serviciul de autocompletare"
+  },
+  "autofill_service_description": {
+    "value": "Serviciul de autocompletare Bitwarden folosește Android Autofill\n        Framework pentru a ajuta la completarea informațiilor de autentificare în alte aplicații de pe dispozitivul\n        dumneavoastră.\n    "
+  },
+  "autofill_service_not_enabled": {
+    "value": "Auto-completarea facilitează accesul în siguranță la seiful Bitwarden de\n        pe alte site-uri și aplicații. Se pare că nu ați configurat un serviciu de auto-completare pentru Bitwarden.\n        Configurați auto-completarea pentru Bitwarden din ecranul „Setări”.\n    "
+  },
+  "autofill_services": {
+    "value": "Servicii de autocompletare"
+  },
+  "autofill_services_explanation_long": {
+    "value": "Android Autofill Framework este folosit pentru a ajuta la\n        completarea informațiilor de conectare în alte aplicații de pe dispozitiv.\n    "
+  },
+  "autofill_setup": {
+    "value": "Conectările dvs. sunt acum ușor accesibile chiar de la tastatură în timp ce vă\n        conectați la aplicații și site-uri web.\n    "
+  },
+  "autofill_setup2": {
+    "value": "Vă recomandăm să dezactivați orice alte aplicații cu auto-completare din Setări dacă\n        nu intenționați să le utilizați.\n    "
+  },
+  "autofill_suggestion": {
+    "value": "Sugestie autocompletare"
+  },
+  "autofill_tile_accessibility_required": {
+    "value": "Activați \\\"Serviciul de accesibilitate Auto-completare\\\" în\n        setările Bitwarden ca să utilizați fila de Auto-completare.\n    "
+  },
+  "autofill_tile_uri_not_found": {
+    "value": "Nu s-au detectat câmpuri de parolă"
+  },
+  "autofill_turn_on": {
+    "value": "Pentru a activa auto-completarea parolei pe acest dispozitiv, urmăriți aceste\n        instrucțiuni:\n    "
+  },
+  "autofill_turn_on1": {
+    "value": "1. Accesați Setările iOS"
+  },
+  "autofill_turn_on2": {
+    "value": "2. Selectați „Parole”"
+  },
+  "autofill_turn_on3": {
+    "value": "3. Selectați \\\"Auto-completare parole\\\""
+  },
+  "autofill_turn_on4": {
+    "value": "4. Activați \\\"Completare automată\\\""
+  },
+  "autofill_turn_on5": {
+    "value": "5. Selectați \\\"Bitwarden\\\""
+  },
+  "autofill_with_bitwarden": {
+    "value": "Auto-completare cu Bitwarden"
+  },
+  "available_for_two_step_login": {
+    "value": "Disponibil pentru autentificare în doi pași"
+  },
+  "avoid_ambiguous_characters": {
+    "value": "Evitare de caractere ambigue"
+  },
+  "back": {
+    "value": "Înapoi"
+  },
+  "base_domain": {
+    "value": "Domeniu de bază"
+  },
+  "biometrics": {
+    "value": "Biometrie"
+  },
+  "biometrics_decoding_failure": {
+    "value": "Log in with your Master Password or PIN then re-enable biometric login in\n        Settings.\n    "
+  },
+  "biometrics_direction": {
+    "value": "Verificare biometrică"
+  },
+  "biometrics_failed": {
+    "value": "Biometrics Failed"
+  },
+  "biometrics_no_longer_supported": {
+    "value": "You’ve been logged out because your device’s biometrics don’t meet the\n        latest security requirements. To update settings, log in once again or contact your administrator for access.\n    "
+  },
+  "biometrics_no_longer_supported_title": {
+    "value": "Biometrics are no longer supported on this device"
+  },
+  "bitwarden": {
+    "value": "Bitwarden"
+  },
+  "bitwarden_app_extension": {
+    "value": "Extensie aplicație Bitwarden"
+  },
+  "bitwarden_app_extension_alert2": {
+    "value": "Modul cel mai simplu de adăugare de noi autentificări în seif este de\n        la extensia aplicației Bitwarden. Aflați mai multe despre utilizarea extensiei aplicației Bitwarden navigând în\n        ecranul „Setări”.\n    "
+  },
+  "bitwarden_app_extension_description": {
+    "value": "Utilizează Bitwarden în Safari și în alte aplicații pentru a\n        completa automat datele de autentificare.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description": {
+    "value": "Utilizează serviciul Bitwarden pentru a completa\n        automat datele de autentificare.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description2": {
+    "value": "Serviciul de accesibilitate poate fi de ajutor\n        când aplicațiile nu acceptă serviciul standard de auto-completare.\n    "
+  },
+  "bitwarden_autofill_alert2": {
+    "value": "Cel mai simplu mod de a adăuga noi autentificări în seiful dvs. este prin\n        utilizarea extensiei \\\"Bitwarden Auto-completare parole\\\". Aflați mai multe despre utilizarea acestei extensii\n        navigând la ecranul \\\"Setări\\\".\n    "
+  },
+  "bitwarden_autofill_description": {
+    "value": "Vă permite accesul la seif direct de la tastatură pentru a\n        auto-completa rapid parolele.\n    "
+  },
+  "bitwarden_autofill_go_to_settings": {
+    "value": "Nu am reușit să deschidem automat meniul setărilor pentru\n        auto-completare. Puteți să navigați manual la acesta din Setările Android  Sistem  Limbi și introducere\n        text  Avansate  Serviciul de auto-completare.\n    "
+  },
+  "bitwarden_autofill_service": {
+    "value": "Serviciul de completare automată Bitwarden"
+  },
+  "bitwarden_autofill_service_alert2": {
+    "value": "Cea mai ușoară modalitate de a adăuga noi autentificări în seif\n        este cu Serviciul de Auto-completare Bitwarden. Aflați mai multe despre folosirea acestui serviciu Bitwarden din\n        ecranul \\\"Setări\\\".\n    "
+  },
+  "bitwarden_autofill_service_description": {
+    "value": "Folosiți serviciul de autocompletare Bitwarden pentru a\n        completa informațiile de autentificare în alte aplicații.\n    "
+  },
+  "bitwarden_autofill_service_match_confirm": {
+    "value": "Sigur doriți să auto-completați aceste date de conectare? Nu\n        este o potrivire completă pentru \\\"%1$s\\\".\n    "
+  },
+  "bitwarden_autofill_service_notification_content": {
+    "value": "Atingeți această notificare pentru a auto-completa o\n        autentificare din seiful dvs.\n    "
+  },
+  "bitwarden_autofill_service_notification_content_old": {
+    "value": "Atingeți această notificare pentru a vizualiza\n        autentificările din seiful dvs.\n    "
+  },
+  "bitwarden_autofill_service_open_accessibility_settings": {
+    "value": "Deschidere setări de accesibilitate"
+  },
+  "bitwarden_autofill_service_open_autofill_settings": {
+    "value": "Setări de auto-completare"
+  },
+  "bitwarden_autofill_service_open_overlay_permission_settings": {
+    "value": "Deschidere setări \\\"Permisiune de\n        suprapunere\\\"\n    "
+  },
+  "bitwarden_autofill_service_overlay": {
+    "value": "Când selectați un câmp de intrare și vedeți o propunere de\n        auto-completare, atingeți-l ca să lansați serviciu de auto-completare.\n    "
+  },
+  "bitwarden_autofill_service_overlay_permission": {
+    "value": "3. În ecranul Setări aplicație Android pentru\n        Bitwarden, mergeți la opțiunile „Afișare peste alte aplicații” (la secțiunea Avansat) și atingeți comutatorul\n        pentru a permite suportul pentru suprapunere.\n    "
+  },
+  "bitwarden_autofill_service_search": {
+    "value": "Căutați o autentificare automată pentru \\\"%1$s\\\"."
+  },
+  "bitwarden_autofill_service_step1": {
+    "value": "1. În ecranul Accesibilitate din setările Android, atingeți\n        \\\"Bitwarden\\\" sub titlul Servicii.\n    "
+  },
+  "bitwarden_autofill_service_step2": {
+    "value": "2. Activați comutatorul și apăsați OK pentru a accepta."
+  },
+  "bitwarden_autofill_service_step3": {
+    "value": "3. În ecranul Android de Setări al aplicației Bitwarden, accesați\n        opțiunile \\\"Afișați peste alte aplicații\\\" (sub Avansat) și comutați pentru a permite suprapunerea.\n    "
+  },
+  "bitwarden_can_notify_you_each_time_you_receive_a_new_login_request_from_another_device": {
+    "value": "Bitwarden can\n        notify you each time you receive a new login request from another device.\n    "
+  },
+  "bitwarden_cannot_recover_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden cannot recover a lost or\n        forgotten master password.\n    "
+  },
+  "bitwarden_cannot_reset_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden cannot reset a lost or forgotten\n        master password.\n    "
+  },
+  "bitwarden_credential_provider_go_to_settings": {
+    "value": "Nu am reușit să deschidem automat meniul de setări ale\n        furnizorului de acreditări Android pentru dvs. Puteți naviga manual către meniul de setări al furnizorului de\n        acreditări din Setări Android  Sistem  Parole  conturi  Parole, chei de acces și servicii de\n        date.\n    "
+  },
+  "bitwarden_help_center": {
+    "value": "Bitwarden Help Center"
+  },
+  "bitwarden_tools": {
+    "value": "Bitwarden Tools"
+  },
+  "bitwarden_will_soon_send_a_code_to_your_account_email_to_verify_logins_from_new_devices_in_february": {
+    "value": "\n        Bitwarden will send a code to your account email to verify logins from new devices starting in February 2025.\n    "
+  },
+  "black": {
+    "value": "Negru"
+  },
+  "block_auto_fill": {
+    "value": "Blocați completarea automată"
+  },
+  "brand": {
+    "value": "Tip card"
+  },
+  "by_activating_this_switch_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "By activating this\n        switch, you agree to the <annotation link=\"termsOfService\">Terms of Service</annotation> and\n        <annotation link=\"privacyPolicy\">Privacy Policy</annotation>\n    "
+  },
+  "by_continuing_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "By continuing, you agree to the <annotation link=\"termsOfService\">Terms of Service\n    </annotation> and\n        <annotation link=\"privacyPolicy\">Privacy Policy</annotation>\n    "
+  },
+  "camera": {
+    "value": "Cameră"
+  },
+  "cancel": {
+    "value": "Anulare"
+  },
+  "cannot_add_authenticator_key": {
+    "value": "Nu se poate adăuga cheia de autentificare?"
+  },
+  "cannot_add_authenticator_key_scan_qr_code": {
+    "value": "Cannot add authenticator key?\n        <annotation link=\"scanQrCode\">Scan QR Code</annotation>\n    "
+  },
+  "cannot_edit_multiple_ur_is_at_once": {
+    "value": "Nu se pot edita mai multe URI-uri simultan"
+  },
+  "cannot_open_app": {
+    "value": "Nu se poate deschide aplicația \\\"%1$s\\\"."
+  },
+  "cannot_scan_qr_code_enter_key_manually": {
+    "value": "Cannot scan QR code?\n        <annotation link=\"enterKeyManually\">Enter key manually</annotation>\n    "
+  },
+  "capitalize": {
+    "value": "Se folosesc majuscule inițiale"
+  },
+  "captcha_failed": {
+    "value": "Captcha a eșuat. Încercați din nou."
+  },
+  "captcha_required": {
+    "value": "Captcha necesar"
+  },
+  "card_details": {
+    "value": "Card Details"
+  },
+  "cardholder_name": {
+    "value": "Numele titularului de card"
+  },
+  "cards": {
+    "value": "Carduri"
+  },
+  "catch_all_email": {
+    "value": "E-mail Catch-all"
+  },
+  "catch_all_email_description": {
+    "value": "Utilizați inbox-ul catch-all configurat pentru domeniul dvs."
+  },
+  "certificate_alias": {
+    "value": "Certificate alias"
+  },
+  "certificate_alias_already_exists": {
+    "value": "Certificate alias already exists"
+  },
+  "certificate_installation_failed": {
+    "value": "Certificate installation failed"
+  },
+  "certificate_installed": {
+    "value": "Certificate installed"
+  },
+  "certificate_password_incorrect": {
+    "value": "Certificate password incorrect"
+  },
+  "certificate_selection_failed": {
+    "value": "Certificate selection failed"
+  },
+  "certificate_used_for_client_authentication": {
+    "value": "Certificate used for client authentication."
+  },
+  "change_account_email": {
+    "value": "Change account email"
+  },
+  "change_email": {
+    "value": "Schimbare e-mail"
+  },
+  "change_email_address": {
+    "value": "Change email address"
+  },
+  "change_email_confirmation": {
+    "value": "Poți modifica adresa de e-mail pe pagina web bitwarden.com. Dorești să\n        vizitezi pagina web acum?\n    "
+  },
+  "change_master_password": {
+    "value": "Modificare parolă principală"
+  },
+  "change_master_password_description_long": {
+    "value": "Poți schimba parola principală în aplicația web Bitwarden.\n    "
+  },
+  "check_known_data_breaches_for_this_password": {
+    "value": "Verifică spargerile cunoscute ale datelor pentru această\n        parolă\n    "
+  },
+  "check_out_the_passphrase_generator": {
+    "value": "\"Check out the passphrase generator\""
+  },
+  "check_password": {
+    "value": "Verificați dacă parola a fost dezvăluită."
+  },
+  "check_password_for_data_breaches": {
+    "value": "Check password for data breaches"
+  },
+  "check_your_email": {
+    "value": "Verifică-ți e-mailul"
+  },
+  "checking_password": {
+    "value": "Verificare parolă..."
+  },
+  "choose_a_login_to_save_this_passkey_to": {
+    "value": "Alege o autentificare pentru a salva această cheie de acces\n    "
+  },
+  "choose_a_unique_and_strong_password_to_keep_your_information_safe": {
+    "value": "Choose a unique and strong password\n        to keep your information safe.\n    "
+  },
+  "choose_file": {
+    "value": "Alegere fișier"
+  },
+  "choose_system_certificate": {
+    "value": "Choose system certificate"
+  },
+  "choose_three_or_four_random_words": {
+    "value": "Choose three or four random words"
+  },
+  "choose_your_master_password": {
+    "value": "Choose your master password"
+  },
+  "city_town": {
+    "value": "Localitate"
+  },
+  "class_2_biometrics_description": {
+    "value": "Unlock with biometrics requires strong biometric authentication and is\n        not compatible with the biometrics options available on this device.\n    "
+  },
+  "class_3_biometrics_description": {
+    "value": "Unlock with biometrics requires strong biometric authentication and\n        may not be compatible with all biometric options on this device.\n    "
+  },
+  "clear": {
+    "value": "Ștergere"
+  },
+  "clear_clipboard": {
+    "value": "Golire clipboard"
+  },
+  "clear_clipboard_description": {
+    "value": "Șterge automat valorile copiate din clipboard."
+  },
+  "client_certificate_mtls": {
+    "value": "Client certificate (mTLS)"
+  },
+  "clone": {
+    "value": "Clonare"
+  },
+  "close": {
+    "value": "Închidere"
+  },
+  "coachmark_1_of_3": {
+    "value": "1 OF 3"
+  },
+  "coachmark_1_of_6": {
+    "value": "1 OF 6"
+  },
+  "coachmark_2_of_3": {
+    "value": "2 OF 3"
+  },
+  "coachmark_2_of_6": {
+    "value": "2 OF 6"
+  },
+  "coachmark_3_of_3": {
+    "value": "3 OF 3"
+  },
+  "coachmark_3_of_6": {
+    "value": "3 OF 6"
+  },
+  "coachmark_4_of_6": {
+    "value": "4 OF 6"
+  },
+  "coachmark_5_of_6": {
+    "value": "5 OF 6"
+  },
+  "coachmark_6_of_6": {
+    "value": "6 OF 6"
+  },
+  "code_sent": {
+    "value": "Cod trimis!"
+  },
+  "collections": {
+    "value": "Colecții"
+  },
+  "combine_those_words_together": {
+    "value": "Combine those words together"
+  },
+  "company": {
+    "value": "Companie"
+  },
+  "confim_log_in_attemp_for_x": {
+    "value": "Confirmați încercarea de autentificare pentru %1$s"
+  },
+  "confirm": {
+    "value": "Confirmare"
+  },
+  "confirm_file_password": {
+    "value": "Confirmați parola fișierului"
+  },
+  "confirm_log_in": {
+    "value": "Confirmare autentificare"
+  },
+  "confirm_your_identity": {
+    "value": "Confirmați-vă identitatea pentru a continua."
+  },
+  "connect_to_watch": {
+    "value": "Conectează Watch(Apple)"
+  },
+  "contact_bitwarden_support": {
+    "value": "Contactați asistența Bitwarden"
+  },
+  "contact_info": {
+    "value": "Contact Info"
+  },
+  "contact_support_description_long": {
+    "value": "Nu găsiți ceea ce căutați? Contactați asistența Bitwarden pe\n        bitwarden.com.\n    "
+  },
+  "continue_text": {
+    "value": "Continuare"
+  },
+  "continue_to_app_store": {
+    "value": "Continui la magazinul de aplicații?"
+  },
+  "continue_to_complete_web_authn_verification": {
+    "value": "Continue to complete WebAuthn verification."
+  },
+  "continue_to_contact_support": {
+    "value": "Continui să contactezi asistența?"
+  },
+  "continue_to_device_settings": {
+    "value": "Continui la setările dispozitivului?"
+  },
+  "continue_to_give_feedback": {
+    "value": "Continue to Give Feedback?"
+  },
+  "continue_to_help_center": {
+    "value": "Continui la Centrul de Ajutor?"
+  },
+  "continue_to_privacy_policy": {
+    "value": "Continui la politica de confidențialitate?"
+  },
+  "continue_to_provide_feedback": {
+    "value": "Select continue to give feedback on the new app!"
+  },
+  "continue_to_web_app": {
+    "value": "Continui la aplicația web?"
+  },
+  "continue_to_x": {
+    "value": "Continui la %1$s?"
+  },
+  "copied_to_clipboard": {
+    "value": "Copied to clipboard."
+  },
+  "copy": {
+    "value": "Copiere"
+  },
+  "copy_address": {
+    "value": "Copy address"
+  },
+  "copy_app_information": {
+    "value": "Copiază informațiile aplicației"
+  },
+  "copy_application": {
+    "value": "Copiază aplicarea"
+  },
+  "copy_company": {
+    "value": "Copy company"
+  },
+  "copy_email": {
+    "value": "Copy email"
+  },
+  "copy_fingerprint": {
+    "value": "Copy fingerprint"
+  },
+  "copy_identity_name": {
+    "value": "Copy identity name"
+  },
+  "copy_license_number": {
+    "value": "Copy license number"
+  },
+  "copy_link": {
+    "value": "Copiere link"
+  },
+  "copy_notes": {
+    "value": "Copiere notă"
+  },
+  "copy_number": {
+    "value": "Copiere număr"
+  },
+  "copy_passport_number": {
+    "value": "Copy passport number"
+  },
+  "copy_password": {
+    "value": "Copiere parolă"
+  },
+  "copy_phone": {
+    "value": "Copy phone number"
+  },
+  "copy_private_key": {
+    "value": "Copy private key"
+  },
+  "copy_public_key": {
+    "value": "Copy public key"
+  },
+  "copy_security_code": {
+    "value": "Copiere cod de securitate"
+  },
+  "copy_send_link_on_save": {
+    "value": "Copiați linkul Send-ului la salvare"
+  },
+  "copy_ssn": {
+    "value": "Copy social security number"
+  },
+  "copy_totp": {
+    "value": "Copiere TOTP"
+  },
+  "copy_totp_automatically": {
+    "value": "Copiați automat TOTP"
+  },
+  "copy_totp_automatically_description": {
+    "value": "Dacă o autentificare are o cheie de autentificare, copiați codul\n        de verificare TOTP în clipboard când completați automat autentificarea.\n    "
+  },
+  "copy_username": {
+    "value": "Copiere nume utilizator"
+  },
+  "country": {
+    "value": "Țară"
+  },
+  "create_a_hint": {
+    "value": "Create a hint"
+  },
+  "create_account": {
+    "value": "Creare cont"
+  },
+  "create_account_on": {
+    "value": "Create account on"
+  },
+  "create_account_on_with_colon": {
+    "value": "Create account on:"
+  },
+  "create_an_account": {
+    "value": "Create an account"
+  },
+  "created_xy": {
+    "value": "Creat %1$s, %2$s"
+  },
+  "creating_account": {
+    "value": "Se creează contul..."
+  },
+  "credits": {
+    "value": "Mulțumiri"
+  },
+  "current_access_count": {
+    "value": "Numărul actual de accesări"
+  },
+  "current_master_password_required": {
+    "value": "Current master password (required)"
+  },
+  "custom": {
+    "value": "Personalizat"
+  },
+  "custom_environment": {
+    "value": "Mediu personalizat"
+  },
+  "custom_environment_footer": {
+    "value": "Pentru utilizatorii avansați. Puteți specifica URL-ul de bază al fiecărui\n        serviciu în mod independent.\n    "
+  },
+  "custom_field_name": {
+    "value": "Numele câmpului personalizat"
+  },
+  "custom_fields": {
+    "value": "Câmpuri particularizate"
+  },
+  "cxp_export": {
+    "value": "CXP Export"
+  },
+  "cxp_import": {
+    "value": "CXP Import"
+  },
+  "dark": {
+    "value": "Întunecat"
+  },
+  "data_region": {
+    "value": "Regiunea datelor"
+  },
+  "date_password_updated": {
+    "value": "Parola s-a actualizat"
+  },
+  "date_updated": {
+    "value": "S-a actualizat"
+  },
+  "december": {
+    "value": "decembrie"
+  },
+  "decline": {
+    "value": "Refuz"
+  },
+  "decline_all_requests": {
+    "value": "Refuză toate cererile"
+  },
+  "default_dark_theme": {
+    "value": "Tema întunecată implicită"
+  },
+  "default_dark_theme_description_long": {
+    "value": "Alegeți tema întunecată pe care să o utilizați atunci când modul\n        întunecat al dispozitivului dvs. este în uz\n    "
+  },
+  "default_system": {
+    "value": "Implicit (sistem)"
+  },
+  "default_text": {
+    "value": "Implicit"
+  },
+  "default_uri_match_detection": {
+    "value": "Detectare implicită a potrivirii URI"
+  },
+  "default_uri_match_detection_description": {
+    "value": "Alege modul implicit de gestionare a detectării de potrivire\n        URI pentru conectări când se efectuează acțiuni precum auto-completarea.\n    "
+  },
+  "delete": {
+    "value": "Ștergere"
+  },
+  "delete_account": {
+    "value": "Ștergere cont"
+  },
+  "delete_account_explanation": {
+    "value": "Contul dvs. și toate datele din seif vor fi șterse și irecuperabile.\n        Sunteți sigur că doriți să continuați?\n    "
+  },
+  "delete_this_file_after_import_is_complete": {
+    "value": "You’ll delete this file after import is complete."
+  },
+  "deleting": {
+    "value": "Se șterge..."
+  },
+  "deleting_your_account": {
+    "value": "Ștergerea contului dvs."
+  },
+  "deleting_your_account_is_permanent": {
+    "value": "Ștergerea contului dvs. este permanentă"
+  },
+  "deletion_date": {
+    "value": "Data ștergerii"
+  },
+  "deletion_date_info": {
+    "value": "Send-ul va fi șters definitiv la data și ora specificate."
+  },
+  "deletion_time": {
+    "value": "Ora ștergerii"
+  },
+  "denied": {
+    "value": "Refuzat"
+  },
+  "deny_log_in": {
+    "value": "Refuz autentificare"
+  },
+  "device_type": {
+    "value": "Tip dispozitiv"
+  },
+  "disable_personal_vault_export_policy_in_effect": {
+    "value": "Una sau mai multe politici de organizație vă împiedică\n        să vă exportați seiful individual.\n    "
+  },
+  "disabled": {
+    "value": "Dezactivat"
+  },
+  "do_you_have_a_computer_available": {
+    "value": "Do you have a computer available?"
+  },
+  "do_you_have_reliable_access_to_your_email": {
+    "value": "Do you have reliable access to your email,\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s?</annotation>\n        </annotation>\n        ?\n    "
+  },
+  "do_you_really_want_to_delete": {
+    "value": "Dorești cu adevărat să ștergi? Acest lucru nu poate fi anulat."
+  },
+  "do_you_really_want_to_permanently_delete_cipher": {
+    "value": "Sigur doriți să ștergeți definitiv? Acest lucru nu\n        poate fi anulat.\n    "
+  },
+  "do_you_really_want_to_restore_cipher": {
+    "value": "Sigur doriți să restabiliți acest articol?"
+  },
+  "do_you_really_want_to_soft_delete_cipher": {
+    "value": "Sigur doriți să trimiteți în coșul de reciclare?"
+  },
+  "domain_name_required_parenthesis": {
+    "value": "Nume de domeniu (obligatoriu)"
+  },
+  "done_text": {
+    "value": "Done"
+  },
+  "download": {
+    "value": "Descărcare"
+  },
+  "download_the_browser_extension": {
+    "value": "Download the browser extension"
+  },
+  "downloading": {
+    "value": "Descărcare..."
+  },
+  "dr": {
+    "value": "Dr."
+  },
+  "draw_over": {
+    "value": "Folosire „Afișare peste”"
+  },
+  "draw_over_description": {
+    "value": "Permite Serviciului de accesibilitate Bitwarden să afișeze o fereastră pop-up\n        atunci când sunt selectate câmpurile de autentificare.\n    "
+  },
+  "draw_over_description2": {
+    "value": "Dacă este activat, Serviciul de Accesibilitate Bitwarden va afișa o fereastră\n        pop-up când câmpurile de conectare sunt selectate pentru a ajuta la auto-completare datelor de autentificare.\n    "
+  },
+  "draw_over_description3": {
+    "value": "Dacă este activată, accesibilitatea va afișa o fereastră pop-up pentru a\n        extinde serviciul de completare automată pentru aplicațiile mai vechi care nu acceptă framework-ul de completare\n        automată Android.\n    "
+  },
+  "duck_duck_go": {
+    "value": "DuckDuckGo"
+  },
+  "duo_two_step_login_is_required_for_your_account": {
+    "value": "Pentru contul tău este necesară autentificarea în doi\n        pași.\n    "
+  },
+  "edit": {
+    "value": "Editare"
+  },
+  "edit_card": {
+    "value": "Edit card"
+  },
+  "edit_folder": {
+    "value": "Editare dosar"
+  },
+  "edit_identity": {
+    "value": "Edit identity"
+  },
+  "edit_item": {
+    "value": "Editare articol"
+  },
+  "edit_login": {
+    "value": "Edit login"
+  },
+  "edit_note": {
+    "value": "Edit note"
+  },
+  "edit_passkey": {
+    "value": "Edit passkey"
+  },
+  "edit_send": {
+    "value": "Editare Send"
+  },
+  "edit_uri": {
+    "value": "Editare URI"
+  },
+  "email": {
+    "value": "E-mail"
+  },
+  "email_address": {
+    "value": "Adresă de e-mail"
+  },
+  "email_address_required": {
+    "value": "Adresa de e-mail (necesar)"
+  },
+  "email_required_parenthesis": {
+    "value": "E-mail (obligatoriu)"
+  },
+  "email_type": {
+    "value": "Tip e-mail"
+  },
+  "email_us": {
+    "value": "Trimite-ne un email"
+  },
+  "email_us_description": {
+    "value": "Trimite-ne un e-mail pentru a obține ajutor sau pentru a lăsa un feedback.\n    "
+  },
+  "email_verified": {
+    "value": "E-mail verificat"
+  },
+  "enable_automatic_syncing": {
+    "value": "Permite sincronizarea automată"
+  },
+  "enable_camer_permission_to_use_the_scanner": {
+    "value": "Permite accesul camerei foto pentru a utiliza scanerul\n    "
+  },
+  "enable_notifications": {
+    "value": "Enable notifications"
+  },
+  "enable_sync_on_refresh": {
+    "value": "Activare sincronizare la reîmprospătare"
+  },
+  "enable_sync_on_refresh_description": {
+    "value": "Sincronizare seif cu tragere în jos"
+  },
+  "enabled": {
+    "value": "Activat"
+  },
+  "encryption_key_migration_required_description_long": {
+    "value": "Este necesară migrarea cheilor de criptare.\n        Autentifică-te prin seiful web pentru a actualiza cheia de criptare.\n    "
+  },
+  "enter_email_for_hint": {
+    "value": "Adresa de e-mail a contului pentru primirea indiciului parolei principale.\n    "
+  },
+  "enter_key_manually": {
+    "value": "Introducere manuală a cheii"
+  },
+  "enter_pin": {
+    "value": "Introdu codul PIN"
+  },
+  "enter_the_client_certificate_password_and_alias": {
+    "value": "Enter the client certificate password and the desired\n        alias for this certificate.\n    "
+  },
+  "enter_the_verification_code_that_was_sent_to_your_email": {
+    "value": "Introduceți codul de verificare care v-a fost\n        trimis prin e-mail.\n    "
+  },
+  "enter_uri": {
+    "value": "Introduce URI"
+  },
+  "enter_verification_code_app": {
+    "value": "Introducere cod de verificare din 6 cifre din aplicația de\n        autentificare.\n    "
+  },
+  "enter_verification_code_email": {
+    "value": "Introducere cod de verificare din 6 cifre, care a fost trimis prin\n        e-mail la %1$s.\n    "
+  },
+  "enter_verification_code_new_device": {
+    "value": "We don\\'t recognize this device. Enter the 8 digit verification\n        code that was emailed to %1$s.\n    "
+  },
+  "environment_page_urls_error": {
+    "value": "Unul sau mai multe dintre URL-urile introduse nu sunt valide. Vă rugăm să\n        le revizuiți și să încercați să le salvați din nou.\n    "
+  },
+  "environment_saved": {
+    "value": "URL-urile mediului au fost salvate."
+  },
+  "error_connecting_with_the_duo_service_use_a_different_two_step_login_method_or_contact_duo_for_assistance": {
+    "value": "\n        Error connecting with the Duo service. Use a different two-step login method or contact Duo for assistance.\n    "
+  },
+  "error_creating_passkey": {
+    "value": "Eroare la crearea cheii de acces"
+  },
+  "error_loading_certificate": {
+    "value": "Error loading certificate"
+  },
+  "error_reading_passkey": {
+    "value": "Eroare la citirea cheii de acces"
+  },
+  "eu": {
+    "value": "UE"
+  },
+  "exact": {
+    "value": "Exact"
+  },
+  "exit": {
+    "value": "Ieșire"
+  },
+  "exit_confirmation": {
+    "value": "Sigur doriți să ieșiți din Bitwarden?"
+  },
+  "exntesion_reenable": {
+    "value": "Reactivare extensie aplicație"
+  },
+  "expiration": {
+    "value": "Expirare"
+  },
+  "expiration_month": {
+    "value": "Luna expirării"
+  },
+  "expiration_year": {
+    "value": "Anul expirării"
+  },
+  "expired": {
+    "value": "Expirat"
+  },
+  "expired_link": {
+    "value": "Link expirat"
+  },
+  "explore_more_features_of_your_bitwarden_account_on_the_web_app": {
+    "value": "Explorați mai multe caracteristici ale\n        contului dvs. Bitwarden pe aplicația web.\n    "
+  },
+  "explore_the_generator": {
+    "value": "Explore the generator"
+  },
+  "export_vault": {
+    "value": "Export seif"
+  },
+  "export_vault_confirmation_title": {
+    "value": "Confirmare export seif"
+  },
+  "export_vault_failure": {
+    "value": "A apărut o problemă la exportul seifului dvs. Dacă problema persistă, va trebui\n        să exportați din seiful web.\n    "
+  },
+  "export_vault_file_pw_protect_info": {
+    "value": "Acest export va fi protejat cu parolă și necesită parola fișierului\n        pentru decriptare.\n    "
+  },
+  "export_vault_master_password_description": {
+    "value": "Introduceți parola principală pentru a exporta datele\n        seifului.\n    "
+  },
+  "export_vault_success": {
+    "value": "Seif exportat cu succes"
+  },
+  "export_vault_warning": {
+    "value": "Acest export conține datele dvs. din seif în format necriptat. Nu ar trebui să\n        stocați sau să trimiteți fișierul pe canale nesecurizate (cum ar fi e-mail). Ștergeți-l imediat după ce nu îl\n        mai folosiți.\n    "
+  },
+  "export_your_passwords_this_option_is_usually_found_in_your_settings": {
+    "value": "\n        <annotation emphasis=\"bold\">Export your passwords.</annotation>\n        This option is usually found in your settings.\n    "
+  },
+  "export_your_saved_logins": {
+    "value": "Export your saved logins"
+  },
+  "exposed_master_password": {
+    "value": "Parolă generală expusă"
+  },
+  "extension_activated": {
+    "value": "Extensie activată!"
+  },
+  "extension_almost_done": {
+    "value": "Aproape gata!"
+  },
+  "extension_enable": {
+    "value": "Activare extensie aplicație"
+  },
+  "extension_in_safari": {
+    "value": "În Safari, găsești Bitwarden utilizând pictograma de partajare (indiciu:\n        derulează la dreapta pe rândul de jos al meniului).\n    "
+  },
+  "extension_instant_access": {
+    "value": "Obține acces instantaneu la parolele tale!"
+  },
+  "extension_ready": {
+    "value": "Sunteți gata să vă autentificați!"
+  },
+  "extension_setup": {
+    "value": "Datele dvs. de conectare sunt acum ușor accesibile din Safari, Chrome și alte\n        aplicații suportate.\n    "
+  },
+  "extension_setup2": {
+    "value": "În Safari și Chrome, găsiți Bitwarden utilizând iconul de partajare (indiciu:\n        derulați la dreapta pe rândul de jos al meniului partajare).\n    "
+  },
+  "extension_tap_icon": {
+    "value": "Atingeți iconul Bitwarden din meniu pentru a lansa extensia."
+  },
+  "extension_turn_on": {
+    "value": "Pentru a activa Bitwarden în Safari și alte aplicații, atingeți iconul \\\"mai\n        multe\\\" pe rândul de jos al meniului.\n    "
+  },
+  "face_id": {
+    "value": "ID facial"
+  },
+  "face_id_direction": {
+    "value": "Folosire ID facial pentru verificare"
+  },
+  "fastmail": {
+    "value": "FastMail"
+  },
+  "favorite": {
+    "value": "Favorit"
+  },
+  "favorites": {
+    "value": "Favorite"
+  },
+  "feature_unavailable": {
+    "value": "Funcție indisponibilă"
+  },
+  "february": {
+    "value": "februarie"
+  },
+  "fido2_authenticate_web_authn": {
+    "value": "Autentificare WebAuthn"
+  },
+  "fido2_check_browser": {
+    "value": "Asigurați-vă că browserul implicit acceptă WebAuthn și încercați din nou.\n    "
+  },
+  "fido2_desc": {
+    "value": "Autentificare cu FIDO2 WebAuthn. Vă puteți autentifica folosind o cheie de securitate\n        externă.\n    "
+  },
+  "fido2_instruction": {
+    "value": "Pentru a continua, pregătiți cheia de securitate compatibilă FIDO2 WebAuthn, apoi\n        urmați instrucțiunile după ce faceți clic pe „Autentificare WebAuthn” în ecranul următor.\n    "
+  },
+  "fido2_return_to_app": {
+    "value": "Revenire la aplicație"
+  },
+  "fido2_title": {
+    "value": "Autentificare web FIDO2"
+  },
+  "field_type_boolean": {
+    "value": "Valoare logică"
+  },
+  "field_type_hidden": {
+    "value": "Ascuns"
+  },
+  "field_type_linked": {
+    "value": "Conectat"
+  },
+  "field_type_text": {
+    "value": "Text"
+  },
+  "fifteen_minutes": {
+    "value": "15 minute"
+  },
+  "file": {
+    "value": "Fișier"
+  },
+  "file_bug_report": {
+    "value": "Trimitere raport de eroare"
+  },
+  "file_bug_report_description": {
+    "value": "Raportează o problemă pe pagina noastră GitHub."
+  },
+  "file_format": {
+    "value": "Format fișier"
+  },
+  "file_password": {
+    "value": "File password"
+  },
+  "file_source": {
+    "value": "Fișier sursă"
+  },
+  "file_type_is_not_selected": {
+    "value": "Tipul de fișier nu este selectat, apăsați pentru a-l selecta."
+  },
+  "file_type_is_selected": {
+    "value": "Tipul de fișier este selectat."
+  },
+  "fill_out_the_form_and_import_your_saved_password_file": {
+    "value": "Fill out the form and\n        <annotation emphasis=\"bold\">import your saved password file.</annotation>\n    "
+  },
+  "filter_by_vault": {
+    "value": "Filtrați articolele după seif"
+  },
+  "fingerprint": {
+    "value": "Amprentă"
+  },
+  "fingerprint_direction": {
+    "value": "Utilizează amprenta pentru a continua."
+  },
+  "fingerprint_phrase": {
+    "value": "Frază amprentă"
+  },
+  "firefox_relay": {
+    "value": "Releu Firefox"
+  },
+  "first_dot_go_to_your_device_settings_passwords_password_options": {
+    "value": "1. Mergi la setările dispozitivului\n         Parole  Opțiuni parole\n    "
+  },
+  "first_name": {
+    "value": "Prenume"
+  },
+  "five_minutes": {
+    "value": "5 minute"
+  },
+  "folder": {
+    "value": "Dosar"
+  },
+  "folder_created": {
+    "value": "A fost creat un dosar nou."
+  },
+  "folder_deleted": {
+    "value": "Dosar șters."
+  },
+  "folder_none": {
+    "value": "Fără dosar"
+  },
+  "folder_updated": {
+    "value": "Dosar salvat"
+  },
+  "folders": {
+    "value": "Dosare"
+  },
+  "follow_the_instructions_in_the_email_sent_to_x_to_continue_creating_your_account": {
+    "value": "Follow the\n        instructions in the email sent to\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n        to continue creating your account.\n    "
+  },
+  "follow_the_steps_from_duo_to_finish_logging_in": {
+    "value": "Urmați pașii indicați de Duo pentru a finaliza\n        conectarea.\n    "
+  },
+  "for_your_security_be_sure_to_delete_your_saved_password_file": {
+    "value": "For your security, be sure to\n        <annotation emphasis=\"bold\">delete your saved password file.</annotation>\n    "
+  },
+  "format_x": {
+    "value": "Format: %1$s"
+  },
+  "format_x_separate_multiple_ur_is_with_a_comma": {
+    "value": "Format: %1$s. Separați mai multe URI-uri cu o\n        virgulă.\n    "
+  },
+  "formatted_incorrectly": {
+    "value": "%1$s nu este formatat corect."
+  },
+  "forward_email": {
+    "value": "ForwardEmail"
+  },
+  "forwarded_email_alias": {
+    "value": "Alias de e-mail redirecționat"
+  },
+  "forwarded_email_description": {
+    "value": "Generați un alias de e-mail cu un serviciu de redirecționare extern.\n    "
+  },
+  "four_hours": {
+    "value": "4 ore"
+  },
+  "from_your_computer_follow_these_instructions_to_export_saved_passwords": {
+    "value": "From your computer, follow\n        these instructions to export saved passwords from your browser or other password manager. Then, safely import\n        them to Bitwarden.\n    "
+  },
+  "full_name": {
+    "value": "Nume complet"
+  },
+  "generate_button_label": {
+    "value": "Generează"
+  },
+  "generate_master_password": {
+    "value": "Generate master password"
+  },
+  "generate_password": {
+    "value": "Generare parolă"
+  },
+  "generate_username": {
+    "value": "Generare nume de utilizator"
+  },
+  "generator": {
+    "value": "Generator"
+  },
+  "generic_error_message": {
+    "value": "Nu am reușit procesarea solicitării dumneavoastră. Vă rugăm să încercați din\n        nou sau să ne contactați.\n    "
+  },
+  "get_advice_announcements_and_research_opportunities_from_bitwarden_in_your_inbox_unsubscribe_any_time": {
+    "value": "Get\n        advice, announcements, and research opportunities from Bitwarden in your inbox. Unsubscribe at any time.\n    "
+  },
+  "get_emails_from_bitwarden_for_announcements_advices_and_research_opportunities_unsubscribe_any_time": {
+    "value": "\n        Get emails from Bitwarden for announcements, advice, and research opportunities. <annotation link=\"unsubscribe\">\n        Unsubscribe\n    </annotation> at any time.\n    "
+  },
+  "get_instant_access_to_your_passwords_and_passkeys": {
+    "value": "Obține acces instant la parole și cheile de\n        acces!\n    "
+  },
+  "get_master_passwordword_hint": {
+    "value": "Obțineți indiciul parolei principale"
+  },
+  "get_password_hint": {
+    "value": "Obținere indiciu parolă principală"
+  },
+  "get_started": {
+    "value": "Get started"
+  },
+  "give_feedback": {
+    "value": "Give Feedback"
+  },
+  "give_your_vault_a_head_start": {
+    "value": "Give your vault a head start"
+  },
+  "go_back": {
+    "value": "Înapoi"
+  },
+  "go_to_bitwarden_com_download_to_integrate_bitwarden_into_browser": {
+    "value": "Go to bitwarden.com/download to\n        integrate Bitwarden into your favorite browser for a seamless experience.\n    "
+  },
+  "go_to_my_vault": {
+    "value": "Deschidere seif personal"
+  },
+  "go_to_website": {
+    "value": "Accesare website"
+  },
+  "good": {
+    "value": "Bună"
+  },
+  "got_it": {
+    "value": "Got it"
+  },
+  "granted": {
+    "value": "Acordat"
+  },
+  "help_and_feedback": {
+    "value": "Ajutor și feedback"
+  },
+  "help_with_server_geolocations": {
+    "value": "Help with server geolocations."
+  },
+  "hide": {
+    "value": "Ascundere"
+  },
+  "hide_email": {
+    "value": "Ascundeți adresa mea de e-mail de la destinatari"
+  },
+  "hide_text_by_default": {
+    "value": "Când Send-ul este accesat, ascundeți textul în mod implicit"
+  },
+  "hold_yubikey_near_top": {
+    "value": "Țineți Yubikey în partea superioară a dispozitivului."
+  },
+  "host": {
+    "value": "Gazdă"
+  },
+  "icons": {
+    "value": "Iconuri"
+  },
+  "icons_url": {
+    "value": "URL server de pictograme"
+  },
+  "identification": {
+    "value": "Identification"
+  },
+  "identities": {
+    "value": "Identități"
+  },
+  "identity_name": {
+    "value": "Numele identității"
+  },
+  "identity_url": {
+    "value": "URL server de identificare"
+  },
+  "immediately": {
+    "value": "Imediat"
+  },
+  "import_certificate": {
+    "value": "Import certificate"
+  },
+  "import_client_certificate": {
+    "value": "Import client certificate"
+  },
+  "import_error": {
+    "value": "Import error"
+  },
+  "import_items": {
+    "value": "Import de articole"
+  },
+  "import_items_confirmation": {
+    "value": "Puteți să importați datele de conectare din seiful web bitwarden.com.\n        Doriți să vizitați siteul acum?\n    "
+  },
+  "import_items_description": {
+    "value": "Import rapid al datelor de conectare din alte aplicații de gestionare a\n        parolelor.\n    "
+  },
+  "import_logins": {
+    "value": "Import Logins"
+  },
+  "import_logins_later": {
+    "value": "Import logins later"
+  },
+  "import_logins_later_dialog_title": {
+    "value": "Import logins later?"
+  },
+  "import_logins_to_bitwarden": {
+    "value": "Import logins to Bitwarden"
+  },
+  "import_saved_logins": {
+    "value": "Import saved logins"
+  },
+  "import_successful": {
+    "value": "Import Successful!"
+  },
+  "important": {
+    "value": "Important"
+  },
+  "important_notice": {
+    "value": "Important notice"
+  },
+  "improves_login_filling_for_supported_websites_on_chrome": {
+    "value": "Improves login filling for supported websites\n        on Chrome. Once enabled, you’ll be directed to Chrome settings to enable third-party autofill.\n    "
+  },
+  "in_the_bitwarden_navigation_find_the_tools_option_and_select_import_data": {
+    "value": "In the Bitwarden navigation, <annotation emphasis=\"bold\">find the Tools\n    </annotation> option and\n        <annotation emphasis=\"bold\">select Import data.</annotation>\n    "
+  },
+  "include_number": {
+    "value": "Se includ cifre"
+  },
+  "inline_autofill": {
+    "value": "Utilizare autocompletare în linie"
+  },
+  "inline_autofill_description": {
+    "value": "Utilizați auto-completarea în linie dacă IME (tastatura) selectată o\n        acceptă. În cazul în care configurația dvs. nu este acceptată (sau această opțiune este dezactivată), se va\n        folosi suprapunerea implicită de completare automată.\n    "
+  },
+  "internet_connection_required_message": {
+    "value": "Conectează-te la internet înainte de a continua."
+  },
+  "internet_connection_required_title": {
+    "value": "Conexiune la internet necesară"
+  },
+  "invalid_api_key": {
+    "value": "Cheie API invalidă"
+  },
+  "invalid_api_token": {
+    "value": "Token API invalid"
+  },
+  "invalid_certificate_chain": {
+    "value": "Invalid certificate chain"
+  },
+  "invalid_email": {
+    "value": "Adresă de e-mail greșită."
+  },
+  "invalid_format_use_https_http_or_android_app": {
+    "value": "Format invalid. Utilizați https://, http:// sau\n        androidapp://\n    "
+  },
+  "invalid_master_password": {
+    "value": "Parola principală greșită. Încearcă din nou."
+  },
+  "invalid_pin": {
+    "value": "Cod PIN greșit. Încearcă din nou."
+  },
+  "invalid_uri": {
+    "value": "URI invalid"
+  },
+  "invalid_verification_code": {
+    "value": "Cod de verificare nevalid"
+  },
+  "ip_address": {
+    "value": "Adresă IP"
+  },
+  "item_deleted": {
+    "value": "Articol șters"
+  },
+  "item_details": {
+    "value": "Item details"
+  },
+  "item_information": {
+    "value": "Informații despre articol"
+  },
+  "item_name_required": {
+    "value": "Item name (required)"
+  },
+  "item_restored": {
+    "value": "Articol restabilit"
+  },
+  "item_shared": {
+    "value": "Articolul a fost partajat."
+  },
+  "item_soft_deleted": {
+    "value": "Articolul a fost trimis în coșul de reciclare."
+  },
+  "item_updated": {
+    "value": "Articol salvat"
+  },
+  "items": {
+    "value": "Articole"
+  },
+  "items_for_uri": {
+    "value": "Autentificări pentru %1$s"
+  },
+  "january": {
+    "value": "ianuarie"
+  },
+  "july": {
+    "value": "iulie"
+  },
+  "june": {
+    "value": "iunie"
+  },
+  "just_now": {
+    "value": "Chiar acum"
+  },
+  "keep_it_secret_keep_it_safe": {
+    "value": "Be careful to keep your written password somewhere secret and safe.\n    "
+  },
+  "language": {
+    "value": "Limbă"
+  },
+  "language_change_requires_app_restart": {
+    "value": "Schimbarea limbii necesită repornirea aplicației"
+  },
+  "language_change_x_description": {
+    "value": "Limba a fost schimbată în %1$s. Vă rugăm să reporniți aplicația pentru\n        a vedea schimbarea\n    "
+  },
+  "last_name": {
+    "value": "Nume"
+  },
+  "last_sync": {
+    "value": "Ultima sincronizare:"
+  },
+  "launch": {
+    "value": "Lansare"
+  },
+  "launch_duo": {
+    "value": "Lansare Duo"
+  },
+  "launch_web_authn": {
+    "value": "Lansare WebAuthn"
+  },
+  "learn_about_new_logins": {
+    "value": "Learn about new logins"
+  },
+  "learn_about_organizations_description_long": {
+    "value": "Bitwarden vă permite să partajați elementele din seif cu\n        alte persoane utilizând o organizație. Aflați mai multe pe site-ul bitwarden.com.\n    "
+  },
+  "learn_about_other_ways_to_prevent_account_lockout": {
+    "value": "Learn about other ways to prevent account lockout\n    "
+  },
+  "learn_about_ways_to_prevent_account_lockout": {
+    "value": "\n        <annotation link=\"onPreventAccountLockout\">Learn about ways to prevent account lockout</annotation>\n    "
+  },
+  "learn_more": {
+    "value": "Aflați mai multe"
+  },
+  "learn_more_about_generating_secure_login_credentials_with_guided_tour": {
+    "value": "Learn more about generating\n        secure login credentials with a guided tour.\n    "
+  },
+  "learn_more_about_how_to_use_bitwarden_on_the_help_center": {
+    "value": "Află mai multe despre cum să utilizezi\n        Bitwarden în centrul de ajutor.\n    "
+  },
+  "learn_org": {
+    "value": "Aflați mai multe despre organizații"
+  },
+  "learn_org_confirmation": {
+    "value": "Bitwarden vă permite să vă partajați seiful cu alte persoane utilizând un cont\n        pentru organizații. Doriți să vizitați siteul bitwarden.com pentru a afla mai multe?\n    "
+  },
+  "leave_organization": {
+    "value": "Părăsire organizație"
+  },
+  "leave_organization_name": {
+    "value": "Părăsiți %1$s"
+  },
+  "length": {
+    "value": "Lungime"
+  },
+  "level_up_your_logins": {
+    "value": "Level up your logins"
+  },
+  "license_number": {
+    "value": "Numărul de licență"
+  },
+  "light": {
+    "value": "Luminos"
+  },
+  "link": {
+    "value": "Link"
+  },
+  "loading": {
+    "value": "Se încarcă"
+  },
+  "lock": {
+    "value": "Blocare"
+  },
+  "lock_now": {
+    "value": "Blocare imediată"
+  },
+  "log_in_accepted": {
+    "value": "Autentificare confirmată"
+  },
+  "log_in_at_bitwarden_com_to_easily_manage_your_account": {
+    "value": "Log in at bitwarden.com to easily manage your\n        account and update settings.\n    "
+  },
+  "log_in_attempt_by_x_on_y": {
+    "value": "Încercare de autentificare de %1$s pe %2$s"
+  },
+  "log_in_denied": {
+    "value": "Autentificare refuzată"
+  },
+  "log_in_initiated": {
+    "value": "Autentificare inițiată"
+  },
+  "log_in_noun": {
+    "value": "Conectare"
+  },
+  "log_in_quickly_and_easily_across_devices": {
+    "value": "Log in quickly and easily across devices"
+  },
+  "log_in_requested": {
+    "value": "Autentificare solicitată"
+  },
+  "log_in_sso": {
+    "value": "Conectare unică organizație (SSO)"
+  },
+  "log_in_sso_summary": {
+    "value": "Conectați-vă rapid utilizând portalul de conectare unică al organizației dvs.\n        Introduceți identificatorul organizației dvs. pentru a începe.\n    "
+  },
+  "log_in_to_bitwarden": {
+    "value": "Log in to Bitwarden"
+  },
+  "log_in_to_the_bitwarden_web_app": {
+    "value": "Log in to the Bitwarden web app."
+  },
+  "log_in_verb": {
+    "value": "Autentificare"
+  },
+  "log_in_with_another_device": {
+    "value": "Autentificați-vă cu un alt dispozitiv"
+  },
+  "log_in_with_device": {
+    "value": "Conectați-vă cu dispozitivul"
+  },
+  "log_in_with_device_must_be_set_up_in_the_settings_of_the_bitwarden_app_need_another_option": {
+    "value": "Conectarea\n        cu dispozitivul trebuie să fie configurată în setările aplicației Bitwarden. Aveți nevoie de o altă opțiune?\n    "
+  },
+  "log_in_with_master_password": {
+    "value": "Autentificați-vă cu parola principală"
+  },
+  "log_out": {
+    "value": "Deconectare"
+  },
+  "logged_in": {
+    "value": "Autentificat!"
+  },
+  "logged_in_as_on": {
+    "value": "Autentificat ca %1$s pe %2$s."
+  },
+  "logging_in": {
+    "value": "Autentificare..."
+  },
+  "logging_in_as_x": {
+    "value": "Autentificare ca %1$s"
+  },
+  "logging_in_as_x_on_y": {
+    "value": "Autentificare ca %1$s pe %2$s"
+  },
+  "logging_in_on": {
+    "value": "Conectare la"
+  },
+  "logging_in_on_with_colon": {
+    "value": "Logging in on:"
+  },
+  "login_approved": {
+    "value": "Autentificare aprobată"
+  },
+  "login_attempt_from_x_do_you_want_to_switch_to_this_account": {
+    "value": "Încercare de autentificare de la:\n        %1$s\n        Doriți să comutați la acest cont?\n    "
+  },
+  "login_credentials": {
+    "value": "Login Credentials"
+  },
+  "login_expired": {
+    "value": "Sesiunea de autentificare a expirat."
+  },
+  "login_request_has_already_expired": {
+    "value": "Solicitarea de autentificare a expirat deja."
+  },
+  "login_sso_error": {
+    "value": "În prezent nu se poate conecta cu SSO"
+  },
+  "login_to_bitwarden": {
+    "value": "Log in to Bitwarden"
+  },
+  "login_unavailable": {
+    "value": "Autentificare indisponibilă"
+  },
+  "logins": {
+    "value": "Conectări"
+  },
+  "logins_imported": {
+    "value": "Logins imported"
+  },
+  "logout_confirmation": {
+    "value": "Sigur dorești să te deconectezi?"
+  },
+  "lost_2fa_app": {
+    "value": "Ați pierdut aplicația de autentificare?"
+  },
+  "lowercase_ato_z": {
+    "value": "Litere mici (a la z)"
+  },
+  "make_it_yours": {
+    "value": "Make it yours"
+  },
+  "manage": {
+    "value": "Gestionare"
+  },
+  "manage_your_logins_from_anywhere_with_bitwarden_tools": {
+    "value": "Manage your logins from anywhere with Bitwarden\n        tools for web and desktop.\n    "
+  },
+  "march": {
+    "value": "martie"
+  },
+  "master_password": {
+    "value": "Parola principală"
+  },
+  "master_password_confirmation_val_message": {
+    "value": "Confirmarea parolei nu este corectă."
+  },
+  "master_password_description": {
+    "value": "Parola principală este parola pe care o utilizați pentru a vă accesa\n        seiful. Este foarte important să nu uitați această parolă. Nu există nicio modalitate de a recupera parola în\n        cazul în care ați uitat-o.\n    "
+  },
+  "master_password_hint": {
+    "value": "Indiciu pentru parola principală (opțional)"
+  },
+  "master_password_hint_description": {
+    "value": "Un indiciu pentru parola principală vă poate ajuta să v-o reamintiți\n        dacă o uitați.\n    "
+  },
+  "master_password_hint_not_specified": {
+    "value": "Master password hint"
+  },
+  "master_password_important_hint": {
+    "value": "Important: Your master password cannot be recovered if you forget it!\n        12 characters minimum.\n    "
+  },
+  "master_password_length_val_message_x": {
+    "value": "Parola principală trebuie să aibă cel puțin %1$s caractere.\n    "
+  },
+  "master_password_policy_in_effect": {
+    "value": "Una sau mai multe politici ale organizației necesită ca parola\n        principală să îndeplinească următoarele cerințe:\n    "
+  },
+  "master_password_policy_validation_message": {
+    "value": "Parola nu îndeplinește cerințele organizației. Verificați\n        informațiile despre politică și încercați din nou.\n    "
+  },
+  "master_password_policy_validation_title": {
+    "value": "Parolă invalidă"
+  },
+  "master_password_re_prompt_help": {
+    "value": "Ajutor re-introducere parolă principală"
+  },
+  "master_password_required": {
+    "value": "Parola principală (necesară)"
+  },
+  "match_detection": {
+    "value": "Detectare de potrivire"
+  },
+  "matching_items": {
+    "value": "Articole care se potrivesc"
+  },
+  "max_file_size": {
+    "value": "Mărimea maximă a fișierului este de 100 MB."
+  },
+  "maximum_access_count": {
+    "value": "Numărul maxim de accesări"
+  },
+  "maximum_access_count_info": {
+    "value": "Dacă este configurat, utilizatorii nu vor mai putea accesa acest Send când\n        a fost atins numărul maxim de accesări.\n    "
+  },
+  "maximum_access_count_reached": {
+    "value": "S-a atins numărul maxim de accesări"
+  },
+  "may": {
+    "value": "mai"
+  },
+  "middle_name": {
+    "value": "Al doilea prenume"
+  },
+  "min_numbers": {
+    "value": "Minimum de cifre"
+  },
+  "min_special": {
+    "value": "Minim de caractere speciale"
+  },
+  "minimum_characters": {
+    "value": "%1$s caractere"
+  },
+  "miscellaneous": {
+    "value": "Diverse"
+  },
+  "more": {
+    "value": "Mai multe"
+  },
+  "more_settings": {
+    "value": "Mai multe setări"
+  },
+  "move": {
+    "value": "Mutare"
+  },
+  "move_down": {
+    "value": "Mutare în jos"
+  },
+  "move_to_org_desc": {
+    "value": "Alegeți o organizație la care doriți să mutați acest articol. Mutarea într-o\n        organizație, transferă proprietatea asupra articolului către organizația respectivă. Nu veți mai fi proprietarul\n        direct al acestui articol odată ce a fost mutat.\n    "
+  },
+  "move_to_organization": {
+    "value": "Mutare la organizație"
+  },
+  "move_up": {
+    "value": "Mutare în sus"
+  },
+  "moved_item_to_org": {
+    "value": "%1$s s-a mutat la %2$s."
+  },
+  "mr": {
+    "value": "Dl"
+  },
+  "mrs": {
+    "value": "Dna"
+  },
+  "ms": {
+    "value": "Dra"
+  },
+  "must_log_in_main_app": {
+    "value": "Trebuie să vă conectați la aplicația principală Bitwarden înainte de a putea\n        utiliza extensia.\n    "
+  },
+  "must_log_in_main_app_autofill": {
+    "value": "Trebuie să vă conectați la aplicația principală Bitwarden înainte de a\n        putea utiliza auto-completarea.\n    "
+  },
+  "mutual_tls": {
+    "value": "Mutual TLS"
+  },
+  "mx": {
+    "value": "Mx"
+  },
+  "my_vault": {
+    "value": "Seiful meu"
+  },
+  "name": {
+    "value": "Denumire"
+  },
+  "near": {
+    "value": "Aproape"
+  },
+  "need_another_option": {
+    "value": "Selectezi o altă opțiune?"
+  },
+  "need_help_check_out_import_help": {
+    "value": "Need help? Check out <annotation link=\"importHelp\">import\n        help</annotation>.\n    "
+  },
+  "need_some_inspiration": {
+    "value": "\"Need some inspiration?\""
+  },
+  "never": {
+    "value": "Niciodată"
+  },
+  "never_lock_warning": {
+    "value": "Setarea opțiunilor de blocare la „Niciodată” face ca seiful dvs. să fie disponibil\n        oricui are acces la acesta. Dacă utilizați această opțiune, trebuie să vă asigurați că vă păstrați dispozitivul\n        protejat corespunzător.\n    "
+  },
+  "never_lose_access_to_your_vault": {
+    "value": "Never lose access to your vault"
+  },
+  "new_blocked_uri": {
+    "value": "URI nou blocat"
+  },
+  "new_card": {
+    "value": "New card"
+  },
+  "new_custom_field": {
+    "value": "Câmp nou particularizat"
+  },
+  "new_file_send": {
+    "value": "New file Send"
+  },
+  "new_identity": {
+    "value": "New identity"
+  },
+  "new_item": {
+    "value": "New item"
+  },
+  "new_item_created": {
+    "value": "Articol adăugat"
+  },
+  "new_login": {
+    "value": "New login"
+  },
+  "new_master_password_hint": {
+    "value": "New master password hint"
+  },
+  "new_master_password_required": {
+    "value": "New master password (required)"
+  },
+  "new_note": {
+    "value": "New note"
+  },
+  "new_passkey": {
+    "value": "New passkey"
+  },
+  "new_password": {
+    "value": "Parolă nouă"
+  },
+  "new_send_created": {
+    "value": "Send creat"
+  },
+  "new_ssh_key": {
+    "value": "New SSH key"
+  },
+  "new_text_send": {
+    "value": "New text Send"
+  },
+  "new_to_bitwarden": {
+    "value": "New to Bitwarden?"
+  },
+  "new_uri": {
+    "value": "URI nou"
+  },
+  "next": {
+    "value": "Înainte"
+  },
+  "no": {
+    "value": "Nu"
+  },
+  "no_attachments": {
+    "value": "Nu există niciun atașament."
+  },
+  "no_cards": {
+    "value": "There are no cards in your vault."
+  },
+  "no_collections_to_list": {
+    "value": "Nu există colecții de afișat."
+  },
+  "no_email_go_back_to_edit_your_email_address": {
+    "value": "Niciun e-mail? Întoarce-te pentru a-ți edita adresa de\n        e-mail.\n    "
+  },
+  "no_favorites": {
+    "value": "Nu există niciun favorit în seiful dvs."
+  },
+  "no_file_chosen": {
+    "value": "Niciun fișier ales"
+  },
+  "no_file_sends": {
+    "value": "There are no file Sends in your vault."
+  },
+  "no_folder": {
+    "value": "No folder"
+  },
+  "no_folders_to_list": {
+    "value": "Nu există dosare de afișat."
+  },
+  "no_identities": {
+    "value": "There are no identities in your vault."
+  },
+  "no_items": {
+    "value": "Nu există niciun articol în seiful dvs."
+  },
+  "no_items_collection": {
+    "value": "Nu există elemente în colecție."
+  },
+  "no_items_folder": {
+    "value": "Nu există elemente în acest dosar."
+  },
+  "no_items_for_uri": {
+    "value": "Nu sunt autentificări pentru %1$s în seiful dvs."
+  },
+  "no_items_for_vault": {
+    "value": "Nu există elemente în seif care să corespundă cu „%1$s”"
+  },
+  "no_items_tap": {
+    "value": "Nu sunt articole în seif pentru acest site/aplicație. Atingeți pentru a adăuga unul.\n    "
+  },
+  "no_items_to_list": {
+    "value": "Nu există niciun articol de afișat."
+  },
+  "no_items_trash": {
+    "value": "Nu există articole în coșul de reciclare."
+  },
+  "no_logins": {
+    "value": "There are no logins in your vault."
+  },
+  "no_logins_were_imported": {
+    "value": "No logins were imported"
+  },
+  "no_notes": {
+    "value": "There are no notes in your vault."
+  },
+  "no_orgs_to_list": {
+    "value": "Nicio organizație de afișat."
+  },
+  "no_passwords_to_list": {
+    "value": "Nicio parolă de afișat."
+  },
+  "no_pending_requests": {
+    "value": "Nicio cerere în așteptare"
+  },
+  "no_sends": {
+    "value": "Nu există niciun Send în contul dvs."
+  },
+  "no_ssh_keys": {
+    "value": "There are no SSH keys in your vault."
+  },
+  "no_text_sends": {
+    "value": "There are no text Sends in your vault."
+  },
+  "no_thanks": {
+    "value": "Nu, mulțumesc"
+  },
+  "no_two_step_available": {
+    "value": "Acest cont are autentificarea în doi pași configurată, cu toate acestea,\n        niciunul dintre furnizorii configurați în doi pași nu este acceptat pe acest dispozitiv. Utilizați un dispozitiv\n        compatibil și/sau adăugați furnizori suplimentari mai bine suportați pe toate dispozitivele (cum ar fi o\n        aplicație de autentificare).\n    "
+  },
+  "no_username": {
+    "value": "Niciun utilizator"
+  },
+  "no_username_password_configured": {
+    "value": "Această autentificare nu are un nume de utilizator sau parolă\n        configurate.\n    "
+  },
+  "nord": {
+    "value": "Nord"
+  },
+  "not_you": {
+    "value": "Nu sunteți dvs.?"
+  },
+  "notes": {
+    "value": "Note"
+  },
+  "notes_info": {
+    "value": "Note private despre acest Send."
+  },
+  "notice": {
+    "value": "Înștiințare"
+  },
+  "november": {
+    "value": "noiembrie"
+  },
+  "number": {
+    "value": "Număr card"
+  },
+  "number_of_words": {
+    "value": "Număr de cuvinte"
+  },
+  "numbers_zero_to_nine": {
+    "value": "Numere (0 la 9)"
+  },
+  "october": {
+    "value": "octombrie"
+  },
+  "off": {
+    "value": "Oprit"
+  },
+  "ok": {
+    "value": "Ok"
+  },
+  "ok_got_it": {
+    "value": "Ok, am înțeles!"
+  },
+  "on": {
+    "value": "Pornit"
+  },
+  "on_restart": {
+    "value": "La repornirea aplicației"
+  },
+  "on_your_computer_log_in_to_your_current_browser_or_password_manager": {
+    "value": "On your computer,\n        <annotation emphasis=\"bold\">log in to your current browser or password manager.</annotation>\n    "
+  },
+  "on_your_computer_open_a_new_browser_tab_and_go_to_vault_bitwarden_com": {
+    "value": "On your computer, open a new\n        browser tab and\n        <annotation emphasis=\"bold\">go to\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "once_the_key_is_successfully_entered": {
+    "value": "După ce cheia este introdusă corect,\n        selectați „Adăugare TOTP” pentru a stoca cheia în siguranță\n    "
+  },
+  "one_day": {
+    "value": "1 zi"
+  },
+  "one_hour": {
+    "value": "1 oră"
+  },
+  "one_hour_and_one_minute": {
+    "value": "O oră și un minut"
+  },
+  "one_hour_and_x_minute": {
+    "value": "O oră și %1$s minute"
+  },
+  "one_minute": {
+    "value": "1 minut"
+  },
+  "one_of_the_best_ways_to_create_a_secure_and_memorable_password": {
+    "value": "One of the best ways to create a\n        secure and memorable password is to use a passphrase. \\nHere’s how:\n    "
+  },
+  "open": {
+    "value": "Deschidere"
+  },
+  "open_email_app": {
+    "value": "Deschide aplicația de email"
+  },
+  "option_defaults": {
+    "value": "Opțiunile implicite sunt setate din instrumentul principal de generare de parole al\n        aplicației Bitwarden.\n    "
+  },
+  "options": {
+    "value": "Opțiuni"
+  },
+  "options_collapsed": {
+    "value": "Opțiunile sunt restrânse, atingeți pentru a le extinde."
+  },
+  "options_expanded": {
+    "value": "Opțiunile sunt extinse, atingeți pentru a le restrânge."
+  },
+  "or_log_in_you_may_already_have_an_account": {
+    "value": "Or <annotation link=\"logIn\">log in</annotation>, you may\n        already have an account.\n    "
+  },
+  "org_identifier": {
+    "value": "Identificator organizație"
+  },
+  "organization": {
+    "value": "Organizație"
+  },
+  "organization_is_using_sso_with_a_self_hosted_key_server": {
+    "value": "%1$s folosește SSO cu un server de cheie\n        găzduit. O parolă principală nu mai este necesară pentru autentificarea membrilor acestei organizații.\n    "
+  },
+  "organization_sso_identifier_required": {
+    "value": "Necesită identificator Organizație SSO."
+  },
+  "organization_unassigned_items_message_self_host_041624_description_long": {
+    "value": "La 16 mai 2024, elementele de\n        organizație neatribuite nu vor mai fi vizibile în vizualizarea Toate seifurile și vor fi accesibile numai prin\n        intermediul Consolei de administrare. Atribuiți aceste elemente unei colecții din Consola de administrare pentru\n        a le face vizibile.\n    "
+  },
+  "organization_unassigned_items_message_useu_description_long": {
+    "value": "Elementele de organizație neatribuite nu\n        mai sunt vizibile în vizualizarea Toate seifurile și sunt accesibile numai prin intermediul Consolei de\n        administrare. Atribuiți aceste elemente unei colecții din Consola de administrare pentru a le face vizibile.\n    "
+  },
+  "other": {
+    "value": "Altele"
+  },
+  "overlay_permission": {
+    "value": "Permisiune"
+  },
+  "overwrite_passkey": {
+    "value": "Se suprascrie cheia de acces?"
+  },
+  "owner": {
+    "value": "Owner"
+  },
+  "ownership": {
+    "value": "Proprietate"
+  },
+  "page_number_x_of_y": {
+    "value": "%1$s of %2$s"
+  },
+  "passkey": {
+    "value": "Cheie de acces"
+  },
+  "passkey_authentication_failed_due_to_an_internal_error": {
+    "value": "Passkey authentication failed due to an\n        internal error.\n    "
+  },
+  "passkey_management": {
+    "value": "Gestionare chei de acces"
+  },
+  "passkey_management_explanation_long": {
+    "value": "Utilizează Bitwarden pentru a salva parolele noi și pentru\n        autentificare cu parolele stocate în seif.\n    "
+  },
+  "passkey_operation_failed_because_app_could_not_be_verified": {
+    "value": "Operațiunea cheie de acces a eșuat\n        deoarece aplicația nu a putut fi verificată\n    "
+  },
+  "passkey_operation_failed_because_app_is_signed_incorrectly": {
+    "value": "Passkey operation failed because app is\n        signed incorrectly.\n    "
+  },
+  "passkey_operation_failed_because_app_not_found_in_asset_links": {
+    "value": "Operațiunea cheie de acces a eșuat\n        deoarece aplicația nu a fost găsită în legăturile de active\n    "
+  },
+  "passkey_operation_failed_because_app_signature_is_invalid": {
+    "value": "Passkey operation failed because app\n        signature is invalid.\n    "
+  },
+  "passkey_operation_failed_because_browser_is_not_privileged": {
+    "value": "Operațiunea cheie de acces a eșuat\n        deoarece browserul nu este privilegiat\n    "
+  },
+  "passkey_operation_failed_because_browser_signature_does_not_match": {
+    "value": "Operațiunea cheie de acces a eșuat\n        deoarece semnătura browserului nu corespunde\n    "
+  },
+  "passkey_operation_failed_because_host_url_is_not_present_in_request": {
+    "value": "Passkey operation failed because\n        host URL is not present in request.\n    "
+  },
+  "passkey_operation_failed_because_no_item_was_selected": {
+    "value": "Passkey operation failed because no item was\n        selected.\n    "
+  },
+  "passkey_operation_failed_because_of_missing_asset_links": {
+    "value": "Operațiunea cheie de acces a eșuat din cauza\n        lipsei legăturilor activelor\n    "
+  },
+  "passkey_operation_failed_because_relying_party_cannot_be_identified": {
+    "value": "Passkey operation failed because\n        relying party cannot be identified.\n    "
+  },
+  "passkey_operation_failed_because_the_request_is_invalid": {
+    "value": "Passkey operation failed because the request\n        is invalid.\n    "
+  },
+  "passkey_operation_failed_because_the_selected_item_does_not_exist": {
+    "value": "Passkey operation failed because\n        the selected item does not exist.\n    "
+  },
+  "passkey_operation_failed_because_user_could_not_be_verified": {
+    "value": "Passkey operation failed because user\n        could not be verified.\n    "
+  },
+  "passkey_operation_failed_because_user_is_locked_out": {
+    "value": "Passkey operation failed because user is locked\n        out.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_attempts_exceeded": {
+    "value": "Passkey operation failed because\n        user verification attempts exceeded.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_was_cancelled": {
+    "value": "Passkey operation failed because\n        user verification was cancelled.\n    "
+  },
+  "passkey_registration_failed_due_to_an_internal_error": {
+    "value": "Passkey registration failed due to an internal\n        error.\n    "
+  },
+  "passkey_removed": {
+    "value": "Passkey removed"
+  },
+  "passkey_will_not_be_copied": {
+    "value": "Cheia de acces nu va fi copiată"
+  },
+  "passkeys": {
+    "value": "Chei de acces"
+  },
+  "passkeys_for_x": {
+    "value": "Chei de acces pentru %1$s"
+  },
+  "passkeys_not_supported_for_this_app": {
+    "value": "Cheile de acces nu sunt acceptate pentru această aplicație\n    "
+  },
+  "passphrase": {
+    "value": "Frază de acces"
+  },
+  "passphrases_are_strong_passwords_that_are_often_easier_to_remember_and_type_than_random_passwords": {
+    "value": "\n        Passphrases are strong passwords that are often easier to remember and type than random passwords. They are\n        helpful for logging into accounts where Autofill is not available, like a streaming service on your TV.\n    "
+  },
+  "passport_number": {
+    "value": "Numărul de pașaport"
+  },
+  "password": {
+    "value": "Parolă"
+  },
+  "password_autofill": {
+    "value": "Auto-completare parolă"
+  },
+  "password_confirmation": {
+    "value": "Confirmare parolă principală"
+  },
+  "password_confirmation_desc": {
+    "value": "Această acțiune este protejată. Pentru a continua, vă rugăm să\n        reintroduceți parola principală pentru a vă verifica identitatea.\n    "
+  },
+  "password_exposed": {
+    "value": "Această parolă a fost dezvăluită de %1$s ori în breșe de date. Ar trebui să o\n        schimbați.\n    "
+  },
+  "password_found_in_a_data_breach_alert_description": {
+    "value": "Parola a fost găsită într-o baza de date expusa.\n        Utilizați o parolă unică pentru a vă proteja contul. Sigur doriți să utilizați o parolă expusă?\n    "
+  },
+  "password_generated": {
+    "value": "Parola s-a generat"
+  },
+  "password_generator": {
+    "value": "Generator de parole"
+  },
+  "password_generator_policy_in_effect": {
+    "value": "Una sau mai multe politici organizaționale afectează setările\n        generatorului\n    "
+  },
+  "password_hint": {
+    "value": "Indiciu parolă"
+  },
+  "password_hint_alert": {
+    "value": "V-am trimis un e-mail cu indiciul parolei principale."
+  },
+  "password_history": {
+    "value": "Istoric parole"
+  },
+  "password_history_count": {
+    "value": "\n        <annotation link=\"passwordHistory\">Password history:\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "password_info": {
+    "value": "Opțional, este necesară o parolă pentru ca utilizatorii să acceseze acest Send.\n    "
+  },
+  "password_is_not_visible_tap_to_show": {
+    "value": "Parola nu este vizibilă, atingeți pentru a o afișa."
+  },
+  "password_is_visible_tap_to_hide": {
+    "value": "Parola este vizibilă, atingeți pentru a o ascunde."
+  },
+  "password_override_alert": {
+    "value": "Sigur doriți să suprascrieți parola curentă?"
+  },
+  "password_prompt": {
+    "value": "Re-solicitare parolă principală"
+  },
+  "password_protected": {
+    "value": "Password Protected"
+  },
+  "password_safe": {
+    "value": "Această parolă nu a fost găsită în nicio breșă de date cunoscută. Ar trebui să fie\n        sigură de utilizat.\n    "
+  },
+  "password_type": {
+    "value": "Tip de parolă"
+  },
+  "password_used_to_export": {
+    "value": "This password will be used to export and import this file"
+  },
+  "passwords": {
+    "value": "Parole"
+  },
+  "passwords_for_x": {
+    "value": "Parole pentru %1$s"
+  },
+  "pending_delete": {
+    "value": "Ștergere în așteptare"
+  },
+  "pending_log_in_requests": {
+    "value": "Cereri de conectare în așteptare"
+  },
+  "personal_details": {
+    "value": "Personal Details"
+  },
+  "personal_ownership_policy_in_effect": {
+    "value": "O politică de organizație vă afectează opțiunile de\n        proprietate.\n    "
+  },
+  "personal_ownership_submit_error": {
+    "value": "Din cauza unei politici de întreprindere, nu puteți salva articole în\n        seiful dvs. individual. Schimbați opțiunea de proprietate la o organizație și alegeți din colecțiile\n        disponibile.\n    "
+  },
+  "phone": {
+    "value": "Telefon"
+  },
+  "photos": {
+    "value": "Fotografii"
+  },
+  "pick_three_or_four_random_unrelated_words": {
+    "value": "Pick three or four random, unrelated words that you can\n        easily remember. Think of <annotation emphasis=\"bold\">objects, places, or things</annotation> you like.\n    "
+  },
+  "pin": {
+    "value": "PIN"
+  },
+  "pin_require_master_password_restart": {
+    "value": "Doriți să solicitați deblocarea cu parola principală atunci când\n        aplicația este repornită?\n    "
+  },
+  "please_make_sure_your_vault_is_unlocked_and_the_fingerprint_phrase_matches_on_the_other_device": {
+    "value": "\n        Asigurați-vă că seiful dvs. este deblocat și că fraza amprentă corespunde cu cea a celuilalt dispozitiv.\n    "
+  },
+  "please_restart_registration_or_try_logging_in": {
+    "value": "Please restart registration or try logging in. You may\n        already have an account.\n    "
+  },
+  "plus_addressed_email": {
+    "value": "E-mail Plus adresat"
+  },
+  "plus_addressed_email_description": {
+    "value": "Utilizați capacitățile de subadresare ale furnizorului dvs. de\n        e-mail\n    "
+  },
+  "point_your_camera_at_the_qr_code": {
+    "value": "Îndreptați camera spre codul QR.\n        Scanarea se va face automat.\n    "
+  },
+  "policy_in_effect_lowercase": {
+    "value": "Unul sau mai multe caractere minuscule"
+  },
+  "policy_in_effect_min_complexity": {
+    "value": "Scor minim de complexitate de %1$s"
+  },
+  "policy_in_effect_min_length": {
+    "value": "Lungime minimă de %1$s"
+  },
+  "policy_in_effect_numbers": {
+    "value": "Una sau mai multe cifre"
+  },
+  "policy_in_effect_special": {
+    "value": "Unul sau mai multe din următoarele caractere: %1$s"
+  },
+  "policy_in_effect_uppercase": {
+    "value": "Unul sau mai multe caractere majuscule"
+  },
+  "possible_matching_items": {
+    "value": "Articole care se pot potrivi"
+  },
+  "premium_required": {
+    "value": "Este necesar statutul de membru Premium pentru a utiliza această caracteristică.\n    "
+  },
+  "premium_subscription_required": {
+    "value": "Este necesar un abonament Premium"
+  },
+  "prevent_account_lockout": {
+    "value": "Prevent account lockout"
+  },
+  "privacy_policy": {
+    "value": "Politică de confidențialitate"
+  },
+  "privacy_policy_description_long": {
+    "value": "Consultați politica noastră de confidențialitate pe bitwarden.com.\n    "
+  },
+  "private_key": {
+    "value": "Private key"
+  },
+  "private_notes": {
+    "value": "Private notes"
+  },
+  "public_key": {
+    "value": "Public key"
+  },
+  "push_notification_alert": {
+    "value": "Bitwarden vă menține seiful sincronizat automat prin notificări push. Pentru\n        cea mai bună experiență posibilă, selectați „Permite” la următoarea solicitare atunci când vi se solicită să\n        permiteți notificările push.\n    "
+  },
+  "put_the_words_together_in_any_order_to_form_your_passphrase": {
+    "value": "Put the words together in any order to\n        form your passphrase. <annotation emphasis=\"bold\">Use hyphens, spaces, or leave them as one long\n            word</annotation>—your choice!\n    "
+  },
+  "quick_and_easy_login": {
+    "value": "Autentificare rapidă și ușoară"
+  },
+  "random": {
+    "value": "Aleatoriu"
+  },
+  "random_and_complex_using_numbers_and_special_characters": {
+    "value": "Random and complex, using numbers and special\n        characters\n    "
+  },
+  "random_word": {
+    "value": "Cuvânt aleatoriu"
+  },
+  "rate_app_description_long": {
+    "value": "Ajutați-i pe alții să afle dacă Bitwarden este potrivit pentru ei. Vizitați\n        magazinul de aplicații și lăsați un rating acum.\n    "
+  },
+  "rate_the_app": {
+    "value": "Evaluați aplicația"
+  },
+  "rate_the_app_description": {
+    "value": "Vă rugăm să luați în considerare să ne ajutați cu o recenzie bună!"
+  },
+  "receive_push_notifications_for_new_login_requests": {
+    "value": "Primiți notificări push pentru noile solicitări de\n        autentificare\n    "
+  },
+  "recovery_code_title": {
+    "value": "Cod de recuperare"
+  },
+  "reg_ex": {
+    "value": "Expresie regulată"
+  },
+  "regenerate_password": {
+    "value": "Regenerare parolă"
+  },
+  "region": {
+    "value": "Regiune"
+  },
+  "remember": {
+    "value": "Remember"
+  },
+  "remember_email": {
+    "value": "Remember email"
+  },
+  "remember_this_device": {
+    "value": "Memorizează acest dispozitiv"
+  },
+  "remember_to_delete_your_imported_password_file_from_your_computer": {
+    "value": "Remember to delete your imported\n        password file from your computer\n    "
+  },
+  "remind_me_later": {
+    "value": "Amintește-mi mai târziu"
+  },
+  "remove": {
+    "value": "Ștergere"
+  },
+  "remove_account": {
+    "value": "Înlăturare cont"
+  },
+  "remove_account_confirmation": {
+    "value": "Ești sigur că dorești să elimini acest cont?"
+  },
+  "remove_master_password": {
+    "value": "Eliminare parolă principală"
+  },
+  "remove_master_password_warning": {
+    "value": "%1$s utilizează SSO cu criptare gestionată de client. Continuarea va\n        înlătura parola principală din contul și va necesita SSO pentru a vă conecta.\n    "
+  },
+  "remove_master_password_warning2": {
+    "value": "Dacă nu doriți să înlăturați parola principală, puteți părăsi această\n        organizație.\n    "
+  },
+  "remove_passkey": {
+    "value": "Remove passkey"
+  },
+  "remove_password": {
+    "value": "Eliminare parolă"
+  },
+  "removing_send_password": {
+    "value": "Se elimină parola"
+  },
+  "request_admin_approval": {
+    "value": "Solicită aprobare admin"
+  },
+  "request_otp": {
+    "value": "Solicitare de parolă unică"
+  },
+  "requests_declined": {
+    "value": "Cereri respinse"
+  },
+  "require_master_password_on_app_restart": {
+    "value": "Se solicită parola principală la repornirea aplicației?\n    "
+  },
+  "resend_code": {
+    "value": "Retrimitere cod"
+  },
+  "resend_notification": {
+    "value": "Retrimitere notificare"
+  },
+  "reset_password_auto_enroll_invite_warning": {
+    "value": "Această organizație are o politică de întreprindere care vă\n        va înregistra automat la resetarea parolei. Înregistrarea va permite administratorilor organizației să vă\n        modifice parola principală.\n    "
+  },
+  "restart_registration": {
+    "value": "Restart registration"
+  },
+  "restore": {
+    "value": "Restabilire"
+  },
+  "restoring": {
+    "value": "Se restabilește..."
+  },
+  "return_to_complete_this_step_anytime_in_settings": {
+    "value": "You can return to complete this step anytime in\n        Settings.\n    "
+  },
+  "retype_master_password": {
+    "value": "Reintroducere parolă principală"
+  },
+  "retype_master_password_required": {
+    "value": "Reintrodu parola principală (necesar)"
+  },
+  "retype_new_master_password_required": {
+    "value": "Re-type new master password (required)"
+  },
+  "review_flow_launched": {
+    "value": "Review flow launched!"
+  },
+  "save": {
+    "value": "Salvare"
+  },
+  "save_and_protect_your_data": {
+    "value": "Save and protect your data"
+  },
+  "save_attachment_success": {
+    "value": "Atașament salvat cu succes"
+  },
+  "save_passkey": {
+    "value": "Salvează cheia de acces"
+  },
+  "save_passkey_as_new_login": {
+    "value": "Salvare parolă ca autentificare nouă"
+  },
+  "save_the_exported_file_somewhere_on_your_computer_you_can_find_easily": {
+    "value": "\n        <annotation emphasis=\"bold\">Save the exported file</annotation>\n        somewhere on your computer you can find easily.\n    "
+  },
+  "saving": {
+    "value": "Salvare..."
+  },
+  "scan_qr_code": {
+    "value": "Scanare cod QR"
+  },
+  "scan_qr_title": {
+    "value": "Scanare cod QR"
+  },
+  "search": {
+    "value": "Căutare"
+  },
+  "search_collection": {
+    "value": "Căutare în colecție"
+  },
+  "search_file_sends": {
+    "value": "Căutare Send-uri fișier"
+  },
+  "search_for_a_login_or_add_a_new_login": {
+    "value": "Caută o autentificare sau adaugă o nouă autentificare"
+  },
+  "search_for_an_item_or_add_a_new_item": {
+    "value": "Căutați un articol sau adăugați un articol nou"
+  },
+  "search_group": {
+    "value": "Căutați %1$s"
+  },
+  "search_sends": {
+    "value": "Căutare Send-uri"
+  },
+  "search_text_sends": {
+    "value": "Căutare Send-uri text"
+  },
+  "search_trash": {
+    "value": "Căutare în coșul de reciclare"
+  },
+  "search_vault": {
+    "value": "Căutare în seif"
+  },
+  "second_dot_turn_on_auto_fill": {
+    "value": "2. Activați Completarea automată"
+  },
+  "secure_notes": {
+    "value": "Note securizate"
+  },
+  "security": {
+    "value": "Securitate"
+  },
+  "security_code": {
+    "value": "Cod de securitate"
+  },
+  "security_prioritized": {
+    "value": "Security, prioritized"
+  },
+  "select": {
+    "value": "Selectare"
+  },
+  "select_import_data_in_the_web_app_then_done_to_finish_syncing": {
+    "value": "\n        <annotation emphasis=\"bold\">Select Import data</annotation>\n        in the web app, then Done below to finish syncing.\n    "
+  },
+  "select_one_collection": {
+    "value": "Trebuie să selectați cel puțin o colecție."
+  },
+  "select_the_link_in_the_email_to_verify_your_email_address_and_continue_creating_your_account": {
+    "value": "\"Select\n        the link in the email to verify your email address and continue creating your account. \"\n    "
+  },
+  "select_type_field": {
+    "value": "Ce tip de câmp particularizat doriți să adăugați?"
+  },
+  "self_host_server_url": {
+    "value": "Self-host server URL"
+  },
+  "self_hosted": {
+    "value": "Autogăzduit"
+  },
+  "self_hosted_environment": {
+    "value": "Mediul găzduit local"
+  },
+  "self_hosted_environment_footer": {
+    "value": "Specificați URL-ul de bază al instalării Bitwarden."
+  },
+  "self_hosted_server_url": {
+    "value": "Self-hosted server URL"
+  },
+  "send": {
+    "value": "Trimite"
+  },
+  "send_code": {
+    "value": "Trimitere cod"
+  },
+  "send_deleted": {
+    "value": "Send-ul a fost șters"
+  },
+  "send_details": {
+    "value": "Send Details"
+  },
+  "send_disabled_warning": {
+    "value": "Datorită unei politici de întreprindere, puteți șterge numai un Send\n        existent.\n    "
+  },
+  "send_file_email_verification_required": {
+    "value": "Trebuie să vă verificați e-mailul pentru a utiliza fișiere cu\n        Send. Vă puteți verifica e-mailul în seiful web.\n    "
+  },
+  "send_file_premium_required": {
+    "value": "Conturile gratuite sunt limitate la partajarea de text. Trebuie să fiți\n        membrii Premium pentru a utiliza fișiere cu Send.\n    "
+  },
+  "send_link": {
+    "value": "Trimitere link"
+  },
+  "send_name_required": {
+    "value": "\"Send name (required)\""
+  },
+  "send_options_policy_in_effect": {
+    "value": "Una sau mai multe politici organizaționale vă afectează opțiunile\n        Send-ului.\n    "
+  },
+  "send_password_removed": {
+    "value": "Parola a fost eliminată."
+  },
+  "send_sensitive_information_safely": {
+    "value": "Send sensitive information, safely"
+  },
+  "send_updated": {
+    "value": "Send salvat"
+  },
+  "send_verification_code_again": {
+    "value": "Retrimitere e-mail cu codul de verificare"
+  },
+  "send_verification_code_to_email": {
+    "value": "Trimite un cod de verificare la adresa dvs. de e-mail"
+  },
+  "sending": {
+    "value": "Se trimite"
+  },
+  "sending_code": {
+    "value": "Se trimite codul"
+  },
+  "sends": {
+    "value": "Send-uri"
+  },
+  "september": {
+    "value": "septembrie"
+  },
+  "server_url": {
+    "value": "URL server"
+  },
+  "service": {
+    "value": "Serviciu"
+  },
+  "session_timeout": {
+    "value": "Expirarea sesiunii"
+  },
+  "session_timeout_action": {
+    "value": "Acțiune de expirare a sesiunii"
+  },
+  "set_bitwarden_as_passkey_manager_description": {
+    "value": "Setează Bitwarden ca furnizor de cheie de acces în\n        setările dispozitivului.\n    "
+  },
+  "set_master_password": {
+    "value": "Setare parolă principală"
+  },
+  "set_master_password_summary": {
+    "value": "Pentru a finaliza conectarea cu SSO, vă rugăm să setați o parolă\n        principală pentru a vă accesa și proteja seiful.\n    "
+  },
+  "set_password": {
+    "value": "Setează parola"
+  },
+  "set_pin": {
+    "value": "Setare PIN"
+  },
+  "set_pin_description": {
+    "value": "Stabiliți codul PIN de deblocare Bitwarden. Setările codului PIN vor fi\n        reinițializate dacă vă deconectați vreodată din aplicație.\n    "
+  },
+  "set_pin_direction": {
+    "value": "Introduceți un cod PIN din 4 cifre pentru a debloca aplicația."
+  },
+  "set_up_an_unlock_option_to_change_your_vault_timeout_action": {
+    "value": "Configurați o opțiune de deblocare pentru\n        a vă schimba acțiunea de expirare a seifului.\n    "
+  },
+  "set_up_authenticator_key": {
+    "value": "Set up authenticator key"
+  },
+  "set_up_auto_fill_description_long": {
+    "value": "Pentru a configura completarea automată a parolei și gestionarea\n        cheilor de acces, setează Bitwarden ca furnizor preferat în Setările iOS.\n    "
+  },
+  "set_up_autofill": {
+    "value": "Configurare completare automată"
+  },
+  "set_up_autofill_on_all_your_devices": {
+    "value": "Set up autofill on all your devices to login with a single tap\n        anywhere.\n    "
+  },
+  "set_up_biometrics_or_choose_a_pin_code_to_quickly_access_your_vault_and_autofill_your_logins": {
+    "value": "Set up\n        biometrics or choose a PIN code to quickly access your vault and Autofill your logins.\n    "
+  },
+  "set_up_later": {
+    "value": "Set up later"
+  },
+  "set_up_two_step_login": {
+    "value": "Set up two-step login"
+  },
+  "set_up_unlock": {
+    "value": "Set up unlock"
+  },
+  "set_up_unlock_later": {
+    "value": "Set up unlock later?"
+  },
+  "settings": {
+    "value": "Setări"
+  },
+  "setup_totp": {
+    "value": "Configurare TOTP"
+  },
+  "seven_days": {
+    "value": "7 zile"
+  },
+  "share": {
+    "value": "Partajare"
+  },
+  "share_error_details": {
+    "value": "Share error details"
+  },
+  "share_files_and_data_securely_with_anyone_on_any_platform": {
+    "value": "Share files and data securely with anyone,\n        on any platform. Your information will remain end-to-end encrypted while limiting exposure.\n    "
+  },
+  "share_item": {
+    "value": "Partajare articol"
+  },
+  "share_link": {
+    "value": "Partajare link"
+  },
+  "share_on_save": {
+    "value": "Partajați această Send după salvare"
+  },
+  "shared": {
+    "value": "Partajat"
+  },
+  "show": {
+    "value": "Afișare"
+  },
+  "show_less": {
+    "value": "Show less"
+  },
+  "show_more": {
+    "value": "Show more"
+  },
+  "show_website_icons": {
+    "value": "Afișare pictograme site web"
+  },
+  "show_website_icons_description": {
+    "value": "Afișează o imagine ușor de recunoscut lângă fiecare autentificare.\n    "
+  },
+  "simple_login": {
+    "value": "Autentificare simplă"
+  },
+  "single_tap_passkey_authentication": {
+    "value": "Single tap passkey sign-on"
+  },
+  "single_tap_passkey_creation": {
+    "value": "Single tap passkey creation"
+  },
+  "skip_for_now": {
+    "value": "Skip for now"
+  },
+  "soft_deleting": {
+    "value": "Se trimite în coșul de reciclare..."
+  },
+  "solarized_dark": {
+    "value": "Întuneric solarizat"
+  },
+  "special_characters": {
+    "value": "Caractere speciale (!@#$%^*)"
+  },
+  "ssh_keys": {
+    "value": "SSH keys"
+  },
+  "ssn": {
+    "value": "Cod numeric personal"
+  },
+  "starts_with": {
+    "value": "Începe cu"
+  },
+  "state_province": {
+    "value": "Județ"
+  },
+  "status": {
+    "value": "Stare"
+  },
+  "step_1_of_3": {
+    "value": "Step 1 of 3"
+  },
+  "step_2_of_3": {
+    "value": "Step 2 of 3"
+  },
+  "step_3_of_3": {
+    "value": "Step 3 of 3"
+  },
+  "strong": {
+    "value": "Puternică"
+  },
+  "submit": {
+    "value": "Trimitere"
+  },
+  "submit_crash_logs": {
+    "value": "Trimiteți jurnalele de erori"
+  },
+  "submit_crash_logs_description": {
+    "value": "Ajutați Bitwarden să îmbunătățească stabilitatea aplicației prin\n        trimiterea rapoartelor de erori.\n    "
+  },
+  "submitting": {
+    "value": "Trimitere..."
+  },
+  "switch_to_already_added_account_confirmation": {
+    "value": "Vrei să treci la el acum?"
+  },
+  "sync": {
+    "value": "Sincronizare"
+  },
+  "sync_now": {
+    "value": "Sincronizează acum"
+  },
+  "sync_vault_now": {
+    "value": "Sincronizare seif acum"
+  },
+  "syncing": {
+    "value": "Sincronizare..."
+  },
+  "syncing_complete": {
+    "value": "Sincronizare completă"
+  },
+  "syncing_failed": {
+    "value": "Sincronizare eșuată"
+  },
+  "syncing_logins_loading_message": {
+    "value": "Syncing logins..."
+  },
+  "system_certificates_are_not_as_secure_as_importing_certificates_to_bitwarden": {
+    "value": "Using a system\n        certificate is less secure than storing the certificate with Bitwarden. Continuing will display a list of\n        available system certificates if one is already installed.\n    "
+  },
+  "tap_to_go_back": {
+    "value": "Atingeți pentru a reveni"
+  },
+  "ten_seconds": {
+    "value": "10 secunde"
+  },
+  "terms_of_service": {
+    "value": "Termeni de utilizare"
+  },
+  "text": {
+    "value": "Text"
+  },
+  "text_to_share": {
+    "value": "Text to share"
+  },
+  "text_type_is_not_selected": {
+    "value": "Tipul de text nu este selectat, apăsați pentru a-l selecta."
+  },
+  "text_type_is_selected": {
+    "value": "Tipul de text este selectat."
+  },
+  "thank_you": {
+    "value": "Mulțumim"
+  },
+  "the_best_way_to_make_sure_you_can_always_access_your_vault": {
+    "value": "The best way to make sure you can always\n        access your vault is to set up safeguards from the start.\n    "
+  },
+  "the_following_instructions_will_guide_you_through_importing_logins": {
+    "value": "The following instructions will\n        guide you through importing logins from your desktop or laptop computer\n    "
+  },
+  "the_longer_your_password_the_more_difficult_to_hack": {
+    "value": "The longer your password, the more difficult it\n        is to hack. The minimum for account creation is 12 characters but if you do 14 characters, the time to crack\n        your password would be centuries!\n    "
+  },
+  "the_passkey_will_not_be_copied_to_the_cloned_item_do_you_want_to_continue_cloning_this_item": {
+    "value": "Cheia de\n        acces nu va fi copiată la articolul clonat. Dorești să continui să clonezi acest articol?\n    "
+  },
+  "the_strongest_passwords_are_usually": {
+    "value": "The strongest passwords are usually:"
+  },
+  "the_urix_is_already_blocked": {
+    "value": "URI %1$s este deja blocat"
+  },
+  "the_vault_protects_more_than_just_passwords": {
+    "value": "The vault protects more than just passwords. Store secure\n        logins, IDs, cards and notes securely here.\n    "
+  },
+  "theme": {
+    "value": "Temă"
+  },
+  "theme_applied_on_restart": {
+    "value": "Modificările temei se vor aplica după repornirea aplicației."
+  },
+  "theme_default": {
+    "value": "Implicit (sistem)"
+  },
+  "theme_description": {
+    "value": "Schimbare temă de culori a aplicației."
+  },
+  "there_are_no_blocked_ur_is": {
+    "value": "Nu există URI-uri blocate"
+  },
+  "there_are_no_items_in_your_vault_that_match_x": {
+    "value": "Nu există elemente în seiful dvs. care se potrivesc\n        \\\"%1$s\\\"\n    "
+  },
+  "there_are_no_items_that_match_the_search": {
+    "value": "Nu există lucruri care să corespundă căutării"
+  },
+  "there_was_a_problem_creating_a_passkey_for_x_try_again_later": {
+    "value": "A apărut o eroare la crearea unei chei\n        de acces pentru %1$s. Încearcă din nou mai târziu.\n    "
+  },
+  "there_was_a_problem_reading_a_passkey_for_x_try_again_later": {
+    "value": "A apărut o problemă la citirea cheii de\n        acces pentru %1$s. Încearcă din nou mai târziu.\n    "
+  },
+  "there_was_an_error_starting_web_authn_two_factor_authentication": {
+    "value": "There was an error starting WebAuthn\n        two factor authentication\n    "
+  },
+  "there_was_an_issue_validating_the_registration_token": {
+    "value": "There was an issue validating the registration\n        token.\n    "
+  },
+  "third_dot_select_bitwarden_to_use_for_passwords_and_passkeys": {
+    "value": "3. Selectează \\\"Bitwarden\\\" pentru a\n        utiliza parolele și cheile de acces\n    "
+  },
+  "thirty_days": {
+    "value": "30 de zile"
+  },
+  "thirty_minutes": {
+    "value": "30 de minute"
+  },
+  "thirty_seconds": {
+    "value": "30 de secunde"
+  },
+  "this_is_not_a_recognized_bitwarden_server_you_may_need_to_check_with_your_provider_or_update_your_server": {
+    "value": "\n        This is not a recognized Bitwarden server. You may need to check with your provider or update your server.\n    "
+  },
+  "this_item_already_contains_a_passkey_are_you_sure_you_want_to_overwrite_the_current_passkey": {
+    "value": "Acest\n        element conține deja o parolă de acces. Ești sigur că dorești să suprascrii parola curentă?\n    "
+  },
+  "this_request_is_no_longer_valid": {
+    "value": "Această cerere nu mai este valabilă"
+  },
+  "three_days": {
+    "value": "3 zile"
+  },
+  "time": {
+    "value": "Timp"
+  },
+  "title": {
+    "value": "Titlu"
+  },
+  "toggle_visibility": {
+    "value": "Comutare vizibilitate"
+  },
+  "too_many_attempts": {
+    "value": "Prea multe încercări"
+  },
+  "tools": {
+    "value": "Instrumente"
+  },
+  "totally_different_from_your_other_passwords": {
+    "value": "Totally different from your other passwords"
+  },
+  "totp": {
+    "value": "TOTP"
+  },
+  "touch_id": {
+    "value": "Identificare prin amprentă"
+  },
+  "translations": {
+    "value": "Traduceri"
+  },
+  "trash": {
+    "value": "Coș de reciclare"
+  },
+  "trouble_logging_in": {
+    "value": "Probleme la conectare?"
+  },
+  "try_again": {
+    "value": "Încercați din nou"
+  },
+  "try_it_out": {
+    "value": "Try it out"
+  },
+  "turn_off_using_public_device": {
+    "value": "Dezactivează utilizarea unui dispozitiv public"
+  },
+  "turn_on_autofill": {
+    "value": "Activează completarea automată"
+  },
+  "turn_on_autofill_later": {
+    "value": "Turn on autofill later?"
+  },
+  "turn_on_later": {
+    "value": "Turn on later"
+  },
+  "turn_on_two_step_login": {
+    "value": "Turn on two-step login"
+  },
+  "twelve_or_more_characters": {
+    "value": "12 or more characters"
+  },
+  "twenty_seconds": {
+    "value": "20 de secunde"
+  },
+  "two_days": {
+    "value": "2 zile"
+  },
+  "two_minutes": {
+    "value": "2 minute"
+  },
+  "two_step_login": {
+    "value": "Autentificare în doi pași"
+  },
+  "two_step_login_description_long": {
+    "value": "Fă contul mai sigur prin configurarea unei autentificări în doi pași\n        în aplicația web Bitwarden.\n    "
+  },
+  "two_step_login_options": {
+    "value": "Opțiuni de autentificare în două etape"
+  },
+  "type": {
+    "value": "Tip"
+  },
+  "type_card": {
+    "value": "Card"
+  },
+  "type_file": {
+    "value": "Fişier"
+  },
+  "type_file_info": {
+    "value": "Fișierul pe care doriți să-l trimiteți."
+  },
+  "type_identity": {
+    "value": "Identitate"
+  },
+  "type_login": {
+    "value": "Conectare"
+  },
+  "type_secure_note": {
+    "value": "Notă securizată"
+  },
+  "type_ssh_key": {
+    "value": "SSH key"
+  },
+  "type_text": {
+    "value": "Text"
+  },
+  "types": {
+    "value": "Tipuri"
+  },
+  "unable_to_download_file": {
+    "value": "Fișierul nu poate fi descărcat."
+  },
+  "unable_to_open_file": {
+    "value": "Dispozitivul nu poate deschide acest tip de fișiere."
+  },
+  "unable_to_save_attachment": {
+    "value": "A apărut o problemă la salvarea acestui atașament. Dacă problema persistă,\n        îl puteți salva din seiful web.\n    "
+  },
+  "unfavorite": {
+    "value": "Unfavorite"
+  },
+  "unique_usernames_add_an_extra_layer_of_security_and_can_help_prevent_hackers_from_finding_your_accounts": {
+    "value": "\n        Unique usernames add an extra layer of security and can help prevent hackers from finding your accounts.\n    "
+  },
+  "unknown_account": {
+    "value": "Cont necunoscut"
+  },
+  "unknown_x_error_message": {
+    "value": "A survenit o eroare %1$s necunoscută."
+  },
+  "unlock": {
+    "value": "Deblocare"
+  },
+  "unlock_options": {
+    "value": "Opțiuni de deblocare"
+  },
+  "unlock_vault": {
+    "value": "Deblocare seif"
+  },
+  "unlock_with": {
+    "value": "Deblocare cu %1$s"
+  },
+  "unlock_with_pin": {
+    "value": "Deblocare cu codul PIN"
+  },
+  "unlocking_may_fail_due_to_insufficient_memory_decrease_your_kdf_memory_settings_to_resolve": {
+    "value": "Este\n        posibil ca deblocarea să eșueze din cauza memoriei insuficiente. Reduceți setările de memorie KDF sau\n        configurați deblocarea biometrică pentru a rezolva problema.\n    "
+  },
+  "unsubscribe": {
+    "value": "Dezabonare"
+  },
+  "unsupported_certificate_type": {
+    "value": "Unsupported certificate type"
+  },
+  "update_key": {
+    "value": "Nu puteți utiliza această caracteristică înainte de a actualiza cheia de criptare.\n    "
+  },
+  "update_master_password": {
+    "value": "Actualizare parolă principală"
+  },
+  "update_master_password_warning": {
+    "value": "Parola principală a fost schimbată recent de către un administrator al\n        organizației. Pentru a accesa seiful, trebuie să vă actualizați acum parola principală. Continuarea vă va\n        deconecta de la sesiunea curentă, cerându-vă să vă conectați din nou. Sesiunile active de pe alte dispozitive\n        pot continua să rămână active timp de până la o oră.\n    "
+  },
+  "update_password_error": {
+    "value": "În prezent, parola nu poate fi actualizată"
+  },
+  "update_weak_master_password_warning": {
+    "value": "Parola principală nu îndeplinește una sau mai multe politici ale\n        organizației. Pentru a accesa seiful trebuie să actualizați acum parola principală. Continuarea te va deconecta\n        din sesiunea curentă, necesitând să te autentifici din nou. Sesiunile active pe alte dispozitive pot continua să\n        rămână active timp de maxim o oră.\n    "
+  },
+  "updated_master_password": {
+    "value": "Parola principală actualizată"
+  },
+  "updating_password": {
+    "value": "Actualizarea parolei"
+  },
+  "uppercase_ato_z": {
+    "value": "Litere mari (A la Z)"
+  },
+  "ur_is": {
+    "value": "URI-uri"
+  },
+  "uri": {
+    "value": "URI"
+  },
+  "uri_match_detection": {
+    "value": "Detectare de potrivire URI"
+  },
+  "uri_position": {
+    "value": "URI %1$s"
+  },
+  "uri_removed": {
+    "value": "URI eliminat"
+  },
+  "uri_saved": {
+    "value": "URI salvat"
+  },
+  "us": {
+    "value": "SUA"
+  },
+  "use_a_computer_to_import_logins": {
+    "value": "Use a computer to import logins from an existing password manager\n    "
+  },
+  "use_another_two_step_method": {
+    "value": "Utilizare de metodă diferită de autentificare în două etape"
+  },
+  "use_autofill_to_log_into_your_accounts": {
+    "value": "Use autofill to log into your accounts with a single tap.\n    "
+  },
+  "use_biometrics_to_unlock": {
+    "value": "Utilizați datele biometrice pentru a debloca"
+  },
+  "use_chrome_autofill_integration": {
+    "value": "Use Chrome autofill integration"
+  },
+  "use_chrome_beta_autofill_integration": {
+    "value": "Use Chrome autofill integration (Beta)"
+  },
+  "use_face_id_to_unlock": {
+    "value": "Folosire ID facial pentru deblocare"
+  },
+  "use_fingerprint_to_unlock": {
+    "value": "Utilizare amprentă pentru deblocare"
+  },
+  "use_inline_autofill_explanation_long": {
+    "value": "Utilizează completarea automată în linie dacă tastatura\n        selectată o acceptă. În caz contrar, utilizează suprapunerea implicită.\n    "
+  },
+  "use_system_certificate": {
+    "value": "Use system certificate"
+  },
+  "use_the_generator_to_create_a_strong_unique_password": {
+    "value": "Use the generator to create a strong, unique\n        password\n    "
+  },
+  "use_the_generator_to_create_secure_passwords_passphrases_and_usernames": {
+    "value": "\"Use the generator to create\n        secure passwords, passphrases and usernames. \"\n    "
+  },
+  "use_the_web_app": {
+    "value": "Use the web app"
+  },
+  "use_these_options_to_adjust_your_password_to_your_account_requirements": {
+    "value": "Use these options to adjust\n        your password to meet your account website\\'s requirements.\n    "
+  },
+  "use_this_button_to_generate_a_new_unique_password": {
+    "value": "Use this button to generate a new unique\n        password.\n    "
+  },
+  "use_this_device_to_approve_login_requests_made_from_other_devices": {
+    "value": "Utilizați acest dispozitiv pentru a\n        aproba solicitările de conectare făcute de pe alte dispozitive.\n    "
+  },
+  "user_verification_direction": {
+    "value": "Verificare utilizator"
+  },
+  "username": {
+    "value": "Nume utilizator"
+  },
+  "username_type": {
+    "value": "Tip de nume de utilizator"
+  },
+  "validating": {
+    "value": "Validare"
+  },
+  "validation_field_required": {
+    "value": "Câmpul %1$s este necesar."
+  },
+  "value": {
+    "value": "Valoare"
+  },
+  "value_has_been_copied": {
+    "value": "%1$s s-a copiat"
+  },
+  "vault": {
+    "value": "Seif"
+  },
+  "vault_filter_description": {
+    "value": "Seif: %1$s"
+  },
+  "vault_is_locked": {
+    "value": "Seiful este blocat"
+  },
+  "vault_locked_identity": {
+    "value": "Seiful dvs. este blocat. Verificați-vă identitatea pentru a continua."
+  },
+  "vault_locked_master_password": {
+    "value": "Seiful dvs. este blocat. Verificați parola principală pentru a\n        continua.\n    "
+  },
+  "vault_locked_pin": {
+    "value": "Seiful dvs. este blocat. Verificați codul PIN pentru a continua."
+  },
+  "vault_timeout": {
+    "value": "Timp de expirare seif"
+  },
+  "vault_timeout_action": {
+    "value": "Acțiune la expirarea seifului"
+  },
+  "vault_timeout_action_changed_to_log_out": {
+    "value": "Acțiunea de expirare a seifului s-a schimbat în deconectare\n    "
+  },
+  "vault_timeout_action_policy_in_effect": {
+    "value": "Politicile organizației dvs. au setat acțiunea de expirare seif\n        la %1$s.\n    "
+  },
+  "vault_timeout_log_out_confirmation": {
+    "value": "După expirare, accesul la seiful dvs. va fi restricționat și va fi\n        necesară autentificarea online. Sigur doriți să utilizați această setare?\n    "
+  },
+  "vault_timeout_policy_in_effect": {
+    "value": "Politicile de organizație afectează timpul de expirare a seifului.\n        Timpul maxim de expirare a seifului este de %1$s oră(e) și %2$s minut(e)\n    "
+  },
+  "vault_timeout_policy_with_action_in_effect": {
+    "value": "Politicile organizației dumneavoastră afectează expirarea\n        de seif. Timpul maxim permis de expirare a seifului este %1$s ore şi %2$s minut(e). Acţiunea de timeout a\n        seifului este setată la %3$s.\n    "
+  },
+  "vault_timeout_to_large": {
+    "value": "Timpul de expirare al seifului depășește restricțiile stabilite de organizația\n        dvs.\n    "
+  },
+  "vaults": {
+    "value": "Seifuri"
+  },
+  "verification_code": {
+    "value": "Cod de verificare"
+  },
+  "verification_code_totp": {
+    "value": "Cod de verificare (TOTP)"
+  },
+  "verification_codes": {
+    "value": "Coduri de verificare"
+  },
+  "verification_email_not_sent": {
+    "value": "Nu s-a putut trimite e-mailul de verificare. Încercați din nou."
+  },
+  "verification_email_sent": {
+    "value": "E-mail de verificare trimis"
+  },
+  "verification_required_by_x": {
+    "value": "Verificarea este cerută de %1$s"
+  },
+  "verification_required_for_this_action_set_up_an_unlock_method_in_bitwarden_to_continue": {
+    "value": "Verificarea\n        este necesară pentru această acțiune. Configurează o metodă de deblocare în Bitwarden pentru a continua.\n    "
+  },
+  "verified_sso_domain_verified": {
+    "value": "Verified SSO Domain Endpoint"
+  },
+  "verify_face_id": {
+    "value": "Verificare ID facial"
+  },
+  "verify_fingerprint": {
+    "value": "Verificare amprentă"
+  },
+  "verify_master_password": {
+    "value": "Verificare parolă principală"
+  },
+  "verify_pin": {
+    "value": "Verificare cod PIN"
+  },
+  "verify_your_identity": {
+    "value": "Verify your identity"
+  },
+  "verifying": {
+    "value": "Se verifică"
+  },
+  "verifying_identity_ellipsis": {
+    "value": "Verificare identitate..."
+  },
+  "version": {
+    "value": "Versiune"
+  },
+  "view": {
+    "value": "Afișare"
+  },
+  "view_all_login_options": {
+    "value": "Vedeți toate opțiunile de autentificare"
+  },
+  "view_card": {
+    "value": "View card"
+  },
+  "view_identity": {
+    "value": "View identity"
+  },
+  "view_item": {
+    "value": "Vizualizare articol"
+  },
+  "view_login": {
+    "value": "View login"
+  },
+  "view_note": {
+    "value": "View note"
+  },
+  "view_passkey": {
+    "value": "View passkey"
+  },
+  "visit_our_website": {
+    "value": "Vizitează-ne pagina web"
+  },
+  "warning": {
+    "value": "Avertisment"
+  },
+  "we_couldnt_verify_the_servers_certificate": {
+    "value": "We couldn’t verify the server’s certificate. The\n        certificate chain or proxy settings on your device or your Bitwarden server may not be set up correctly.\n    "
+  },
+  "we_ll_walk_you_through_the_key_features_to_add_a_new_login": {
+    "value": "We\\'ll walk you through the key features\n        to add a new login.\n    "
+  },
+  "we_sent_an_email_to": {
+    "value": "Am trimis un e-mail către %1$s."
+  },
+  "weak": {
+    "value": "Slabă"
+  },
+  "weak_and_exposed_master_password": {
+    "value": "Parolă principală slabă și expusă"
+  },
+  "weak_master_password": {
+    "value": "Parolă principală slabă"
+  },
+  "weak_password_identified_and_found_in_a_data_breach_alert_description": {
+    "value": "Parolă slabă identificată și\n        găsită într-o baza de date expusa. Folosiți o parolă puternică și unică pentru a vă proteja contul. Sigur doriți\n        să utilizați această parolă?\n    "
+  },
+  "weak_password_identified_use_a_strong_password_to_protect_your_account": {
+    "value": "Parola slabă identificată.\n        Utilizați o parolă puternică pentru a vă proteja contul. Sigur doriți să utilizați o parolă slabă?\n    "
+  },
+  "web_vault": {
+    "value": "Seif web Bitwarden"
+  },
+  "web_vault_url": {
+    "value": "URL server seif Web"
+  },
+  "website": {
+    "value": "Pagină web"
+  },
+  "website_required": {
+    "value": "Website (obligatoriu)"
+  },
+  "website_uri": {
+    "value": "Website (URI)"
+  },
+  "welcome_message_1": {
+    "value": "Save logins, cards, and identities to your secure vault. Bitwarden uses\n        zero-knowledge, end-to-end encryption to protect what’s important to you.\n    "
+  },
+  "welcome_message_2": {
+    "value": "Set up biometric unlock and autofill to log into your accounts without typing a\n        single letter.\n    "
+  },
+  "welcome_message_3": {
+    "value": "Use the generator to create and save strong, unique passwords for all your\n        accounts.\n    "
+  },
+  "welcome_message_4": {
+    "value": "Save unlimited passwords across unlimited devices with Bitwarden mobile, browser,\n        and desktop apps.\n    "
+  },
+  "what_bitwarden_has_to_offer": {
+    "value": "You can now explore everything Bitwarden has to offer and start managing\n        your passwords securely.\n    "
+  },
+  "what_makes_a_password_strong": {
+    "value": "Ce face o parolă puternică?"
+  },
+  "what_would_you_like_to_generate": {
+    "value": "Ce doriți să generați?"
+  },
+  "windows_hello": {
+    "value": "Windows Hello"
+  },
+  "word_separator": {
+    "value": "Separator de cuvinte"
+  },
+  "write_this_password_down_and_keep_it_somewhere_safe": {
+    "value": "Write this password down and keep it somewhere\n        safe.\n    "
+  },
+  "write_your_password_down": {
+    "value": "Write your password down"
+  },
+  "x_ellipses": {
+    "value": "%s..."
+  },
+  "x_hours": {
+    "value": "%1$s ore"
+  },
+  "x_hours_and_one_minute": {
+    "value": "%1$s ore și un minut"
+  },
+  "x_hours_and_y_minutes": {
+    "value": "%1$s ore și %2$s minute"
+  },
+  "x_minutes_ago": {
+    "value": "acum %1$s minute"
+  },
+  "yes": {
+    "value": "Da"
+  },
+  "yes_and_save": {
+    "value": "Da, și salvare"
+  },
+  "yes_i_can_reliably_access_my_email": {
+    "value": "Yes, I can reliably access my email"
+  },
+  "you_can_change_your_account_email_on_the_bitwarden_web_app": {
+    "value": "You can change your account email on the\n        Bitwarden web app.\n    "
+  },
+  "you_can_import_data_to_your_vault_on_x": {
+    "value": "Poți importa date în seif pe %1$s."
+  },
+  "you_can_return_to_complete_this_step_anytime_from_account_security_in_settings": {
+    "value": "You can return to\n        complete this step anytime from Account Security in Settings.\n    "
+  },
+  "you_can_return_to_complete_this_step_anytime_from_settings": {
+    "value": "You can return to complete this step\n        anytime in Vault Settings.\n    "
+  },
+  "you_can_set_up_two_step_login_as_an_alternative_way_to_protect_your_account_or_change_your_email_to_one_you_can_access": {
+    "value": "\n        You can set up two-step login as an alternative way to protect your account or change your email to one you can\n        access.\n    "
+  },
+  "you_cannot_edit_passkey_application_because_it_would_invalidate_the_passkey": {
+    "value": "Nu poți edita aplicația\n        cheie de acces, deoarece ar invalida cheia de acces\n    "
+  },
+  "you_ll_only_need_to_set_up_authenticator_key": {
+    "value": "You’ll only need to set up Authenticator Key for logins\n        that require two-factor authentication with a code. The key will continuously generate six-digit codes you can\n        use to log in.\n    "
+  },
+  "you_must_add_a_web_address_to_use_autofill_to_access_this_account": {
+    "value": "You must add a web address to use\n        autofill to access this account.\n    "
+  },
+  "you_will_be_notified_once_approved": {
+    "value": "Veți fi notificat după aprobare."
+  },
+  "your_account_has_been_permanently_deleted": {
+    "value": "Contul dvs. a fost șters definitiv"
+  },
+  "your_accounts_fingerprint": {
+    "value": "Fraza amprentă a contului dvs."
+  },
+  "your_data_when_and_where_you_need_it": {
+    "value": "Your data, when and where you need it"
+  },
+  "your_hint_will_be_send_to_you_via_email_when_you_request_it": {
+    "value": "Your hint will be sent to you via email\n        when you request it.\n    "
+  },
+  "your_master_password_cannot_be_recovered_if_you_forget_it_x_characters_minimum": {
+    "value": "Parola principală nu\n        poate fi recuperată dacă o uitați! Minim %1$s caractere.\n    "
+  },
+  "your_organization_permissions_were_updated_requering_you_to_set_a_master_password": {
+    "value": "Permisiunile\n        organizației dvs. au fost actualizate, fiind necesar să setați o parolă principală.\n    "
+  },
+  "your_organization_requires_you_to_set_a_master_password": {
+    "value": "Organizația dvs. vă solicită să setați o\n        parolă principală.\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault": {
+    "value": "Cheia de acces va fi salvată în seiful Bitwarden\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault_for_x": {
+    "value": "Cheia de acces va fi salvată în seiful\n        Bitwarden pentru %1$s\n    "
+  },
+  "your_request_has_been_sent_to_your_admin": {
+    "value": "Cererea dvs. a fost trimisă administratorului dvs."
+  },
+  "youre_all_set": {
+    "value": "You\\'re all set!"
+  },
+  "yubi_key_instruction": {
+    "value": "Pentru a continua, țineți YubiKey NEO în partea din spate a dispozitivului sau\n        introduceți-l în portul USB, apoi apăsați butonul acestuia.\n    "
+  },
+  "yubi_key_instruction_ios": {
+    "value": "Pentru a continua, țineți YubiKey NEO în partea din spate a\n        dispozitivului.\n    "
+  },
+  "yubi_key_title": {
+    "value": "Cheie de securitate YubiKey"
+  },
+  "zip_postal_code": {
+    "value": "Cod poștal"
+  }
+}

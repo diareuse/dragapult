@@ -1,0 +1,3677 @@
+{
+  "a_notification_has_been_sent_to_your_device": {
+    "value": "通知已发送到您的设备。"
+  },
+  "a_secure_memorable_password": {
+    "value": "安全、难忘的密码"
+  },
+  "a_verification_code_was_sent_to_your_email": {
+    "value": "验证码已发送到您的电子邮箱"
+  },
+  "about": {
+    "value": "关于"
+  },
+  "about_send": {
+    "value": "关于 Send"
+  },
+  "accept": {
+    "value": "接受"
+  },
+  "accept_policies": {
+    "value": "激活此开关表示您同意："
+  },
+  "accept_policies_error": {
+    "value": "尚未同意服务条款和隐私政策。"
+  },
+  "accessibility": {
+    "value": "使用无障碍功能"
+  },
+  "accessibility_description": {
+    "value": "使用 Bitwarden 无障碍服务跨 App\n        和网站自动填充您的登录信息。设置后，选中登录字段时将显示一个弹出窗口。\n    "
+  },
+  "accessibility_description2": {
+    "value": "使用 Bitwarden 无障碍服务跨 App 和网站自动填充您的登录信息。（需同时开启\n        Draw-Over）\n    "
+  },
+  "accessibility_description3": {
+    "value": "使用 Bitwarden 无障碍服务来使用自动填充快速操作磁贴，和/或使用\n        Draw-Over（若已开启）来显示弹出窗口。\n    "
+  },
+  "accessibility_description4": {
+    "value": "要求使用自动填充快速操作磁贴，或通过使用 Draw-Over\n        （若已开启）来增强自动填充服务。\n    "
+  },
+  "accessibility_description5": {
+    "value": "要求使用自动填充快速操作磁贴。"
+  },
+  "accessibility_disclosure_text": {
+    "value": "Bitwarden 使用无障碍服务在 App 和网站中搜索登录字段，当找到与 App\n        或网站相匹配的用户名  密码时，建立适当的字段 ID 以输入它们。我们不会通过此服务存储提供给我们的任何信息，也不会尝试控制除凭据文本输入之外的任何屏幕元素。\n    "
+  },
+  "accessibility_draw_over_permission_alert": {
+    "value": "Bitwarden 需要注意 - 请在 Bitwarden\n        设置的「自动填充服务」中开启「Draw-Over」\n    "
+  },
+  "accessibility_overlay_permission_alert": {
+    "value": "Bitwarden 需要注意 - 请在 Bitwarden\n        设置中查看「自动填充无障碍服务」\n    "
+  },
+  "accessibility_service_disclosure": {
+    "value": "无障碍服务声明"
+  },
+  "account": {
+    "value": "账户"
+  },
+  "account_already_added": {
+    "value": "账户已添加"
+  },
+  "account_biometric_invalidated": {
+    "value": "在验证主密码之前，此账户的生物识别解锁将禁用。"
+  },
+  "account_biometric_invalidated_extension": {
+    "value": "在验证主密码之前，此账户的自动填充生物识别解锁将禁用。"
+  },
+  "account_created": {
+    "value": "您的新账户已创建！您现在可以登录了。"
+  },
+  "account_created_success": {
+    "value": "您的新账户已成功创建！"
+  },
+  "account_fingerprint_phrase": {
+    "value": "账户指纹短语"
+  },
+  "account_locked": {
+    "value": "已锁定"
+  },
+  "account_locked_successfully": {
+    "value": "账户已锁定"
+  },
+  "account_logged_out": {
+    "value": "已注销"
+  },
+  "account_logged_out_biometric_exceeded": {
+    "value": "账户已注销。"
+  },
+  "account_logged_out_successfully": {
+    "value": "账户注销成功"
+  },
+  "account_removed_successfully": {
+    "value": "账户移除成功"
+  },
+  "account_security": {
+    "value": "账户安全"
+  },
+  "account_setup": {
+    "value": "账户设置"
+  },
+  "account_switched_automatically": {
+    "value": "已切换到下一个可用的账户"
+  },
+  "account_unlocked": {
+    "value": "已解锁"
+  },
+  "add": {
+    "value": "添加"
+  },
+  "add_a_number_or_symbol_to_make_it_even_stronger": {
+    "value": "<annotation emphasis=\"bold\">\n        添加数字或符号</annotation>使其更加强大。现在您就拥有一个唯一、安全且难忘的密码了！\n    "
+  },
+  "add_a_send": {
+    "value": "新增 Send"
+  },
+  "add_account": {
+    "value": "添加账户"
+  },
+  "add_an_item": {
+    "value": "添加项目"
+  },
+  "add_field": {
+    "value": "添加字段"
+  },
+  "add_folder": {
+    "value": "添加文件夹"
+  },
+  "add_item": {
+    "value": "添加项目"
+  },
+  "add_new_attachment": {
+    "value": "添加新附件"
+  },
+  "add_send": {
+    "value": "新增 Send"
+  },
+  "add_the_key_to_an_existing_or_new_item": {
+    "value": "将密钥添加到现有或新的项目"
+  },
+  "add_this_authenticator_key_to_a_login": {
+    "value": "将此验证器密钥添加到现有登录，或创建一个新的登录。"
+  },
+  "add_totp": {
+    "value": "添加 TOTP"
+  },
+  "add_website": {
+    "value": "添加网站"
+  },
+  "additional_options": {
+    "value": "附加选项"
+  },
+  "address": {
+    "value": "地址"
+  },
+  "address1": {
+    "value": "地址 1"
+  },
+  "address2": {
+    "value": "地址 2"
+  },
+  "address3": {
+    "value": "地址 3"
+  },
+  "addy_io": {
+    "value": "addy.io"
+  },
+  "admin_approval_requested": {
+    "value": "已请求管理员批准"
+  },
+  "after_you_save_your_new_password_to_bitwarden_don_t_forget_to_update_it_on_your_account_website": {
+    "value": "\n        \"将新密码保存到 Bitwarden 后，不要忘记在您的账户网站上更新它。 \"\n    "
+  },
+  "alias": {
+    "value": "别名"
+  },
+  "all": {
+    "value": "全部"
+  },
+  "all_items": {
+    "value": "所有项目"
+  },
+  "all_notifications": {
+    "value": "所有通知"
+  },
+  "all_sends": {
+    "value": "所有的 Send"
+  },
+  "all_vaults": {
+    "value": "所有密码库"
+  },
+  "allow_bitwarden_authenticator_syncing": {
+    "value": "允许验证器同步"
+  },
+  "allow_notifications": {
+    "value": "允许通知"
+  },
+  "allow_screen_capture": {
+    "value": "允许屏幕截图"
+  },
+  "an_error_has_occurred": {
+    "value": "发生错误。"
+  },
+  "an_error_occurred_while_sending_a_verification_code_to_your_email_please_try_again": {
+    "value": "\n        发送验证码到您的电子邮箱时发生错误。请重试\n    "
+  },
+  "api_access_token": {
+    "value": "API 访问令牌"
+  },
+  "api_key_required_parenthesis": {
+    "value": "API 密钥（必填）"
+  },
+  "api_url": {
+    "value": "API 服务器 URL"
+  },
+  "app_extension": {
+    "value": "App 扩展"
+  },
+  "appearance": {
+    "value": "外观"
+  },
+  "application": {
+    "value": "应用程序"
+  },
+  "approve_login_requests": {
+    "value": "批准登录请求"
+  },
+  "approve_with_master_password": {
+    "value": "使用主密码批准"
+  },
+  "approve_with_my_other_device": {
+    "value": "通过我的其他设备批准"
+  },
+  "april": {
+    "value": "四月"
+  },
+  "are_you_sure_delete_send": {
+    "value": "确定要删除此 Send 吗？"
+  },
+  "are_you_sure_remove_send_password": {
+    "value": "确定要移除此密码吗？"
+  },
+  "are_you_sure_you_want_to_decline_all_pending_log_in_requests": {
+    "value": "确定要拒绝所有待处理的登录请求吗？\n    "
+  },
+  "are_you_sure_you_want_to_enable_screen_capture": {
+    "value": "确定要开启屏幕截图吗？"
+  },
+  "are_you_sure_you_want_to_overwrite_the_current_username": {
+    "value": "确定要覆盖当前用户名吗？"
+  },
+  "are_you_trying_to_log_in": {
+    "value": "您正在尝试登录吗？"
+  },
+  "ask_to_add_login": {
+    "value": "询问添加登录"
+  },
+  "ask_to_add_login_description": {
+    "value": "在密码库中找不到匹配项目时询问添加一个。"
+  },
+  "attachement_added": {
+    "value": "附件已添加"
+  },
+  "attachment_deleted": {
+    "value": "附件已删除"
+  },
+  "attachment_large_warning": {
+    "value": "此附件大小为 %1$s 。确定要将其下载到您的设备上吗？"
+  },
+  "attachments": {
+    "value": "附件"
+  },
+  "august": {
+    "value": "八月"
+  },
+  "authenticator": {
+    "value": "身份验证器"
+  },
+  "authenticator_app_title": {
+    "value": "验证器 App"
+  },
+  "authenticator_key": {
+    "value": "验证器密钥"
+  },
+  "authenticator_key_added": {
+    "value": "已添加验证器密钥。"
+  },
+  "authenticator_key_help": {
+    "value": "验证器密钥帮助"
+  },
+  "authenticator_key_read_error": {
+    "value": "无法读取验证器密钥。"
+  },
+  "authenticator_key_scanner": {
+    "value": "验证器密钥"
+  },
+  "authenticator_sync": {
+    "value": "验证器同步"
+  },
+  "auto_fill_will_not_be_offered_for_these_ur_is": {
+    "value": "不会为这些 URI 提供自动填充。"
+  },
+  "autofill": {
+    "value": "自动填充"
+  },
+  "autofill_accessibility_description": {
+    "value": "使用 Bitwarden 无障碍服务跨 App 和网站自动填充您的登录信息。\n    "
+  },
+  "autofill_accessibility_service": {
+    "value": "自动填充无障碍服务"
+  },
+  "autofill_accessibility_summary": {
+    "value": "在其他 App 和网站上协助填充用户名和密码字段。"
+  },
+  "autofill_activated": {
+    "value": "自动填充已激活！"
+  },
+  "autofill_and_save": {
+    "value": "自动填充并保存"
+  },
+  "autofill_blocked_uris": {
+    "value": "自动填充已屏蔽的 URI"
+  },
+  "autofill_options": {
+    "value": "自动填充选项"
+  },
+  "autofill_or_view": {
+    "value": "您想自动填充还是查看此项目？"
+  },
+  "autofill_passwords": {
+    "value": "自动填充密码"
+  },
+  "autofill_service": {
+    "value": "自动填充服务"
+  },
+  "autofill_service_description": {
+    "value": "Bitwarden 自动填充服务使用 Android 自动填充框架来协助将登录信息填充到您设备上的其他\n        App 中。\n    "
+  },
+  "autofill_service_not_enabled": {
+    "value": "自动填充可以轻松地从其他网站和 App 安全地访问您的 Bitwarden 密码库。看起来您还没有为\n        Bitwarden 设置自动填充服务。请从「设置」界面为 Bitwarden 设置自动填充。\n    "
+  },
+  "autofill_services": {
+    "value": "自动填充服务"
+  },
+  "autofill_services_explanation_long": {
+    "value": "Android 自动填充框架用于协助将登录信息填充到您设备上的其他 App\n        中。\n    "
+  },
+  "autofill_setup": {
+    "value": "现在，当登录 App 和网站时，您可以通过键盘轻松访问您的登录信息。"
+  },
+  "autofill_setup2": {
+    "value": "我们建议您在「设置」里禁用其它您不再使用的自动填充 App 。"
+  },
+  "autofill_suggestion": {
+    "value": "自动填充建议"
+  },
+  "autofill_tile_accessibility_required": {
+    "value": "请从 Bitwarden\n        设置中开启「自动填充无障碍服务」以使用自动填充磁贴。\n    "
+  },
+  "autofill_tile_uri_not_found": {
+    "value": "未检测到密码字段"
+  },
+  "autofill_turn_on": {
+    "value": "要在您的设备上设置密码自动填充，请遵循以下说明："
+  },
+  "autofill_turn_on1": {
+    "value": "1. 前往 iOS 的「设置」App"
+  },
+  "autofill_turn_on2": {
+    "value": "2. 点击「密码」"
+  },
+  "autofill_turn_on3": {
+    "value": "3. 点击「自动填充密码」"
+  },
+  "autofill_turn_on4": {
+    "value": "4. 打开自动填充"
+  },
+  "autofill_turn_on5": {
+    "value": "5. 选择「Bitwarden」"
+  },
+  "autofill_with_bitwarden": {
+    "value": "使用 Bitwarden 自动填充"
+  },
+  "available_for_two_step_login": {
+    "value": "可用于两步登录"
+  },
+  "avoid_ambiguous_characters": {
+    "value": "避免易混淆的字符"
+  },
+  "back": {
+    "value": "后退"
+  },
+  "base_domain": {
+    "value": "基础域名"
+  },
+  "biometrics": {
+    "value": "生物识别"
+  },
+  "biometrics_decoding_failure": {
+    "value": "使用您的主密码或 PIN 码登录后在「设置」中重新启用生物识别登录。"
+  },
+  "biometrics_direction": {
+    "value": "生物识别验证"
+  },
+  "biometrics_failed": {
+    "value": "生物识别失败"
+  },
+  "biometrics_no_longer_supported": {
+    "value": "\n        由于您设备的生物识别不符合最新的安全要求，您已被注销。要更新设置，请重新登录或联系管理员获取访问权限。\n    "
+  },
+  "biometrics_no_longer_supported_title": {
+    "value": "该设备不再支持生物识别"
+  },
+  "bitwarden": {
+    "value": "Bitwarden"
+  },
+  "bitwarden_app_extension": {
+    "value": "Bitwarden App 扩展"
+  },
+  "bitwarden_app_extension_alert2": {
+    "value": "向您的密码库中添加新登录项目的最简单方法，就是通过 Bitwarden App\n        扩展。转到「设置」界面进一步了解 Bitwarden App 扩展的使用。\n    "
+  },
+  "bitwarden_app_extension_description": {
+    "value": "在 Safari 和其他 App 中使用 Bitwarden 来自动填充登录信息。\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description": {
+    "value": "使用 Bitwarden 无障碍服务自动填充您的登录信息。\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description2": {
+    "value": "当 App\n        不支持标准的自动填充服务时，无障碍服务可能会很有用。\n    "
+  },
+  "bitwarden_autofill_alert2": {
+    "value": "向您的密码库中添加新登录项目的最简单方法，就是使用 Bitwarden\n        密码自动填充扩展。转到「设置」界面进一步了解 Bitwarden 密码自动填充扩展的使用。\n    "
+  },
+  "bitwarden_autofill_description": {
+    "value": "从键盘直接访问密码库以快速自动填充密码。"
+  },
+  "bitwarden_autofill_go_to_settings": {
+    "value": "我们无法为您自动打开 Android 自动填充设置菜单。您可以通过 Android 设置\n         系统  语言和输入  高级  自动填充服务，来手动导航到自动填充设置。\n    "
+  },
+  "bitwarden_autofill_service": {
+    "value": "Bitwarden 自动填充服务"
+  },
+  "bitwarden_autofill_service_alert2": {
+    "value": "向您的密码库中添加新登录项目的最简单方法，就是通过 Bitwarden\n        自动填充服务。转到「设置」界面进一步了解 Bitwarden 自动填充服务的使用。\n    "
+  },
+  "bitwarden_autofill_service_description": {
+    "value": "使用 Bitwarden 自动填充服务将登录信息填充到其他 App 中。\n    "
+  },
+  "bitwarden_autofill_service_match_confirm": {
+    "value": "确定要自动填充此项目吗？它与「%1$s」并不完全匹配。"
+  },
+  "bitwarden_autofill_service_notification_content": {
+    "value": "点击此通知以自动填充密码库中的项目。"
+  },
+  "bitwarden_autofill_service_notification_content_old": {
+    "value": "点击此通知以查看密码库中的项目。"
+  },
+  "bitwarden_autofill_service_open_accessibility_settings": {
+    "value": "打开无障碍设置"
+  },
+  "bitwarden_autofill_service_open_autofill_settings": {
+    "value": "打开自动填充设置"
+  },
+  "bitwarden_autofill_service_open_overlay_permission_settings": {
+    "value": "打开叠加层权限设置"
+  },
+  "bitwarden_autofill_service_overlay": {
+    "value": "当您选择一个输入字段并看到一个 Bitwarden\n        自动填充叠加层时，您可以点击它来启动自动填充服务。\n    "
+  },
+  "bitwarden_autofill_service_overlay_permission": {
+    "value": "3. 在 Android App 设置界面找到\n        Bitwarden，进入「显示在其他应用上方」选项（在「高级」下），然后点击切换开关以允许叠加层支持。\n    "
+  },
+  "bitwarden_autofill_service_search": {
+    "value": "您正在搜索用于「%1$s」的自动填充项目。"
+  },
+  "bitwarden_autofill_service_step1": {
+    "value": "1. 在 Android 无障碍设置界面，点击服务标题下的「Bitwarden」。"
+  },
+  "bitwarden_autofill_service_step2": {
+    "value": "2. 打开开关，然后按「确定」以接受。"
+  },
+  "bitwarden_autofill_service_step3": {
+    "value": "3. 在 Android App 设置界面找到\n        Bitwarden，选择「显示在其他应用上方」选项（在「高级」下），然后打开切换开关以允许叠加层。\n    "
+  },
+  "bitwarden_can_notify_you_each_time_you_receive_a_new_login_request_from_another_device": {
+    "value": "Bitwarden\n        可以在每次收到来自其他设备的新登录请求时通知您。\n    "
+  },
+  "bitwarden_cannot_recover_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden 无法恢复丢失或遗忘的主密码。\n    "
+  },
+  "bitwarden_cannot_reset_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden 无法重置丢失或遗忘的主密码。\n    "
+  },
+  "bitwarden_credential_provider_go_to_settings": {
+    "value": "我们无法为您自动打开 Android 凭据提供程序设置菜单。您可以通过\n        Android 设置  系统  密码  账户  密码、通行密钥和数据服务手动定位到凭据提供程序设置菜单。\n    "
+  },
+  "bitwarden_help_center": {
+    "value": "Bitwarden 帮助中心"
+  },
+  "bitwarden_tools": {
+    "value": "Bitwarden 工具"
+  },
+  "bitwarden_will_soon_send_a_code_to_your_account_email_to_verify_logins_from_new_devices_in_february": {
+    "value": "从\n        2025 年 02 月起，当有来自新设备的登录时，Bitwarden 将向您的账户电子邮箱发送验证码。\n    "
+  },
+  "black": {
+    "value": "黑色"
+  },
+  "block_auto_fill": {
+    "value": "阻止自动填充"
+  },
+  "brand": {
+    "value": "品牌"
+  },
+  "by_activating_this_switch_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "激活此开关，表示您同意 <annotation link=\"termsOfService\">服务条款\n    </annotation> 和\n        <annotation link=\"privacyPolicy\">隐私政策</annotation>\n    "
+  },
+  "by_continuing_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "若继续，表示您同意<annotation link=\"termsOfService\">服务条款</annotation>和<annotation link=\"privacyPolicy\">隐私政策</annotation>。\n    "
+  },
+  "camera": {
+    "value": "相机"
+  },
+  "cancel": {
+    "value": "取消"
+  },
+  "cannot_add_authenticator_key": {
+    "value": "无法添加验证器密钥吗？"
+  },
+  "cannot_add_authenticator_key_scan_qr_code": {
+    "value": "无法添加验证器密钥吗？\n        <annotation link=\"scanQrCode\">扫描二维码</annotation>\n    "
+  },
+  "cannot_edit_multiple_ur_is_at_once": {
+    "value": "一次不能编辑多个 URI"
+  },
+  "cannot_open_app": {
+    "value": "无法打开 App「%1$s」。"
+  },
+  "cannot_scan_qr_code_enter_key_manually": {
+    "value": "无法扫描二维码吗？\n        <annotation link=\"enterKeyManually\">手动输入密钥</annotation>\n    "
+  },
+  "capitalize": {
+    "value": "首字母大写"
+  },
+  "captcha_failed": {
+    "value": "Captcha 验证失败。请重试。"
+  },
+  "captcha_required": {
+    "value": "请完成 Captcha 验证"
+  },
+  "card_details": {
+    "value": "支付卡详细信息"
+  },
+  "cardholder_name": {
+    "value": "持卡人姓名"
+  },
+  "cards": {
+    "value": "支付卡"
+  },
+  "catch_all_email": {
+    "value": "Catch-all 电子邮箱"
+  },
+  "catch_all_email_description": {
+    "value": "使用您的域名配置的 Catch-all 收件箱。"
+  },
+  "certificate_alias": {
+    "value": "证书别名"
+  },
+  "certificate_alias_already_exists": {
+    "value": "证书别名已存在"
+  },
+  "certificate_installation_failed": {
+    "value": "证书安装失败"
+  },
+  "certificate_installed": {
+    "value": "证书已安装"
+  },
+  "certificate_password_incorrect": {
+    "value": "证书密码错误"
+  },
+  "certificate_selection_failed": {
+    "value": "证书选择失败"
+  },
+  "certificate_used_for_client_authentication": {
+    "value": "用于客户端身份验证的证书。"
+  },
+  "change_account_email": {
+    "value": "更改账户电子邮箱"
+  },
+  "change_email": {
+    "value": "修改电子邮箱"
+  },
+  "change_email_address": {
+    "value": "更改电子邮箱地址"
+  },
+  "change_email_confirmation": {
+    "value": "您可以在 bitwarden.com\n        网页版密码库更改您的电子邮箱地址。现在要访问此网站吗？\n    "
+  },
+  "change_master_password": {
+    "value": "更改主密码"
+  },
+  "change_master_password_description_long": {
+    "value": "您可以在 Bitwarden 网页 App 上更改您的主密码。"
+  },
+  "check_known_data_breaches_for_this_password": {
+    "value": "检查已知的数据泄露是否包含此密码"
+  },
+  "check_out_the_passphrase_generator": {
+    "value": "\"查看密码短语生成器\""
+  },
+  "check_password": {
+    "value": "检查密码是否已经被公开。"
+  },
+  "check_password_for_data_breaches": {
+    "value": "检查数据泄露中的密码"
+  },
+  "check_your_email": {
+    "value": "检查您的电子邮箱"
+  },
+  "checking_password": {
+    "value": "正在检查密码..."
+  },
+  "choose_a_login_to_save_this_passkey_to": {
+    "value": "选择一个用于保存此通行密钥的登录项目"
+  },
+  "choose_a_unique_and_strong_password_to_keep_your_information_safe": {
+    "value": "\n        选择一个唯一且强大的密码，以保障您的信息安全。\n    "
+  },
+  "choose_file": {
+    "value": "选择文件"
+  },
+  "choose_system_certificate": {
+    "value": "选择系统证书"
+  },
+  "choose_three_or_four_random_words": {
+    "value": "选择三到四个随机单词"
+  },
+  "choose_your_master_password": {
+    "value": "选择您的主密码"
+  },
+  "city_town": {
+    "value": "市 / 镇"
+  },
+  "class_2_biometrics_description": {
+    "value": "\n        使用生物识别解锁需要强大的生物识别身份验证，其与本设备上提供的生物识别选项不兼容。\n    "
+  },
+  "class_3_biometrics_description": {
+    "value": "\n        使用生物识别解锁需要强大的生物识别身份验证，其可能与本设备上的所有生物识别选项不兼容。\n    "
+  },
+  "clear": {
+    "value": "清除"
+  },
+  "clear_clipboard": {
+    "value": "清除剪贴板"
+  },
+  "clear_clipboard_description": {
+    "value": "自动清除复制到剪贴板的值。"
+  },
+  "client_certificate_mtls": {
+    "value": "客户端证书 (mTLS)"
+  },
+  "clone": {
+    "value": "克隆"
+  },
+  "close": {
+    "value": "关闭"
+  },
+  "coachmark_1_of_3": {
+    "value": "1 / 3"
+  },
+  "coachmark_1_of_6": {
+    "value": "1 / 6"
+  },
+  "coachmark_2_of_3": {
+    "value": "2 / 3"
+  },
+  "coachmark_2_of_6": {
+    "value": "2 / 6"
+  },
+  "coachmark_3_of_3": {
+    "value": "3 / 3"
+  },
+  "coachmark_3_of_6": {
+    "value": "3 / 6"
+  },
+  "coachmark_4_of_6": {
+    "value": "4 / 6"
+  },
+  "coachmark_5_of_6": {
+    "value": "5 / 6"
+  },
+  "coachmark_6_of_6": {
+    "value": "6 / 6"
+  },
+  "code_sent": {
+    "value": "验证码已发送！"
+  },
+  "collections": {
+    "value": "集合"
+  },
+  "combine_those_words_together": {
+    "value": "将这些单词组合在一起"
+  },
+  "company": {
+    "value": "公司"
+  },
+  "confim_log_in_attemp_for_x": {
+    "value": "确认 %1$s 的登录尝试"
+  },
+  "confirm": {
+    "value": "确认"
+  },
+  "confirm_file_password": {
+    "value": "确认文件密码"
+  },
+  "confirm_log_in": {
+    "value": "确认登录"
+  },
+  "confirm_your_identity": {
+    "value": "请先确认您的身份后继续。"
+  },
+  "connect_to_watch": {
+    "value": "连接到 Watch"
+  },
+  "contact_bitwarden_support": {
+    "value": "联系 Bitwarden 支持"
+  },
+  "contact_info": {
+    "value": "联系信息"
+  },
+  "contact_support_description_long": {
+    "value": "找不到您想要的吗？请在 bitwarden.com 上联系 Bitwarden 支持。"
+  },
+  "continue_text": {
+    "value": "继续"
+  },
+  "continue_to_app_store": {
+    "value": "前往 App Store 吗？"
+  },
+  "continue_to_complete_web_authn_verification": {
+    "value": "继续完成 WebAuthn 验证。"
+  },
+  "continue_to_contact_support": {
+    "value": "要联系支持吗？"
+  },
+  "continue_to_device_settings": {
+    "value": "前往设备设置吗？"
+  },
+  "continue_to_give_feedback": {
+    "value": "前往提供反馈信息吗？"
+  },
+  "continue_to_help_center": {
+    "value": "前往帮助中心吗？"
+  },
+  "continue_to_privacy_policy": {
+    "value": "查看隐私政策吗？"
+  },
+  "continue_to_provide_feedback": {
+    "value": "选择继续以提供针对此新 App 的反馈信息！"
+  },
+  "continue_to_web_app": {
+    "value": "前往网页 App 吗？"
+  },
+  "continue_to_x": {
+    "value": "前往 %1$s 吗？"
+  },
+  "copied_to_clipboard": {
+    "value": "已复制到剪贴板。"
+  },
+  "copy": {
+    "value": "复制"
+  },
+  "copy_address": {
+    "value": "复制地址"
+  },
+  "copy_app_information": {
+    "value": "复制 App 信息"
+  },
+  "copy_application": {
+    "value": "复制应用程序"
+  },
+  "copy_company": {
+    "value": "复制公司信息"
+  },
+  "copy_email": {
+    "value": "复制电子邮箱"
+  },
+  "copy_fingerprint": {
+    "value": "复制指纹"
+  },
+  "copy_identity_name": {
+    "value": "复制身份名称"
+  },
+  "copy_license_number": {
+    "value": "复制许可证号码"
+  },
+  "copy_link": {
+    "value": "复制链接"
+  },
+  "copy_notes": {
+    "value": "复制备注"
+  },
+  "copy_number": {
+    "value": "复制号码"
+  },
+  "copy_passport_number": {
+    "value": "复制护照号码"
+  },
+  "copy_password": {
+    "value": "复制密码"
+  },
+  "copy_phone": {
+    "value": "复制电话号码"
+  },
+  "copy_private_key": {
+    "value": "复制私钥"
+  },
+  "copy_public_key": {
+    "value": "复制公钥"
+  },
+  "copy_security_code": {
+    "value": "复制安全码"
+  },
+  "copy_send_link_on_save": {
+    "value": "保存时复制 Send 链接"
+  },
+  "copy_ssn": {
+    "value": "复制社会保障号码"
+  },
+  "copy_totp": {
+    "value": "复制 TOTP"
+  },
+  "copy_totp_automatically": {
+    "value": "自动复制 TOTP"
+  },
+  "copy_totp_automatically_description": {
+    "value": "如果登录项目包含验证器密钥，当自动填充此登录时，TOTP\n        验证码将复制到剪贴板。\n    "
+  },
+  "copy_username": {
+    "value": "复制用户名"
+  },
+  "country": {
+    "value": "国家"
+  },
+  "create_a_hint": {
+    "value": "创建提示"
+  },
+  "create_account": {
+    "value": "创建账户"
+  },
+  "create_account_on": {
+    "value": "创建账户至"
+  },
+  "create_account_on_with_colon": {
+    "value": "创建账户至："
+  },
+  "create_an_account": {
+    "value": "创建账户"
+  },
+  "created_xy": {
+    "value": "创建于 %1$s, %2$s"
+  },
+  "creating_account": {
+    "value": "正在创建账户..."
+  },
+  "credits": {
+    "value": "鸣谢"
+  },
+  "current_access_count": {
+    "value": "当前访问次数"
+  },
+  "current_master_password_required": {
+    "value": "当前主密码（必填）"
+  },
+  "custom": {
+    "value": "自定义"
+  },
+  "custom_environment": {
+    "value": "自定义环境"
+  },
+  "custom_environment_footer": {
+    "value": "适用于高级用户。您可以分别指定各个服务的基础 URL。"
+  },
+  "custom_field_name": {
+    "value": "自定义字段名称"
+  },
+  "custom_fields": {
+    "value": "自定义字段"
+  },
+  "cxp_export": {
+    "value": "CXP 导出"
+  },
+  "cxp_import": {
+    "value": "CXP 导入"
+  },
+  "dark": {
+    "value": "深色"
+  },
+  "data_region": {
+    "value": "数据区域"
+  },
+  "date_password_updated": {
+    "value": "密码更新于"
+  },
+  "date_updated": {
+    "value": "更新于"
+  },
+  "december": {
+    "value": "十二月"
+  },
+  "decline": {
+    "value": "拒绝"
+  },
+  "decline_all_requests": {
+    "value": "拒绝所有请求"
+  },
+  "default_dark_theme": {
+    "value": "默认深色主题"
+  },
+  "default_dark_theme_description_long": {
+    "value": "当设备的深色模式启用时，选择要使用的深色主题。"
+  },
+  "default_system": {
+    "value": "默认（系统）"
+  },
+  "default_text": {
+    "value": "默认"
+  },
+  "default_uri_match_detection": {
+    "value": "默认的 URI 匹配检测方式"
+  },
+  "default_uri_match_detection_description": {
+    "value": "选择在执行诸如自动填充之类的操作时对登录进行 URI\n        匹配检测的默认方式。\n    "
+  },
+  "delete": {
+    "value": "删除"
+  },
+  "delete_account": {
+    "value": "删除账户"
+  },
+  "delete_account_explanation": {
+    "value": "您的账户和所有相关数据将被擦除并且无法恢复。确定要继续吗？"
+  },
+  "delete_this_file_after_import_is_complete": {
+    "value": "导入完成后您应该删除此文件。"
+  },
+  "deleting": {
+    "value": "正在删除..."
+  },
+  "deleting_your_account": {
+    "value": "正删除您的账户"
+  },
+  "deleting_your_account_is_permanent": {
+    "value": "删除账户是永久性的"
+  },
+  "deletion_date": {
+    "value": "删除日期"
+  },
+  "deletion_date_info": {
+    "value": "此 Send 将在指定的日期和时间后被永久删除。"
+  },
+  "deletion_time": {
+    "value": "删除时间"
+  },
+  "denied": {
+    "value": "拒绝"
+  },
+  "deny_log_in": {
+    "value": "拒绝登录"
+  },
+  "device_type": {
+    "value": "设备类型"
+  },
+  "disable_personal_vault_export_policy_in_effect": {
+    "value": "一个或多个组织策略阻止您导出个人密码库。"
+  },
+  "disabled": {
+    "value": "已禁用"
+  },
+  "do_you_have_a_computer_available": {
+    "value": "您是否有可用的计算机？"
+  },
+  "do_you_have_reliable_access_to_your_email": {
+    "value": "您能正常访问您的电子邮箱\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n        吗？\n    "
+  },
+  "do_you_really_want_to_delete": {
+    "value": "您确定要删除吗？这个操作无法撤消。"
+  },
+  "do_you_really_want_to_permanently_delete_cipher": {
+    "value": "您确定要永久删除吗？此操作无法撤销。"
+  },
+  "do_you_really_want_to_restore_cipher": {
+    "value": "您确定要恢复此项目吗？"
+  },
+  "do_you_really_want_to_soft_delete_cipher": {
+    "value": "您确定要将其发送到回收站吗？"
+  },
+  "domain_name_required_parenthesis": {
+    "value": "域名（必填）"
+  },
+  "done_text": {
+    "value": "完成"
+  },
+  "download": {
+    "value": "下载"
+  },
+  "download_the_browser_extension": {
+    "value": "下载浏览器扩展"
+  },
+  "downloading": {
+    "value": "正在下载..."
+  },
+  "dr": {
+    "value": "博士"
+  },
+  "draw_over": {
+    "value": "使用 Draw-Over"
+  },
+  "draw_over_description": {
+    "value": "允许 Bitwarden 无障碍服务在登录字段选中时显示弹出窗口。"
+  },
+  "draw_over_description2": {
+    "value": "开启后，当登录字段被选中时，Bitwarden\n        无障碍服务将显示一个弹出窗口以协助自动填充您的登录信息。\n    "
+  },
+  "draw_over_description3": {
+    "value": "开启后，无障碍将显示一个弹出窗口以增强不支持 Android 自动填充框架的旧 App\n        的自动填充服务。\n    "
+  },
+  "duck_duck_go": {
+    "value": "DuckDuckGo"
+  },
+  "duo_two_step_login_is_required_for_your_account": {
+    "value": "您的账户要求使用 Duo 两步登录。"
+  },
+  "edit": {
+    "value": "编辑"
+  },
+  "edit_card": {
+    "value": "编辑支付卡"
+  },
+  "edit_folder": {
+    "value": "编辑文件夹"
+  },
+  "edit_identity": {
+    "value": "编辑身份"
+  },
+  "edit_item": {
+    "value": "编辑项目"
+  },
+  "edit_login": {
+    "value": "编辑登录"
+  },
+  "edit_note": {
+    "value": "编辑笔记"
+  },
+  "edit_passkey": {
+    "value": "编辑通行密钥"
+  },
+  "edit_send": {
+    "value": "编辑 Send"
+  },
+  "edit_uri": {
+    "value": "编辑 URI"
+  },
+  "email": {
+    "value": "电子邮箱"
+  },
+  "email_address": {
+    "value": "电子邮箱地址"
+  },
+  "email_address_required": {
+    "value": "电子邮箱地址（必填）"
+  },
+  "email_required_parenthesis": {
+    "value": "电子邮箱（必填）"
+  },
+  "email_type": {
+    "value": "电子邮箱类型"
+  },
+  "email_us": {
+    "value": "给我们发邮件"
+  },
+  "email_us_description": {
+    "value": "请直接给我们发送电子邮件以获取帮助或留下反馈。"
+  },
+  "email_verified": {
+    "value": "电子邮箱已验证"
+  },
+  "enable_automatic_syncing": {
+    "value": "开启自动同步"
+  },
+  "enable_camer_permission_to_use_the_scanner": {
+    "value": "启用相机权限以使用扫描器"
+  },
+  "enable_notifications": {
+    "value": "启用通知"
+  },
+  "enable_sync_on_refresh": {
+    "value": "启用刷新时同步"
+  },
+  "enable_sync_on_refresh_description": {
+    "value": "使用下拉手势同步密码库。"
+  },
+  "enabled": {
+    "value": "已启用"
+  },
+  "encryption_key_migration_required_description_long": {
+    "value": "\n        需要迁移加密密钥。请登录网页版密码库来更新您的加密密钥。\n    "
+  },
+  "enter_email_for_hint": {
+    "value": "请输入您的账户电子邮箱地址来接收主密码提示。"
+  },
+  "enter_key_manually": {
+    "value": "手动输入密钥"
+  },
+  "enter_pin": {
+    "value": "请输入您的 PIN 码。"
+  },
+  "enter_the_client_certificate_password_and_alias": {
+    "value": "输入客户端证书密码和此证书所需的别名。"
+  },
+  "enter_the_verification_code_that_was_sent_to_your_email": {
+    "value": "输入发送到您电子邮箱的验证码"
+  },
+  "enter_uri": {
+    "value": "输入 URI"
+  },
+  "enter_verification_code_app": {
+    "value": "请输入您的验证器 App 中的 6 位数验证码。"
+  },
+  "enter_verification_code_email": {
+    "value": "请输入发送到 %1$s 的 6 位数验证码。"
+  },
+  "enter_verification_code_new_device": {
+    "value": "我们无法识别这个设备。请输入发送到 %1$s 的 8 位数验证码。"
+  },
+  "environment_page_urls_error": {
+    "value": "输入的一个或多个 URL 无效。请修改后再次尝试保存。"
+  },
+  "environment_saved": {
+    "value": "各环境 URL 已保存。"
+  },
+  "error_connecting_with_the_duo_service_use_a_different_two_step_login_method_or_contact_duo_for_assistance": {
+    "value": "\n        与 Duo 服务连接时出错。请使用其他两步登录方式或联系 Duo 寻求帮助。\n    "
+  },
+  "error_creating_passkey": {
+    "value": "创建通行密钥时出错"
+  },
+  "error_loading_certificate": {
+    "value": "加载证书时出错"
+  },
+  "error_reading_passkey": {
+    "value": "读取通行密钥时出错"
+  },
+  "eu": {
+    "value": "欧盟"
+  },
+  "exact": {
+    "value": "精确"
+  },
+  "exit": {
+    "value": "退出"
+  },
+  "exit_confirmation": {
+    "value": "确定要退出 Bitwarden 吗？"
+  },
+  "exntesion_reenable": {
+    "value": "重新激活 App 扩展"
+  },
+  "expiration": {
+    "value": "有效期"
+  },
+  "expiration_month": {
+    "value": "过期月份"
+  },
+  "expiration_year": {
+    "value": "过期年份"
+  },
+  "expired": {
+    "value": "已过期"
+  },
+  "expired_link": {
+    "value": "失效链接"
+  },
+  "explore_more_features_of_your_bitwarden_account_on_the_web_app": {
+    "value": "在网页 App 上探索您的 Bitwarden\n        账户的更多功能。\n    "
+  },
+  "explore_the_generator": {
+    "value": "探索生成器"
+  },
+  "export_vault": {
+    "value": "导出密码库"
+  },
+  "export_vault_confirmation_title": {
+    "value": "确认密码库导出"
+  },
+  "export_vault_failure": {
+    "value": "导出您的密码库时出现问题。如果问题仍然存在，您需要从网页密版码库中导出。"
+  },
+  "export_vault_file_pw_protect_info": {
+    "value": "此文件导出将受密码保护，需要文件密码才能解密。"
+  },
+  "export_vault_master_password_description": {
+    "value": "输入您的主密码以导出您的密码库数据。"
+  },
+  "export_vault_success": {
+    "value": "密码库导出成功"
+  },
+  "export_vault_warning": {
+    "value": "\n        此导出包含未加密格式的密码库数据。您不应该通过不安全的渠道（例如电子邮件）来存储或发送此导出文件。使用完后请立即将其删除。\n    "
+  },
+  "export_your_passwords_this_option_is_usually_found_in_your_settings": {
+    "value": "<annotation emphasis=\"bold\">\n        导出您的密码</annotation>。此选项通常可以在设置中找到。\n    "
+  },
+  "export_your_saved_logins": {
+    "value": "导出已保存的登录信息"
+  },
+  "exposed_master_password": {
+    "value": "已暴露的主密码"
+  },
+  "extension_activated": {
+    "value": "扩展已激活！"
+  },
+  "extension_almost_done": {
+    "value": "就差一步！"
+  },
+  "extension_enable": {
+    "value": "激活 App 扩展"
+  },
+  "extension_in_safari": {
+    "value": "在 Safari 中，使用共享图标寻找 Bitwarden （提示：在菜单最下面一行的右边）。"
+  },
+  "extension_instant_access": {
+    "value": "立即访问您的密码！"
+  },
+  "extension_ready": {
+    "value": "您已经准备好登录了！"
+  },
+  "extension_setup": {
+    "value": "您现在可以在 Safari、Chrome 以及其他支持的 App 中方便地访问您的登录信息。"
+  },
+  "extension_setup2": {
+    "value": "在 Safari 和 Chrome 中，使用共享图标寻找 Bitwarden（提示：在菜单最下面一行的右边）。\n    "
+  },
+  "extension_tap_icon": {
+    "value": "在菜单中点击 Bitwarden 图标来启动扩展。"
+  },
+  "extension_turn_on": {
+    "value": "要在 Safari 和其他 App 中打开 Bitwarden ，请在菜单底部点击「更多」图标。"
+  },
+  "face_id": {
+    "value": "面容 ID"
+  },
+  "face_id_direction": {
+    "value": "使用面容 ID 验证。"
+  },
+  "fastmail": {
+    "value": "Fastmail"
+  },
+  "favorite": {
+    "value": "收藏"
+  },
+  "favorites": {
+    "value": "收藏夹"
+  },
+  "feature_unavailable": {
+    "value": "功能不可用"
+  },
+  "february": {
+    "value": "二月"
+  },
+  "fido2_authenticate_web_authn": {
+    "value": "验证 WebAuthn"
+  },
+  "fido2_check_browser": {
+    "value": "请确保您的默认浏览器支持 WebAuthn，然后重试。"
+  },
+  "fido2_desc": {
+    "value": "使用 FIDO2 WebAuthn 进行身份验证，您可以使用外部安全密钥来进行身份验证。"
+  },
+  "fido2_instruction": {
+    "value": "若要继续，请准备好 FIDO2 WebAuthn 兼容的安全密钥，在下一个界面点击「验证\n        WebAuthn」，然后遵循说明。\n    "
+  },
+  "fido2_return_to_app": {
+    "value": "返回 App"
+  },
+  "fido2_title": {
+    "value": "FIDO2 WebAuthn"
+  },
+  "field_type_boolean": {
+    "value": "布尔型"
+  },
+  "field_type_hidden": {
+    "value": "隐藏型"
+  },
+  "field_type_linked": {
+    "value": "链接型"
+  },
+  "field_type_text": {
+    "value": "文本型"
+  },
+  "fifteen_minutes": {
+    "value": "15 分钟"
+  },
+  "file": {
+    "value": "文件"
+  },
+  "file_bug_report": {
+    "value": "发送错误报告"
+  },
+  "file_bug_report_description": {
+    "value": "在我们的 GitHub 库汇报一个问题。"
+  },
+  "file_format": {
+    "value": "文件格式"
+  },
+  "file_password": {
+    "value": "文件密码"
+  },
+  "file_source": {
+    "value": "文件来源"
+  },
+  "file_type_is_not_selected": {
+    "value": "未选择文件类型，点击进行选择。"
+  },
+  "file_type_is_selected": {
+    "value": "已选择文件类型。"
+  },
+  "fill_out_the_form_and_import_your_saved_password_file": {
+    "value": "填写表单然后<annotation emphasis=\"bold\">\n        导入已保存的密码文件</annotation>。\n    "
+  },
+  "filter_by_vault": {
+    "value": "按密码库筛选项目"
+  },
+  "fingerprint": {
+    "value": "指纹"
+  },
+  "fingerprint_direction": {
+    "value": "使用指纹验证。"
+  },
+  "fingerprint_phrase": {
+    "value": "指纹短语"
+  },
+  "firefox_relay": {
+    "value": "Firefox Relay"
+  },
+  "first_dot_go_to_your_device_settings_passwords_password_options": {
+    "value": "1. 转到您设备的设置  密码 \n        密码选项\n    "
+  },
+  "first_name": {
+    "value": "名"
+  },
+  "five_minutes": {
+    "value": "5 分钟"
+  },
+  "folder": {
+    "value": "文件夹"
+  },
+  "folder_created": {
+    "value": "新文件夹已创建。"
+  },
+  "folder_deleted": {
+    "value": "文件夹已删除。"
+  },
+  "folder_none": {
+    "value": "默认文件夹"
+  },
+  "folder_updated": {
+    "value": "文件夹已保存"
+  },
+  "folders": {
+    "value": "文件夹"
+  },
+  "follow_the_instructions_in_the_email_sent_to_x_to_continue_creating_your_account": {
+    "value": "按照发送到\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n        的电子邮件中的说明继续创建您的账户。\n    "
+  },
+  "follow_the_steps_from_duo_to_finish_logging_in": {
+    "value": "按照 Duo 的步骤完成登录。"
+  },
+  "for_your_security_be_sure_to_delete_your_saved_password_file": {
+    "value": "为了您的安全，请务必<annotation emphasis=\"bold\">删除已保存的密码文件</annotation>。\n    "
+  },
+  "format_x": {
+    "value": "格式：%1$s"
+  },
+  "format_x_separate_multiple_ur_is_with_a_comma": {
+    "value": "格式：%1$s。使用逗号分隔多个 URI。"
+  },
+  "formatted_incorrectly": {
+    "value": "%1$s 的格式不正确。"
+  },
+  "forward_email": {
+    "value": "ForwardEmail"
+  },
+  "forwarded_email_alias": {
+    "value": "转发的电子邮箱别名"
+  },
+  "forwarded_email_description": {
+    "value": "使用外部转发服务生成电子邮箱别名。"
+  },
+  "four_hours": {
+    "value": "4 小时"
+  },
+  "from_your_computer_follow_these_instructions_to_export_saved_passwords": {
+    "value": "\n        按照以下说明，从您的计算机上导出您的浏览器或其他密码管理器保存的密码。然后安全地导入到 Bitwarden。\n    "
+  },
+  "full_name": {
+    "value": "全名"
+  },
+  "generate_button_label": {
+    "value": "生成"
+  },
+  "generate_master_password": {
+    "value": "生成主密码"
+  },
+  "generate_password": {
+    "value": "生成密码"
+  },
+  "generate_username": {
+    "value": "生成用户名"
+  },
+  "generator": {
+    "value": "生成器"
+  },
+  "generic_error_message": {
+    "value": "我们无法处理您的请求。请重试或联系我们。"
+  },
+  "get_advice_announcements_and_research_opportunities_from_bitwarden_in_your_inbox_unsubscribe_any_time": {
+    "value": "\n        获取来自 Bitwarden 的建议、公告和调研电子邮件。随时取消订阅。\n    "
+  },
+  "get_emails_from_bitwarden_for_announcements_advices_and_research_opportunities_unsubscribe_any_time": {
+    "value": "\n        获取来自 Bitwarden 的建议、公告和调研电子邮件。随时<annotation link=\"unsubscribe\">取消订阅</annotation>。\n    "
+  },
+  "get_instant_access_to_your_passwords_and_passkeys": {
+    "value": "立即访问您的密码和通行密钥！"
+  },
+  "get_master_passwordword_hint": {
+    "value": "获取主密码提示"
+  },
+  "get_password_hint": {
+    "value": "获取主密码提示"
+  },
+  "get_started": {
+    "value": "开始使用"
+  },
+  "give_feedback": {
+    "value": "提供反馈信息"
+  },
+  "give_your_vault_a_head_start": {
+    "value": "给您的密码库一个领先的开端"
+  },
+  "go_back": {
+    "value": "返回"
+  },
+  "go_to_bitwarden_com_download_to_integrate_bitwarden_into_browser": {
+    "value": "请访问 bitwarden.com/download，将\n        Bitwarden 集成到您最喜欢的浏览器中，获得无缝体验。\n    "
+  },
+  "go_to_my_vault": {
+    "value": "转到我的密码库"
+  },
+  "go_to_website": {
+    "value": "前往网站"
+  },
+  "good": {
+    "value": "良好"
+  },
+  "got_it": {
+    "value": "知道了"
+  },
+  "granted": {
+    "value": "已授权"
+  },
+  "help_and_feedback": {
+    "value": "帮助和反馈"
+  },
+  "help_with_server_geolocations": {
+    "value": "帮助选择服务器位置。"
+  },
+  "hide": {
+    "value": "隐藏"
+  },
+  "hide_email": {
+    "value": "对接收者隐藏我的电子邮箱地址"
+  },
+  "hide_text_by_default": {
+    "value": "访问此 Send 时，默认隐藏文本内容"
+  },
+  "hold_yubikey_near_top": {
+    "value": "将您的 YubiKey 靠近设备的顶部。"
+  },
+  "host": {
+    "value": "主机"
+  },
+  "icons": {
+    "value": "图标"
+  },
+  "icons_url": {
+    "value": "图标服务器 URL"
+  },
+  "identification": {
+    "value": "身份"
+  },
+  "identities": {
+    "value": "身份"
+  },
+  "identity_name": {
+    "value": "身份名称"
+  },
+  "identity_url": {
+    "value": "身份服务器 URL"
+  },
+  "immediately": {
+    "value": "立即"
+  },
+  "import_certificate": {
+    "value": "导入证书"
+  },
+  "import_client_certificate": {
+    "value": "导入客户端证书"
+  },
+  "import_error": {
+    "value": "导入出错"
+  },
+  "import_items": {
+    "value": "导入项目"
+  },
+  "import_items_confirmation": {
+    "value": "您可以在 bitwarden.com 网页版密码库批量导入项目。您现在要访问这个网站吗？\n    "
+  },
+  "import_items_description": {
+    "value": "从其他密码管理 App 中快速批量导入您的项目。"
+  },
+  "import_logins": {
+    "value": "导入登录信息"
+  },
+  "import_logins_later": {
+    "value": "稍后导入登录信息"
+  },
+  "import_logins_later_dialog_title": {
+    "value": "稍后导入登录信息吗？"
+  },
+  "import_logins_to_bitwarden": {
+    "value": "导入登录信息到 Bitwarden"
+  },
+  "import_saved_logins": {
+    "value": "导入已保存的登录信息"
+  },
+  "import_successful": {
+    "value": "导入成功！"
+  },
+  "important": {
+    "value": "重要："
+  },
+  "important_notice": {
+    "value": "重要通知"
+  },
+  "improves_login_filling_for_supported_websites_on_chrome": {
+    "value": "改进 Chrome 上受支持的网站的登录填充。启用后，您将被引导至\n        Chrome 设置以启用第三方自动填充。\n    "
+  },
+  "in_the_bitwarden_navigation_find_the_tools_option_and_select_import_data": {
+    "value": "在 Bitwarden\n        导航中，<annotation emphasis=\"bold\">找到「工具」</annotation>选项然后<annotation emphasis=\"bold\">\n            选择「导入数据」</annotation>。\n    "
+  },
+  "include_number": {
+    "value": "包含数字"
+  },
+  "inline_autofill": {
+    "value": "使用内嵌自动填充"
+  },
+  "inline_autofill_description": {
+    "value": "如果您所选的\n        IME（键盘）支持，将使用内嵌自动填充。如果您的配置不支持（或此选项被关闭），将使用默认的叠加层自动填充。\n    "
+  },
+  "internet_connection_required_message": {
+    "value": "请连接因特网后再继续。"
+  },
+  "internet_connection_required_title": {
+    "value": "需要互联网连接"
+  },
+  "invalid_api_key": {
+    "value": "无效的 API 密钥"
+  },
+  "invalid_api_token": {
+    "value": "无效的 API 令牌"
+  },
+  "invalid_certificate_chain": {
+    "value": "无效的证书链"
+  },
+  "invalid_email": {
+    "value": "无效的电子邮箱地址。"
+  },
+  "invalid_format_use_https_http_or_android_app": {
+    "value": "无效格式。请使用 https://、http:// 或 androidapp://\n    "
+  },
+  "invalid_master_password": {
+    "value": "无效的主密码。请重试。"
+  },
+  "invalid_pin": {
+    "value": "无效的 PIN 码。请重试。"
+  },
+  "invalid_uri": {
+    "value": "无效的 URI"
+  },
+  "invalid_verification_code": {
+    "value": "无效的验证码"
+  },
+  "ip_address": {
+    "value": "IP 地址"
+  },
+  "item_deleted": {
+    "value": "项目已删除"
+  },
+  "item_details": {
+    "value": "项目详细信息"
+  },
+  "item_information": {
+    "value": "项目信息"
+  },
+  "item_name_required": {
+    "value": "项目名称 （必填）"
+  },
+  "item_restored": {
+    "value": "项目已恢复"
+  },
+  "item_shared": {
+    "value": "项目已共享。"
+  },
+  "item_soft_deleted": {
+    "value": "项目已发送到回收站。"
+  },
+  "item_updated": {
+    "value": "项目已保存"
+  },
+  "items": {
+    "value": "项目"
+  },
+  "items_for_uri": {
+    "value": "%1$s 的项目"
+  },
+  "january": {
+    "value": "一月"
+  },
+  "july": {
+    "value": "七月"
+  },
+  "june": {
+    "value": "六月"
+  },
+  "just_now": {
+    "value": "刚刚"
+  },
+  "keep_it_secret_keep_it_safe": {
+    "value": "请务必将您写下的密码保存在隐秘且安全的地方。"
+  },
+  "language": {
+    "value": "语言"
+  },
+  "language_change_requires_app_restart": {
+    "value": "更改语言需要重新启动 App"
+  },
+  "language_change_x_description": {
+    "value": "语言已更改为 %1$s。请重新启动 App 以查看更改"
+  },
+  "last_name": {
+    "value": "姓"
+  },
+  "last_sync": {
+    "value": "上次同步："
+  },
+  "launch": {
+    "value": "前往"
+  },
+  "launch_duo": {
+    "value": "启动 Duo"
+  },
+  "launch_web_authn": {
+    "value": "启动 WebAuthn"
+  },
+  "learn_about_new_logins": {
+    "value": "了解新的登录"
+  },
+  "learn_about_organizations_description_long": {
+    "value": "Bitwarden 允许您使用组织与他人共享您的密码库项目。访问\n        bitwarden.com 网站进一步了解。\n    "
+  },
+  "learn_about_other_ways_to_prevent_account_lockout": {
+    "value": "了解其他防止账户被锁住的方法"
+  },
+  "learn_about_ways_to_prevent_account_lockout": {
+    "value": "\n        <annotation link=\"onPreventAccountLockout\">了解防止账户被锁住的方法</annotation>\n    "
+  },
+  "learn_more": {
+    "value": "了解更多信息"
+  },
+  "learn_more_about_generating_secure_login_credentials_with_guided_tour": {
+    "value": "\n        通过引导式教程，进一步了解有关生成安全登录凭据的信息。\n    "
+  },
+  "learn_more_about_how_to_use_bitwarden_on_the_help_center": {
+    "value": "访问帮助中心进一步了解如何使用 Bitwarden。\n    "
+  },
+  "learn_org": {
+    "value": "了解组织"
+  },
+  "learn_org_confirmation": {
+    "value": "Bitwarden 允许您通过使用组织账户与他人分享您的密码库项目。要访问 bitwarden.com\n        网站了解更多信息吗？\n    "
+  },
+  "leave_organization": {
+    "value": "退出组织"
+  },
+  "leave_organization_name": {
+    "value": "退出 %1$s？"
+  },
+  "length": {
+    "value": "长度"
+  },
+  "level_up_your_logins": {
+    "value": "提升您的登录体验"
+  },
+  "license_number": {
+    "value": "许可证号码"
+  },
+  "light": {
+    "value": "浅色"
+  },
+  "link": {
+    "value": "链接"
+  },
+  "loading": {
+    "value": "加载中"
+  },
+  "lock": {
+    "value": "锁定"
+  },
+  "lock_now": {
+    "value": "立即锁定"
+  },
+  "log_in_accepted": {
+    "value": "登录已确认"
+  },
+  "log_in_at_bitwarden_com_to_easily_manage_your_account": {
+    "value": "登录到 bitwarden.com\n        以轻松管理您的账户和更新设置。\n    "
+  },
+  "log_in_attempt_by_x_on_y": {
+    "value": "%1$s 在 %2$s 上的登录尝试"
+  },
+  "log_in_denied": {
+    "value": "登录被拒绝"
+  },
+  "log_in_initiated": {
+    "value": "登录已发起"
+  },
+  "log_in_noun": {
+    "value": "登录"
+  },
+  "log_in_quickly_and_easily_across_devices": {
+    "value": "快速和轻松地跨设备登录"
+  },
+  "log_in_requested": {
+    "value": "登录请求"
+  },
+  "log_in_sso": {
+    "value": "企业单点登录"
+  },
+  "log_in_sso_summary": {
+    "value": "要使用您组织的单点登录门户快速登录。请首先输入您组织的标识符。"
+  },
+  "log_in_to_bitwarden": {
+    "value": "登录到 Bitwarden"
+  },
+  "log_in_to_the_bitwarden_web_app": {
+    "value": "登录到 Bitwarden 网页 App。"
+  },
+  "log_in_verb": {
+    "value": "登录"
+  },
+  "log_in_with_another_device": {
+    "value": "使用其他设备登录"
+  },
+  "log_in_with_device": {
+    "value": "使用设备登录"
+  },
+  "log_in_with_device_must_be_set_up_in_the_settings_of_the_bitwarden_app_need_another_option": {
+    "value": "必须在\n        Bitwarden App 的设置中启用设备登录。需要其他登录选项吗？\n    "
+  },
+  "log_in_with_master_password": {
+    "value": "使用主密码登录"
+  },
+  "log_out": {
+    "value": "注销"
+  },
+  "logged_in": {
+    "value": "已登录！"
+  },
+  "logged_in_as_on": {
+    "value": "已在 %2$s 上以 %1$s 身份登录。"
+  },
+  "logging_in": {
+    "value": "正在登录..."
+  },
+  "logging_in_as_x": {
+    "value": "正登录为 %1$s"
+  },
+  "logging_in_as_x_on_y": {
+    "value": "在 %2$s 上以 %1$s 身份登录"
+  },
+  "logging_in_on": {
+    "value": "登录到"
+  },
+  "logging_in_on_with_colon": {
+    "value": "登录到："
+  },
+  "login_approved": {
+    "value": "登录已批准"
+  },
+  "login_attempt_from_x_do_you_want_to_switch_to_this_account": {
+    "value": "登录尝试来自：\n        %1$s\n        您想要切换到此账户吗？\n    "
+  },
+  "login_credentials": {
+    "value": "登录凭据"
+  },
+  "login_expired": {
+    "value": "您的登录会话已过期。"
+  },
+  "login_request_has_already_expired": {
+    "value": "登录请求已过期。"
+  },
+  "login_sso_error": {
+    "value": "当前无法使用 SSO 登录"
+  },
+  "login_to_bitwarden": {
+    "value": "登录到 Bitwarden"
+  },
+  "login_unavailable": {
+    "value": "登录不可用"
+  },
+  "logins": {
+    "value": "登录项"
+  },
+  "logins_imported": {
+    "value": "登录信息已导入"
+  },
+  "logout_confirmation": {
+    "value": "确定要注销吗？"
+  },
+  "lost_2fa_app": {
+    "value": "丢失了验证器 App？"
+  },
+  "lowercase_ato_z": {
+    "value": "小写 (a-z)"
+  },
+  "make_it_yours": {
+    "value": "使其成为您的"
+  },
+  "manage": {
+    "value": "管理"
+  },
+  "manage_your_logins_from_anywhere_with_bitwarden_tools": {
+    "value": "使用 Bitwarden\n        网络和桌面工具，随时随地管理您的登录信息。\n    "
+  },
+  "march": {
+    "value": "三月"
+  },
+  "master_password": {
+    "value": "主密码"
+  },
+  "master_password_confirmation_val_message": {
+    "value": "两次填写的密码不一致。"
+  },
+  "master_password_description": {
+    "value": "\n        主密码是用于访问您的密码库的密码。不要忘记您的主密码，这一点非常重要。一旦忘记，无任何办法恢复此密码。\n    "
+  },
+  "master_password_hint": {
+    "value": "主密码提示（可选）"
+  },
+  "master_password_hint_description": {
+    "value": "主密码提示可以在您忘记密码时帮您回忆起来。"
+  },
+  "master_password_hint_not_specified": {
+    "value": "主密码提示"
+  },
+  "master_password_important_hint": {
+    "value": "重要：主密码忘记后，将无法恢复！至少 12 个字符。"
+  },
+  "master_password_length_val_message_x": {
+    "value": "主密码长度必须至少为 %1$s 个字符。"
+  },
+  "master_password_policy_in_effect": {
+    "value": "一个或多个组织策略要求您的主密码满足下列要求："
+  },
+  "master_password_policy_validation_message": {
+    "value": "密码不符合组织要求。请检查策略信息然后重试。"
+  },
+  "master_password_policy_validation_title": {
+    "value": "无效的密码"
+  },
+  "master_password_re_prompt_help": {
+    "value": "主密码重新提示帮助"
+  },
+  "master_password_required": {
+    "value": "主密码（必填）"
+  },
+  "match_detection": {
+    "value": "匹配检测"
+  },
+  "matching_items": {
+    "value": "匹配项目"
+  },
+  "max_file_size": {
+    "value": "文件最大为 100 MB。"
+  },
+  "maximum_access_count": {
+    "value": "最大访问次数"
+  },
+  "maximum_access_count_info": {
+    "value": "设置后，当达到最大访问次数时用户将不再能够访问此 Send。"
+  },
+  "maximum_access_count_reached": {
+    "value": "已达最大访问次数"
+  },
+  "may": {
+    "value": "五月"
+  },
+  "middle_name": {
+    "value": "中间名"
+  },
+  "min_numbers": {
+    "value": "数字最少个数"
+  },
+  "min_special": {
+    "value": "符号最少个数"
+  },
+  "minimum_characters": {
+    "value": "%1$s 个字符"
+  },
+  "miscellaneous": {
+    "value": "其他"
+  },
+  "more": {
+    "value": "更多"
+  },
+  "more_settings": {
+    "value": "更多设置"
+  },
+  "move": {
+    "value": "移动"
+  },
+  "move_down": {
+    "value": "下移"
+  },
+  "move_to_org_desc": {
+    "value": "\n        选择一个您想将此项目移至的组织。移动到组织会将该项目的所有权转让给该组织。移动后，您将不再是此项目的直接所有者。\n    "
+  },
+  "move_to_organization": {
+    "value": "移动到组织"
+  },
+  "move_up": {
+    "value": "上移"
+  },
+  "moved_item_to_org": {
+    "value": "%1$s 已移动到 %2$s。"
+  },
+  "mr": {
+    "value": "先生"
+  },
+  "mrs": {
+    "value": "夫人"
+  },
+  "ms": {
+    "value": "女士"
+  },
+  "must_log_in_main_app": {
+    "value": "您必须先登录主 Bitwarden App，才能使用此扩展。"
+  },
+  "must_log_in_main_app_autofill": {
+    "value": "您必须先登录主 Bitwarden App，才能使用自动填充。"
+  },
+  "mutual_tls": {
+    "value": "双向 TLS"
+  },
+  "mx": {
+    "value": "Mx"
+  },
+  "my_vault": {
+    "value": "我的密码库"
+  },
+  "name": {
+    "value": "名称"
+  },
+  "near": {
+    "value": "靠近"
+  },
+  "need_another_option": {
+    "value": "需要其他选项吗？"
+  },
+  "need_help_check_out_import_help": {
+    "value": "需要帮助吗？请查看<annotation link=\"importHelp\">导入帮助</annotation>。\n    "
+  },
+  "need_some_inspiration": {
+    "value": "\"需要一些灵感吗？\""
+  },
+  "never": {
+    "value": "从不"
+  },
+  "never_lock_warning": {
+    "value": "\n        将锁定选项设置为「从不」可让任何能够访问您的设备的人都可以使用您的密码库。如果您使用此选项，则应确保您的设备得到妥善的保护。\n    "
+  },
+  "never_lose_access_to_your_vault": {
+    "value": "千万不要失去对密码库的访问权限"
+  },
+  "new_blocked_uri": {
+    "value": "新增屏蔽的 URI"
+  },
+  "new_card": {
+    "value": "新增支付卡"
+  },
+  "new_custom_field": {
+    "value": "新增自定义字段"
+  },
+  "new_file_send": {
+    "value": "新增文件 Send"
+  },
+  "new_identity": {
+    "value": "新增身份"
+  },
+  "new_item": {
+    "value": "新增项目"
+  },
+  "new_item_created": {
+    "value": "项目已添加"
+  },
+  "new_login": {
+    "value": "新增登录"
+  },
+  "new_master_password_hint": {
+    "value": "新主密码提示"
+  },
+  "new_master_password_required": {
+    "value": "新主密码（必填）"
+  },
+  "new_note": {
+    "value": "新增笔记"
+  },
+  "new_passkey": {
+    "value": "新增通行密钥"
+  },
+  "new_password": {
+    "value": "新密码"
+  },
+  "new_send_created": {
+    "value": "Send 已创建"
+  },
+  "new_ssh_key": {
+    "value": "新增 SSH 密钥"
+  },
+  "new_text_send": {
+    "value": "新增文本 Send"
+  },
+  "new_to_bitwarden": {
+    "value": "Bitwarden 新手吗？"
+  },
+  "new_uri": {
+    "value": "新增 URI"
+  },
+  "next": {
+    "value": "下一步"
+  },
+  "no": {
+    "value": "否"
+  },
+  "no_attachments": {
+    "value": "没有附件。"
+  },
+  "no_cards": {
+    "value": "您的密码库中没有支付卡。"
+  },
+  "no_collections_to_list": {
+    "value": "没有可列出的集合。"
+  },
+  "no_email_go_back_to_edit_your_email_address": {
+    "value": "没收到电子邮件吗？请<annotation link=\"goBack\">\n        返回</annotation>修改您的电子邮箱地址。\n    "
+  },
+  "no_favorites": {
+    "value": "您的密码库中没有收藏。"
+  },
+  "no_file_chosen": {
+    "value": "未选择文件"
+  },
+  "no_file_sends": {
+    "value": "您的密码库中没有文件 Send。"
+  },
+  "no_folder": {
+    "value": "默认文件夹"
+  },
+  "no_folders_to_list": {
+    "value": "没有可列出的文件夹。"
+  },
+  "no_identities": {
+    "value": "您的密码库中没有身份信息。"
+  },
+  "no_items": {
+    "value": "您的密码库中没有项目。"
+  },
+  "no_items_collection": {
+    "value": "此集合中没有项目。"
+  },
+  "no_items_folder": {
+    "value": "此文件夹中没有项目。"
+  },
+  "no_items_for_uri": {
+    "value": "您的密码库中没有可用于 %1$s 的项目。"
+  },
+  "no_items_for_vault": {
+    "value": "您的密码库中没有匹配「%1$s」的项目"
+  },
+  "no_items_tap": {
+    "value": "您的密码库中没有此网站/App 的登录项目。点击添加一个。"
+  },
+  "no_items_to_list": {
+    "value": "没有可列出的项目。"
+  },
+  "no_items_trash": {
+    "value": "回收站中没有项目。"
+  },
+  "no_logins": {
+    "value": "您的密码库中没有登录信息。"
+  },
+  "no_logins_were_imported": {
+    "value": "未导入任何登录信息"
+  },
+  "no_notes": {
+    "value": "您的密码库中没有笔记。"
+  },
+  "no_orgs_to_list": {
+    "value": "没有可列出的组织。"
+  },
+  "no_passwords_to_list": {
+    "value": "没有可列出的密码。"
+  },
+  "no_pending_requests": {
+    "value": "没有待处理的请求"
+  },
+  "no_sends": {
+    "value": "您的账户中没有 Send。"
+  },
+  "no_ssh_keys": {
+    "value": "您的密码库中没有 SSH 密钥。"
+  },
+  "no_text_sends": {
+    "value": "您的密码库中没有文本 Send。"
+  },
+  "no_thanks": {
+    "value": "不了，谢谢"
+  },
+  "no_two_step_available": {
+    "value": "此账户已设置两步登录，但此设备不支持任何已配置的两步提供程序。请使用受支持的设备和/或添加其他跨设备支持更好的提供程序（例如验证器\n        App）。\n    "
+  },
+  "no_username": {
+    "value": "无用户名"
+  },
+  "no_username_password_configured": {
+    "value": "此登录没有已配置的用户名或者密码。"
+  },
+  "nord": {
+    "value": "冷色"
+  },
+  "not_you": {
+    "value": "不是您吗？"
+  },
+  "notes": {
+    "value": "备注"
+  },
+  "notes_info": {
+    "value": "关于此 Send 的私密备注。"
+  },
+  "notice": {
+    "value": "注意"
+  },
+  "november": {
+    "value": "十一月"
+  },
+  "number": {
+    "value": "号码"
+  },
+  "number_of_words": {
+    "value": "单词数"
+  },
+  "numbers_zero_to_nine": {
+    "value": "数字 (0-9)"
+  },
+  "october": {
+    "value": "十月"
+  },
+  "off": {
+    "value": "关闭"
+  },
+  "ok": {
+    "value": "好"
+  },
+  "ok_got_it": {
+    "value": "好的，我知道了！"
+  },
+  "on": {
+    "value": "开启"
+  },
+  "on_restart": {
+    "value": "App 重启时"
+  },
+  "on_your_computer_log_in_to_your_current_browser_or_password_manager": {
+    "value": "在您的计算机上，<annotation emphasis=\"bold\">登录到当前浏览器或密码管理器</annotation>。\n    "
+  },
+  "on_your_computer_open_a_new_browser_tab_and_go_to_vault_bitwarden_com": {
+    "value": "在您的计算机上，打开一个新的浏览器标签页然后\n        <annotation emphasis=\"bold\">访问\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "once_the_key_is_successfully_entered": {
+    "value": "成功输入密钥后，\n        选择「添加 TOTP」即可安全地存储密钥\n    "
+  },
+  "one_day": {
+    "value": "1 天"
+  },
+  "one_hour": {
+    "value": "1 小时"
+  },
+  "one_hour_and_one_minute": {
+    "value": "1 小时 1 分钟"
+  },
+  "one_hour_and_x_minute": {
+    "value": "1 小时 %1$s 分钟"
+  },
+  "one_minute": {
+    "value": "1 分钟"
+  },
+  "one_of_the_best_ways_to_create_a_secure_and_memorable_password": {
+    "value": "\n        创建安全且难忘的密码的最佳方法之一是使用密码短语。\\n具体方法如下：\n    "
+  },
+  "open": {
+    "value": "打开"
+  },
+  "open_email_app": {
+    "value": "打开电子邮箱 App"
+  },
+  "option_defaults": {
+    "value": "选项默认值是通过主 Bitwarden App 的密码生成器工具设置的。"
+  },
+  "options": {
+    "value": "选项"
+  },
+  "options_collapsed": {
+    "value": "选项已折叠，点击展开。"
+  },
+  "options_expanded": {
+    "value": "选项已展开，点击折叠。"
+  },
+  "or_log_in_you_may_already_have_an_account": {
+    "value": "或者如果您已经有一个账户，请<annotation link=\"logIn\">\n        登录</annotation>。\n    "
+  },
+  "org_identifier": {
+    "value": "组织标识符"
+  },
+  "organization": {
+    "value": "组织"
+  },
+  "organization_is_using_sso_with_a_self_hosted_key_server": {
+    "value": "%1$s 正在使用自托管密钥服务器\n        SSO。该组织的成员不再需要主密码登录。\n    "
+  },
+  "organization_sso_identifier_required": {
+    "value": "必须填写组织 SSO 标识符。"
+  },
+  "organization_unassigned_items_message_self_host_041624_description_long": {
+    "value": "注意：从 2024 年 5 月 16\n        日起，未分配的组织项目在「所有密码库」视图中将不再可见，只能通过管理控制台访问。通过管理控制台将这些项目分配给集合以使其可见。\n    "
+  },
+  "organization_unassigned_items_message_useu_description_long": {
+    "value": "\n        未分配的组织项目在「所有密码库」视图中不再可见，只能通过管理控制台访问。通过管理控制台将这些项目分配给集合以使其可见。\n    "
+  },
+  "other": {
+    "value": "其他"
+  },
+  "overlay_permission": {
+    "value": "权限"
+  },
+  "overwrite_passkey": {
+    "value": "覆盖通行密钥吗？"
+  },
+  "owner": {
+    "value": "所有者"
+  },
+  "ownership": {
+    "value": "所有权"
+  },
+  "page_number_x_of_y": {
+    "value": "%1$s / %2$s"
+  },
+  "passkey": {
+    "value": "通行密钥"
+  },
+  "passkey_authentication_failed_due_to_an_internal_error": {
+    "value": "由于内部错误，通行密钥身份验证失败。"
+  },
+  "passkey_management": {
+    "value": "通行密钥管理"
+  },
+  "passkey_management_explanation_long": {
+    "value": "使用 Bitwarden\n        保存新的通行密钥并使用存储在密码库中的通行密钥登录。\n    "
+  },
+  "passkey_operation_failed_because_app_could_not_be_verified": {
+    "value": "由于无法验证 App，通行密钥操作失败"
+  },
+  "passkey_operation_failed_because_app_is_signed_incorrectly": {
+    "value": "由于 App 签名错误，通行密钥操作失败。\n    "
+  },
+  "passkey_operation_failed_because_app_not_found_in_asset_links": {
+    "value": "由于在资源链接中找不到\n        App，通行密钥操作失败\n    "
+  },
+  "passkey_operation_failed_because_app_signature_is_invalid": {
+    "value": "由于 App 签名无效，通行密钥操作失败。\n    "
+  },
+  "passkey_operation_failed_because_browser_is_not_privileged": {
+    "value": "由于浏览器没有权限，通行密钥操作失败\n    "
+  },
+  "passkey_operation_failed_because_browser_signature_does_not_match": {
+    "value": "\n        由于浏览器签名不匹配，通行密钥操作失败\n    "
+  },
+  "passkey_operation_failed_because_host_url_is_not_present_in_request": {
+    "value": "由于请求中不存在主机\n        URL，通行密钥操作失败。\n    "
+  },
+  "passkey_operation_failed_because_no_item_was_selected": {
+    "value": "由于没有选择任何项目，通行密钥操作失败。"
+  },
+  "passkey_operation_failed_because_of_missing_asset_links": {
+    "value": "由于资源链接缺失，通行密钥操作失败"
+  },
+  "passkey_operation_failed_because_relying_party_cannot_be_identified": {
+    "value": "\n        由于无法识别依赖方，通行密钥操作失败。\n    "
+  },
+  "passkey_operation_failed_because_the_request_is_invalid": {
+    "value": "由于请求无效，通行密钥操作失败。"
+  },
+  "passkey_operation_failed_because_the_selected_item_does_not_exist": {
+    "value": "\n        由于所选项目不存在，通行密钥操作失败。\n    "
+  },
+  "passkey_operation_failed_because_user_could_not_be_verified": {
+    "value": "由于无法验证用户，通行密钥操作失败。\n    "
+  },
+  "passkey_operation_failed_because_user_is_locked_out": {
+    "value": "由于用户被锁定，通行密钥操作失败。"
+  },
+  "passkey_operation_failed_because_user_verification_attempts_exceeded": {
+    "value": "\n        由于用户验证尝试超时，通行密钥操作失败。\n    "
+  },
+  "passkey_operation_failed_because_user_verification_was_cancelled": {
+    "value": "\n        由于用户验证被取消，通行密钥操作失败。\n    "
+  },
+  "passkey_registration_failed_due_to_an_internal_error": {
+    "value": "由于内部错误，通行密钥注册失败。"
+  },
+  "passkey_removed": {
+    "value": "通行密钥已移除"
+  },
+  "passkey_will_not_be_copied": {
+    "value": "通行密钥不会被复制"
+  },
+  "passkeys": {
+    "value": "通行密钥"
+  },
+  "passkeys_for_x": {
+    "value": "%1$s 的通行密钥"
+  },
+  "passkeys_not_supported_for_this_app": {
+    "value": "此 App 不支持通行密钥"
+  },
+  "passphrase": {
+    "value": "密码短语"
+  },
+  "passphrases_are_strong_passwords_that_are_often_easier_to_remember_and_type_than_random_passwords": {
+    "value": "\n        密码短语是一种强密码，通常比随机密码更容易记忆和输入。它们有助于登录无法使用自动填充功能的账户，例如电视上的流媒体服务。\n    "
+  },
+  "passport_number": {
+    "value": "护照号码"
+  },
+  "password": {
+    "value": "密码"
+  },
+  "password_autofill": {
+    "value": "密码自动填充"
+  },
+  "password_confirmation": {
+    "value": "确认主密码"
+  },
+  "password_confirmation_desc": {
+    "value": "此操作受到保护，要继续，请重新输入主密码以验证您的身份。"
+  },
+  "password_exposed": {
+    "value": "此密码在泄露数据中已被公开 %1$s 次。请立即修改。"
+  },
+  "password_found_in_a_data_breach_alert_description": {
+    "value": "\n        密码在数据泄露中被发现。请使用一个唯一的密码以保护您的账户。确定要使用已暴露的密码吗？\n    "
+  },
+  "password_generated": {
+    "value": "密码已生成"
+  },
+  "password_generator": {
+    "value": "密码生成器"
+  },
+  "password_generator_policy_in_effect": {
+    "value": "一个或多个组织策略正在影响您的生成器设置"
+  },
+  "password_hint": {
+    "value": "密码提示"
+  },
+  "password_hint_alert": {
+    "value": "我们已经为您发送了包含主密码提示的邮件。"
+  },
+  "password_history": {
+    "value": "密码历史记录"
+  },
+  "password_history_count": {
+    "value": "\n        <annotation link=\"passwordHistory\">密码历史记录：\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "password_info": {
+    "value": "需要这个密码才能查看此 Send。"
+  },
+  "password_is_not_visible_tap_to_show": {
+    "value": "密码不可见，点击以显示。"
+  },
+  "password_is_visible_tap_to_hide": {
+    "value": "密码可见，点击以隐藏。"
+  },
+  "password_override_alert": {
+    "value": "确定要覆盖当前密码吗？"
+  },
+  "password_prompt": {
+    "value": "主密码重新提示"
+  },
+  "password_protected": {
+    "value": "密码保护"
+  },
+  "password_safe": {
+    "value": "没有在已知的数据泄露中发现此密码，它暂时比较安全。"
+  },
+  "password_type": {
+    "value": "密码类型"
+  },
+  "password_used_to_export": {
+    "value": "此密码将用于导出和导入此文件"
+  },
+  "passwords": {
+    "value": "密码"
+  },
+  "passwords_for_x": {
+    "value": "%1$s 的密码"
+  },
+  "pending_delete": {
+    "value": "待删除"
+  },
+  "pending_log_in_requests": {
+    "value": "待处理的登录请求"
+  },
+  "personal_details": {
+    "value": "个人详细信息"
+  },
+  "personal_ownership_policy_in_effect": {
+    "value": "某个组织策略正影响您的所有权选项。"
+  },
+  "personal_ownership_submit_error": {
+    "value": "\n        由于某个企业策略，您不能将项目保存到您的个人密码库。将所有权选项更改为组织，并从可用的集合中选择。\n    "
+  },
+  "phone": {
+    "value": "电话"
+  },
+  "photos": {
+    "value": "照片"
+  },
+  "pick_three_or_four_random_unrelated_words": {
+    "value": "\n        挑选三到四个您容易记住的随机的、不相关的单词。想想您喜欢的<annotation emphasis=\"bold\">物品、地点或事物</annotation>。\n    "
+  },
+  "pin": {
+    "value": "PIN 码"
+  },
+  "pin_require_master_password_restart": {
+    "value": "您希望当应用程序重启时，要求使用主密码解锁吗？"
+  },
+  "please_make_sure_your_vault_is_unlocked_and_the_fingerprint_phrase_matches_on_the_other_device": {
+    "value": "\n        请确保您的密码库已解锁，并且指纹短语与其他设备上的相匹配。\n    "
+  },
+  "please_restart_registration_or_try_logging_in": {
+    "value": "请重启注册或尝试登录。您可能已经有一个账户了。"
+  },
+  "plus_addressed_email": {
+    "value": "附加地址电子邮箱"
+  },
+  "plus_addressed_email_description": {
+    "value": "使用您的电子邮箱提供商的子地址功能"
+  },
+  "point_your_camera_at_the_qr_code": {
+    "value": "将您的摄像头对准二维码。\n        扫描将自动完成。\n    "
+  },
+  "policy_in_effect_lowercase": {
+    "value": "至少包含一个小写字符"
+  },
+  "policy_in_effect_min_complexity": {
+    "value": "最小复杂度为 %1$s"
+  },
+  "policy_in_effect_min_length": {
+    "value": "最小长度为 %1$s"
+  },
+  "policy_in_effect_numbers": {
+    "value": "至少包含一个数字"
+  },
+  "policy_in_effect_special": {
+    "value": "至少包含一个以下特殊字符：%1$s"
+  },
+  "policy_in_effect_uppercase": {
+    "value": "至少包含一个大写字符"
+  },
+  "possible_matching_items": {
+    "value": "可能匹配的项目"
+  },
+  "premium_required": {
+    "value": "使用此功能需要高级会员资格。"
+  },
+  "premium_subscription_required": {
+    "value": "需要高级版订阅"
+  },
+  "prevent_account_lockout": {
+    "value": "防止账户被锁住"
+  },
+  "privacy_policy": {
+    "value": "隐私政策"
+  },
+  "privacy_policy_description_long": {
+    "value": "在 bitwarden.com 上查看我们的隐私政策。"
+  },
+  "private_key": {
+    "value": "私钥"
+  },
+  "private_notes": {
+    "value": "私密备注"
+  },
+  "public_key": {
+    "value": "公钥"
+  },
+  "push_notification_alert": {
+    "value": "Bitwarden\n        使用推送通知来自动同步您的密码库。为了获得最佳体验，接下来询问是否开启通知时，请选择「允许」。\n    "
+  },
+  "put_the_words_together_in_any_order_to_form_your_passphrase": {
+    "value": "将这些单词按任意顺序组合在一起以形成您的密码短语。<annotation emphasis=\"bold\">使用连字符、空格或将它们保留为一个长单词\n    </annotation> - 由您选择！\n    "
+  },
+  "quick_and_easy_login": {
+    "value": "快速便捷的登录"
+  },
+  "random": {
+    "value": "随机"
+  },
+  "random_and_complex_using_numbers_and_special_characters": {
+    "value": "随机且复杂，包含数字和特殊字符"
+  },
+  "random_word": {
+    "value": "随机单词"
+  },
+  "rate_app_description_long": {
+    "value": "帮助别人了解 Bitwarden 是否适合他们。立即访问 App Store 并留下评分。"
+  },
+  "rate_the_app": {
+    "value": "为本 App 打分"
+  },
+  "rate_the_app_description": {
+    "value": "我们期待您的好评！"
+  },
+  "receive_push_notifications_for_new_login_requests": {
+    "value": "接收新登录请求的推送通知"
+  },
+  "recovery_code_title": {
+    "value": "恢复代码"
+  },
+  "reg_ex": {
+    "value": "正则表达式"
+  },
+  "regenerate_password": {
+    "value": "重新生成密码"
+  },
+  "region": {
+    "value": "区域"
+  },
+  "remember": {
+    "value": "记住"
+  },
+  "remember_email": {
+    "value": "记住电子邮箱"
+  },
+  "remember_this_device": {
+    "value": "记住此设备"
+  },
+  "remember_to_delete_your_imported_password_file_from_your_computer": {
+    "value": "\n        记得从计算机中删除已导入的密码文件\n    "
+  },
+  "remind_me_later": {
+    "value": "稍后提醒我"
+  },
+  "remove": {
+    "value": "移除"
+  },
+  "remove_account": {
+    "value": "移除账户"
+  },
+  "remove_account_confirmation": {
+    "value": "确定要移除此账户吗？"
+  },
+  "remove_master_password": {
+    "value": "移除主密码"
+  },
+  "remove_master_password_warning": {
+    "value": "%1$s 正在使用客户管理加密的 SSO。继续操作将移除您的账户主密码并要求 SSO\n        登录。\n    "
+  },
+  "remove_master_password_warning2": {
+    "value": "如果您不想移除您的主密码，您可以退出该组织。"
+  },
+  "remove_passkey": {
+    "value": "移除通行密钥"
+  },
+  "remove_password": {
+    "value": "移除密码"
+  },
+  "removing_send_password": {
+    "value": "正在移除密码"
+  },
+  "request_admin_approval": {
+    "value": "请求管理员批准"
+  },
+  "request_otp": {
+    "value": "要求一次性密码"
+  },
+  "requests_declined": {
+    "value": "请求被拒绝"
+  },
+  "require_master_password_on_app_restart": {
+    "value": "App 重启时要求主密码吗？"
+  },
+  "resend_code": {
+    "value": "重新发送代码"
+  },
+  "resend_notification": {
+    "value": "重新发送通知"
+  },
+  "reset_password_auto_enroll_invite_warning": {
+    "value": "\n        此组织有一个企业策略，将为您自动注册密码重置。注册后将允许组织管理员更改您的主密码。\n    "
+  },
+  "restart_registration": {
+    "value": "重启注册"
+  },
+  "restore": {
+    "value": "恢复"
+  },
+  "restoring": {
+    "value": "正在恢复..."
+  },
+  "return_to_complete_this_step_anytime_in_settings": {
+    "value": "您可以随时回到「设置」中完成此步骤。"
+  },
+  "retype_master_password": {
+    "value": "再次输入主密码"
+  },
+  "retype_master_password_required": {
+    "value": "再次输入主密码（必填）"
+  },
+  "retype_new_master_password_required": {
+    "value": "再次输入新主密码（必填）"
+  },
+  "review_flow_launched": {
+    "value": "审查流程已发起！"
+  },
+  "save": {
+    "value": "保存"
+  },
+  "save_and_protect_your_data": {
+    "value": "保存和保护您的数据"
+  },
+  "save_attachment_success": {
+    "value": "附件保存成功"
+  },
+  "save_passkey": {
+    "value": "保存通行密钥"
+  },
+  "save_passkey_as_new_login": {
+    "value": "将通行密钥保存为新的登录"
+  },
+  "save_the_exported_file_somewhere_on_your_computer_you_can_find_easily": {
+    "value": "<annotation emphasis=\"bold\">\n        保存导出的文件</annotation>到计算机上您可以轻松找到的某个位置。\n    "
+  },
+  "saving": {
+    "value": "正在保存..."
+  },
+  "scan_qr_code": {
+    "value": "扫描二维码"
+  },
+  "scan_qr_title": {
+    "value": "扫描二维码"
+  },
+  "search": {
+    "value": "搜索"
+  },
+  "search_collection": {
+    "value": "搜索集合"
+  },
+  "search_file_sends": {
+    "value": "搜索文件 Send"
+  },
+  "search_for_a_login_or_add_a_new_login": {
+    "value": "搜索登录或添加新的登录"
+  },
+  "search_for_an_item_or_add_a_new_item": {
+    "value": "搜索项目或添加新的项目"
+  },
+  "search_group": {
+    "value": "搜索 %1$s"
+  },
+  "search_sends": {
+    "value": "搜索 Send"
+  },
+  "search_text_sends": {
+    "value": "搜索文本 Send"
+  },
+  "search_trash": {
+    "value": "搜索回收站"
+  },
+  "search_vault": {
+    "value": "搜索密码库"
+  },
+  "second_dot_turn_on_auto_fill": {
+    "value": "2. 打开自动填充"
+  },
+  "secure_notes": {
+    "value": "安全笔记"
+  },
+  "security": {
+    "value": "安全"
+  },
+  "security_code": {
+    "value": "安全码"
+  },
+  "security_prioritized": {
+    "value": "以安全为首要"
+  },
+  "select": {
+    "value": "选择"
+  },
+  "select_import_data_in_the_web_app_then_done_to_finish_syncing": {
+    "value": "在网页 App 中<annotation emphasis=\"bold\">选择「导入数据」</annotation>，点后点击「完成」以完成同步。\n    "
+  },
+  "select_one_collection": {
+    "value": "您必须至少选择一个集合。"
+  },
+  "select_the_link_in_the_email_to_verify_your_email_address_and_continue_creating_your_account": {
+    "value": "\n        \"选择电子邮件中的链接来验证您的电子邮箱地址并继续创建您的账户。 \"\n    "
+  },
+  "select_type_field": {
+    "value": "您想添加什么类型的自定义字段？"
+  },
+  "self_host_server_url": {
+    "value": "自托管服务器 URL"
+  },
+  "self_hosted": {
+    "value": "自托管"
+  },
+  "self_hosted_environment": {
+    "value": "自托管环境"
+  },
+  "self_hosted_environment_footer": {
+    "value": "指定您本地托管的 Bitwarden 安装的基础 URL。"
+  },
+  "self_hosted_server_url": {
+    "value": "自托管服务器 URL"
+  },
+  "send": {
+    "value": "Send"
+  },
+  "send_code": {
+    "value": "发送验证码"
+  },
+  "send_deleted": {
+    "value": "Send 已删除"
+  },
+  "send_details": {
+    "value": "Send 详细信息"
+  },
+  "send_disabled_warning": {
+    "value": "由于某个企业策略，您只能删除现有的 Send。"
+  },
+  "send_file_email_verification_required": {
+    "value": "您必须验证电子邮箱以使用文件\n        Send。您可以在网页版密码库中验证您的电子邮箱。\n    "
+  },
+  "send_file_premium_required": {
+    "value": "免费账户仅限于共享文本。要使用文件 Send，需要高级会员。"
+  },
+  "send_link": {
+    "value": "Send 链接"
+  },
+  "send_name_required": {
+    "value": "\"Send 名称（必填）\""
+  },
+  "send_options_policy_in_effect": {
+    "value": "一个或多个组织策略正在影响您的 Send 设置。"
+  },
+  "send_password_removed": {
+    "value": "密码已移除。"
+  },
+  "send_sensitive_information_safely": {
+    "value": "安全地发送敏感信息"
+  },
+  "send_updated": {
+    "value": "Send 已保存"
+  },
+  "send_verification_code_again": {
+    "value": "重新发送代码"
+  },
+  "send_verification_code_to_email": {
+    "value": "发送验证码到您的电子邮箱"
+  },
+  "sending": {
+    "value": "正在发送"
+  },
+  "sending_code": {
+    "value": "发送代码"
+  },
+  "sends": {
+    "value": "Send"
+  },
+  "september": {
+    "value": "九月"
+  },
+  "server_url": {
+    "value": "服务器 URL"
+  },
+  "service": {
+    "value": "服务"
+  },
+  "session_timeout": {
+    "value": "会话超时"
+  },
+  "session_timeout_action": {
+    "value": "会话超时动作"
+  },
+  "set_bitwarden_as_passkey_manager_description": {
+    "value": "在设备的设置中将 Bitwarden 设置为您的通行密钥提供程序。\n    "
+  },
+  "set_master_password": {
+    "value": "设置主密码"
+  },
+  "set_master_password_summary": {
+    "value": "要完成 SSO 登录配置，请设置一个主密码以访问和保护您的密码库。"
+  },
+  "set_password": {
+    "value": "设置密码"
+  },
+  "set_pin": {
+    "value": "设置 PIN 码"
+  },
+  "set_pin_description": {
+    "value": "设置用于解锁 Bitwarden 的 PIN 码。您的 PIN 设置将在您完全注销应用程序时被重置。\n    "
+  },
+  "set_pin_direction": {
+    "value": "输入一个用于解锁此 App 的 4 位数 PIN 码。"
+  },
+  "set_up_an_unlock_option_to_change_your_vault_timeout_action": {
+    "value": "设置解锁选项以更改您的密码库超时动作。\n    "
+  },
+  "set_up_authenticator_key": {
+    "value": "设置验证器密钥"
+  },
+  "set_up_auto_fill_description_long": {
+    "value": "要设置密码自动填充和通行密钥管理，请在 iOS 设置中将 Bitwarden\n        设置为您的首选提供程序。\n    "
+  },
+  "set_up_autofill": {
+    "value": "设置自动填充"
+  },
+  "set_up_autofill_on_all_your_devices": {
+    "value": "在所有设备上设置自动填充，随时随地轻点一下即可登录。"
+  },
+  "set_up_biometrics_or_choose_a_pin_code_to_quickly_access_your_vault_and_autofill_your_logins": {
+    "value": "\n        设置生物识别或选择一个 PIN 码，以快速访问您的密码库并自动填充您的登录信息。\n    "
+  },
+  "set_up_later": {
+    "value": "稍后设置"
+  },
+  "set_up_two_step_login": {
+    "value": "设置两步登录"
+  },
+  "set_up_unlock": {
+    "value": "设置解锁"
+  },
+  "set_up_unlock_later": {
+    "value": "稍后设置解锁吗？"
+  },
+  "settings": {
+    "value": "设置"
+  },
+  "setup_totp": {
+    "value": "设置 TOTP"
+  },
+  "seven_days": {
+    "value": "7 天"
+  },
+  "share": {
+    "value": "共享"
+  },
+  "share_error_details": {
+    "value": "分享错误详细信息"
+  },
+  "share_files_and_data_securely_with_anyone_on_any_platform": {
+    "value": "\n        在任何平台上安全地与任何人共享文件和数据。您的信息将在限制曝光的同时保持端到端加密。\n    "
+  },
+  "share_item": {
+    "value": "共享项目"
+  },
+  "share_link": {
+    "value": "分享链接"
+  },
+  "share_on_save": {
+    "value": "保存时分享此 Send"
+  },
+  "shared": {
+    "value": "已共享"
+  },
+  "show": {
+    "value": "显示"
+  },
+  "show_less": {
+    "value": "显示更少"
+  },
+  "show_more": {
+    "value": "显示更多"
+  },
+  "show_website_icons": {
+    "value": "显示网站图标"
+  },
+  "show_website_icons_description": {
+    "value": "在每个登录项目旁边显示一个可识别的图像"
+  },
+  "simple_login": {
+    "value": "SimpleLogin"
+  },
+  "single_tap_passkey_authentication": {
+    "value": "单击使用通行密钥登录"
+  },
+  "single_tap_passkey_creation": {
+    "value": "单击创建通行密钥"
+  },
+  "skip_for_now": {
+    "value": "暂时跳过"
+  },
+  "soft_deleting": {
+    "value": "正在发送到回收站..."
+  },
+  "solarized_dark": {
+    "value": "过曝暗"
+  },
+  "special_characters": {
+    "value": "特殊字符 (!@#$%^*)"
+  },
+  "ssh_keys": {
+    "value": "SSH 密钥"
+  },
+  "ssn": {
+    "value": "社会保障号码"
+  },
+  "starts_with": {
+    "value": "开始于"
+  },
+  "state_province": {
+    "value": "州 / 省"
+  },
+  "status": {
+    "value": "状态"
+  },
+  "step_1_of_3": {
+    "value": "步骤 1 / 3"
+  },
+  "step_2_of_3": {
+    "value": "步骤 2 / 3"
+  },
+  "step_3_of_3": {
+    "value": "步骤 3 / 3"
+  },
+  "strong": {
+    "value": "强"
+  },
+  "submit": {
+    "value": "提交"
+  },
+  "submit_crash_logs": {
+    "value": "提交崩溃日志"
+  },
+  "submit_crash_logs_description": {
+    "value": "提交崩溃报告以帮助 Bitwarden 改善 App 的稳定性。"
+  },
+  "submitting": {
+    "value": "正在提交..."
+  },
+  "switch_to_already_added_account_confirmation": {
+    "value": "您想现在就切换过去吗？"
+  },
+  "sync": {
+    "value": "同步"
+  },
+  "sync_now": {
+    "value": "立即同步"
+  },
+  "sync_vault_now": {
+    "value": "立即同步"
+  },
+  "syncing": {
+    "value": "正在同步..."
+  },
+  "syncing_complete": {
+    "value": "同步完成"
+  },
+  "syncing_failed": {
+    "value": "同步失败"
+  },
+  "syncing_logins_loading_message": {
+    "value": "正在同步登录信息..."
+  },
+  "system_certificates_are_not_as_secure_as_importing_certificates_to_bitwarden": {
+    "value": "使用系统证书不如\n        Bitwarden 中存储的证书安全。如果已经安装了系统证书，接下来将显示可用的系统证书列表。\n    "
+  },
+  "tap_to_go_back": {
+    "value": "点击以返回"
+  },
+  "ten_seconds": {
+    "value": "10 秒"
+  },
+  "terms_of_service": {
+    "value": "服务条款"
+  },
+  "text": {
+    "value": "文本"
+  },
+  "text_to_share": {
+    "value": "要分享的文本"
+  },
+  "text_type_is_not_selected": {
+    "value": "未选择文本类型，点击进行选择。"
+  },
+  "text_type_is_selected": {
+    "value": "已选择文本类型。"
+  },
+  "thank_you": {
+    "value": "谢谢"
+  },
+  "the_best_way_to_make_sure_you_can_always_access_your_vault": {
+    "value": "\n        确保您始终可以访问密码库的最佳方法是从一开始就设置好保护措施。\n    "
+  },
+  "the_following_instructions_will_guide_you_through_importing_logins": {
+    "value": "\n        以下说明将指导您从台式或笔记本计算机导入登录信息\n    "
+  },
+  "the_longer_your_password_the_more_difficult_to_hack": {
+    "value": "密码越长，破解起来就越困难。账户创建时要求的最小密码长度是\n        12 个字符，但如果使用 14 个字符，破解密码的时间将长达几个世纪！\n    "
+  },
+  "the_passkey_will_not_be_copied_to_the_cloned_item_do_you_want_to_continue_cloning_this_item": {
+    "value": "\n        通行密钥将不会被复制到克隆的项目。要继续克隆这个项目吗？\n    "
+  },
+  "the_strongest_passwords_are_usually": {
+    "value": "最强的密码通常具有以下特点："
+  },
+  "the_urix_is_already_blocked": {
+    "value": "URI %1$s 已被屏蔽"
+  },
+  "the_vault_protects_more_than_just_passwords": {
+    "value": "\n        密码库不仅保护密码。在这里可以安全地存储登录、ID、支付卡和笔记。\n    "
+  },
+  "theme": {
+    "value": "主题"
+  },
+  "theme_applied_on_restart": {
+    "value": "您的主题更改将在 App 重启后生效。"
+  },
+  "theme_default": {
+    "value": "默认（系统）"
+  },
+  "theme_description": {
+    "value": "更改应用程序的颜色主题。"
+  },
+  "there_are_no_blocked_ur_is": {
+    "value": "没有已屏蔽的 URI"
+  },
+  "there_are_no_items_in_your_vault_that_match_x": {
+    "value": "您的密码库中没有匹配「%1$s」的项目"
+  },
+  "there_are_no_items_that_match_the_search": {
+    "value": "没有匹配搜索条件的项目"
+  },
+  "there_was_a_problem_creating_a_passkey_for_x_try_again_later": {
+    "value": "创建 %1$s 的通行密钥时出错。请稍后再试。\n    "
+  },
+  "there_was_a_problem_reading_a_passkey_for_x_try_again_later": {
+    "value": "读取 %1$s 的通行密钥时出错。请稍后再试。\n    "
+  },
+  "there_was_an_error_starting_web_authn_two_factor_authentication": {
+    "value": "启动 WebAuthn 双重身份验证时出错\n    "
+  },
+  "there_was_an_issue_validating_the_registration_token": {
+    "value": "验证注册令牌时出现问题。"
+  },
+  "third_dot_select_bitwarden_to_use_for_passwords_and_passkeys": {
+    "value": "3. 选择「Bitwarden」以用于密码和通行密钥\n    "
+  },
+  "thirty_days": {
+    "value": "30 天"
+  },
+  "thirty_minutes": {
+    "value": "30 分钟"
+  },
+  "thirty_seconds": {
+    "value": "30 秒"
+  },
+  "this_is_not_a_recognized_bitwarden_server_you_may_need_to_check_with_your_provider_or_update_your_server": {
+    "value": "\n        这是一个无法识别的 Bitwarden 服务器。您可能需要向您的提供商查询或更新您的服务器。\n    "
+  },
+  "this_item_already_contains_a_passkey_are_you_sure_you_want_to_overwrite_the_current_passkey": {
+    "value": "\n        此项目已包含一个通行密钥。确定要覆盖当前的通行密钥吗？\n    "
+  },
+  "this_request_is_no_longer_valid": {
+    "value": "请求已失效"
+  },
+  "three_days": {
+    "value": "3 天"
+  },
+  "time": {
+    "value": "时间"
+  },
+  "title": {
+    "value": "称呼"
+  },
+  "toggle_visibility": {
+    "value": "切换可见性"
+  },
+  "too_many_attempts": {
+    "value": "尝试次数过多"
+  },
+  "tools": {
+    "value": "工具"
+  },
+  "totally_different_from_your_other_passwords": {
+    "value": "与其他密码完全不一样"
+  },
+  "totp": {
+    "value": "TOTP"
+  },
+  "touch_id": {
+    "value": "触控 ID"
+  },
+  "translations": {
+    "value": "翻译"
+  },
+  "trash": {
+    "value": "回收站"
+  },
+  "trouble_logging_in": {
+    "value": "登录遇到问题吗？"
+  },
+  "try_again": {
+    "value": "重试"
+  },
+  "try_it_out": {
+    "value": "试试看"
+  },
+  "turn_off_using_public_device": {
+    "value": "不允许使用公共设备"
+  },
+  "turn_on_autofill": {
+    "value": "开启自动填充"
+  },
+  "turn_on_autofill_later": {
+    "value": "稍后开启自动填充吗？"
+  },
+  "turn_on_later": {
+    "value": "稍后开启"
+  },
+  "turn_on_two_step_login": {
+    "value": "开启两步登录"
+  },
+  "twelve_or_more_characters": {
+    "value": "12 个或更多字符"
+  },
+  "twenty_seconds": {
+    "value": "20 秒"
+  },
+  "two_days": {
+    "value": "2 天"
+  },
+  "two_minutes": {
+    "value": "2 分钟"
+  },
+  "two_step_login": {
+    "value": "两步登录"
+  },
+  "two_step_login_description_long": {
+    "value": "在 Bitwarden 网页 App 中设置两步登录，让您的账户更加安全。"
+  },
+  "two_step_login_options": {
+    "value": "两步登录选项"
+  },
+  "type": {
+    "value": "类型"
+  },
+  "type_card": {
+    "value": "支付卡"
+  },
+  "type_file": {
+    "value": "文件"
+  },
+  "type_file_info": {
+    "value": "您想在此 Send 中附加的文件。"
+  },
+  "type_identity": {
+    "value": "身份"
+  },
+  "type_login": {
+    "value": "登录"
+  },
+  "type_secure_note": {
+    "value": "安全笔记"
+  },
+  "type_ssh_key": {
+    "value": "SSH 密钥"
+  },
+  "type_text": {
+    "value": "文本"
+  },
+  "types": {
+    "value": "类型"
+  },
+  "unable_to_download_file": {
+    "value": "无法下载文件。"
+  },
+  "unable_to_open_file": {
+    "value": "您的设备无法打开这种类型的文件。"
+  },
+  "unable_to_save_attachment": {
+    "value": "保存此附件时出现问题。如果问题仍然存在，您可以从网页版密码库中保存它。\n    "
+  },
+  "unfavorite": {
+    "value": "取消收藏"
+  },
+  "unique_usernames_add_an_extra_layer_of_security_and_can_help_prevent_hackers_from_finding_your_accounts": {
+    "value": "\n        唯一的用户名增加了额外的安全性，有助于防止黑客轻易找到您的账户。\n    "
+  },
+  "unknown_account": {
+    "value": "未知账户"
+  },
+  "unknown_x_error_message": {
+    "value": "发生未知的 %1$s 错误。"
+  },
+  "unlock": {
+    "value": "解锁​​​​"
+  },
+  "unlock_options": {
+    "value": "解锁选项"
+  },
+  "unlock_vault": {
+    "value": "解锁密码库"
+  },
+  "unlock_with": {
+    "value": "使用 %1$s 解锁"
+  },
+  "unlock_with_pin": {
+    "value": "使用 PIN 码解锁"
+  },
+  "unlocking_may_fail_due_to_insufficient_memory_decrease_your_kdf_memory_settings_to_resolve": {
+    "value": "\n        由于内存不足，解锁可能会失败。请减少您的 KDF 内存设置或设置生物识别解锁来解决此问题。\n    "
+  },
+  "unsubscribe": {
+    "value": "取消订阅"
+  },
+  "unsupported_certificate_type": {
+    "value": "不支持的证书类型"
+  },
+  "update_key": {
+    "value": "在您更新加密密钥前，您不能使用此功能。"
+  },
+  "update_master_password": {
+    "value": "更新主密码"
+  },
+  "update_master_password_warning": {
+    "value": "\n        您的主密码最近被您组织的管理员更改过。要访问密码库，必须立即更新您的主密码。继续操作将使您退出当前会话，并要求您重新登录。其他设备上的活动会话可能会继续保持活动状态长达一小时。\n    "
+  },
+  "update_password_error": {
+    "value": "当前无法更新密码"
+  },
+  "update_weak_master_password_warning": {
+    "value": "\n        您的主密码不符合某一项或多项组织策略要求。要访问密码库，必须立即更新您的主密码。继续操作将使您退出当前会话，并要求您重新登录。其他设备上的活动会话可能会继续保持活动状态长达一小时。\n    "
+  },
+  "updated_master_password": {
+    "value": "已更新主密码"
+  },
+  "updating_password": {
+    "value": "正在更新密码"
+  },
+  "uppercase_ato_z": {
+    "value": "大写 (A-Z)"
+  },
+  "ur_is": {
+    "value": "URI"
+  },
+  "uri": {
+    "value": "URI"
+  },
+  "uri_match_detection": {
+    "value": "URI 匹配检测"
+  },
+  "uri_position": {
+    "value": "URI %1$s"
+  },
+  "uri_removed": {
+    "value": "URI 已移除"
+  },
+  "uri_saved": {
+    "value": "URI 已保存"
+  },
+  "us": {
+    "value": "美国"
+  },
+  "use_a_computer_to_import_logins": {
+    "value": "使用计算机从现有密码管理器导入登录信息"
+  },
+  "use_another_two_step_method": {
+    "value": "使用其他两步登录方式"
+  },
+  "use_autofill_to_log_into_your_accounts": {
+    "value": "使用自动填充功能，只需点击一次即可登录您的账户。"
+  },
+  "use_biometrics_to_unlock": {
+    "value": "使用生物识别解锁"
+  },
+  "use_chrome_autofill_integration": {
+    "value": "使用 Chrome 自动填充集成"
+  },
+  "use_chrome_beta_autofill_integration": {
+    "value": "使用 Chrome 自动填充集成 (Beta)"
+  },
+  "use_face_id_to_unlock": {
+    "value": "使用面容 ID 解锁"
+  },
+  "use_fingerprint_to_unlock": {
+    "value": "使用指纹解锁"
+  },
+  "use_inline_autofill_explanation_long": {
+    "value": "\n        如果您所选的键盘支持，将使用内嵌自动填充。否则，将使用默认的叠加层自动填充。\n    "
+  },
+  "use_system_certificate": {
+    "value": "使用系统证书"
+  },
+  "use_the_generator_to_create_a_strong_unique_password": {
+    "value": "使用生成器创建强大且唯一的密码"
+  },
+  "use_the_generator_to_create_secure_passwords_passphrases_and_usernames": {
+    "value": "\"使用生成器创建安全的密码、密码短语和用户名。\n        \"\n    "
+  },
+  "use_the_web_app": {
+    "value": "使用网页 App"
+  },
+  "use_these_options_to_adjust_your_password_to_your_account_requirements": {
+    "value": "\n        使用这些选项来调整您的密码，以使其符合您的账户网站的要求。\n    "
+  },
+  "use_this_button_to_generate_a_new_unique_password": {
+    "value": "使用此按钮生成新的唯一密码。"
+  },
+  "use_this_device_to_approve_login_requests_made_from_other_devices": {
+    "value": "\n        使用此设备批准来自其他设备的登录请求\n    "
+  },
+  "user_verification_direction": {
+    "value": "用户验证"
+  },
+  "username": {
+    "value": "用户名"
+  },
+  "username_type": {
+    "value": "用户名类型"
+  },
+  "validating": {
+    "value": "正在验证"
+  },
+  "validation_field_required": {
+    "value": "必须填写 %1$s 字段。"
+  },
+  "value": {
+    "value": "值"
+  },
+  "value_has_been_copied": {
+    "value": "%1$s 已复制"
+  },
+  "vault": {
+    "value": "密码库"
+  },
+  "vault_filter_description": {
+    "value": "密码库：%1$s"
+  },
+  "vault_is_locked": {
+    "value": "密码库已锁定"
+  },
+  "vault_locked_identity": {
+    "value": "您的密码库已锁定。请验证您的身份以继续。"
+  },
+  "vault_locked_master_password": {
+    "value": "您的密码库已锁定，请验证您的主密码以继续。"
+  },
+  "vault_locked_pin": {
+    "value": "您的密码库已锁定。请验证您的 PIN 码以继续。"
+  },
+  "vault_timeout": {
+    "value": "密码库超时时间"
+  },
+  "vault_timeout_action": {
+    "value": "密码库超时动作"
+  },
+  "vault_timeout_action_changed_to_log_out": {
+    "value": "密码库超时动作已更改为注销"
+  },
+  "vault_timeout_action_policy_in_effect": {
+    "value": "您的组织策略已将您的密码库超时动作设置为 %1$s。"
+  },
+  "vault_timeout_log_out_confirmation": {
+    "value": "\n        超时后注销账户将解除对密码库的所有访问权限，并需要进行在线身份验证。确定使用此设置吗？\n    "
+  },
+  "vault_timeout_policy_in_effect": {
+    "value": "您的组织策略已将您最大允许的密码库超时时间设置为 %1$s 小时 %2$s\n        分钟。\n    "
+  },
+  "vault_timeout_policy_with_action_in_effect": {
+    "value": "您的组织策略正在影响您的密码库超时时间。最大允许的密码库超时时间是\n        %1$s 小时 %2$s 分钟。您的密码库超时动作被设置为 %3$s。\n    "
+  },
+  "vault_timeout_to_large": {
+    "value": "您的密码库超时时间超出了组织设置的限制。"
+  },
+  "vaults": {
+    "value": "密码库"
+  },
+  "verification_code": {
+    "value": "验证码"
+  },
+  "verification_code_totp": {
+    "value": "验证码 (TOTP)"
+  },
+  "verification_codes": {
+    "value": "验证码"
+  },
+  "verification_email_not_sent": {
+    "value": "无法发送验证电子邮件。请重试。"
+  },
+  "verification_email_sent": {
+    "value": "验证邮件已发送"
+  },
+  "verification_required_by_x": {
+    "value": "%1$s 要求验证"
+  },
+  "verification_required_for_this_action_set_up_an_unlock_method_in_bitwarden_to_continue": {
+    "value": "此操作需要验证。在\n        Bitwarden 中设置一个解锁方式以继续。\n    "
+  },
+  "verified_sso_domain_verified": {
+    "value": "已验证的 SSO 域名端点"
+  },
+  "verify_face_id": {
+    "value": "验证面容 ID"
+  },
+  "verify_fingerprint": {
+    "value": "验证指纹"
+  },
+  "verify_master_password": {
+    "value": "验证主密码"
+  },
+  "verify_pin": {
+    "value": "验证 PIN 码"
+  },
+  "verify_your_identity": {
+    "value": "验证您的身份"
+  },
+  "verifying": {
+    "value": "正在验证"
+  },
+  "verifying_identity_ellipsis": {
+    "value": "正在验证身份..."
+  },
+  "version": {
+    "value": "版本"
+  },
+  "view": {
+    "value": "查看"
+  },
+  "view_all_login_options": {
+    "value": "查看所有登录选项"
+  },
+  "view_card": {
+    "value": "查看支付卡"
+  },
+  "view_identity": {
+    "value": "查看身份"
+  },
+  "view_item": {
+    "value": "查看项目"
+  },
+  "view_login": {
+    "value": "查看登录"
+  },
+  "view_note": {
+    "value": "查看笔记"
+  },
+  "view_passkey": {
+    "value": "查看通行密钥"
+  },
+  "visit_our_website": {
+    "value": "访问我们的网站"
+  },
+  "warning": {
+    "value": "警告"
+  },
+  "we_couldnt_verify_the_servers_certificate": {
+    "value": "我们无法验证服务器的证书。您的设备或 Bitwarden\n        服务器上的证书链或代理设置可能未正确设置。\n    "
+  },
+  "we_ll_walk_you_through_the_key_features_to_add_a_new_login": {
+    "value": "\n        我们将通过主要功能引导您添加一个新的登录。\n    "
+  },
+  "we_sent_an_email_to": {
+    "value": "我们向\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n        发送了一封电子邮件。\n    "
+  },
+  "weak": {
+    "value": "弱"
+  },
+  "weak_and_exposed_master_password": {
+    "value": "主密码弱且曾经暴露"
+  },
+  "weak_master_password": {
+    "value": "脆弱的主密码"
+  },
+  "weak_password_identified_and_found_in_a_data_breach_alert_description": {
+    "value": "\n        识别到弱密码且其出现在数据泄露中。请使用一个强且唯一的密码以保护您的账户。确定要使用这个密码吗？\n    "
+  },
+  "weak_password_identified_use_a_strong_password_to_protect_your_account": {
+    "value": "\n        识别到弱密码。请使用一个强密码以保护您的账户。确定要使用弱密码吗？\n    "
+  },
+  "web_vault": {
+    "value": "Bitwarden 网页版密码库"
+  },
+  "web_vault_url": {
+    "value": "网页密码库服务器 URL"
+  },
+  "website": {
+    "value": "网站"
+  },
+  "website_required": {
+    "value": "网站（必填）"
+  },
+  "website_uri": {
+    "value": "网站 (URI)"
+  },
+  "welcome_message_1": {
+    "value": "将登录、支付卡和身份保存到您的安全密码库。Bitwarden\n        使用零知识、端到端的加密来保护您的重要信息。\n    "
+  },
+  "welcome_message_2": {
+    "value": "设置生物识别解锁和自动填充，无需输入任何字符即可登录您的账户。"
+  },
+  "welcome_message_3": {
+    "value": "使用生成器创建和保存强大且唯一的密码，以保护您的所有账户。"
+  },
+  "welcome_message_4": {
+    "value": "使用 Bitwarden 移动端、浏览器和桌面 App 在无限制的设备上保存无限数量的密码。"
+  },
+  "what_bitwarden_has_to_offer": {
+    "value": "您现在可以探索 Bitwarden 的所有功能了，并开始安全地管理您的密码。"
+  },
+  "what_makes_a_password_strong": {
+    "value": "一个强密码的特点是什么？"
+  },
+  "what_would_you_like_to_generate": {
+    "value": "您想要生成什么？"
+  },
+  "windows_hello": {
+    "value": "Windows Hello"
+  },
+  "word_separator": {
+    "value": "单词分隔符"
+  },
+  "write_this_password_down_and_keep_it_somewhere_safe": {
+    "value": "写下此密码并将其保存在安全的地方。"
+  },
+  "write_your_password_down": {
+    "value": "写下您的密码"
+  },
+  "x_ellipses": {
+    "value": "%s..."
+  },
+  "x_hours": {
+    "value": "%1$s 小时"
+  },
+  "x_hours_and_one_minute": {
+    "value": "%1$s 小时 1 分钟"
+  },
+  "x_hours_and_y_minutes": {
+    "value": "%1$s 小时 %2$s 分钟"
+  },
+  "x_minutes_ago": {
+    "value": "%1$s 分钟前"
+  },
+  "yes": {
+    "value": "是"
+  },
+  "yes_and_save": {
+    "value": "是的，保存"
+  },
+  "yes_i_can_reliably_access_my_email": {
+    "value": "是的，我可以正常访问我的电子邮箱"
+  },
+  "you_can_change_your_account_email_on_the_bitwarden_web_app": {
+    "value": "您可以在 Bitwarden 网页 App\n        上更改您的账户电子邮箱。\n    "
+  },
+  "you_can_import_data_to_your_vault_on_x": {
+    "value": "您可以通过 %1$s 将数据导入您的密码库。"
+  },
+  "you_can_return_to_complete_this_step_anytime_from_account_security_in_settings": {
+    "value": "\n        您可以随时回到「设置」中的「账户安全」来完成此步骤。\n    "
+  },
+  "you_can_return_to_complete_this_step_anytime_from_settings": {
+    "value": "您可以随时回到「密码库设置」中完成此步骤。\n    "
+  },
+  "you_can_set_up_two_step_login_as_an_alternative_way_to_protect_your_account_or_change_your_email_to_one_you_can_access": {
+    "value": "\n        您可以设置两步登录作为保护账户的替代方法，或将您的电子邮箱更改为您可以访问的电子邮箱。\n    "
+  },
+  "you_cannot_edit_passkey_application_because_it_would_invalidate_the_passkey": {
+    "value": "\n        您不能编辑通行密钥应用程序，因为这会使通行密钥失效\n    "
+  },
+  "you_ll_only_need_to_set_up_authenticator_key": {
+    "value": "\n        您只需为要求使用代码进行双重身份验证的登录设置验证器密钥。该密钥将持续不断地生成可用于登录的六位数代码。\n    "
+  },
+  "you_must_add_a_web_address_to_use_autofill_to_access_this_account": {
+    "value": "\n        您必须添加一个网址才能使用自动填充来访问这个账户。\n    "
+  },
+  "you_will_be_notified_once_approved": {
+    "value": "批准后，您将收到通知。"
+  },
+  "your_account_has_been_permanently_deleted": {
+    "value": "您的账户已被永久删除"
+  },
+  "your_accounts_fingerprint": {
+    "value": "您的账户指纹短语"
+  },
+  "your_data_when_and_where_you_need_it": {
+    "value": "您的数据，无论何时何地均可用"
+  },
+  "your_hint_will_be_send_to_you_via_email_when_you_request_it": {
+    "value": "当您请求时，提示将通过电子邮件发送给您。\n    "
+  },
+  "your_master_password_cannot_be_recovered_if_you_forget_it_x_characters_minimum": {
+    "value": "主密码忘记后，将无法恢复！至少\n        %1$s 个字符。\n    "
+  },
+  "your_organization_permissions_were_updated_requering_you_to_set_a_master_password": {
+    "value": "\n        您的组织权限已更新，要求您设置主密码。\n    "
+  },
+  "your_organization_requires_you_to_set_a_master_password": {
+    "value": "您的组织要求您设置主密码。"
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault": {
+    "value": "您的通行密钥将保存在您的 Bitwarden 密码库中\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault_for_x": {
+    "value": "您的通行密钥将保存在您的 %1$s Bitwarden\n        密码库中\n    "
+  },
+  "your_request_has_been_sent_to_your_admin": {
+    "value": "您的请求已发送给您的管理员。"
+  },
+  "youre_all_set": {
+    "value": "一切就绪！"
+  },
+  "yubi_key_instruction": {
+    "value": "要继续，请将您的 YubiKey NEO 靠在设备背面或者将 YubiKey 插入设备的 USB\n        端口，然后触摸其按钮。\n    "
+  },
+  "yubi_key_instruction_ios": {
+    "value": "要继续，请将您的 YubiKey NEO 靠在设备背面。"
+  },
+  "yubi_key_title": {
+    "value": "YubiKey 安全密钥"
+  },
+  "zip_postal_code": {
+    "value": "邮政编码"
+  }
+}
