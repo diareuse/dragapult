@@ -1,6 +1,5 @@
 package dragapult.android
 
-import com.google.auto.service.AutoService
 import dragapult.core.*
 import org.w3c.dom.Document
 import org.w3c.dom.Element
@@ -59,7 +58,6 @@ class LocalizationWriterAndroid(
 
     // ---
 
-    @AutoService(LocalizationWriter.Factory::class)
     class Factory : LocalizationWriter.Factory {
 
         private var allowBlankValues = false

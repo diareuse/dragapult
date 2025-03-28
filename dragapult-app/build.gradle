@@ -7,10 +7,10 @@ application {
 }
 
 dependencies {
-    implementation project(":dragapult-plugin:plugin-android")
-    implementation project(":dragapult-plugin:plugin-apple")
-    implementation project(":dragapult-plugin:plugin-core")
-    implementation project(":dragapult-plugin:plugin-csv")
-    implementation project(":dragapult-plugin:plugin-json")
     implementation "commons-cli:commons-cli:1.9.0"
+    implementation libs.kotlin.serialization.json
+    implementation libs.kotlin.serialization.csv
+    implementation libs.kotlin.serialization.xml
+    implementation libs.kotlin.serialization.yaml
+    implementation libs.kotlin.serialization.toml
 }

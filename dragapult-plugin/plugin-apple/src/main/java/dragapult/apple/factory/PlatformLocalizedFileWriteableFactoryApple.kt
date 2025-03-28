@@ -1,13 +1,11 @@
 package dragapult.apple.factory
 
-import com.google.auto.service.AutoService
 import dragapult.apple.LocalizationTypeApple
 import dragapult.apple.adapter.PlatformLocalizedFileWriteableAppleAdapter
 import dragapult.core.LocalizationType
 import dragapult.core.PlatformLocalizedFile
 import dragapult.core.PlatformLocalizedFileWriteable
 
-@AutoService(PlatformLocalizedFileWriteable.Factory::class)
 class PlatformLocalizedFileWriteableFactoryApple : PlatformLocalizedFileWriteable.Factory {
 
     private var allowBlankValues = false

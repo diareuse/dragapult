@@ -1,0 +1,28 @@
+[versions]
+kotlin-version = "2.1.20"
+dagger = "2.55"
+ksp = "2.1.20-1.0.31"
+publish = "0.31.0"
+shadow = "9.0.0-beta11"
+csv = "2.1.0"
+kaml = "0.73.0"
+xml = "0.91.0-RC1"
+json = "1.8.0"
+toml = "0.5.2"
+
+[libraries]
+kotlin-test-junit = { module = "org.jetbrains.kotlin:kotlin-test-junit5", version.ref = "kotlin-version" }
+dagger = { module = "com.google.dagger:dagger", version.ref = "dagger" }
+dagger-compiler = { module = "com.google.dagger:dagger-compiler", version.ref = "dagger" }
+kotlin-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "json" }
+kotlin-serialization-xml = { module = "io.github.pdvrieze.xmlutil:serialization", version.ref = "xml" }
+kotlin-serialization-yaml = { module = "com.charleskorn.kaml:kaml", version.ref = "kaml" }
+kotlin-serialization-toml = { module = "com.akuleshov7:ktoml-core", version.ref = "toml" }
+kotlin-serialization-csv = { module = "de.brudaswen.kotlinx.serialization:kotlinx-serialization-csv", version.ref = "csv" }
+
+[plugins]
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin-version" }
+kotlin-plugin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin-version" }
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
+publish = { id = "com.vanniktech.maven.publish", version.ref = "publish" }
+shadow = { id = "com.gradleup.shadow", version.ref = "shadow" }

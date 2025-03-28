@@ -1,12 +1,7 @@
-buildscript {
-    repositories {
-        mavenCentral()
-    }
-    dependencies {
-        classpath "com.vanniktech:gradle-maven-publish-plugin:0.31.0"
-    }
-}
 plugins {
-    id 'org.jetbrains.kotlin.jvm' version '2.1.20' apply false
-    id 'com.gradleup.shadow' version '9.0.0-beta11' apply false
+    alias libs.plugins.kotlin.jvm apply false
+    alias libs.plugins.kotlin.plugin.serialization apply false
+    alias libs.plugins.ksp apply false
+    alias libs.plugins.publish apply false
+    alias libs.plugins.shadow apply false
 }

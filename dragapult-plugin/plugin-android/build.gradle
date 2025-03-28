@@ -1,6 +1,5 @@
 plugins {
     id 'jvm-library'
-    id 'has-auto-service'
 }
 
 dependencies {

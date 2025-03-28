@@ -1,6 +1,7 @@
 plugins {
-    id 'org.jetbrains.kotlin.jvm'
-    id 'org.jetbrains.kotlin.kapt'
+    id "org.jetbrains.kotlin.jvm"
+    id "org.jetbrains.kotlin.plugin.serialization"
+    id "com.google.devtools.ksp"
 }
 
 group = 'dragapult'
@@ -15,4 +16,12 @@ compileKotlin {
 
 compileTestKotlin {
     kotlinOptions.jvmTarget = '21'
+}
+
+dependencies {
+    implementation libs.dagger
+    ksp libs.dagger.compiler
+    testImplementation libs.kotlin.test.junit
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
 }

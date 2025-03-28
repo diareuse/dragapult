@@ -1,6 +1,5 @@
 package dragapult.android.factory
 
-import com.google.auto.service.AutoService
 import dragapult.android.LocalizationTypeAndroid
 import dragapult.android.adapter.PlatformLocalizedFileAndroidAdapter
 import dragapult.core.LocalizationType
@@ -8,7 +7,6 @@ import dragapult.core.PlatformLocalizedFile
 import java.io.File
 import java.nio.file.Files
 
-@AutoService(PlatformLocalizedFile.Factory::class)
 class PlatformLocalizedFileFactoryAndroid : PlatformLocalizedFile.Factory {
 
     override val type: LocalizationType
