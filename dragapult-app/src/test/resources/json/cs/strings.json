@@ -1,0 +1,3677 @@
+{
+  "a_notification_has_been_sent_to_your_device": {
+    "value": "Na Vaše zařízení bylo odesláno oznámení."
+  },
+  "a_secure_memorable_password": {
+    "value": "Bezpečné, zapamatovatelné heslo"
+  },
+  "a_verification_code_was_sent_to_your_email": {
+    "value": "Ověřovací kód byl odeslán na Váš e-mail"
+  },
+  "about": {
+    "value": "O aplikaci"
+  },
+  "about_send": {
+    "value": "O Send"
+  },
+  "accept": {
+    "value": "Potvrdit"
+  },
+  "accept_policies": {
+    "value": "Aktivací tohoto přepínače souhlasíte s těmito dokumenty:"
+  },
+  "accept_policies_error": {
+    "value": "Podmínky použití a Zásady ochrany osobních údajů nebyly odsouhlaseny."
+  },
+  "accessibility": {
+    "value": "Použít přístupnost"
+  },
+  "accessibility_description": {
+    "value": "Použije službu přístupnosti aplikace Bitwarden k automatickému vyplnění\n        přihlašovacích údajů napříč aplikacemi a weby. Při zapnutí se po výběru pole s přihlašovacími údaji zobrazí\n        vyskakovací okno.\n    "
+  },
+  "accessibility_description2": {
+    "value": "Použije službu přístupnosti aplikace Bitwarden k automatickému vyplnění\n        přihlašovacích údajů napříč aplikacemi a weby (vykreslování přes ostatní aplikace musí být povoleno).\n    "
+  },
+  "accessibility_description3": {
+    "value": "Použije službu přístupnosti aplikace Bitwarden pro dlaždici rychlého\n        automatického vyplnění anebo zobrazení překryvného okna (pokud je povoleno).\n    "
+  },
+  "accessibility_description4": {
+    "value": "Vyžadováno pro použití dlaždice rychlého automatického vyplnění\n        nebo rozšíření služby automatického vyplnění pomocí vykreslování přes ostatní aplikace (pokud je povoleno).\n    "
+  },
+  "accessibility_description5": {
+    "value": "Vyžadováno pro použití v dlaždici rychlé akce automatického vyplňování.\n    "
+  },
+  "accessibility_disclosure_text": {
+    "value": "Bitwarden používá službu usnadnění přístupu k hledání přihlašovacích\n        polí v aplikacích a webových stránkách a pokud bude nalezena shoda pro aplikaci nebo stránku, pak vytvoří\n        odpovídající ID pole pro zadání uživatelského jména a hesla. Neukládáme žádné informace, které nám služba\n        poskytla, ani se nepokoušíme kontrolovat jakékoli prvky na obrazovce mimo zadání textových údajů.\n    "
+  },
+  "accessibility_draw_over_permission_alert": {
+    "value": "Bitwarden vyžaduje pozornost - Povolte volbu \\\"Zobrazit přes\n        ostatní aplikace\\\" ve \\\"Službách automatického vyplňování“ v nastavení aplikace Bitwarden\n    "
+  },
+  "accessibility_overlay_permission_alert": {
+    "value": "Bitwarden vyžaduje pozornost - zkontrolujte \\\"Službu\n        automatického vyplňování\\\" v nastavení Bitwardenu\n    "
+  },
+  "accessibility_service_disclosure": {
+    "value": "Prohlášení služby usnadnění přístupu"
+  },
+  "account": {
+    "value": "Účet"
+  },
+  "account_already_added": {
+    "value": "Účet byl již přidán"
+  },
+  "account_biometric_invalidated": {
+    "value": "Biometrické odemknutí pro tento účet je vypnuto a čeká na ověření\n        hlavního hesla.\n    "
+  },
+  "account_biometric_invalidated_extension": {
+    "value": "Biometrické odemknutí pro automatické vyplnění je vypnuto\n        a čeká na ověření hlavního hesla.\n    "
+  },
+  "account_created": {
+    "value": "Váš účet byl vytvořen! Můžete se přihlásit."
+  },
+  "account_created_success": {
+    "value": "Váš nový účet byl vytvořen!"
+  },
+  "account_fingerprint_phrase": {
+    "value": "Fráze otisku prstu účtu"
+  },
+  "account_locked": {
+    "value": "Uzamčeno"
+  },
+  "account_locked_successfully": {
+    "value": "Účet uzamčen"
+  },
+  "account_logged_out": {
+    "value": "Odhlášen"
+  },
+  "account_logged_out_biometric_exceeded": {
+    "value": "Účet byl odhlášen."
+  },
+  "account_logged_out_successfully": {
+    "value": "Odhlášení proběhlo úspěšně"
+  },
+  "account_removed_successfully": {
+    "value": "Účet byl úspěšně odebrán"
+  },
+  "account_security": {
+    "value": "Zabezpečení účtu"
+  },
+  "account_setup": {
+    "value": "Nastavení účtu"
+  },
+  "account_switched_automatically": {
+    "value": "Přepnuto na další dostupný účet"
+  },
+  "account_unlocked": {
+    "value": "Odemčeno"
+  },
+  "add": {
+    "value": "Přidat"
+  },
+  "add_a_number_or_symbol_to_make_it_even_stronger": {
+    "value": "\n        <annotation emphasis=\"bold\">Přidejte číslo nebo symbol,</annotation>\n        abyste jej ještě posílili. Nyní máte jedinečnou, bezpečnou a zapamatovatelnou přístupovou frázi!\n    "
+  },
+  "add_a_send": {
+    "value": "Nový Send"
+  },
+  "add_account": {
+    "value": "Přidat účet"
+  },
+  "add_an_item": {
+    "value": "Přidat položku"
+  },
+  "add_field": {
+    "value": "Přidat pole"
+  },
+  "add_folder": {
+    "value": "Přidat složku"
+  },
+  "add_item": {
+    "value": "Přidat položku"
+  },
+  "add_new_attachment": {
+    "value": "Přidat novou přílohu"
+  },
+  "add_send": {
+    "value": "Nový Send"
+  },
+  "add_the_key_to_an_existing_or_new_item": {
+    "value": "Přidat klíč k existující nebo nové položce"
+  },
+  "add_this_authenticator_key_to_a_login": {
+    "value": "Přidejte tento ověřovací klíč k existujícímu přihlášení nebo\n        vytvořte nové přihlášení.\n    "
+  },
+  "add_totp": {
+    "value": "Přidat TOTP"
+  },
+  "add_website": {
+    "value": "Přidat webovou stránku"
+  },
+  "additional_options": {
+    "value": "Další volby"
+  },
+  "address": {
+    "value": "Adresa"
+  },
+  "address1": {
+    "value": "Adresa 1"
+  },
+  "address2": {
+    "value": "Adresa 2"
+  },
+  "address3": {
+    "value": "Adresa 3"
+  },
+  "addy_io": {
+    "value": "addy.io"
+  },
+  "admin_approval_requested": {
+    "value": "Bylo vyžádáno schválení správcem"
+  },
+  "after_you_save_your_new_password_to_bitwarden_don_t_forget_to_update_it_on_your_account_website": {
+    "value": "\"Po\n        uložení nového hesla do Bitwardenu ho nezapomeňte aktualizovat na stránkách Vašeho účtu. \"\n    "
+  },
+  "alias": {
+    "value": "Alias"
+  },
+  "all": {
+    "value": "Všechny"
+  },
+  "all_items": {
+    "value": "Všechny položky"
+  },
+  "all_notifications": {
+    "value": "Všechna oznámení"
+  },
+  "all_sends": {
+    "value": "Všechny Sends"
+  },
+  "all_vaults": {
+    "value": "Všechny trezory"
+  },
+  "allow_bitwarden_authenticator_syncing": {
+    "value": "Povolit synchronizaci ověřovací aplikace Bitwardenu"
+  },
+  "allow_notifications": {
+    "value": "Povolit oznámení"
+  },
+  "allow_screen_capture": {
+    "value": "Zapnout záznam obrazovky"
+  },
+  "an_error_has_occurred": {
+    "value": "Vyskytla se chyba."
+  },
+  "an_error_occurred_while_sending_a_verification_code_to_your_email_please_try_again": {
+    "value": "Při odesílání\n        ověřovacího kódu na Váš e-mail došlo k chybě. Zkuste to znovu.\n    "
+  },
+  "api_access_token": {
+    "value": "Přístupový token API"
+  },
+  "api_key_required_parenthesis": {
+    "value": "Klíč API (vyžadován)"
+  },
+  "api_url": {
+    "value": "URL serveru API"
+  },
+  "app_extension": {
+    "value": "Rozšíření aplikace"
+  },
+  "appearance": {
+    "value": "Vzhled"
+  },
+  "application": {
+    "value": "Aplikace"
+  },
+  "approve_login_requests": {
+    "value": "Schválit žádosti o přihlášení"
+  },
+  "approve_with_master_password": {
+    "value": "Schválit hlavním heslem"
+  },
+  "approve_with_my_other_device": {
+    "value": "Schválit s mým dalším zařízením"
+  },
+  "april": {
+    "value": "duben"
+  },
+  "are_you_sure_delete_send": {
+    "value": "Opravdu chcete smazat tento Send?"
+  },
+  "are_you_sure_remove_send_password": {
+    "value": "Opravdu chcete odebrat heslo?"
+  },
+  "are_you_sure_you_want_to_decline_all_pending_log_in_requests": {
+    "value": "Opravdu chcete zamítnout všechny žádosti\n        na přihlášení?\n    "
+  },
+  "are_you_sure_you_want_to_enable_screen_capture": {
+    "value": "Opravdu chcete zapnout záznam obrazovky?"
+  },
+  "are_you_sure_you_want_to_overwrite_the_current_username": {
+    "value": "Opravdu chcete přepsat aktuální uživatelské\n        jméno?\n    "
+  },
+  "are_you_trying_to_log_in": {
+    "value": "Pokoušíte se přihlásit?"
+  },
+  "ask_to_add_login": {
+    "value": "Ptát se na přidání přihlášení"
+  },
+  "ask_to_add_login_description": {
+    "value": "Zeptá se na uložení údajů, pokud nebyly v trezoru nalezeny."
+  },
+  "attachement_added": {
+    "value": "Příloha byla přidána"
+  },
+  "attachment_deleted": {
+    "value": "Příloha byla smazána"
+  },
+  "attachment_large_warning": {
+    "value": "Tato příloha má velikost %1$s. Opravdu ji chcete stáhnout do Vašeho\n        zařízení?\n    "
+  },
+  "attachments": {
+    "value": "Přílohy"
+  },
+  "august": {
+    "value": "srpen"
+  },
+  "authenticator": {
+    "value": "Ověřovací aplikace"
+  },
+  "authenticator_app_title": {
+    "value": "Ověřovací aplikace"
+  },
+  "authenticator_key": {
+    "value": "Autentizační klíč (TOTP)"
+  },
+  "authenticator_key_added": {
+    "value": "Byl přidán ověřovací klíč."
+  },
+  "authenticator_key_help": {
+    "value": "Nápověda pro ověřovací klíč"
+  },
+  "authenticator_key_read_error": {
+    "value": "Nelze přečíst ověřovací klíč."
+  },
+  "authenticator_key_scanner": {
+    "value": "Autentizační klíč"
+  },
+  "authenticator_sync": {
+    "value": "Synchronizovat ověřovací aplikaci"
+  },
+  "auto_fill_will_not_be_offered_for_these_ur_is": {
+    "value": "Pro tento URI nebude nabízeno automatické vyplňování.\n    "
+  },
+  "autofill": {
+    "value": "Automatické vyplňování"
+  },
+  "autofill_accessibility_description": {
+    "value": "Služba přístupnosti Bitwarden umožňuje automatické vyplňování\n        přihlašovacích údajů v aplikacích a na webových stránkách.\n    "
+  },
+  "autofill_accessibility_service": {
+    "value": "Služba přístupnosti automatického vyplňování"
+  },
+  "autofill_accessibility_summary": {
+    "value": "Pomůže při vyplňování uživatelského jména a hesla v jiných aplikacích\n        a na webu.\n    "
+  },
+  "autofill_activated": {
+    "value": "Automatické vyplňování aktivováno!"
+  },
+  "autofill_and_save": {
+    "value": "Automaticky vyplnit a uložit"
+  },
+  "autofill_blocked_uris": {
+    "value": "Automatické vyplňování blokovaných URI"
+  },
+  "autofill_options": {
+    "value": "Volby automatického vyplňování"
+  },
+  "autofill_or_view": {
+    "value": "Chcete automaticky vyplnit nebo zobrazit tyto přihlašovací údaje?"
+  },
+  "autofill_passwords": {
+    "value": "Automatické vyplňování hesel"
+  },
+  "autofill_service": {
+    "value": "Služba automatického vyplňování"
+  },
+  "autofill_service_description": {
+    "value": "Služba automatického vyplňování používá Android Autofill Framework k\n        vyplnění přihlašovacích údajů do jiných aplikací na Vašem zařízení.\n    "
+  },
+  "autofill_service_not_enabled": {
+    "value": "Automatické vyplňování umožňuje bezpečný přístup k Vašemu trezoru\n        Bitwarden z jiných webových stránek a aplikací. Zdá se, že jste nenastavili službu automatického vyplňování pro\n        Bitwarden. Nastavte automatické vyplňování na obrazovce \\\"Nastavení\\\".\n    "
+  },
+  "autofill_services": {
+    "value": "Služby automatického vyplňování"
+  },
+  "autofill_services_explanation_long": {
+    "value": "Android Autofill Framework se používá k vyplnění přihlašovacích\n        údajů do jiných aplikací na Vašem zařízení.\n    "
+  },
+  "autofill_setup": {
+    "value": "Vaše přihlašovací údaje jsou nyní snadno přístupné přímo z Vaší klávesnice během\n        přihlašování do aplikací či webů.\n    "
+  },
+  "autofill_setup2": {
+    "value": "Doporučujeme vypnout v nastavení všechny další aplikace pro automatické vyplňování\n        údajů, pokud je neplánujete používat.\n    "
+  },
+  "autofill_suggestion": {
+    "value": "Návrh automatického vyplňování"
+  },
+  "autofill_tile_accessibility_required": {
+    "value": "Pro povolení dlaždice automatického vyplňování povolte v\n        nastavení Bitwardenu \\\"Službu automatického vyplňování\\\".\n    "
+  },
+  "autofill_tile_uri_not_found": {
+    "value": "Nebyla nalezena žádná pole s heslem"
+  },
+  "autofill_turn_on": {
+    "value": "Pokyny pro zapnutí automatického vyplňování hesel na Vašem zařízení:"
+  },
+  "autofill_turn_on1": {
+    "value": "1. Přejděte do aplikace \\\"Nastavení\\\" v iOS"
+  },
+  "autofill_turn_on2": {
+    "value": "2. Klepněte na \\\"Hesla\\\"  \\\"Volby hesla\\\""
+  },
+  "autofill_turn_on3": {
+    "value": "3. Zapněte přepínač u položky \\\"Automatické vyplnění hesel\\\""
+  },
+  "autofill_turn_on4": {
+    "value": "4. Zapněte \\\"Automatické vyplnění\\\""
+  },
+  "autofill_turn_on5": {
+    "value": "5. Zvolte \\\"Bitwarden\\\""
+  },
+  "autofill_with_bitwarden": {
+    "value": "Automatické vyplňování aplikací Bitwarden"
+  },
+  "available_for_two_step_login": {
+    "value": "Dostupné pro dvoufázové přihlášení"
+  },
+  "avoid_ambiguous_characters": {
+    "value": "Nepoužívat zaměnitelné znaky"
+  },
+  "back": {
+    "value": "Zpět"
+  },
+  "base_domain": {
+    "value": "Základní doména"
+  },
+  "biometrics": {
+    "value": "Biometrie"
+  },
+  "biometrics_decoding_failure": {
+    "value": "Přihlaste se pomocí hlavního hesla nebo PINu a poté znovu zapněte\n        biometrické přihlášení v Nastavení.\n    "
+  },
+  "biometrics_direction": {
+    "value": "Použít biometrii k ověření"
+  },
+  "biometrics_failed": {
+    "value": "Biometrika selhala"
+  },
+  "biometrics_no_longer_supported": {
+    "value": "Byli jste odhlášeni, protože biometrika Vašeho zařízení nesplňuje\n        nejnovější bezpečnostní požadavky. Chcete-li aktualizovat nastavení, přihlaste se znovu nebo kontaktujte správce\n        pro přístup.\n    "
+  },
+  "biometrics_no_longer_supported_title": {
+    "value": "Biometrika již není v tomto zařízení podporována"
+  },
+  "bitwarden": {
+    "value": "Bitwarden"
+  },
+  "bitwarden_app_extension": {
+    "value": "Rozšíření aplikace Bitwarden"
+  },
+  "bitwarden_app_extension_alert2": {
+    "value": "Nejjednodušší způsob přidání nových přihlášení do trezoru je z\n        rozšíření Bitwardenu. Další informace o používání rozšíření Bitwardenu získáte klepnutím na obrazovku Nastavení.\n    "
+  },
+  "bitwarden_app_extension_description": {
+    "value": "Použije Bitwarden v Safari a ostatních prohlížečích pro\n        automatické vyplnění přihlašovacích údajů.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description": {
+    "value": "Použije službu přístupnosti pro automatické\n        vyplňování přihlašovacích údajů.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description2": {
+    "value": "Služba přístupnosti může být užitečná, pokud\n        aplikace nepodporují standardní službu automatického vyplňování.\n    "
+  },
+  "bitwarden_autofill_alert2": {
+    "value": "Nejjednodušší způsob, jak přidat nové přihlašovací údaje do trezoru, je\n        pomocí rozšíření automatického vyplňování Bitwardenu. Další informace o používání rozšíření automatického\n        vyplňování Bitwardenu naleznete na obrazovce Nastavení.\n    "
+  },
+  "bitwarden_autofill_description": {
+    "value": "Přistupujte k Vašemu trezoru přímo z Vaší klávesnice pro rychlejší\n        automatické vyplnění hesel.\n    "
+  },
+  "bitwarden_autofill_go_to_settings": {
+    "value": "Obrazovku nastavení automatického vyplňování Android se nepodařilo\n        otevřít. Nastavení můžete otevřít ručně z Nastavení systému Android  Systém  Jazyky a zadávání \n        Rozšířená nastavení  Služba automatického vyplňování.\n    "
+  },
+  "bitwarden_autofill_service": {
+    "value": "Služba automatického vyplňování"
+  },
+  "bitwarden_autofill_service_alert2": {
+    "value": "Nejjednodušší způsob, jak přidat nové přihlašovací údaje do Vašeho\n        trezoru, je služba automatického vyplňování Bitwarden. Další informace o použití této služby naleznete\n        na obrazovce \\\"Nastavení\\\".\n    "
+  },
+  "bitwarden_autofill_service_description": {
+    "value": "Použijte službu přístupnosti pro automatické vyplňování\n        přihlašovacích údajů, platebních karet či identit v ostatních aplikacích.\n    "
+  },
+  "bitwarden_autofill_service_match_confirm": {
+    "value": "Opravdu chcete tyto přihlašovací údaje automaticky vyplnit?\n        Nejsou úplně shodné s \\\"%1$s\\\".\n    "
+  },
+  "bitwarden_autofill_service_notification_content": {
+    "value": "Klepnutím na toto oznámení automaticky vyplníte\n        přihlašovací údaje z trezoru.\n    "
+  },
+  "bitwarden_autofill_service_notification_content_old": {
+    "value": "Klepnutím na toto oznámení zobrazíte přihlašovací\n        údaje z trezoru.\n    "
+  },
+  "bitwarden_autofill_service_open_accessibility_settings": {
+    "value": "Otevřít nastavení přístupnosti"
+  },
+  "bitwarden_autofill_service_open_autofill_settings": {
+    "value": "Otevřít nastavení automatického vyplňování"
+  },
+  "bitwarden_autofill_service_open_overlay_permission_settings": {
+    "value": "Otevřít nastavení oprávnění překrytí\n        obrazovky\n    "
+  },
+  "bitwarden_autofill_service_overlay": {
+    "value": "Když vyberete vstupní pole a uvidíte překrytí automatického\n        vyplnění, můžete na něj klepnout a spustit službu automatického vyplnění.\n    "
+  },
+  "bitwarden_autofill_service_overlay_permission": {
+    "value": "3. V nastavení Android aplikace Bitwarden přejděte\n        v části Rozšířená nastavení do \\\"Zobrazit přes ostatní aplikace\\\" a povolte zobrazení přes jiné aplikace.\n    "
+  },
+  "bitwarden_autofill_service_search": {
+    "value": "Hledáte přihlašovací údaje k automatickému vyplnění pro \\\"%1$s\\\".\n    "
+  },
+  "bitwarden_autofill_service_step1": {
+    "value": "1. V nastavení Přístupnosti systému Android klepněte\n        na \\\"Bitwarden\\\" v části \\\"Stažené služby\\\".\n    "
+  },
+  "bitwarden_autofill_service_step2": {
+    "value": "2. Zapněte přepínač a potvrďte stisknutím tlačítka OK."
+  },
+  "bitwarden_autofill_service_step3": {
+    "value": "3. V nastavení Android aplikace Bitwarden přejděte v části Rozšířená\n        nastavení do \\\"Zobrazit přes ostatní aplikace\\\" a povolte zobrazení přes jiné aplikace.\n    "
+  },
+  "bitwarden_can_notify_you_each_time_you_receive_a_new_login_request_from_another_device": {
+    "value": "Bitwarden Vás\n        může upozornit pokaždé, když obdržíte novou žádost o přihlášení z jiného zařízení.\n    "
+  },
+  "bitwarden_cannot_recover_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden nemůže obnovit ztracené nebo\n        zapomenuté hlavní heslo.\n    "
+  },
+  "bitwarden_cannot_reset_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden nemůže obnovit ztracené nebo\n        zapomenuté hlavní heslo.\n    "
+  },
+  "bitwarden_credential_provider_go_to_settings": {
+    "value": "Obrazovku nastavení automatického vyplňování Android se\n        nepodařilo otevřít. Nastavení můžete otevřít ručně z Nastavení systému Android  Systém  Hesla a účty\n         Hesla, přístupové klíče a datové služby.\n    "
+  },
+  "bitwarden_help_center": {
+    "value": "Centrum nápovědy Bitwarden"
+  },
+  "bitwarden_tools": {
+    "value": "Nástroje Bitwarden"
+  },
+  "bitwarden_will_soon_send_a_code_to_your_account_email_to_verify_logins_from_new_devices_in_february": {
+    "value": "\n        Bitwarden odešle kód na e-mail Vašeho účtu pro ověření přihlášení z nových zařízení počínaje únorem 2025.\n    "
+  },
+  "black": {
+    "value": "Černý"
+  },
+  "block_auto_fill": {
+    "value": "Blokovat automatické vyplňování"
+  },
+  "brand": {
+    "value": "Vydavatel"
+  },
+  "by_activating_this_switch_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "Zapnutím tohoto\n        spínače souhlasíte s <annotation link=\"termsOfService\">Podmínkami služby</annotation> a\n        <annotation link=\"privacyPolicy\">Zásadami ochrany osobních údajů</annotation>\n    "
+  },
+  "by_continuing_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "Pokračováním souhlasíte s <annotation link=\"termsOfService\">Podmínkami služby\n    </annotation> a\n        <annotation link=\"privacyPolicy\">Zásadami ochrany osobních údajů</annotation>\n    "
+  },
+  "camera": {
+    "value": "Kamera"
+  },
+  "cancel": {
+    "value": "Zrušit"
+  },
+  "cannot_add_authenticator_key": {
+    "value": "Nelze přidat ověřovací klíč?"
+  },
+  "cannot_add_authenticator_key_scan_qr_code": {
+    "value": "Nelze přidat ověřovací klíč?\n        <annotation link=\"scanQrCode\">Naskenovat QR kód</annotation>\n    "
+  },
+  "cannot_edit_multiple_ur_is_at_once": {
+    "value": "Najednou nelze upravovat více URI"
+  },
+  "cannot_open_app": {
+    "value": "Nelze otevřít aplikaci \\\"%1$s\\\"."
+  },
+  "cannot_scan_qr_code_enter_key_manually": {
+    "value": "Nelze naskenovat QR kód?\n        <annotation link=\"enterKeyManually\">Zadejte klíč ručně</annotation>\n    "
+  },
+  "capitalize": {
+    "value": "Velká písmena na začátku slova"
+  },
+  "captcha_failed": {
+    "value": "Captcha selhala. Zkuste to znovu."
+  },
+  "captcha_required": {
+    "value": "Vyžadována Captcha"
+  },
+  "card_details": {
+    "value": "Detaily karty"
+  },
+  "cardholder_name": {
+    "value": "Jméno držitele karty"
+  },
+  "cards": {
+    "value": "Karty"
+  },
+  "catch_all_email": {
+    "value": "E-mail pro doménový koš"
+  },
+  "catch_all_email_description": {
+    "value": "Použijte nakonfigurovanou univerzální schránku své domény."
+  },
+  "certificate_alias": {
+    "value": "Alias certifikátu"
+  },
+  "certificate_alias_already_exists": {
+    "value": "Alias certifikátu již existuje"
+  },
+  "certificate_installation_failed": {
+    "value": "Instalace certifikátu se nezdařila"
+  },
+  "certificate_installed": {
+    "value": "Certifikát nainstalován"
+  },
+  "certificate_password_incorrect": {
+    "value": "Nesprávné heslo certifikátu"
+  },
+  "certificate_selection_failed": {
+    "value": "Výběr certifikátu se nezdařil"
+  },
+  "certificate_used_for_client_authentication": {
+    "value": "Certifikát používaný pro ověření klienta."
+  },
+  "change_account_email": {
+    "value": "Změnit e-mail účtu"
+  },
+  "change_email": {
+    "value": "Změnit e-mail"
+  },
+  "change_email_address": {
+    "value": "Změnit e-mailovou adresu"
+  },
+  "change_email_confirmation": {
+    "value": "E-mailovou adresu si můžete změnit na webové stránce bitwarden.com. Chcete\n        tuto stránku nyní otevřít?\n    "
+  },
+  "change_master_password": {
+    "value": "Změnit hlavní heslo"
+  },
+  "change_master_password_description_long": {
+    "value": "Hlavní heslo můžete změnit ve webové aplikaci Bitwarden.\n    "
+  },
+  "check_known_data_breaches_for_this_password": {
+    "value": "Zkontrolovat heslo, zda nebylo odhaleno"
+  },
+  "check_out_the_passphrase_generator": {
+    "value": "\"Podívejte se na generátor přístupové fráze\""
+  },
+  "check_password": {
+    "value": "Zkontrolujte, zda nedošlo k úniku hesla."
+  },
+  "check_password_for_data_breaches": {
+    "value": "Kontrola hesla pro případ narušení bezpečnosti dat"
+  },
+  "check_your_email": {
+    "value": "Zkontrolujte Váš e-mail"
+  },
+  "checking_password": {
+    "value": "Kontrolování hesla..."
+  },
+  "choose_a_login_to_save_this_passkey_to": {
+    "value": "Vyberte přihlášení pro uložení tohoto přístupového klíče\n    "
+  },
+  "choose_a_unique_and_strong_password_to_keep_your_information_safe": {
+    "value": "Zvolte jedinečné a silné heslo pro\n        zabezpečení Vašich informací.\n    "
+  },
+  "choose_file": {
+    "value": "Vybrat soubor"
+  },
+  "choose_system_certificate": {
+    "value": "Vyberte systémový certifikát"
+  },
+  "choose_three_or_four_random_words": {
+    "value": "Vyberte tři nebo čtyři náhodná slova"
+  },
+  "choose_your_master_password": {
+    "value": "Zvolte hlavní heslo"
+  },
+  "city_town": {
+    "value": "Město"
+  },
+  "class_2_biometrics_description": {
+    "value": "Odemykání pomocí biometrie vyžaduje silné biometrické ověření a není\n        kompatibilní s volbami biometrie dostupnými v tomto zařízení.\n    "
+  },
+  "class_3_biometrics_description": {
+    "value": "Odemykání pomocí biometrie vyžaduje silné biometrické ověření a nemusí\n        být kompatibilní se všemi biometrickými volbami tohoto zařízení.\n    "
+  },
+  "clear": {
+    "value": "Vymazat"
+  },
+  "clear_clipboard": {
+    "value": "Vymazat schránku"
+  },
+  "clear_clipboard_description": {
+    "value": "Automaticky vymaže zkopírované hodnoty z Vaší schránky."
+  },
+  "client_certificate_mtls": {
+    "value": "Klientský certifikát (mTLS)"
+  },
+  "clone": {
+    "value": "Duplikovat"
+  },
+  "close": {
+    "value": "Zavřít"
+  },
+  "coachmark_1_of_3": {
+    "value": "1 Z 3"
+  },
+  "coachmark_1_of_6": {
+    "value": "1 Z 6"
+  },
+  "coachmark_2_of_3": {
+    "value": "2 Z 3"
+  },
+  "coachmark_2_of_6": {
+    "value": "2 Z 6"
+  },
+  "coachmark_3_of_3": {
+    "value": "3 Z 3"
+  },
+  "coachmark_3_of_6": {
+    "value": "3 Z 6"
+  },
+  "coachmark_4_of_6": {
+    "value": "4 Z 6"
+  },
+  "coachmark_5_of_6": {
+    "value": "5 Z 6"
+  },
+  "coachmark_6_of_6": {
+    "value": "6 Z 6"
+  },
+  "code_sent": {
+    "value": "Kód byl odeslán!"
+  },
+  "collections": {
+    "value": "Kolekce"
+  },
+  "combine_those_words_together": {
+    "value": "Spojte tato slova dohromady"
+  },
+  "company": {
+    "value": "Společnost"
+  },
+  "confim_log_in_attemp_for_x": {
+    "value": "Potvrdit pokus o přihlášení pro %1$s"
+  },
+  "confirm": {
+    "value": "Potvrdit"
+  },
+  "confirm_file_password": {
+    "value": "Potvrdit heslo souboru"
+  },
+  "confirm_log_in": {
+    "value": "Potvrdit přihlášení"
+  },
+  "confirm_your_identity": {
+    "value": "Pro pokračování potvrďte svou identitu."
+  },
+  "connect_to_watch": {
+    "value": "Propojit s hodinkami"
+  },
+  "contact_bitwarden_support": {
+    "value": "Kontakt na podporu Bitwarden"
+  },
+  "contact_info": {
+    "value": "Kontaktní informace"
+  },
+  "contact_support_description_long": {
+    "value": "Nenašli jste to, co jste hledali? Na bitwarden.com získejte\n        podporu.\n    "
+  },
+  "continue_text": {
+    "value": "Pokračovat"
+  },
+  "continue_to_app_store": {
+    "value": "Pokračovat do obchodu s aplikacemi?"
+  },
+  "continue_to_complete_web_authn_verification": {
+    "value": "Pokračujte pro dokončení ověření WebAuthn."
+  },
+  "continue_to_contact_support": {
+    "value": "Pokračovat v kontaktování podpory?"
+  },
+  "continue_to_device_settings": {
+    "value": "Pokračovat do nastavení zařízení?"
+  },
+  "continue_to_give_feedback": {
+    "value": "Pokračovat pro zanechání zpětné vazby?"
+  },
+  "continue_to_help_center": {
+    "value": "Pokračovat do centra nápovědy?"
+  },
+  "continue_to_privacy_policy": {
+    "value": "Pokračovat na Zásady ochrany osobních údajů?"
+  },
+  "continue_to_provide_feedback": {
+    "value": "Pokračujte v poskytování zpětné vazby na novou aplikaci!"
+  },
+  "continue_to_web_app": {
+    "value": "Pokračovat do webové aplikace?"
+  },
+  "continue_to_x": {
+    "value": "Pokračovat do %1$s?"
+  },
+  "copied_to_clipboard": {
+    "value": "Zkopírováno do schránky."
+  },
+  "copy": {
+    "value": "Kopírovat"
+  },
+  "copy_address": {
+    "value": "Kopírovat adresu"
+  },
+  "copy_app_information": {
+    "value": "Kopírovat informace o aplikaci"
+  },
+  "copy_application": {
+    "value": "Kopírovat aplikaci"
+  },
+  "copy_company": {
+    "value": "Kopírovat společnost"
+  },
+  "copy_email": {
+    "value": "Kopírovat e-mail"
+  },
+  "copy_fingerprint": {
+    "value": "Kopírovat otisk prstu"
+  },
+  "copy_identity_name": {
+    "value": "Kopírovat název identity"
+  },
+  "copy_license_number": {
+    "value": "Kopírovat číslo dokladu totožnosti"
+  },
+  "copy_link": {
+    "value": "Kopírovat odkaz"
+  },
+  "copy_notes": {
+    "value": "Kopírovat poznámku"
+  },
+  "copy_number": {
+    "value": "Kopírovat číslo"
+  },
+  "copy_passport_number": {
+    "value": "Kopírovat číslo pasu"
+  },
+  "copy_password": {
+    "value": "Kopírovat heslo"
+  },
+  "copy_phone": {
+    "value": "Kopírovat telefonní číslo"
+  },
+  "copy_private_key": {
+    "value": "Kopírovat soukromý klíč"
+  },
+  "copy_public_key": {
+    "value": "Kopírovat veřejný klíč"
+  },
+  "copy_security_code": {
+    "value": "Kopírovat bezpečnostní kód"
+  },
+  "copy_send_link_on_save": {
+    "value": "Při uložení zkopírovat odkaz na Send"
+  },
+  "copy_ssn": {
+    "value": "Kopírovat rodné číslo"
+  },
+  "copy_totp": {
+    "value": "Kopírovat TOTP"
+  },
+  "copy_totp_automatically": {
+    "value": "Automaticky kopírovat TOTP"
+  },
+  "copy_totp_automatically_description": {
+    "value": "Pokud mají Vaše přihlašovací údaje přidán ověřovací klíč pro\n        TOTP, vygenerovaný ověřovací kód (TOTP) se automaticky zkopíruje do schránky při každém automatickém vyplnění\n        přihlašovacích údajů.\n    "
+  },
+  "copy_username": {
+    "value": "Kopírovat uživatelské jméno"
+  },
+  "country": {
+    "value": "Stát"
+  },
+  "create_a_hint": {
+    "value": "Vytvořit nápovědu"
+  },
+  "create_account": {
+    "value": "Vytvořit účet"
+  },
+  "create_account_on": {
+    "value": "Vytvořit účet na"
+  },
+  "create_account_on_with_colon": {
+    "value": "Vytvořit účet na:"
+  },
+  "create_an_account": {
+    "value": "Vytvořit účet"
+  },
+  "created_xy": {
+    "value": "Vytvořeno %1$s, %2$s"
+  },
+  "creating_account": {
+    "value": "Vytváření účtu..."
+  },
+  "credits": {
+    "value": "Autoři"
+  },
+  "current_access_count": {
+    "value": "Aktuální počet přístupů"
+  },
+  "current_master_password_required": {
+    "value": "Aktuální hlavní heslo (vyžadováno)"
+  },
+  "custom": {
+    "value": "Vlastní"
+  },
+  "custom_environment": {
+    "value": "Vlastní prostředí"
+  },
+  "custom_environment_footer": {
+    "value": "Pro pokročilé uživatele. Můžete zadat základní URL každé služby zvlášť.\n    "
+  },
+  "custom_field_name": {
+    "value": "Název vlastního pole"
+  },
+  "custom_fields": {
+    "value": "Vlastní pole"
+  },
+  "cxp_export": {
+    "value": "Exportovat CXP"
+  },
+  "cxp_import": {
+    "value": "Import CXP"
+  },
+  "dark": {
+    "value": "Tmavý"
+  },
+  "data_region": {
+    "value": "Datový region"
+  },
+  "date_password_updated": {
+    "value": "Heslo bylo aktualizováno"
+  },
+  "date_updated": {
+    "value": "Aktualizováno"
+  },
+  "december": {
+    "value": "prosinec"
+  },
+  "decline": {
+    "value": "Zamítnout"
+  },
+  "decline_all_requests": {
+    "value": "Zamítnout všechny žádosti"
+  },
+  "default_dark_theme": {
+    "value": "Výchozí tmavý motiv"
+  },
+  "default_dark_theme_description_long": {
+    "value": "Vybere tmavý motiv při použití tmavého režimu Vašeho zařízení.\n    "
+  },
+  "default_system": {
+    "value": "Výchozí (Systémový)"
+  },
+  "default_text": {
+    "value": "Výchozí"
+  },
+  "default_uri_match_detection": {
+    "value": "Výchozí zjišťování shody URI"
+  },
+  "default_uri_match_detection_description": {
+    "value": "Vyberte výchozí způsob, jakým se detekuje shoda URI\n        přihlašovacích údajů. Používá se například pro automatické vyplňování.\n    "
+  },
+  "delete": {
+    "value": "Smazat"
+  },
+  "delete_account": {
+    "value": "Smazat účet"
+  },
+  "delete_account_explanation": {
+    "value": "Váš účet a všechna související data budou vymazána a neobnovitelná.\n        Opravdu chcete pokračovat?\n    "
+  },
+  "delete_this_file_after_import_is_complete": {
+    "value": "Po dokončení importu tento soubor smažete."
+  },
+  "deleting": {
+    "value": "Mazání..."
+  },
+  "deleting_your_account": {
+    "value": "Mazání Vašeho účtu"
+  },
+  "deleting_your_account_is_permanent": {
+    "value": "Smazání Vašeho účtu je trvalé"
+  },
+  "deletion_date": {
+    "value": "Datum smazání"
+  },
+  "deletion_date_info": {
+    "value": "Tento Send bude trvale smazán v určený datum a čas."
+  },
+  "deletion_time": {
+    "value": "Čas smazání"
+  },
+  "denied": {
+    "value": "Zamítnuto"
+  },
+  "deny_log_in": {
+    "value": "Zamítnout přihlášení"
+  },
+  "device_type": {
+    "value": "Typ zařízení"
+  },
+  "disable_personal_vault_export_policy_in_effect": {
+    "value": "Jedna nebo více zásad organizace Vám brání v exportu\n        Vašeho osobního trezoru.\n    "
+  },
+  "disabled": {
+    "value": "Zakázáno"
+  },
+  "do_you_have_a_computer_available": {
+    "value": "Máte k dispozici počítač?"
+  },
+  "do_you_have_reliable_access_to_your_email": {
+    "value": "Máte spolehlivý přístup ke svému e-mailu\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n        ?\n    "
+  },
+  "do_you_really_want_to_delete": {
+    "value": "Opravdu chcete smazat tuto položku? Akce je nevratná."
+  },
+  "do_you_really_want_to_permanently_delete_cipher": {
+    "value": "Opravdu chcete trvale tuto položku smazat? Akce je\n        nevratná.\n    "
+  },
+  "do_you_really_want_to_restore_cipher": {
+    "value": "Opravdu chcete tuto položku obnovit?"
+  },
+  "do_you_really_want_to_soft_delete_cipher": {
+    "value": "Opravdu chcete položku přesunout do koše?"
+  },
+  "domain_name_required_parenthesis": {
+    "value": "Název domény (vyžadován)"
+  },
+  "done_text": {
+    "value": "Hotovo"
+  },
+  "download": {
+    "value": "Stáhnout"
+  },
+  "download_the_browser_extension": {
+    "value": "Stáhnout rozšíření prohlížeče"
+  },
+  "downloading": {
+    "value": "Stahování..."
+  },
+  "dr": {
+    "value": "Dr."
+  },
+  "draw_over": {
+    "value": "Použít vykreslování přes ostatní aplikace"
+  },
+  "draw_over_description": {
+    "value": "Služba přístupnosti aplikace Bitwarden umožní zobrazovat vyskakovací okno\n        při výběru pole s přihlašovacími údaji.\n    "
+  },
+  "draw_over_description2": {
+    "value": "Pokud je povoleno, služba přístupnosti Bitwardenu zobrazí vyskakovací okno při\n        výběru přihlašovacích polí pro automatické vyplňování přihlašovacích údajů.\n    "
+  },
+  "draw_over_description3": {
+    "value": "Pokud je povoleno, přístupnost zobrazí vyskakovací okno pro rozšíření služby\n        automatického vyplňování pro starší aplikace, které nepodporují Android Autofill Framework.\n    "
+  },
+  "duck_duck_go": {
+    "value": "DuckDuckGo"
+  },
+  "duo_two_step_login_is_required_for_your_account": {
+    "value": "Pro Váš účet je vyžadováno dvoufázové přihlášení\n        DUO.\n    "
+  },
+  "edit": {
+    "value": "Upravit"
+  },
+  "edit_card": {
+    "value": "Upravit kartu"
+  },
+  "edit_folder": {
+    "value": "Upravit složku"
+  },
+  "edit_identity": {
+    "value": "Upravit identitu"
+  },
+  "edit_item": {
+    "value": "Upravit položku"
+  },
+  "edit_login": {
+    "value": "Upravit přihlašovací údaje"
+  },
+  "edit_note": {
+    "value": "Upravit poznámku"
+  },
+  "edit_passkey": {
+    "value": "Upravit přístupový klíč"
+  },
+  "edit_send": {
+    "value": "Upravit Send"
+  },
+  "edit_uri": {
+    "value": "Upravit URI"
+  },
+  "email": {
+    "value": "E-mail"
+  },
+  "email_address": {
+    "value": "E-mailová adresa"
+  },
+  "email_address_required": {
+    "value": "E-mailová adresa (povinná)"
+  },
+  "email_required_parenthesis": {
+    "value": "E-mail (vyžadován)"
+  },
+  "email_type": {
+    "value": "Typ e-mailu"
+  },
+  "email_us": {
+    "value": "Napište nám"
+  },
+  "email_us_description": {
+    "value": "Napište nám e-mail pro získání pomoci nebo zanechání zpětné vazby."
+  },
+  "email_verified": {
+    "value": "E-mail byl ověřen"
+  },
+  "enable_automatic_syncing": {
+    "value": "Povolit automatickou synchronizaci"
+  },
+  "enable_camer_permission_to_use_the_scanner": {
+    "value": "Pro použití skeneru musíte povolit přístup k fotoaparátu\n    "
+  },
+  "enable_notifications": {
+    "value": "Povolit oznámení"
+  },
+  "enable_sync_on_refresh": {
+    "value": "Povolit synchronizaci při obnovení"
+  },
+  "enable_sync_on_refresh_description": {
+    "value": "Trezor se synchronizuje gestem potažení dolů."
+  },
+  "enabled": {
+    "value": "Povoleno"
+  },
+  "encryption_key_migration_required_description_long": {
+    "value": "Vyžaduje se migrace šifrovacího klíče. Pro\n        aktualizaci šifrovacího klíče se přihlaste přes webový trezor.\n    "
+  },
+  "enter_email_for_hint": {
+    "value": "Zadejte e-mailovou adresu pro zaslání nápovědy k hlavnímu heslu."
+  },
+  "enter_key_manually": {
+    "value": "Zadat klíč ručně"
+  },
+  "enter_pin": {
+    "value": "Zadejte PIN kód"
+  },
+  "enter_the_client_certificate_password_and_alias": {
+    "value": "Zadejte heslo klientského certifikátu a požadovaný\n        alias pro tento certifikát.\n    "
+  },
+  "enter_the_verification_code_that_was_sent_to_your_email": {
+    "value": "Zadejte ověřovací kód, který byl odeslán do\n        Vašeho e-mailu\n    "
+  },
+  "enter_uri": {
+    "value": "Zadat URI"
+  },
+  "enter_verification_code_app": {
+    "value": "Zadejte 6místný kód z ověřovací aplikace."
+  },
+  "enter_verification_code_email": {
+    "value": "Zadejte 6místný kód z e-mailu, který byl zaslán na %1$s."
+  },
+  "enter_verification_code_new_device": {
+    "value": "Toto zařízení nelze rozpoznat. Zadejte osmimístný ověřovací kód,\n        který byl zaslán e-mailem na %1$s.\n    "
+  },
+  "environment_page_urls_error": {
+    "value": "Jedna nebo více zadaných URL jsou neplatné. Zkontrolujte je a opakujte\n        akci znovu.\n    "
+  },
+  "environment_saved": {
+    "value": "URL vlastního prostředí byly uloženy."
+  },
+  "error_connecting_with_the_duo_service_use_a_different_two_step_login_method_or_contact_duo_for_assistance": {
+    "value": "\n        Chyba při připojování ke službě Duo. Použijte jinou dvoufázovou metodu přihlášení nebo kontaktujte Duo o pomoc.\n    "
+  },
+  "error_creating_passkey": {
+    "value": "Chyba při vytváření přístupového klíče"
+  },
+  "error_loading_certificate": {
+    "value": "Chyba při načítání certifikátu"
+  },
+  "error_reading_passkey": {
+    "value": "Chyba při čtení přístupového klíče"
+  },
+  "eu": {
+    "value": "EU"
+  },
+  "exact": {
+    "value": "Přesně"
+  },
+  "exit": {
+    "value": "Ukončit"
+  },
+  "exit_confirmation": {
+    "value": "Opravdu chcete ukončit Bitwarden?"
+  },
+  "exntesion_reenable": {
+    "value": "Znovu zapnout rozšíření aplikace"
+  },
+  "expiration": {
+    "value": "Expirace"
+  },
+  "expiration_month": {
+    "value": "Měsíc expirace"
+  },
+  "expiration_year": {
+    "value": "Rok expirace"
+  },
+  "expired": {
+    "value": "Vypršela platnost"
+  },
+  "expired_link": {
+    "value": "Platnost odkazu vypršela"
+  },
+  "explore_more_features_of_your_bitwarden_account_on_the_web_app": {
+    "value": "Prozkoumejte další funkce Vašeho účtu\n        Bitwarden ve webové aplikaci.\n    "
+  },
+  "explore_the_generator": {
+    "value": "Prozkoumat generátor"
+  },
+  "export_vault": {
+    "value": "Exportovat trezor"
+  },
+  "export_vault_confirmation_title": {
+    "value": "Potvrdit export trezoru"
+  },
+  "export_vault_failure": {
+    "value": "Při exportu Vašeho trezoru došlo k chybě. Pokud problém přetrvává, proveďte\n        export z webového trezoru.\n    "
+  },
+  "export_vault_file_pw_protect_info": {
+    "value": "Tento soubor exportu bude chráněn heslem a k dešifrování bude\n        vyžadovat heslo souboru.\n    "
+  },
+  "export_vault_master_password_description": {
+    "value": "Zadejte své hlavní heslo pro export dat."
+  },
+  "export_vault_success": {
+    "value": "Trezor byl úspěšně exportován"
+  },
+  "export_vault_warning": {
+    "value": "Tento export obsahuje data Vašeho trezoru v nezašifrovaném formátu. Soubor s\n        exportem byste neměli ukládat ani odesílat přes nezabezpečené kanály (např. e-mailem). Smažte jej okamžitě po\n        jeho použití.\n    "
+  },
+  "export_your_passwords_this_option_is_usually_found_in_your_settings": {
+    "value": "\n        <annotation emphasis=\"bold\">Exportujte Vaše hesla.</annotation>\n        Tato volba může být obvykle nalezena v nastavení.\n    "
+  },
+  "export_your_saved_logins": {
+    "value": "Export Vašich uložených přihlášení"
+  },
+  "exposed_master_password": {
+    "value": "Odhalené hlavní heslo"
+  },
+  "extension_activated": {
+    "value": "Rozšíření aktivováno!"
+  },
+  "extension_almost_done": {
+    "value": "Téměř hotovo!"
+  },
+  "extension_enable": {
+    "value": "Zapnout rozšíření aplikace"
+  },
+  "extension_in_safari": {
+    "value": "V Safari používá Bitwarden ikonu pro sdílení (nápověda: nachází se vpravo dole v\n        menu).\n    "
+  },
+  "extension_instant_access": {
+    "value": "Získejte okamžitý přístup ke svým heslům!"
+  },
+  "extension_ready": {
+    "value": "Jste připraveni se přihlásit!"
+  },
+  "extension_setup": {
+    "value": "Vaše přihlašovací údaje jsou nyní snadno přístupné ze Safari, Chromu a dalších\n        podporovaných aplikací.\n    "
+  },
+  "extension_setup2": {
+    "value": "V Safari a Chromu najdete Bitwarden pomocí ikony sdílení (nápověda: nachází se\n        vpravo dole v menu).\n    "
+  },
+  "extension_tap_icon": {
+    "value": "Pro spuštění rozšíření klepněte na ikonu Bitwardenu v menu."
+  },
+  "extension_turn_on": {
+    "value": "Pro zapnutí Bitwardenu v prohlížeči Safari a dalších aplikacích klepněte na ikonu\n        \\\"Další\\\" v dolní části menu.\n    "
+  },
+  "face_id": {
+    "value": "Face ID"
+  },
+  "face_id_direction": {
+    "value": "Použít Face ID k ověření."
+  },
+  "fastmail": {
+    "value": "Fastmail"
+  },
+  "favorite": {
+    "value": "Oblíbené"
+  },
+  "favorites": {
+    "value": "Oblíbené"
+  },
+  "feature_unavailable": {
+    "value": "Funkce je nedostupná"
+  },
+  "february": {
+    "value": "únor"
+  },
+  "fido2_authenticate_web_authn": {
+    "value": "Ověření WebAuthn"
+  },
+  "fido2_check_browser": {
+    "value": "Ujistěte se, že Váš výchozí prohlížeč podporuje WebAuthn a zkuste to znovu.\n    "
+  },
+  "fido2_desc": {
+    "value": "Ověřování pomocí FIDO2 WebAuthn. Můžete se ověřit pomocí externího bezpečnostního klíče.\n    "
+  },
+  "fido2_instruction": {
+    "value": "Chcete-li pokračovat, mějte připravený bezpečnostní klíč kompatibilní s FIDO2 a\n        postupujte podle pokynů po klepnutí na \\'Ověření WebAuthn\\' na další obrazovce.\n    "
+  },
+  "fido2_return_to_app": {
+    "value": "Zpět do aplikace"
+  },
+  "fido2_title": {
+    "value": "FIDO2 WebAuthn"
+  },
+  "field_type_boolean": {
+    "value": "Boolean"
+  },
+  "field_type_hidden": {
+    "value": "Skryté"
+  },
+  "field_type_linked": {
+    "value": "Propojené"
+  },
+  "field_type_text": {
+    "value": "Text"
+  },
+  "fifteen_minutes": {
+    "value": "15 minut"
+  },
+  "file": {
+    "value": "Soubor"
+  },
+  "file_bug_report": {
+    "value": "Nahlásit chybu"
+  },
+  "file_bug_report_description": {
+    "value": "Nahlaste chybu přímo v našem repozitáři na GitHubu."
+  },
+  "file_format": {
+    "value": "Formát souboru"
+  },
+  "file_password": {
+    "value": "Heslo souboru"
+  },
+  "file_source": {
+    "value": "Zdrojový soubor"
+  },
+  "file_type_is_not_selected": {
+    "value": "Není vybrán typ souboru, klepněte pro výběr."
+  },
+  "file_type_is_selected": {
+    "value": "Je vybrán typ souboru."
+  },
+  "fill_out_the_form_and_import_your_saved_password_file": {
+    "value": "Vyplňte formulář a\n        <annotation emphasis=\"bold\">importujte soubor s uloženým heslem.</annotation>\n    "
+  },
+  "filter_by_vault": {
+    "value": "Filtrovat položky podle trezoru"
+  },
+  "fingerprint": {
+    "value": "Otisk prstu"
+  },
+  "fingerprint_direction": {
+    "value": "Pro ověření použijte otisk prstu."
+  },
+  "fingerprint_phrase": {
+    "value": "Fráze otisku prstu"
+  },
+  "firefox_relay": {
+    "value": "Firefox Relay"
+  },
+  "first_dot_go_to_your_device_settings_passwords_password_options": {
+    "value": "1. Přejděte do nastavení  Hesla\n         Volby hesla\n    "
+  },
+  "first_name": {
+    "value": "Křestní jméno"
+  },
+  "five_minutes": {
+    "value": "5 minut"
+  },
+  "folder": {
+    "value": "Složka"
+  },
+  "folder_created": {
+    "value": "Nová složka byla vytvořena."
+  },
+  "folder_deleted": {
+    "value": "Složka byla smazána."
+  },
+  "folder_none": {
+    "value": "Žádná složka"
+  },
+  "folder_updated": {
+    "value": "Složka byla uložena"
+  },
+  "folders": {
+    "value": "Složky"
+  },
+  "follow_the_instructions_in_the_email_sent_to_x_to_continue_creating_your_account": {
+    "value": "Postupujte podle\n        instrukcí zaslaných na e-mail\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n        , abyste mohli pokračovat ve vytváření účtu.\n    "
+  },
+  "follow_the_steps_from_duo_to_finish_logging_in": {
+    "value": "Postupujte podle kroků od DUO pro dokončení\n        přihlášení.\n    "
+  },
+  "for_your_security_be_sure_to_delete_your_saved_password_file": {
+    "value": "Z důvodu bezpečnosti nezapomeňte\n        <annotation emphasis=\"bold\">smazat soubor s uloženým heslem.</annotation>\n    "
+  },
+  "format_x": {
+    "value": "Formát: %1$s"
+  },
+  "format_x_separate_multiple_ur_is_with_a_comma": {
+    "value": "Formát: %1$s. Oddělte více URI čárkou."
+  },
+  "formatted_incorrectly": {
+    "value": "%1$s nemá správný formát."
+  },
+  "forward_email": {
+    "value": "ForwardEmail"
+  },
+  "forwarded_email_alias": {
+    "value": "Alias přeposílaného e-mailu"
+  },
+  "forwarded_email_description": {
+    "value": "Vygeneruje alias e-mailu pomocí externí přeposílací služby."
+  },
+  "four_hours": {
+    "value": "4 hodiny"
+  },
+  "from_your_computer_follow_these_instructions_to_export_saved_passwords": {
+    "value": "Chcete-li exportovat uložená\n        hesla z prohlížeče nebo jiného správce hesel, postupujte v počítači podle těchto pokynů. Poté je bezpečně\n        importujte do aplikace Bitwarden.\n    "
+  },
+  "full_name": {
+    "value": "Celé jméno"
+  },
+  "generate_button_label": {
+    "value": "Vygenerovat"
+  },
+  "generate_master_password": {
+    "value": "Vygenerovat hlavní heslo"
+  },
+  "generate_password": {
+    "value": "Vygenerovat heslo"
+  },
+  "generate_username": {
+    "value": "Vygenerovat uživatelské jméno"
+  },
+  "generator": {
+    "value": "Generátor"
+  },
+  "generic_error_message": {
+    "value": "Nepodařilo se nám zpracovat Váš požadavek. Zkuste to znovu nebo nás\n        kontaktujte.\n    "
+  },
+  "get_advice_announcements_and_research_opportunities_from_bitwarden_in_your_inbox_unsubscribe_any_time": {
+    "value": "\n        Dostávejte do své e-mailové schránky rady, oznámení a příležitosti k výzkumu od společnosti Bitwarden. Odhlásit\n        odběr můžete kdykoli.\n    "
+  },
+  "get_emails_from_bitwarden_for_announcements_advices_and_research_opportunities_unsubscribe_any_time": {
+    "value": "\n        Získejte e-maily od Bitwardenu pro oznámení, poradenství a výzkumné příležitosti. <annotation link=\"unsubscribe\">Odhlásit\n    </annotation> se můžete kdykoli.\n    "
+  },
+  "get_instant_access_to_your_passwords_and_passkeys": {
+    "value": "Získejte okamžitý přístup ke svým heslům a\n        přístupovým klíčům!\n    "
+  },
+  "get_master_passwordword_hint": {
+    "value": "Získat nápovědu pro hlavní heslo"
+  },
+  "get_password_hint": {
+    "value": "Získat nápovědu pro hlavní heslo"
+  },
+  "get_started": {
+    "value": "Začínáme"
+  },
+  "give_feedback": {
+    "value": "Zanechat zpětnou vazbu"
+  },
+  "give_your_vault_a_head_start": {
+    "value": "Dejte svému trezoru náskok"
+  },
+  "go_back": {
+    "value": "Zpět"
+  },
+  "go_to_bitwarden_com_download_to_integrate_bitwarden_into_browser": {
+    "value": "Přejděte na bitwarden.com/download a\n        integrujte Bitwarden do svého oblíbeného prohlížeče pro bezproblémové používání.\n    "
+  },
+  "go_to_my_vault": {
+    "value": "Přejít do trezoru"
+  },
+  "go_to_website": {
+    "value": "Přejít na webovou stránku"
+  },
+  "good": {
+    "value": "Dobré"
+  },
+  "got_it": {
+    "value": "Rozumím"
+  },
+  "granted": {
+    "value": "Uděleno"
+  },
+  "help_and_feedback": {
+    "value": "Nápověda a zpětná vazba"
+  },
+  "help_with_server_geolocations": {
+    "value": "Nápověda ke geolokaci serverů."
+  },
+  "hide": {
+    "value": "Skrýt"
+  },
+  "hide_email": {
+    "value": "Skrýt mou e-mailovou adresu před příjemci"
+  },
+  "hide_text_by_default": {
+    "value": "Při přístupu k Send, ve výchozím nastavení skrýt text"
+  },
+  "hold_yubikey_near_top": {
+    "value": "Podržte Yubikey u horní části zařízení."
+  },
+  "host": {
+    "value": "Hostitel"
+  },
+  "icons": {
+    "value": "Ikony"
+  },
+  "icons_url": {
+    "value": "URL serveru ikon"
+  },
+  "identification": {
+    "value": "Identifikace"
+  },
+  "identities": {
+    "value": "Identity"
+  },
+  "identity_name": {
+    "value": "Název identity"
+  },
+  "identity_url": {
+    "value": "URL serveru identity"
+  },
+  "immediately": {
+    "value": "Okamžitě"
+  },
+  "import_certificate": {
+    "value": "Importovat certifikát"
+  },
+  "import_client_certificate": {
+    "value": "Importovat klientský certifikát"
+  },
+  "import_error": {
+    "value": "Chyba importu"
+  },
+  "import_items": {
+    "value": "Importovat položky"
+  },
+  "import_items_confirmation": {
+    "value": "Na bitwarden.com můžete do webového trezoru hromadně importovat položky.\n        Chcete tuto stránku nyní otevřít?\n    "
+  },
+  "import_items_description": {
+    "value": "Importuje rychle a hromadně údaje z jiných aplikací pro správu hesel.\n    "
+  },
+  "import_logins": {
+    "value": "Import přihlašovacích údajů"
+  },
+  "import_logins_later": {
+    "value": "Importovat přihlášení později"
+  },
+  "import_logins_later_dialog_title": {
+    "value": "Importovat přihlášení později?"
+  },
+  "import_logins_to_bitwarden": {
+    "value": "Importovat přihlášení do Bitwardenu"
+  },
+  "import_saved_logins": {
+    "value": "Importovat uložená přihlášení"
+  },
+  "import_successful": {
+    "value": "Import byl úspěšný!"
+  },
+  "important": {
+    "value": "Důležité"
+  },
+  "important_notice": {
+    "value": "Důležité upozornění"
+  },
+  "improves_login_filling_for_supported_websites_on_chrome": {
+    "value": "Zlepšuje vyplňování přihlašovacích údajů pro\n        podporované webové stránky na Chrome. Pokud je povoleno, budete přesměrováni na nastavení Chrome, abyste\n        povolili automatické vyplňování třetích stran.\n    "
+  },
+  "in_the_bitwarden_navigation_find_the_tools_option_and_select_import_data": {
+    "value": "V navigaci Bitwardenu <annotation emphasis=\"bold\">najděte volbu Nástroje\n    </annotation> a vyberte\n        <annotation emphasis=\"bold\">Importovat data.</annotation>\n    "
+  },
+  "include_number": {
+    "value": "Zahrnout číslice"
+  },
+  "inline_autofill": {
+    "value": "Použít automatické vyplňování"
+  },
+  "inline_autofill_description": {
+    "value": "Použije automatické vyplňování, pokud to podporuje Váš vybraný editor IME\n        (klávesnice). Pokud Vaše konfigurace není podporována (nebo je tato možnost zakázána), použije se výchozí\n        překrytí automatického vyplňování.\n    "
+  },
+  "internet_connection_required_message": {
+    "value": "Před pokračováním se připojte k internetu."
+  },
+  "internet_connection_required_title": {
+    "value": "Je vyžadováno připojení k internetu"
+  },
+  "invalid_api_key": {
+    "value": "Neplatný klíč API"
+  },
+  "invalid_api_token": {
+    "value": "Neplatný token API"
+  },
+  "invalid_certificate_chain": {
+    "value": "Neplatný řetězec certifikátů"
+  },
+  "invalid_email": {
+    "value": "Neplatná e-mailová adresa."
+  },
+  "invalid_format_use_https_http_or_android_app": {
+    "value": "Neplatný formát. Použijte https://, http:// nebo\n        androidapp://\n    "
+  },
+  "invalid_master_password": {
+    "value": "Chybné hlavní heslo. Zkuste to znovu."
+  },
+  "invalid_pin": {
+    "value": "Chybný PIN. Zkuste to znovu."
+  },
+  "invalid_uri": {
+    "value": "Neplatný URI"
+  },
+  "invalid_verification_code": {
+    "value": "Neplatný ověřovací kód."
+  },
+  "ip_address": {
+    "value": "IP adresa"
+  },
+  "item_deleted": {
+    "value": "Položka byla smazána"
+  },
+  "item_details": {
+    "value": "Detaily položky"
+  },
+  "item_information": {
+    "value": "Informace o položce"
+  },
+  "item_name_required": {
+    "value": "Název položky (povinné)"
+  },
+  "item_restored": {
+    "value": "Položka byla obnovena"
+  },
+  "item_shared": {
+    "value": "Položka byla sdílena."
+  },
+  "item_soft_deleted": {
+    "value": "Položka byla přesunuta do koše."
+  },
+  "item_updated": {
+    "value": "Položka byla uložena"
+  },
+  "items": {
+    "value": "Položky"
+  },
+  "items_for_uri": {
+    "value": "Položky pro %1$s"
+  },
+  "january": {
+    "value": "leden"
+  },
+  "july": {
+    "value": "červenec"
+  },
+  "june": {
+    "value": "červen"
+  },
+  "just_now": {
+    "value": "Právě teď"
+  },
+  "keep_it_secret_keep_it_safe": {
+    "value": "Buďte opatrní a ponechte své písemné heslo v bezpečí a tajnosti."
+  },
+  "language": {
+    "value": "Jazyk"
+  },
+  "language_change_requires_app_restart": {
+    "value": "Změna jazyka vyžaduje restart aplikace."
+  },
+  "language_change_x_description": {
+    "value": "Jazyk byl změněn na %1$s. Pro zobrazení změn restartujte aplikaci.\n    "
+  },
+  "last_name": {
+    "value": "Příjmení"
+  },
+  "last_sync": {
+    "value": "Poslední synchronizace:"
+  },
+  "launch": {
+    "value": "Spustit"
+  },
+  "launch_duo": {
+    "value": "Spustit DUO"
+  },
+  "launch_web_authn": {
+    "value": "Otevřít WebAuthn"
+  },
+  "learn_about_new_logins": {
+    "value": "Více o nových přihlášeních"
+  },
+  "learn_about_organizations_description_long": {
+    "value": "Bitwarden Vám umožňuje sdílet položky v trezoru\n        s ostatními prostřednictvím organizace. Více informací naleznete na bitwarden.com.\n    "
+  },
+  "learn_about_other_ways_to_prevent_account_lockout": {
+    "value": "Více o dalších způsobech, jak zabránit uzamčení\n        účtu\n    "
+  },
+  "learn_about_ways_to_prevent_account_lockout": {
+    "value": "\n        <annotation link=\"onPreventAccountLockout\">Více o způsobech, jak zabránit uzamčení účtu</annotation>\n    "
+  },
+  "learn_more": {
+    "value": "Dozvědět se více"
+  },
+  "learn_more_about_generating_secure_login_credentials_with_guided_tour": {
+    "value": "Další informace o generování\n        bezpečných přihlašovacích údajů pomocí prohlídky s průvodcem.\n    "
+  },
+  "learn_more_about_how_to_use_bitwarden_on_the_help_center": {
+    "value": "Přečtěte si více o tom, jak používat\n        Bitwarden v centru nápovědy.\n    "
+  },
+  "learn_org": {
+    "value": "Více o organizacích"
+  },
+  "learn_org_confirmation": {
+    "value": "Bitwarden Vám umožňuje sdílet položky v trezoru s ostatními prostřednictvím\n        organizace. Chcete přejít na bitwarden.com a dozvědět se více?\n    "
+  },
+  "leave_organization": {
+    "value": "Opustit organizaci"
+  },
+  "leave_organization_name": {
+    "value": "Opustit %1$s?"
+  },
+  "length": {
+    "value": "Délka"
+  },
+  "level_up_your_logins": {
+    "value": "Zvýšit úroveň přihlašování"
+  },
+  "license_number": {
+    "value": "Číslo dokladu totožnosti"
+  },
+  "light": {
+    "value": "Světlý"
+  },
+  "link": {
+    "value": "Odkaz"
+  },
+  "loading": {
+    "value": "Načítání"
+  },
+  "lock": {
+    "value": "Zamknout"
+  },
+  "lock_now": {
+    "value": "Zamknout nyní"
+  },
+  "log_in_accepted": {
+    "value": "Přihlášení potvrzeno"
+  },
+  "log_in_at_bitwarden_com_to_easily_manage_your_account": {
+    "value": "Přihlaste se na bitwarden.com a snadno\n        spravujte svůj účet a aktualizujte nastavení.\n    "
+  },
+  "log_in_attempt_by_x_on_y": {
+    "value": "Pokus o přihlášení od %1$s na %2$s"
+  },
+  "log_in_denied": {
+    "value": "Přihlášení zamítnuto"
+  },
+  "log_in_initiated": {
+    "value": "Bylo zahájeno přihlášení"
+  },
+  "log_in_noun": {
+    "value": "Přihlašovací údaje"
+  },
+  "log_in_quickly_and_easily_across_devices": {
+    "value": "Přihlašujte se rychle a snadno napříč zařízeními"
+  },
+  "log_in_requested": {
+    "value": "Bylo vyžádáno přihlášení"
+  },
+  "log_in_sso": {
+    "value": "Jednotné podnikové přihlášení"
+  },
+  "log_in_sso_summary": {
+    "value": "Rychle se přihlaste pomocí přihlašovacího portálu Vaší organizace. Chcete-li\n        začít, zadejte identifikátor Vaší organizace.\n    "
+  },
+  "log_in_to_bitwarden": {
+    "value": "Přihlásit se do Bitwardenu"
+  },
+  "log_in_to_the_bitwarden_web_app": {
+    "value": "Přihlaste se do webové aplikace Bitwarden."
+  },
+  "log_in_verb": {
+    "value": "Přihlásit se"
+  },
+  "log_in_with_another_device": {
+    "value": "Přihlásit se pomocí jiného zařízení"
+  },
+  "log_in_with_device": {
+    "value": "Přihlásit se zařízením"
+  },
+  "log_in_with_device_must_be_set_up_in_the_settings_of_the_bitwarden_app_need_another_option": {
+    "value": "Přihlášení\n        zařízením musí být nastaveno v aplikaci Bitwarden. Potřebujete další volby?\n    "
+  },
+  "log_in_with_master_password": {
+    "value": "Přihlásit se pomocí hlavního hesla"
+  },
+  "log_out": {
+    "value": "Odhlásit se"
+  },
+  "logged_in": {
+    "value": "Přihlášeno!"
+  },
+  "logged_in_as_on": {
+    "value": "Přihlášen jako %1$s na %2$s."
+  },
+  "logging_in": {
+    "value": "Přihlašování..."
+  },
+  "logging_in_as_x": {
+    "value": "Přihlašování jako %1$s"
+  },
+  "logging_in_as_x_on_y": {
+    "value": "Přihlašování jako %1$s na %2$s"
+  },
+  "logging_in_on": {
+    "value": "Přihlašování na"
+  },
+  "logging_in_on_with_colon": {
+    "value": "Přihlašování na:"
+  },
+  "login_approved": {
+    "value": "Přihlášení bylo schváleno"
+  },
+  "login_attempt_from_x_do_you_want_to_switch_to_this_account": {
+    "value": "Pokus o přihlášení z:\n        %1$s\n        Chcete se přepnout na tento účet?\n    "
+  },
+  "login_credentials": {
+    "value": "Přihlašovací údaje"
+  },
+  "login_expired": {
+    "value": "Platnost přihlášení vypršela."
+  },
+  "login_request_has_already_expired": {
+    "value": "Požadavek na přihlášení již vypršel."
+  },
+  "login_sso_error": {
+    "value": "Aktuálně se nelze přihlásit pomocí SSO"
+  },
+  "login_to_bitwarden": {
+    "value": "Přihlásit se do Bitwardenu"
+  },
+  "login_unavailable": {
+    "value": "Přihlášení není dostupné"
+  },
+  "logins": {
+    "value": "Přihlašovací údaje"
+  },
+  "logins_imported": {
+    "value": "Přihlášení byla importována"
+  },
+  "logout_confirmation": {
+    "value": "Opravdu se chcete odhlásit?"
+  },
+  "lost_2fa_app": {
+    "value": "Ztratili jste ověřovací aplikaci?"
+  },
+  "lowercase_ato_z": {
+    "value": "Malá písmena (A-Z)"
+  },
+  "make_it_yours": {
+    "value": "Vytvořte si vlastní"
+  },
+  "manage": {
+    "value": "Správa"
+  },
+  "manage_your_logins_from_anywhere_with_bitwarden_tools": {
+    "value": "Spravujte přihlašovací údaje odkudkoli pomocí\n        nástrojů Bitwarden pro web i počítač.\n    "
+  },
+  "march": {
+    "value": "březen"
+  },
+  "master_password": {
+    "value": "Hlavní heslo"
+  },
+  "master_password_confirmation_val_message": {
+    "value": "Potvrzení hesla se neshoduje."
+  },
+  "master_password_description": {
+    "value": "Hlavní heslo je heslo, které používáte k přístupu do Vašeho trezoru. Je\n        velmi důležité, abyste jej nezapomněli. Neexistuje totiž žádný způsob, jak heslo obnovit v případě, že jste jej\n        zapomněli.\n    "
+  },
+  "master_password_hint": {
+    "value": "Nápověda k hlavnímu heslu (volitelné)"
+  },
+  "master_password_hint_description": {
+    "value": "Nápověda k hlavnímu heslu Vám pomůže vzpomenout si heslo, pokud ho\n        zapomenete.\n    "
+  },
+  "master_password_hint_not_specified": {
+    "value": "Nápověda k hlavnímu heslu"
+  },
+  "master_password_important_hint": {
+    "value": "Důležité: Pokud zapomenete Vaše hlavní heslo, nebude možné jej\n        obnovit! Heslo musí mít alespoň 12 znaků.\n    "
+  },
+  "master_password_length_val_message_x": {
+    "value": "Hlavní heslo musí obsahovat alespoň %1$s znaků."
+  },
+  "master_password_policy_in_effect": {
+    "value": "Jedna nebo více zásad organizace vyžaduje, aby hlavní heslo\n        splňovalo následující požadavky:\n    "
+  },
+  "master_password_policy_validation_message": {
+    "value": "Heslo nesplňuje požadavky organizace. Zkontrolujte\n        požadavky a zkuste to znovu.\n    "
+  },
+  "master_password_policy_validation_title": {
+    "value": "Neplatné heslo"
+  },
+  "master_password_re_prompt_help": {
+    "value": "Nápověda pro znovuzeptání se na hlavní heslo"
+  },
+  "master_password_required": {
+    "value": "Hlavní heslo (vyžadováno)"
+  },
+  "match_detection": {
+    "value": "Zjišťování shody"
+  },
+  "matching_items": {
+    "value": "Odpovídající položky"
+  },
+  "max_file_size": {
+    "value": "Maximální velikost souboru je 100 MB."
+  },
+  "maximum_access_count": {
+    "value": "Maximální počet přístupů"
+  },
+  "maximum_access_count_info": {
+    "value": "Je-li nastaveno, uživatelé již nebudou mít přístup k tomuto Send, jakmile\n        bude dosaženo maximálního počtu přístupů.\n    "
+  },
+  "maximum_access_count_reached": {
+    "value": "Dosažen maximální počet přístupů"
+  },
+  "may": {
+    "value": "květen"
+  },
+  "middle_name": {
+    "value": "Prostřední jméno"
+  },
+  "min_numbers": {
+    "value": "Minimální počet číslic"
+  },
+  "min_special": {
+    "value": "Minimální počet speciálních znaků"
+  },
+  "minimum_characters": {
+    "value": "%1$s znaků"
+  },
+  "miscellaneous": {
+    "value": "Různé"
+  },
+  "more": {
+    "value": "Více"
+  },
+  "more_settings": {
+    "value": "Další nastavení"
+  },
+  "move": {
+    "value": "Přesunout"
+  },
+  "move_down": {
+    "value": "Přesunout dolů"
+  },
+  "move_to_org_desc": {
+    "value": "Vyberte organizaci, do které chcete tuto položku přesunout. Přesun do organizace\n        převede vlastnictví položky této organizaci. Po přesunutí této položky již nebudete přímým vlastníkem této\n        položky.\n    "
+  },
+  "move_to_organization": {
+    "value": "Přesunout do organizace"
+  },
+  "move_up": {
+    "value": "Přesunout nahoru"
+  },
+  "moved_item_to_org": {
+    "value": "Položka %1$s byla přesunuta do %2$s."
+  },
+  "mr": {
+    "value": "Pan"
+  },
+  "mrs": {
+    "value": "Paní"
+  },
+  "ms": {
+    "value": "Slečna"
+  },
+  "must_log_in_main_app": {
+    "value": "Před použitím rozšíření se musíte nejdříve přihlásit v hlavní aplikaci\n        Bitwarden.\n    "
+  },
+  "must_log_in_main_app_autofill": {
+    "value": "Před použitím automatického vyplňování se musíte nejdříve přihlásit\n        v hlavní aplikaci Bitwardenu.\n    "
+  },
+  "mutual_tls": {
+    "value": "Vzájemné TLS"
+  },
+  "mx": {
+    "value": "Neutrální"
+  },
+  "my_vault": {
+    "value": "Můj trezor"
+  },
+  "name": {
+    "value": "Název"
+  },
+  "near": {
+    "value": "Poblíž"
+  },
+  "need_another_option": {
+    "value": "Potřebujete další volby?"
+  },
+  "need_help_check_out_import_help": {
+    "value": "Potřebujete pomoc? Podívejte se na <annotation link=\"importHelp\">\n        nápovědu pro import</annotation>.\n    "
+  },
+  "need_some_inspiration": {
+    "value": "\"Potřebujete inspiraci?\""
+  },
+  "never": {
+    "value": "Nikdy"
+  },
+  "never_lock_warning": {
+    "value": "Nastavení zámku na \\\"Nikdy\\\" ponechá Váš trezor k dispozici komukoli s přístupem k\n        Vašemu zařízení. Používáte-li tuto možnost, měli byste zajistit, aby Vaše zařízení bylo náležitě chráněno.\n    "
+  },
+  "never_lose_access_to_your_vault": {
+    "value": "Nikdy neztratíte přístup do Vašeho trezoru"
+  },
+  "new_blocked_uri": {
+    "value": "Nový blokovaný URI"
+  },
+  "new_card": {
+    "value": "Nová karta"
+  },
+  "new_custom_field": {
+    "value": "Nové vlastní pole"
+  },
+  "new_file_send": {
+    "value": "Odeslat Send se soubory"
+  },
+  "new_identity": {
+    "value": "Nová identita"
+  },
+  "new_item": {
+    "value": "Nová položka"
+  },
+  "new_item_created": {
+    "value": "Položka byla přidána"
+  },
+  "new_login": {
+    "value": "Nové přihlášení"
+  },
+  "new_master_password_hint": {
+    "value": "Nápověda k novému hlavnímu heslu"
+  },
+  "new_master_password_required": {
+    "value": "Nové hlavní heslo (vyžadováno)"
+  },
+  "new_note": {
+    "value": "Nová poznámka"
+  },
+  "new_passkey": {
+    "value": "Nové přístupový klíč"
+  },
+  "new_password": {
+    "value": "Nové heslo"
+  },
+  "new_send_created": {
+    "value": "Send byl vytvořen"
+  },
+  "new_ssh_key": {
+    "value": "Nový SSH klíč"
+  },
+  "new_text_send": {
+    "value": "Odeslat textový Send"
+  },
+  "new_to_bitwarden": {
+    "value": "Jste noví na Bitwardenu?"
+  },
+  "new_uri": {
+    "value": "Nová URI"
+  },
+  "next": {
+    "value": "Další"
+  },
+  "no": {
+    "value": "Ne"
+  },
+  "no_attachments": {
+    "value": "Žádné přílohy."
+  },
+  "no_cards": {
+    "value": "Žádné karty ve Vašem trezoru."
+  },
+  "no_collections_to_list": {
+    "value": "Žádné kolekce k zobrazení."
+  },
+  "no_email_go_back_to_edit_your_email_address": {
+    "value": "Žádný e-mail? <annotation link=\"goBack\">Vraťte se\n    </annotation> a upravte svou e-mailovou adresu.\n    "
+  },
+  "no_favorites": {
+    "value": "Žádné oblíbené přihlašovací údaje."
+  },
+  "no_file_chosen": {
+    "value": "Není vybrán žádný soubor"
+  },
+  "no_file_sends": {
+    "value": "Žádné Sends se soubory ve Vašem trezoru."
+  },
+  "no_folder": {
+    "value": "Žádná složka"
+  },
+  "no_folders_to_list": {
+    "value": "Nejsou k dispozici žádné složky k zobrazení."
+  },
+  "no_identities": {
+    "value": "Žádné identity ve Vašem trezoru."
+  },
+  "no_items": {
+    "value": "Žádné položky."
+  },
+  "no_items_collection": {
+    "value": "V této kolekci nejsou žádné položky."
+  },
+  "no_items_folder": {
+    "value": "V této složce nejsou žádné položky."
+  },
+  "no_items_for_uri": {
+    "value": "Žádné položky ve Vašem trezoru pro %1$s."
+  },
+  "no_items_for_vault": {
+    "value": "Žádné položky ve Vašem trezoru se shodou s \\\"%1$s\\\""
+  },
+  "no_items_tap": {
+    "value": "Pro tuto stránku neexistují žádné položky. Klepněte pro jejich přidání."
+  },
+  "no_items_to_list": {
+    "value": "Žádné položky k zobrazení."
+  },
+  "no_items_trash": {
+    "value": "V koši nejsou žádné položky."
+  },
+  "no_logins": {
+    "value": "Žádné přihlašovací údaje ve Vašem trezoru."
+  },
+  "no_logins_were_imported": {
+    "value": "Nebyla importována žádná přihlášení"
+  },
+  "no_notes": {
+    "value": "Žádné poznámky ve Vašem trezoru."
+  },
+  "no_orgs_to_list": {
+    "value": "Žádné organizace k zobrazení."
+  },
+  "no_passwords_to_list": {
+    "value": "Žádná hesla k zobrazení."
+  },
+  "no_pending_requests": {
+    "value": "Žádné čekající žádosti"
+  },
+  "no_sends": {
+    "value": "Ve Vašem účtu nejsou žádné Sends."
+  },
+  "no_ssh_keys": {
+    "value": "Žádné SSH klíče ve Vašem trezoru."
+  },
+  "no_text_sends": {
+    "value": "Žádné textové Sends ve Vašem trezoru."
+  },
+  "no_thanks": {
+    "value": "Ne, děkuji"
+  },
+  "no_two_step_available": {
+    "value": "Tento účet má dvoufázové přihlášení, ale žádný z nakonfigurovaných\n        poskytovatelů dvoufázového přihlášení není na tomto zařízení podporován. Použijte prosím podporované zařízení\n        nebo přidejte další poskytovatele, kteří jsou lépe podporováni napříč zařízeními (jako je ověřovací aplikace).\n    "
+  },
+  "no_username": {
+    "value": "Žádné uživatelské jméno"
+  },
+  "no_username_password_configured": {
+    "value": "Tyto přihlašovací údaje nemají nastavené uživatelské jméno nebo\n        heslo.\n    "
+  },
+  "nord": {
+    "value": "Nord"
+  },
+  "not_you": {
+    "value": "Nejste to Vy?"
+  },
+  "notes": {
+    "value": "Poznámky"
+  },
+  "notes_info": {
+    "value": "Soukromé poznámky k tomuto Send."
+  },
+  "notice": {
+    "value": "Upozornění"
+  },
+  "november": {
+    "value": "listopad"
+  },
+  "number": {
+    "value": "Číslo"
+  },
+  "number_of_words": {
+    "value": "Počet slov"
+  },
+  "numbers_zero_to_nine": {
+    "value": "Číslice (0-9)"
+  },
+  "october": {
+    "value": "říjen"
+  },
+  "off": {
+    "value": "Vypnuto"
+  },
+  "ok": {
+    "value": "OK"
+  },
+  "ok_got_it": {
+    "value": "OK, rozumím!"
+  },
+  "on": {
+    "value": "Zapnuto"
+  },
+  "on_restart": {
+    "value": "Při restartu aplikace"
+  },
+  "on_your_computer_log_in_to_your_current_browser_or_password_manager": {
+    "value": "Na Vašem počítači se\n        <annotation emphasis=\"bold\">přihlaste do aktuálního prohlížeče nebo správce hesel.</annotation>\n    "
+  },
+  "on_your_computer_open_a_new_browser_tab_and_go_to_vault_bitwarden_com": {
+    "value": "Na Vašem počítači otevřete\n        novou kartu prohlížeče a\n        <annotation emphasis=\"bold\">přejděte na\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "once_the_key_is_successfully_entered": {
+    "value": "Jakmile je klíč úspěšně zadán, zvolte \\\"Přidat TOTP\\\" pro\n        bezpečné uložení klíče\n    "
+  },
+  "one_day": {
+    "value": "1 den"
+  },
+  "one_hour": {
+    "value": "1 hodina"
+  },
+  "one_hour_and_one_minute": {
+    "value": "Jedna hodina a jedna minuta"
+  },
+  "one_hour_and_x_minute": {
+    "value": "Jedna hodina a %1$s minut"
+  },
+  "one_minute": {
+    "value": "1 minuta"
+  },
+  "one_of_the_best_ways_to_create_a_secure_and_memorable_password": {
+    "value": "Jedním z nejlepších způsobů, jak\n        vytvořit bezpečné a zapamatovatelné heslo, je použití přístupové fráze.\\nZde je, jak:\n    "
+  },
+  "open": {
+    "value": "Otevřít"
+  },
+  "open_email_app": {
+    "value": "Otevřít e-mailovou aplikaci"
+  },
+  "option_defaults": {
+    "value": "Výchozí nastavení je převzato z nastavení generování hesel v aplikaci Bitwarden.\n    "
+  },
+  "options": {
+    "value": "Volby"
+  },
+  "options_collapsed": {
+    "value": "Volby jsou sbaleny, klepněte pro rozbalení."
+  },
+  "options_expanded": {
+    "value": "Volby jsou rozbaleny, klepněte pro sbalení."
+  },
+  "or_log_in_you_may_already_have_an_account": {
+    "value": "Nebo se <annotation link=\"logIn\">přihlaste</annotation>,\n        možná už máte účet.\n    "
+  },
+  "org_identifier": {
+    "value": "Identifikátor organizace"
+  },
+  "organization": {
+    "value": "Organizace"
+  },
+  "organization_is_using_sso_with_a_self_hosted_key_server": {
+    "value": "%1$s používá SSO s vlastním serverem s klíči.\n        Hlavní heslo pro členy této organizace již není vyžadováno.\n    "
+  },
+  "organization_sso_identifier_required": {
+    "value": "Je vyžadován SSO identifikátor organizace."
+  },
+  "organization_unassigned_items_message_self_host_041624_description_long": {
+    "value": "Dne 16. května 2024 již\n        nebudou nepřiřazené položky organizace viditelné v zobrazení Všechny trezory a budou přístupné jen\n        prostřednictvím konzoly správce. Přiřaďte tyto položky do kolekce z konzoly pro správce, aby byly viditelné.\n    "
+  },
+  "organization_unassigned_items_message_useu_description_long": {
+    "value": "Nepřiřazené položky organizace již nejsou\n        viditelné ve Vašem zobrazení všech trezorů a jsou nyní přístupné jen v konzoli správce. Přiřaďte tyto položky do\n        kolekce z konzole pro správce, aby byly viditelné.\n    "
+  },
+  "other": {
+    "value": "Ostatní"
+  },
+  "overlay_permission": {
+    "value": "Oprávnění"
+  },
+  "overwrite_passkey": {
+    "value": "Přepsat přístupový klíč?"
+  },
+  "owner": {
+    "value": "Vlastník"
+  },
+  "ownership": {
+    "value": "Vlastnictví"
+  },
+  "page_number_x_of_y": {
+    "value": "%1$s z %2$s"
+  },
+  "passkey": {
+    "value": "Přístupový klíč"
+  },
+  "passkey_authentication_failed_due_to_an_internal_error": {
+    "value": "Operace přístupového klíče se nezdařila kvůli\n        vnitřní chybě.\n    "
+  },
+  "passkey_management": {
+    "value": "Správa přístupových klíčů"
+  },
+  "passkey_management_explanation_long": {
+    "value": "Použijte Bitwarden pro ukládání nových přístupových klíčů a\n        přihlašování se pomocí přístupových klíčů uložených ve Vašem trezoru.\n    "
+  },
+  "passkey_operation_failed_because_app_could_not_be_verified": {
+    "value": "Operace přístupového klíče se nezdařila,\n        protože aplikaci nelze ověřit\n    "
+  },
+  "passkey_operation_failed_because_app_is_signed_incorrectly": {
+    "value": "Operace přístupového klíče se nezdařila,\n        protože aplikace je nesprávně podepsána.\n    "
+  },
+  "passkey_operation_failed_because_app_not_found_in_asset_links": {
+    "value": "Operace přístupového klíče se\n        nezdařila, protože v odkazech na aktivum nebyla nalezena aplikace\n    "
+  },
+  "passkey_operation_failed_because_app_signature_is_invalid": {
+    "value": "Operace přístupového klíče se nezdařila,\n        protože podpis aplikace je neplatný.\n    "
+  },
+  "passkey_operation_failed_because_browser_is_not_privileged": {
+    "value": "Operace přístupového klíče se nezdařila,\n        protože prohlížeč nemá oprávnění\n    "
+  },
+  "passkey_operation_failed_because_browser_signature_does_not_match": {
+    "value": "Operace přístupového klíče se\n        nezdařila, protože se neshoduje s podpisem prohlížeče\n    "
+  },
+  "passkey_operation_failed_because_host_url_is_not_present_in_request": {
+    "value": "Operace přístupového klíče se\n        nezdařila, protože v poždavku není přítomna hostitelská URL.\n    "
+  },
+  "passkey_operation_failed_because_no_item_was_selected": {
+    "value": "Operace přístupového klíče se nezdařila,\n        protože nebyla vybrána žádná položka.\n    "
+  },
+  "passkey_operation_failed_because_of_missing_asset_links": {
+    "value": "Operace přístupového klíče selhala z důvodu\n        chybějících odkazů na aktiva\n    "
+  },
+  "passkey_operation_failed_because_relying_party_cannot_be_identified": {
+    "value": "Operace přístupového klíče se\n        nezdařila, protože nemůže být identifikována protistrana.\n    "
+  },
+  "passkey_operation_failed_because_the_request_is_invalid": {
+    "value": "Operace přístupového klíče se nezdařila,\n        protože je požadavek neplatný.\n    "
+  },
+  "passkey_operation_failed_because_the_selected_item_does_not_exist": {
+    "value": "Operace přístupového klíče se\n        nezdařila, protože vybraná položka neexistuje.\n    "
+  },
+  "passkey_operation_failed_because_user_could_not_be_verified": {
+    "value": "Operace přístupového klíče se nezdařila,\n        protože uživatele nelze ověřit.\n    "
+  },
+  "passkey_operation_failed_because_user_is_locked_out": {
+    "value": "Operace přístupového klíče se nezdařila, protože\n        byl uživatel uzamčen.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_attempts_exceeded": {
+    "value": "Operace přístupového klíče se\n        nezdařila, protože byly vyčerpány všechny pokusy o ověření uživatele.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_was_cancelled": {
+    "value": "Operace přístupového klíče se\n        nezdařila, protože ověření uživatele bylo zrušeno.\n    "
+  },
+  "passkey_registration_failed_due_to_an_internal_error": {
+    "value": "Operace přístupového klíče se nezdařila kvůli\n        vnitřní chybě.\n    "
+  },
+  "passkey_removed": {
+    "value": "Přístupový klíč byl odebrán"
+  },
+  "passkey_will_not_be_copied": {
+    "value": "Přístupový klíč nebude zkopírován"
+  },
+  "passkeys": {
+    "value": "Přístupové klíče"
+  },
+  "passkeys_for_x": {
+    "value": "Přístupové klíče pro %1$s"
+  },
+  "passkeys_not_supported_for_this_app": {
+    "value": "Přístupové klíče nejsou pro tuto aplikaci podporovány"
+  },
+  "passphrase": {
+    "value": "Heslová fráze"
+  },
+  "passphrases_are_strong_passwords_that_are_often_easier_to_remember_and_type_than_random_passwords": {
+    "value": "\n        Přístupové fráze jsou silná hesla, která jsou často jednodušší pro zapamatování a zápis než náhodná hesla. Jsou\n        užitečné pro přihlášení do účtů, kde není automatické vyplňování k dispozici (např. streamovací služba ve vašem\n        televizoru).\n    "
+  },
+  "passport_number": {
+    "value": "Číslo cestovního pasu"
+  },
+  "password": {
+    "value": "Heslo"
+  },
+  "password_autofill": {
+    "value": "Automatické vyplňování hesel"
+  },
+  "password_confirmation": {
+    "value": "Potvrzení hlavního hesla"
+  },
+  "password_confirmation_desc": {
+    "value": "Tato akce je chráněna. Chcete-li pokračovat, zadejte znovu Vaše hlavní\n        heslo, abychom ověřili Vaši totožnost.\n    "
+  },
+  "password_exposed": {
+    "value": "K úniku tohoto hesla došlo celkem %1$sx. Měli byste jej změnit."
+  },
+  "password_found_in_a_data_breach_alert_description": {
+    "value": "Heslo bylo nalezeno mezi odhalenými hesly. K\n        zabezpečení Vašeho účtu používejte jedinečné heslo. Opravdu chcete používat odhalené heslo?\n    "
+  },
+  "password_generated": {
+    "value": "Heslo bylo vygenerováno."
+  },
+  "password_generator": {
+    "value": "Generátor hesel"
+  },
+  "password_generator_policy_in_effect": {
+    "value": "Jedna nebo více zásad organizace ovlivňují nastavení generátoru\n    "
+  },
+  "password_hint": {
+    "value": "Nápověda pro heslo"
+  },
+  "password_hint_alert": {
+    "value": "Poslali jsme Vám e-mail s nápovědou k hlavnímu heslu."
+  },
+  "password_history": {
+    "value": "Historie hesel"
+  },
+  "password_history_count": {
+    "value": "\n        <annotation link=\"passwordHistory\">Historie hesla:\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "password_info": {
+    "value": "Vyžadovat totot heslo pro přístup k tomuto Send."
+  },
+  "password_is_not_visible_tap_to_show": {
+    "value": "Heslo není viditelné, klepněte pro zobrazení."
+  },
+  "password_is_visible_tap_to_hide": {
+    "value": "Heslo je viditelné, klepněte pro skrytí."
+  },
+  "password_override_alert": {
+    "value": "Opravdu chcete přepsat aktuální heslo?"
+  },
+  "password_prompt": {
+    "value": "Zeptat se znovu na hlavní heslo"
+  },
+  "password_protected": {
+    "value": "Chráněno heslem"
+  },
+  "password_safe": {
+    "value": "V žádném ze známých případů nedošlo k úniku tohoto hesla. Mělo by být bezpečné používat\n        jej i nadále.\n    "
+  },
+  "password_type": {
+    "value": "Typ hesla"
+  },
+  "password_used_to_export": {
+    "value": "Toto heslo bude použito pro export a import tohoto souboru"
+  },
+  "passwords": {
+    "value": "Hesla"
+  },
+  "passwords_for_x": {
+    "value": "Hesla pro %1$s"
+  },
+  "pending_delete": {
+    "value": "Čeká na smazání"
+  },
+  "pending_log_in_requests": {
+    "value": "Čekající žádosti na přihlášení"
+  },
+  "personal_details": {
+    "value": "Osobní údaje"
+  },
+  "personal_ownership_policy_in_effect": {
+    "value": "Zásady organizace ovlivňují možnosti vlastnictví."
+  },
+  "personal_ownership_submit_error": {
+    "value": "Z důvodu podnikových zásad nemůžete ukládat položky do svého osobního\n        trezoru. Změňte vlastnictví položky na organizaci a poté si vyberte z dostupných kolekcí.\n    "
+  },
+  "phone": {
+    "value": "Telefon"
+  },
+  "photos": {
+    "value": "Fotky"
+  },
+  "pick_three_or_four_random_unrelated_words": {
+    "value": "Vyberte tři nebo čtyři náhodná slova, která si snadno\n        pamatujete. Vzpomeňte si na <annotation emphasis=\"bold\">objekty, místa nebo věci,</annotation> které se Vám\n        líbí.\n    "
+  },
+  "pin": {
+    "value": "PIN"
+  },
+  "pin_require_master_password_restart": {
+    "value": "Chcete po restartování aplikace vyžadovat hlavní heslo pro\n        odemknutí trezoru?\n    "
+  },
+  "please_make_sure_your_vault_is_unlocked_and_the_fingerprint_phrase_matches_on_the_other_device": {
+    "value": "\n        Ujistěte se, že je Váš trezor odemčen a fráze otisku prstu se shodují s druhým zařízením.\n    "
+  },
+  "please_restart_registration_or_try_logging_in": {
+    "value": "Restartujte registraci nebo se zkuste přihlásit. Možná\n        již máte účet.\n    "
+  },
+  "plus_addressed_email": {
+    "value": "E-mailová adresa s plusem"
+  },
+  "plus_addressed_email_description": {
+    "value": "Použijte funkce podadres Vašeho poskytovatele e-mailu"
+  },
+  "point_your_camera_at_the_qr_code": {
+    "value": "Nasměrujte kameru na QR kód.\n        Načtení proběhne automaticky.\n    "
+  },
+  "policy_in_effect_lowercase": {
+    "value": "Obsahuje jedno nebo více malých písmen"
+  },
+  "policy_in_effect_min_complexity": {
+    "value": "Minimální skóre složitosti %1$s"
+  },
+  "policy_in_effect_min_length": {
+    "value": "Minimální délka %1$s"
+  },
+  "policy_in_effect_numbers": {
+    "value": "Obsahuje jednu nebo více číslic"
+  },
+  "policy_in_effect_special": {
+    "value": "Obsahuje jeden nebo více následujících speciálních znaků: %1$s"
+  },
+  "policy_in_effect_uppercase": {
+    "value": "Obsahuje jedno nebo více velkých písmen"
+  },
+  "possible_matching_items": {
+    "value": "Možné odpovídající položky"
+  },
+  "premium_required": {
+    "value": "Pro použití této funkce je potřebné členství Premium."
+  },
+  "premium_subscription_required": {
+    "value": "Je vyžadováno předplatné Premium"
+  },
+  "prevent_account_lockout": {
+    "value": "Zabránit uzamčení účtu"
+  },
+  "privacy_policy": {
+    "value": "Zásady ochrany osobních údajů"
+  },
+  "privacy_policy_description_long": {
+    "value": "Podívejte se na naše Zásady ochrany osobních údajů na\n        bitwarden.com.\n    "
+  },
+  "private_key": {
+    "value": "Soukromý klíč"
+  },
+  "private_notes": {
+    "value": "Soukromé poznámky"
+  },
+  "public_key": {
+    "value": "Veřejný klíč"
+  },
+  "push_notification_alert": {
+    "value": "Bitwarden udržuje Váš trezor automaticky synchronizovaný pomocí oznámení. Aby\n        aplikace správně pracovala, klepněte při žádosti o povolení oznámení na \\\"Povolit\\\".\n    "
+  },
+  "put_the_words_together_in_any_order_to_form_your_passphrase": {
+    "value": "Vložte slova dohromady do libovolného\n        pořadí pro vytvoření přístupové fráze. <annotation emphasis=\"bold\">Použijte pomlčky, mezery nebo je nechte jako\n            jedno dlouhé slovo\n        </annotation> - je to na Vás!\n    "
+  },
+  "quick_and_easy_login": {
+    "value": "Rychlé a snadné přihlášení"
+  },
+  "random": {
+    "value": "Náhodně"
+  },
+  "random_and_complex_using_numbers_and_special_characters": {
+    "value": "Náhodná a složitá, s použitím čísel a\n        speciálních znaků\n    "
+  },
+  "random_word": {
+    "value": "Náhodné slovo"
+  },
+  "rate_app_description_long": {
+    "value": "Pomozte ostatním zjistit, zda je Bitwarden pro ně správný. Navštivte obchod\n        s aplikacemi a zanechte hodnocení.\n    "
+  },
+  "rate_the_app": {
+    "value": "Ohodnotit aplikaci"
+  },
+  "rate_the_app_description": {
+    "value": "Pomozte nám napsáním dobré recenze!"
+  },
+  "receive_push_notifications_for_new_login_requests": {
+    "value": "Dostávat oznámení ohledně nových žádostí o\n        přihlášení\n    "
+  },
+  "recovery_code_title": {
+    "value": "Kód pro obnovení"
+  },
+  "reg_ex": {
+    "value": "Regulární výraz"
+  },
+  "regenerate_password": {
+    "value": "Vygenerovat jiné heslo"
+  },
+  "region": {
+    "value": "Oblast"
+  },
+  "remember": {
+    "value": "Zapamatovat"
+  },
+  "remember_email": {
+    "value": "Pamatovat si e-mail"
+  },
+  "remember_this_device": {
+    "value": "Zapamatovat toto zařízení"
+  },
+  "remember_to_delete_your_imported_password_file_from_your_computer": {
+    "value": "Nezapomeňte smazat soubor\n        importovaných hesel z Vašeho počítače\n    "
+  },
+  "remind_me_later": {
+    "value": "Připomenout později"
+  },
+  "remove": {
+    "value": "Odebrat"
+  },
+  "remove_account": {
+    "value": "Odebrat účet"
+  },
+  "remove_account_confirmation": {
+    "value": "Opravdu chcete odebrat tento účet?"
+  },
+  "remove_master_password": {
+    "value": "Odebrat hlavní heslo"
+  },
+  "remove_master_password_warning": {
+    "value": "%1$s používá SSO se šifrováním spravovaným zákazníkem. Pokračováním se\n        odebere Vaše hlavní heslo z Vašeho účtu a bude vyžadováno přihlášení přes SSO.\n    "
+  },
+  "remove_master_password_warning2": {
+    "value": "Pokud nechcete odebrat hlavní heslo, můžete tuto organizaci\n        opustit.\n    "
+  },
+  "remove_passkey": {
+    "value": "Odebrat přístupový klíč"
+  },
+  "remove_password": {
+    "value": "Odebrat heslo"
+  },
+  "removing_send_password": {
+    "value": "Odebírání hesla"
+  },
+  "request_admin_approval": {
+    "value": "Žádost o schválení správcem"
+  },
+  "request_otp": {
+    "value": "Vyžádat jednorázové heslo"
+  },
+  "requests_declined": {
+    "value": "Žádosti byly zamítnuty"
+  },
+  "require_master_password_on_app_restart": {
+    "value": "Vyžadovat hlavní heslo při restartu aplikace?"
+  },
+  "resend_code": {
+    "value": "Znovu odeslat kód"
+  },
+  "resend_notification": {
+    "value": "Znovu odeslat oznámení"
+  },
+  "reset_password_auto_enroll_invite_warning": {
+    "value": "Tato organizace má podnikové zásady, které Vás automaticky\n        zaregistrují k obnovení hesla. Registrace umožní správcům organizace změnit Vaše hlavní heslo.\n    "
+  },
+  "restart_registration": {
+    "value": "Restartovat registraci"
+  },
+  "restore": {
+    "value": "Obnovit"
+  },
+  "restoring": {
+    "value": "Obnovování..."
+  },
+  "return_to_complete_this_step_anytime_in_settings": {
+    "value": "K dokončení tohoto kroku se můžete kdykoliv vrátit v\n        Nastavení.\n    "
+  },
+  "retype_master_password": {
+    "value": "Znovu zadejte hlavní heslo"
+  },
+  "retype_master_password_required": {
+    "value": "Zadejte znovu hlavní heslo (vyžadováno)"
+  },
+  "retype_new_master_password_required": {
+    "value": "Zadejte znovu nové hlavní heslo (vyžadováno)"
+  },
+  "review_flow_launched": {
+    "value": "Přehled byl spuštěn!"
+  },
+  "save": {
+    "value": "Uložit"
+  },
+  "save_and_protect_your_data": {
+    "value": "Uložit a chránit Vaše data"
+  },
+  "save_attachment_success": {
+    "value": "Příloha byla úspěšně uložena"
+  },
+  "save_passkey": {
+    "value": "Uložit přístupový klíč"
+  },
+  "save_passkey_as_new_login": {
+    "value": "Uložit přístupový klíč jako nové přihlášení"
+  },
+  "save_the_exported_file_somewhere_on_your_computer_you_can_find_easily": {
+    "value": "\n        <annotation emphasis=\"bold\">Uložte exportovaný soubor</annotation>\n        někde na Vašem počítači, kde jej můžete snadno najít.\n    "
+  },
+  "saving": {
+    "value": "Ukládání..."
+  },
+  "scan_qr_code": {
+    "value": "Naskenovat QR kód"
+  },
+  "scan_qr_title": {
+    "value": "Naskenovat QR kód"
+  },
+  "search": {
+    "value": "Hledat"
+  },
+  "search_collection": {
+    "value": "Prohledat kolekci"
+  },
+  "search_file_sends": {
+    "value": "Prohledat soubory Sends"
+  },
+  "search_for_a_login_or_add_a_new_login": {
+    "value": "Hledat přhlášení nebo přidat nové přihlášení"
+  },
+  "search_for_an_item_or_add_a_new_item": {
+    "value": "Hledat položku nebo přidat novou"
+  },
+  "search_group": {
+    "value": "Prohledat %1$s"
+  },
+  "search_sends": {
+    "value": "Prohledat Sends"
+  },
+  "search_text_sends": {
+    "value": "Prohledat texty Sends"
+  },
+  "search_trash": {
+    "value": "Prohledat koš"
+  },
+  "search_vault": {
+    "value": "Prohledat trezor"
+  },
+  "second_dot_turn_on_auto_fill": {
+    "value": "2. Zapněte Automatické vyplňování"
+  },
+  "secure_notes": {
+    "value": "Zabezpečené poznámky"
+  },
+  "security": {
+    "value": "Zabezpečení"
+  },
+  "security_code": {
+    "value": "Bezpečnostní kód"
+  },
+  "security_prioritized": {
+    "value": "Bezpečnost, priorita"
+  },
+  "select": {
+    "value": "Vybrat"
+  },
+  "select_import_data_in_the_web_app_then_done_to_finish_syncing": {
+    "value": "\n        <annotation emphasis=\"bold\">Vyberte data k importu</annotation>\n        ve webové aplikaci a poté klepněte na tlačítko Hotovo pro dokončení synchronizace.\n    "
+  },
+  "select_one_collection": {
+    "value": "Musíte vybrat alespoň jednu kolekci."
+  },
+  "select_the_link_in_the_email_to_verify_your_email_address_and_continue_creating_your_account": {
+    "value": "\n        \"Klepnutím na odkaz v e-mailu ověřte svou e-mailovou adresu a pokračujte ve vytváření účtu. \"\n    "
+  },
+  "select_type_field": {
+    "value": "Jaký typ vlastního pole chcete přidat?"
+  },
+  "self_host_server_url": {
+    "value": "Adresa URL serveru vlastního hostování"
+  },
+  "self_hosted": {
+    "value": "Vlastní hosting"
+  },
+  "self_hosted_environment": {
+    "value": "Vlastní hostované prostředí"
+  },
+  "self_hosted_environment_footer": {
+    "value": "Zadejte základní URL vlastní hostované aplikace Bitwarden."
+  },
+  "self_hosted_server_url": {
+    "value": "Adresa URL serveru vlastního hostování"
+  },
+  "send": {
+    "value": "Send"
+  },
+  "send_code": {
+    "value": "Poslat kód"
+  },
+  "send_deleted": {
+    "value": "Send byl smazán"
+  },
+  "send_details": {
+    "value": "Podrobnosti Send"
+  },
+  "send_disabled_warning": {
+    "value": "Z důvodu podnikových zásad můžete smazat pouze existující Send."
+  },
+  "send_file_email_verification_required": {
+    "value": "Abyste mohli tuto funkci používat, musíte ověřit svůj e-mail.\n        Svůj e-mail můžete ověřit ve webovém trezoru.\n    "
+  },
+  "send_file_premium_required": {
+    "value": "Bezplatné účty jsou omezeny pouze na sdílení textu. K používání souborů\n        pomocí Send je vyžadováno prémiové členství.\n    "
+  },
+  "send_link": {
+    "value": "Odkaz tohoto Send"
+  },
+  "send_name_required": {
+    "value": "\"Název Send (vyžadován)\""
+  },
+  "send_options_policy_in_effect": {
+    "value": "Jedna nebo více zásad organizace ovlivňuje nastavení Send."
+  },
+  "send_password_removed": {
+    "value": "Heslo bylo odebráno."
+  },
+  "send_sensitive_information_safely": {
+    "value": "Posílejte citlivé informace bezpečně"
+  },
+  "send_updated": {
+    "value": "Send byl uložen"
+  },
+  "send_verification_code_again": {
+    "value": "Znovu odeslat kód"
+  },
+  "send_verification_code_to_email": {
+    "value": "Poslat ověřovací kód na Váš e-mail"
+  },
+  "sending": {
+    "value": "Odesílání"
+  },
+  "sending_code": {
+    "value": "Odesílání kódu"
+  },
+  "sends": {
+    "value": "Sends"
+  },
+  "september": {
+    "value": "září"
+  },
+  "server_url": {
+    "value": "URL serveru"
+  },
+  "service": {
+    "value": "Služba"
+  },
+  "session_timeout": {
+    "value": "Časový limit relace"
+  },
+  "session_timeout_action": {
+    "value": "Akce časového limitu relace"
+  },
+  "set_bitwarden_as_passkey_manager_description": {
+    "value": "Nastaví Bitwarden jako poskytovatele přístupového hesla\n        v nastavení zařízení.\n    "
+  },
+  "set_master_password": {
+    "value": "Nastavit hlavní heslo"
+  },
+  "set_master_password_summary": {
+    "value": "Chcete-li dokončit přihlášení pomocí SSO, nastavte hlavní přístupové\n        heslo k Vašemu trezoru.\n    "
+  },
+  "set_password": {
+    "value": "Nastavit heslo"
+  },
+  "set_pin": {
+    "value": "Nastavit PIN"
+  },
+  "set_pin_description": {
+    "value": "Nastavte svůj PIN kód pro odemknutí trezoru. Pokud se zcela odhlásíte z aplikace\n        bude Váš aktuální PIN resetován.\n    "
+  },
+  "set_pin_direction": {
+    "value": "Zadejte 4místný PIN kód pro odemknutí aplikace."
+  },
+  "set_up_an_unlock_option_to_change_your_vault_timeout_action": {
+    "value": "Nastavte volbu odemknutí, abyste změnili\n        časový limit Vašeho trezoru.\n    "
+  },
+  "set_up_authenticator_key": {
+    "value": "Nastavit ověřovací klíč"
+  },
+  "set_up_auto_fill_description_long": {
+    "value": "Pro nastavení automatického vyplňování hesla a správy přístupových\n        klíčů nastavte Bitwarden jako preferovaného poskytovatele v nastavení iOS.\n    "
+  },
+  "set_up_autofill": {
+    "value": "Nastavit automatické vyplňování"
+  },
+  "set_up_autofill_on_all_your_devices": {
+    "value": "Nastavte automatické vyplňování na všech Vašich zařízeních pro\n        přihlášení jedním klepnutím kdekoliv.\n    "
+  },
+  "set_up_biometrics_or_choose_a_pin_code_to_quickly_access_your_vault_and_autofill_your_logins": {
+    "value": "Nastavte\n        si biometrické údaje nebo zvolte kód PIN pro rychlý přístup k trezoru a automatické vyplňování přihlašovacích\n        údajů.\n    "
+  },
+  "set_up_later": {
+    "value": "Nastavit později"
+  },
+  "set_up_two_step_login": {
+    "value": "Nastavit dvoufázové přihlášení"
+  },
+  "set_up_unlock": {
+    "value": "Nastavit odemknutí"
+  },
+  "set_up_unlock_later": {
+    "value": "Nastavit odemknutí později?"
+  },
+  "settings": {
+    "value": "Nastavení"
+  },
+  "setup_totp": {
+    "value": "Nastavit TOTP"
+  },
+  "seven_days": {
+    "value": "7 dnů"
+  },
+  "share": {
+    "value": "Sdílet"
+  },
+  "share_error_details": {
+    "value": "Sdílet podrobnosti o chybě"
+  },
+  "share_files_and_data_securely_with_anyone_on_any_platform": {
+    "value": "Sdílejte bezpečně soubory a data s kýmkoli\n        na libovolné platformě. Vaše informace zůstanou šifrovány a zároveň omezují expozici.\n    "
+  },
+  "share_item": {
+    "value": "Sdílet položku"
+  },
+  "share_link": {
+    "value": "Sdílet odkaz"
+  },
+  "share_on_save": {
+    "value": "Sdílet tento Send po uložení"
+  },
+  "shared": {
+    "value": "Sdílené"
+  },
+  "show": {
+    "value": "Zobrazit"
+  },
+  "show_less": {
+    "value": "Zobrazit méně"
+  },
+  "show_more": {
+    "value": "Zobrazit další"
+  },
+  "show_website_icons": {
+    "value": "Zobrazit ikony webových stránek"
+  },
+  "show_website_icons_description": {
+    "value": "Zobrazí rozeznatelný obrázek vedle každého přihlášení"
+  },
+  "simple_login": {
+    "value": "SimpleLogin"
+  },
+  "single_tap_passkey_authentication": {
+    "value": "Přihlášení přístupovým heslem jedním klepnutím"
+  },
+  "single_tap_passkey_creation": {
+    "value": "Vytvoření přístupového hesla jedním klepnutím"
+  },
+  "skip_for_now": {
+    "value": "Prozatím přeskočit"
+  },
+  "soft_deleting": {
+    "value": "Přesouvání do koše..."
+  },
+  "solarized_dark": {
+    "value": "Tmavý (solární)"
+  },
+  "special_characters": {
+    "value": "Speciální znaky (!@#$%^*)"
+  },
+  "ssh_keys": {
+    "value": "SSH klíče"
+  },
+  "ssn": {
+    "value": "Rodné číslo"
+  },
+  "starts_with": {
+    "value": "Začíná na"
+  },
+  "state_province": {
+    "value": "Kraj / Provincie"
+  },
+  "status": {
+    "value": "Stav"
+  },
+  "step_1_of_3": {
+    "value": "Krok 1 ze 3"
+  },
+  "step_2_of_3": {
+    "value": "Krok 2 ze 3"
+  },
+  "step_3_of_3": {
+    "value": "Krok 3 ze 3"
+  },
+  "strong": {
+    "value": "Silné"
+  },
+  "submit": {
+    "value": "Odeslat"
+  },
+  "submit_crash_logs": {
+    "value": "Odesílat záznamy o pádech"
+  },
+  "submit_crash_logs_description": {
+    "value": "Pomozte zlepšovat stabilitu aplikace odesíláním hlášení o selháních.\n    "
+  },
+  "submitting": {
+    "value": "Odesílání..."
+  },
+  "switch_to_already_added_account_confirmation": {
+    "value": "Chcete se na něj nyní přepnout?"
+  },
+  "sync": {
+    "value": "Synchronizace"
+  },
+  "sync_now": {
+    "value": "Synchronizovat nyní"
+  },
+  "sync_vault_now": {
+    "value": "Synchronizovat trezor nyní"
+  },
+  "syncing": {
+    "value": "Synchronizování..."
+  },
+  "syncing_complete": {
+    "value": "Synchronizace byla dokončena"
+  },
+  "syncing_failed": {
+    "value": "Synchronizace selhala"
+  },
+  "syncing_logins_loading_message": {
+    "value": "Synchronizování přihlášení..."
+  },
+  "system_certificates_are_not_as_secure_as_importing_certificates_to_bitwarden": {
+    "value": "Použití systémového\n        certifikátu je méně bezpečné než ukládání certifikátu v Bitwardenu. Pokračování zobrazí seznam dostupných\n        systémových certifikátů, pokud jsou již nainstalovány.\n    "
+  },
+  "tap_to_go_back": {
+    "value": "Klepnutím se vrátíte zpět"
+  },
+  "ten_seconds": {
+    "value": "10 sekund"
+  },
+  "terms_of_service": {
+    "value": "Podmínky použití"
+  },
+  "text": {
+    "value": "Text"
+  },
+  "text_to_share": {
+    "value": "Text ke sdílení"
+  },
+  "text_type_is_not_selected": {
+    "value": "Není vybrán typ textu, klepněte pro výběr."
+  },
+  "text_type_is_selected": {
+    "value": "Je vybrán typ textu."
+  },
+  "thank_you": {
+    "value": "Poděkování"
+  },
+  "the_best_way_to_make_sure_you_can_always_access_your_vault": {
+    "value": "Nejlepším způsobem, jak se ujistit, že\n        máte vždy přístup k Vašemu účtu, je nastavit zabezpečení hned na začátku.\n    "
+  },
+  "the_following_instructions_will_guide_you_through_importing_logins": {
+    "value": "Následující pokyny Vás povedou\n        importováním přihlašovacích údajů z Vašeho stolního počítače nebo notebooku\n    "
+  },
+  "the_longer_your_password_the_more_difficult_to_hack": {
+    "value": "Čím delší je heslo, tím obtížnější je jeho\n        prolomení. Minimum pro vytvoření účtu je 12 znaků, ale pokud uděláte 14 znaků, doba prolomení Vašeho hesla bude\n        trvat staletí!\n    "
+  },
+  "the_passkey_will_not_be_copied_to_the_cloned_item_do_you_want_to_continue_cloning_this_item": {
+    "value": "\n        Přístupový klíč nebude zkopírován do duplikované položky. Chete pokračovat v duplikování této položky?\n    "
+  },
+  "the_strongest_passwords_are_usually": {
+    "value": "Nejsilnější hesla jsou obvykle:"
+  },
+  "the_urix_is_already_blocked": {
+    "value": "URI %1$s je již blokován"
+  },
+  "the_vault_protects_more_than_just_passwords": {
+    "value": "Trezor chrání více než jen hesla. Bezpečně zde uložte\n        zabezpečená přihlášení, ID, karty a poznámky.\n    "
+  },
+  "theme": {
+    "value": "Motiv"
+  },
+  "theme_applied_on_restart": {
+    "value": "Změna motivu se projeví po restartování aplikace."
+  },
+  "theme_default": {
+    "value": "Výchozí (Systémový)"
+  },
+  "theme_description": {
+    "value": "Změní barevný motiv aplikace."
+  },
+  "there_are_no_blocked_ur_is": {
+    "value": "Nejsou žádné blokované URI"
+  },
+  "there_are_no_items_in_your_vault_that_match_x": {
+    "value": "Žádné položky ve Vašem trezoru se shodou s \\\"%1$s\\\"\n    "
+  },
+  "there_are_no_items_that_match_the_search": {
+    "value": "Neexistují žádné položky, které by odpovídaly hledání\n    "
+  },
+  "there_was_a_problem_creating_a_passkey_for_x_try_again_later": {
+    "value": "Při vytváření přístupového klíče pro\n        %1$s došlo k chybě. Zkuste to znovu později.\n    "
+  },
+  "there_was_a_problem_reading_a_passkey_for_x_try_again_later": {
+    "value": "Při čtení přístupového klíče pro %1$s\n        došlo k chybě. Zkuste to znovu později.\n    "
+  },
+  "there_was_an_error_starting_web_authn_two_factor_authentication": {
+    "value": "Při spouštění dvoufaktorového ověření\n        WebAuthn došlo k chybě\n    "
+  },
+  "there_was_an_issue_validating_the_registration_token": {
+    "value": "Vyskytl se problém při ověřování registračního\n        tokenu.\n    "
+  },
+  "third_dot_select_bitwarden_to_use_for_passwords_and_passkeys": {
+    "value": "3. V sekci \\\"Používat hesla a přístupové\n        klíče z:\\\" zvolte \\\"Bitwarden\\\"\n    "
+  },
+  "thirty_days": {
+    "value": "30 dnů"
+  },
+  "thirty_minutes": {
+    "value": "30 minut"
+  },
+  "thirty_seconds": {
+    "value": "30 sekund"
+  },
+  "this_is_not_a_recognized_bitwarden_server_you_may_need_to_check_with_your_provider_or_update_your_server": {
+    "value": "\n        Nejedná se o rozpoznaný server Bitwarden. Možná budete muset zkontrolovat svého poskytovatele nebo aktualizovat\n        svůj server.\n    "
+  },
+  "this_item_already_contains_a_passkey_are_you_sure_you_want_to_overwrite_the_current_passkey": {
+    "value": "Tato\n        položka již obsahuje přístupový klíč. Jste si jisti, že chcete přepsat aktuální přístupový klíč?\n    "
+  },
+  "this_request_is_no_longer_valid": {
+    "value": "Tento požadavek již není platný"
+  },
+  "three_days": {
+    "value": "3 dny"
+  },
+  "time": {
+    "value": "Čas"
+  },
+  "title": {
+    "value": "Oslovení"
+  },
+  "toggle_visibility": {
+    "value": "Přepnout viditelnost"
+  },
+  "too_many_attempts": {
+    "value": "Příliš mnoho pokusů"
+  },
+  "tools": {
+    "value": "Nástroje"
+  },
+  "totally_different_from_your_other_passwords": {
+    "value": "Zcela se liší od Vašich ostatních hesel"
+  },
+  "totp": {
+    "value": "TOTP"
+  },
+  "touch_id": {
+    "value": "Touch ID"
+  },
+  "translations": {
+    "value": "Překlady"
+  },
+  "trash": {
+    "value": "Koš"
+  },
+  "trouble_logging_in": {
+    "value": "Potíže s přihlášením?"
+  },
+  "try_again": {
+    "value": "Zkusit znovu"
+  },
+  "try_it_out": {
+    "value": "Zkuste to"
+  },
+  "turn_off_using_public_device": {
+    "value": "Vypnout pomocí veřejného zařízení"
+  },
+  "turn_on_autofill": {
+    "value": "Zapnout automatické vyplňování"
+  },
+  "turn_on_autofill_later": {
+    "value": "Zapnout automatické vyplňování později?"
+  },
+  "turn_on_later": {
+    "value": "Zapnout později"
+  },
+  "turn_on_two_step_login": {
+    "value": "Zapnout dvoufázové přihlášení"
+  },
+  "twelve_or_more_characters": {
+    "value": "12 nebo více znaků"
+  },
+  "twenty_seconds": {
+    "value": "20 sekund"
+  },
+  "two_days": {
+    "value": "2 dny"
+  },
+  "two_minutes": {
+    "value": "2 minuty"
+  },
+  "two_step_login": {
+    "value": "Dvoufázové přihlášení"
+  },
+  "two_step_login_description_long": {
+    "value": "Vytvořte svůj účet bezpečnějším nastavením dvoufázového přihlášení ve\n        webové aplikaci Bitwarden.\n    "
+  },
+  "two_step_login_options": {
+    "value": "Volby dvoufázového přihlášení"
+  },
+  "type": {
+    "value": "Typ"
+  },
+  "type_card": {
+    "value": "Karta"
+  },
+  "type_file": {
+    "value": "Soubor"
+  },
+  "type_file_info": {
+    "value": "Soubor, který chcete odeslat."
+  },
+  "type_identity": {
+    "value": "Identita"
+  },
+  "type_login": {
+    "value": "Přihlášení"
+  },
+  "type_secure_note": {
+    "value": "Zabezpečená poznámka"
+  },
+  "type_ssh_key": {
+    "value": "SSH klíč"
+  },
+  "type_text": {
+    "value": "Text"
+  },
+  "types": {
+    "value": "Typy"
+  },
+  "unable_to_download_file": {
+    "value": "Nelze stáhnout soubor."
+  },
+  "unable_to_open_file": {
+    "value": "Vaše zařízení nemůže otevřít tento typ souboru."
+  },
+  "unable_to_save_attachment": {
+    "value": "Při ukládání této přílohy došlo k chybě. Pokud problém přetrvává, můžete ji\n        uložit z webového trezoru.\n    "
+  },
+  "unfavorite": {
+    "value": "Odebrat z oblíbených"
+  },
+  "unique_usernames_add_an_extra_layer_of_security_and_can_help_prevent_hackers_from_finding_your_accounts": {
+    "value": "\n        Jedinečná uživatelská jména přidávají další bezpečnostní vrstvu a mohou pomoci hackerům v hledání účtů.\n    "
+  },
+  "unknown_account": {
+    "value": "Neznámý účet"
+  },
+  "unknown_x_error_message": {
+    "value": "Vyskytla se neznámá chyba: %1$s."
+  },
+  "unlock": {
+    "value": "Odemknout"
+  },
+  "unlock_options": {
+    "value": "Volby odemknutí"
+  },
+  "unlock_vault": {
+    "value": "Odemknout trezor"
+  },
+  "unlock_with": {
+    "value": "Odemknout pomocí %1$s"
+  },
+  "unlock_with_pin": {
+    "value": "Odemknout pomocí PIN kódu"
+  },
+  "unlocking_may_fail_due_to_insufficient_memory_decrease_your_kdf_memory_settings_to_resolve": {
+    "value": "Odemknutí\n        může selhat z důvodu nedostatku paměti. Snižte nastavení KDF paměti nebo nastavte odemykání pomocí biometrie.\n    "
+  },
+  "unsubscribe": {
+    "value": "Odhlásit odběr"
+  },
+  "unsupported_certificate_type": {
+    "value": "Nepodporovaný typ certifikátu"
+  },
+  "update_key": {
+    "value": "Dokud neaktualizujete svůj šifrovací klíč, nemůžete tuto funkci použít."
+  },
+  "update_master_password": {
+    "value": "Aktualizovat hlavní heslo"
+  },
+  "update_master_password_warning": {
+    "value": "Administrátor v organizaci nedávno změnil Vaše hlavní heslo. Pro\n        přístup k trezoru jej nyní musíte změnit. Pokračování Vás odhlásí z Vaší aktuální relace a bude nutné se znovu\n        přihlásit. Aktivní relace na jiných zařízeních mohou zůstat aktivní až po dobu jedné hodiny.\n    "
+  },
+  "update_password_error": {
+    "value": "Aktuálně nelze aktualizovat heslo"
+  },
+  "update_weak_master_password_warning": {
+    "value": "Vaše hlavní heslo nesplňuje jednu nebo více zásad Vaší\n        organizace. Pro přístup k trezoru musíte nyní aktualizovat své hlavní heslo. Pokračování Vás odhlásí z Vaší\n        aktuální relace a bude nutné se přihlásit. Aktivní relace na jiných zařízeních mohou zůstat aktivní až po dobu\n        jedné hodiny.\n    "
+  },
+  "updated_master_password": {
+    "value": "Hlavní heslo bylo aktualizováno"
+  },
+  "updating_password": {
+    "value": "Aktualizování hesla"
+  },
+  "uppercase_ato_z": {
+    "value": "Velká písmena (A-Z)"
+  },
+  "ur_is": {
+    "value": "URI"
+  },
+  "uri": {
+    "value": "URI"
+  },
+  "uri_match_detection": {
+    "value": "Zjišťování shody URI"
+  },
+  "uri_position": {
+    "value": "URI %1$s"
+  },
+  "uri_removed": {
+    "value": "URI byl odebrán"
+  },
+  "uri_saved": {
+    "value": "URI byl uložen"
+  },
+  "us": {
+    "value": "US"
+  },
+  "use_a_computer_to_import_logins": {
+    "value": "Použijte počítač k importu přihlašovacích údajů z existujícího\n        správce hesel\n    "
+  },
+  "use_another_two_step_method": {
+    "value": "Použít jinou metodu dvoufázového přihlášení"
+  },
+  "use_autofill_to_log_into_your_accounts": {
+    "value": "Použijte automatické vyplňování pro přihlášení do svých účtů\n        jediným klepnutím.\n    "
+  },
+  "use_biometrics_to_unlock": {
+    "value": "Použít biometrii k odemknutí"
+  },
+  "use_chrome_autofill_integration": {
+    "value": "Použít integraci automatického vyplňování Chrome"
+  },
+  "use_chrome_beta_autofill_integration": {
+    "value": "Použít integraci automatického vyplňování Chrome (Beta)"
+  },
+  "use_face_id_to_unlock": {
+    "value": "Použít Face ID k odemknutí"
+  },
+  "use_fingerprint_to_unlock": {
+    "value": "Pro odemknutí použít otisk prstu"
+  },
+  "use_inline_autofill_explanation_long": {
+    "value": "Pokud to Vaše vybraná klávesnice podporuje, použije se inline\n        automatické vyplňování. V opačném případě se použije výchozí překrytí.\n    "
+  },
+  "use_system_certificate": {
+    "value": "Použít systémový certifikát"
+  },
+  "use_the_generator_to_create_a_strong_unique_password": {
+    "value": "Použijte generátor k vytvoření silného,\n        jedinečného hesla\n    "
+  },
+  "use_the_generator_to_create_secure_passwords_passphrases_and_usernames": {
+    "value": "\"Použijte generátor k\n        vytvoření bezpečných hesel, přístupových frází a uživatelských jmen. \"\n    "
+  },
+  "use_the_web_app": {
+    "value": "Použít webovou aplikaci"
+  },
+  "use_these_options_to_adjust_your_password_to_your_account_requirements": {
+    "value": "Použijte tyto volby k úpravě\n        hesla podle požadavků Vašeho účtu.\n    "
+  },
+  "use_this_button_to_generate_a_new_unique_password": {
+    "value": "Použijte toto tlačítko pro vytvoření nového\n        jedinečného hesla.\n    "
+  },
+  "use_this_device_to_approve_login_requests_made_from_other_devices": {
+    "value": "Použít toto zařízení pro\n        schvalování žádostí o přihlášení z jiných zařízení\n    "
+  },
+  "user_verification_direction": {
+    "value": "Ověření uživatele"
+  },
+  "username": {
+    "value": "Uživatelské jméno"
+  },
+  "username_type": {
+    "value": "Typ uživatelského jména"
+  },
+  "validating": {
+    "value": "Ověřování"
+  },
+  "validation_field_required": {
+    "value": "Pole %1$s je povinné."
+  },
+  "value": {
+    "value": "Hodnota"
+  },
+  "value_has_been_copied": {
+    "value": "%1$s: zkopírováno"
+  },
+  "vault": {
+    "value": "Trezor"
+  },
+  "vault_filter_description": {
+    "value": "Trezor: %1$s"
+  },
+  "vault_is_locked": {
+    "value": "Trezor je uzamčený"
+  },
+  "vault_locked_identity": {
+    "value": "Váš trezor je uzamčen. Pro pokračování ověřte svou identitu."
+  },
+  "vault_locked_master_password": {
+    "value": "Váš trezor je uzamčen. Pro pokračování musíte zadat hlavní heslo.\n    "
+  },
+  "vault_locked_pin": {
+    "value": "Váš trezor je uzamčen. Pro pokračování musíte zadat PIN."
+  },
+  "vault_timeout": {
+    "value": "Časový limit trezoru"
+  },
+  "vault_timeout_action": {
+    "value": "Akce při vypršení časového limitu trezoru"
+  },
+  "vault_timeout_action_changed_to_log_out": {
+    "value": "Akce časového limitu trezoru byla změněna na odhlášení\n    "
+  },
+  "vault_timeout_action_policy_in_effect": {
+    "value": "Zásady Vaší organizace nastavily akce po časovém limitu trezoru\n        na %1$s.\n    "
+  },
+  "vault_timeout_log_out_confirmation": {
+    "value": "Po vypršení časového limitu dojde k odhlášení. Přístup k trezoru\n        bude odebrán a pro opětovné přihlášení bude vyžadováno online ověření. Opravdu chcete použít toto nastavení?\n    "
+  },
+  "vault_timeout_policy_in_effect": {
+    "value": "Zásady Vaší organizace ovlivňují časový limit trezoru. Maximální\n        povolený časový limit trezoru je %1$s hodin a %2$s minut.\n    "
+  },
+  "vault_timeout_policy_with_action_in_effect": {
+    "value": "Zásady Vaší organizace mají vliv na časový limit trezoru.\n        Maximální povolený časový limit trezoru je %1$s hodin a %2$s minut. Akce po časovém limitu trezoru je nastavena\n        na %3$s.\n    "
+  },
+  "vault_timeout_to_large": {
+    "value": "Časový limit Vašeho trezoru překračuje omezení stanovená Vaší organizací.\n    "
+  },
+  "vaults": {
+    "value": "Trezory"
+  },
+  "verification_code": {
+    "value": "Ověřovací kód"
+  },
+  "verification_code_totp": {
+    "value": "Ověřovací kód (TOTP)"
+  },
+  "verification_codes": {
+    "value": "Ověřovací kódy"
+  },
+  "verification_email_not_sent": {
+    "value": "Nelze odeslat ověřovací e-mail. Zkuste to znovu."
+  },
+  "verification_email_sent": {
+    "value": "Ověřovací e-mail byl odeslán."
+  },
+  "verification_required_by_x": {
+    "value": "Je vyžadováno ověření od %1$s"
+  },
+  "verification_required_for_this_action_set_up_an_unlock_method_in_bitwarden_to_continue": {
+    "value": "Pro tuto akci\n        je vyžadováno ověření. Pro pokračování nastavte metodu odemknutí v Bitwardenu.\n    "
+  },
+  "verified_sso_domain_verified": {
+    "value": "Ověřený koncový bod domény SSO"
+  },
+  "verify_face_id": {
+    "value": "Ověření Face ID"
+  },
+  "verify_fingerprint": {
+    "value": "Ověřit otisk prstu"
+  },
+  "verify_master_password": {
+    "value": "Ověřit hlavní heslo"
+  },
+  "verify_pin": {
+    "value": "Ověřit PIN"
+  },
+  "verify_your_identity": {
+    "value": "Ověřte svou totožnost"
+  },
+  "verifying": {
+    "value": "Ověřování"
+  },
+  "verifying_identity_ellipsis": {
+    "value": "Ověřování identity..."
+  },
+  "version": {
+    "value": "Verze"
+  },
+  "view": {
+    "value": "Zobrazit"
+  },
+  "view_all_login_options": {
+    "value": "Zobrazit všechny volby přihlášení"
+  },
+  "view_card": {
+    "value": "Zobrazit kartu"
+  },
+  "view_identity": {
+    "value": "Zobrazit identitu"
+  },
+  "view_item": {
+    "value": "Zobrazit položku"
+  },
+  "view_login": {
+    "value": "Zobrazit přihlašovací údaje"
+  },
+  "view_note": {
+    "value": "Zobrazit poznámku"
+  },
+  "view_passkey": {
+    "value": "Zobrazit přístupový klíč"
+  },
+  "visit_our_website": {
+    "value": "Navštivte naše webové stránky"
+  },
+  "warning": {
+    "value": "Varování"
+  },
+  "we_couldnt_verify_the_servers_certificate": {
+    "value": "Certifikát serveru se nám nepodařilo ověřit. Řetězec\n        certifikátů nebo nastavení proxy serveru na Vašem zařízení nebo serveru Bitwardenu nemusí být správně nastaven.\n    "
+  },
+  "we_ll_walk_you_through_the_key_features_to_add_a_new_login": {
+    "value": "Provedeme Vás klíčovými funkcemi pro\n        přidání nového přihlášení.\n    "
+  },
+  "we_sent_an_email_to": {
+    "value": "Poslali jsme e-mail na\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n        .\n    "
+  },
+  "weak": {
+    "value": "Slabé"
+  },
+  "weak_and_exposed_master_password": {
+    "value": "Slabé a odhalené hlavní heslo"
+  },
+  "weak_master_password": {
+    "value": "Slabé hlavní heslo"
+  },
+  "weak_password_identified_and_found_in_a_data_breach_alert_description": {
+    "value": "Slabé heslo bylo nalezeno mezi\n        odhalenými hesly. K zabezpečení Vašeho účtu používejte silné a jedinečné heslo. Opravdu chcete používat toto\n        heslo?\n    "
+  },
+  "weak_password_identified_use_a_strong_password_to_protect_your_account": {
+    "value": "Slabé heslo bylo nalezeno mezi\n        odhalenými hesly. K zabezpečení Vašeho účtu používejte silné a jedinečné heslo. Opravdu chcete používat toto\n        heslo?\n    "
+  },
+  "web_vault": {
+    "value": "Webový trezor Bitwardenu"
+  },
+  "web_vault_url": {
+    "value": "URL serveru webového trezoru"
+  },
+  "website": {
+    "value": "Webová stránka"
+  },
+  "website_required": {
+    "value": "Webová stránka (vyžadovaná)"
+  },
+  "website_uri": {
+    "value": "Webová stránka (URI)"
+  },
+  "welcome_message_1": {
+    "value": "Uložte si přihlašovací údaje, karty a identity do zabezpečeného trezoru. Bitwarden\n        používá šifrování end-to-end s nulovou znalostí, aby ochránil to, co je pro Vás důležité.\n    "
+  },
+  "welcome_message_2": {
+    "value": "Nastavte biometrické odemknutí a automatické vyplňování pro přihlášení k Vašim\n        účtům bez zadání jediného písmene.\n    "
+  },
+  "welcome_message_3": {
+    "value": "Použijte generátor k vytvoření a uložení silných, jedinečných hesel pro všechny\n        Vaše účty.\n    "
+  },
+  "welcome_message_4": {
+    "value": "Uložte neomezená hesla na neomezených zařízeních s Bitwardenem na mobilu,\n        prohlížeči a desktopové aplikaci.\n    "
+  },
+  "what_bitwarden_has_to_offer": {
+    "value": "Nyní můžete prozkoumat vše, co Bitwarden může nabídnout a začít bezpečně\n        spravovat svá hesla.\n    "
+  },
+  "what_makes_a_password_strong": {
+    "value": "Co je silným heslem?"
+  },
+  "what_would_you_like_to_generate": {
+    "value": "Co chcete vygenerovat?"
+  },
+  "windows_hello": {
+    "value": "Windows Hello"
+  },
+  "word_separator": {
+    "value": "Oddělovač slov"
+  },
+  "write_this_password_down_and_keep_it_somewhere_safe": {
+    "value": "Zapište si toto heslo a uschovejte jej někam do\n        bezpečí.\n    "
+  },
+  "write_your_password_down": {
+    "value": "Zapište si své heslo"
+  },
+  "x_ellipses": {
+    "value": "%s..."
+  },
+  "x_hours": {
+    "value": "%1$s hodin"
+  },
+  "x_hours_and_one_minute": {
+    "value": "%1$s hodin a jedna minuta"
+  },
+  "x_hours_and_y_minutes": {
+    "value": "%1$s hodin a %2$s minut"
+  },
+  "x_minutes_ago": {
+    "value": "Před %1$s minutami"
+  },
+  "yes": {
+    "value": "Ano"
+  },
+  "yes_and_save": {
+    "value": "Ano a uložit"
+  },
+  "yes_i_can_reliably_access_my_email": {
+    "value": "Ano, ke svému e-mailu mám přístup"
+  },
+  "you_can_change_your_account_email_on_the_bitwarden_web_app": {
+    "value": "E-mail účtu můžete změnit ve webové\n        aplikaci Bitwarden.\n    "
+  },
+  "you_can_import_data_to_your_vault_on_x": {
+    "value": "Data můžete importovat do Vašeho trezoru na %1$s."
+  },
+  "you_can_return_to_complete_this_step_anytime_from_account_security_in_settings": {
+    "value": "K dokončení tohoto\n        kroku se můžete kdykoliv vrátit v sekci Zabezpečení účtu v Nastavení.\n    "
+  },
+  "you_can_return_to_complete_this_step_anytime_from_settings": {
+    "value": "K dokončení tohoto kroku se můžete\n        kdykoliv vrátit v nastavení Trezoru.\n    "
+  },
+  "you_can_set_up_two_step_login_as_an_alternative_way_to_protect_your_account_or_change_your_email_to_one_you_can_access": {
+    "value": "\n        Dvoufázové přihlášení můžete nastavit jako alternativní způsob ochrany Vašeho účtu nebo změnit svůj e-mail na\n        ten, k němuž můžete přistupovat.\n    "
+  },
+  "you_cannot_edit_passkey_application_because_it_would_invalidate_the_passkey": {
+    "value": "Nemůžete upravovat\n        aplikaci pro přístupové klíče, protože by to zneplatnilo přístupový klíč\n    "
+  },
+  "you_ll_only_need_to_set_up_authenticator_key": {
+    "value": "Budete jen muset nastavit Authenticator pro přihlášení,\n        která vyžadují dvoufaktorové ověření s kódem. Klíč průběžně generuje šestimístné kódy, které můžete použít pro\n        přihlášení.\n    "
+  },
+  "you_must_add_a_web_address_to_use_autofill_to_access_this_account": {
+    "value": "Pro přístup k tomuto účtu musíte\n        přidat webovou adresu pro automatické vyplnění.\n    "
+  },
+  "you_will_be_notified_once_approved": {
+    "value": "Po schválení budete upozorněni."
+  },
+  "your_account_has_been_permanently_deleted": {
+    "value": "Váš účet byl trvale smazán"
+  },
+  "your_accounts_fingerprint": {
+    "value": "Fráze otisku prstu Vašeho účtu"
+  },
+  "your_data_when_and_where_you_need_it": {
+    "value": "Vaše data, kdy a kde je potřebujete"
+  },
+  "your_hint_will_be_send_to_you_via_email_when_you_request_it": {
+    "value": "Nápověda Vám bude odeslána e-mailem, až o\n        ni požádáte.\n    "
+  },
+  "your_master_password_cannot_be_recovered_if_you_forget_it_x_characters_minimum": {
+    "value": "Pokud zapomenete Vaše\n        hlavní heslo, nebude možné jej obnovit! Heslo musí mít alespoň %1$s znaků.\n    "
+  },
+  "your_organization_permissions_were_updated_requering_you_to_set_a_master_password": {
+    "value": "Oprávnění Vaší\n        organizace byla aktualizována. To vyžaduje nastavení hlavního hesla.\n    "
+  },
+  "your_organization_requires_you_to_set_a_master_password": {
+    "value": "Vaše organizace vyžaduje nastavení hlavního\n        hesla.\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault": {
+    "value": "Váš přístupový klíč bude uložen do Vašeho trezoru\n        na Bitwardenu\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault_for_x": {
+    "value": "Váš přístupový klíč bude pro %1$s uložen do\n        Vašeho trezoru na Bitwardenu\n    "
+  },
+  "your_request_has_been_sent_to_your_admin": {
+    "value": "Váš požadavek byl odeslán Vašemu správci."
+  },
+  "youre_all_set": {
+    "value": "Vše je nastaveno!"
+  },
+  "yubi_key_instruction": {
+    "value": "Pro pokračování podržte YubiKey NEO blízko zadní strany Vašeho zařízení nebo\n        vložte YubiKey do USB portu a stiskněte tlačítko na klíči.\n    "
+  },
+  "yubi_key_instruction_ios": {
+    "value": "Pro pokračování podržte YubiKey NEO u zadní části zařízení."
+  },
+  "yubi_key_title": {
+    "value": "Bezpečnostní klíč YubiKey"
+  },
+  "zip_postal_code": {
+    "value": "PSČ"
+  }
+}

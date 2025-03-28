@@ -5,12 +5,17 @@ import dragapult.app.v2.TranslationWriter
 import kotlinx.serialization.ExperimentalSerializationApi
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
+import kotlinx.serialization.builtins.MapSerializer
+import kotlinx.serialization.builtins.serializer
 import kotlinx.serialization.descriptors.PrimitiveKind
 import kotlinx.serialization.descriptors.PrimitiveSerialDescriptor
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.encodeToStream
+import kotlinx.serialization.modules.plus
+import kotlinx.serialization.modules.serializersModuleOf
 import java.io.OutputStream
 import java.util.*
+import kotlin.reflect.KClass
 
 class WriterJsonIR(
     private val output: OutputStream
@@ -22,6 +27,10 @@ class WriterJsonIR(
         prettyPrintIndent = "\t"
         explicitNulls = false
         encodeDefaults = false
+        serializersModule = serializersModule + serializersModuleOf(
+            SortedMap::class as KClass<Map<String, String>>,
+            MapSerializer(String.serializer(), String.serializer())
+        )
     }
     private val keys = sortedMapOf<String, Key>(compareBy { it.lowercase() })
 
@@ -29,7 +38,7 @@ class WriterJsonIR(
         keys[ir.key] = Key(
             comment = ir.metadata?.comment,
             properties = ir.metadata?.properties,
-            translations = ir.translations
+            translations = ir.translations.toSortedMap(compareBy { it.toLanguageTag() })
         )
     }
 

@@ -1,0 +1,3677 @@
+{
+  "a_notification_has_been_sent_to_your_device": {
+    "value": "Cihazınıza bir bildirim gönderildi."
+  },
+  "a_secure_memorable_password": {
+    "value": "Güvenli, ezberlenebilir bir parola"
+  },
+  "a_verification_code_was_sent_to_your_email": {
+    "value": "E-posta adresinize doğrulama kodu gönderildi"
+  },
+  "about": {
+    "value": "Hakkında"
+  },
+  "about_send": {
+    "value": "Send hakkında"
+  },
+  "accept": {
+    "value": "Kabul et"
+  },
+  "accept_policies": {
+    "value": "Şunları kabul ettiğinizi belirtmek için yandaki düğmeyi etkinleştirin:"
+  },
+  "accept_policies_error": {
+    "value": "Hizmet Koşulları ve Gizlilik Politikası kabul edilmemiş."
+  },
+  "accessibility": {
+    "value": "Erişilebilirliği kullan"
+  },
+  "accessibility_description": {
+    "value": "Uygulamalarda ve web\\'de hesap bilgilerinizi otomatik olarak doldurmak için\n        Bitwarden erişilebilirlik hizmetini kullanabilirsiniz. Bu özelliği açarsanız giriş alanlarını seçtiğinizde bir\n        açılır pencere karşınıza çıkacaktır.\n    "
+  },
+  "accessibility_description2": {
+    "value": "Uygulamalarda ve web\\'de hesap bilgilerinizi otomatik olarak doldurmak\n        için Bitwarden erişilebilirlik hizmetini kullanın. (\\\"Üstünde gösterme\\\"nin de açılması gerekir.)\n    "
+  },
+  "accessibility_description3": {
+    "value": "Bitwarden erişilebilirlik hizmetini açarak otomatik doldurma hızlı eylem\n        kutusunu kullanabilir ve/veya üstünde gösterme yöntemiyle (bu özellliği açarsanız) açılır pencere\n        açabilirisiniz.\n    "
+  },
+  "accessibility_description4": {
+    "value": "Otomatik doldurma hızlı eylem kutusunu kullanmak veya üstünde gösterme\n        yöntemiyle (açıldıysa) otomatik doldurma hizmetini taklit etmek için gereklidir.\n    "
+  },
+  "accessibility_description5": {
+    "value": "Required to use the Autofill Quick-Action Tile."
+  },
+  "accessibility_disclosure_text": {
+    "value": "Bitwarden; uygulamalarda ve web sitelerinde giriş alanlarını bulmak ve\n        eşleşme bulunduğunda kullanıcı adı ve parolayı doldurmak için erişilebilirlik hizmetini kullanır. Hizmetin bize\n        sunduğu hiçbir bilgiyi saklamayız ve hesap bilgilerinin girilmesi dışında ekrandaki öğeleri değiştirmek için\n        herhangi bir girişimde bulunmayız.\n    "
+  },
+  "accessibility_draw_over_permission_alert": {
+    "value": "Bitwarden\\'la ilgilenmeniz gerekiyor: Bitwarden ayarlarında\n        \\\"Otomatik doldurma hizmetleri\\\"nden \\\"Üstünde gösterme\\\"yi açın\n    "
+  },
+  "accessibility_overlay_permission_alert": {
+    "value": "Bitwarden\\'la ilgilenmeniz gerekiyor: Bitwarden ayarlarından\n        \\\"Otomatik doldurma erişilebilirlik hizmeti\\\"ne bakın\n    "
+  },
+  "accessibility_service_disclosure": {
+    "value": "Erişilebilirlik Hizmeti Beyanı"
+  },
+  "account": {
+    "value": "Hesap"
+  },
+  "account_already_added": {
+    "value": "Hesap zaten eklenmiş"
+  },
+  "account_biometric_invalidated": {
+    "value": "Bu hesap için biyometrik kilit açma devre dışı. Ana parolanın\n        doğrulanması bekleniyor.\n    "
+  },
+  "account_biometric_invalidated_extension": {
+    "value": "Otomatik doldurma biyometrik kilit açma devre dışı. Ana\n        parolanın doğrulanması bekleniyor.\n    "
+  },
+  "account_created": {
+    "value": "Yeni hesabınız oluşturuldu! Şimdi giriş yapabilirsiniz."
+  },
+  "account_created_success": {
+    "value": "Yeni hesabınız oluşturuldu."
+  },
+  "account_fingerprint_phrase": {
+    "value": "Hesap parmak izi ifadesi"
+  },
+  "account_locked": {
+    "value": "Kilitli"
+  },
+  "account_locked_successfully": {
+    "value": "Hesap kilitlendi"
+  },
+  "account_logged_out": {
+    "value": "Çıkış yapıldı"
+  },
+  "account_logged_out_biometric_exceeded": {
+    "value": "Hesabın oturumu kapatıldı."
+  },
+  "account_logged_out_successfully": {
+    "value": "Başarıyla çıkış yapıldı"
+  },
+  "account_removed_successfully": {
+    "value": "Hesap başarıyla kaldırıldı"
+  },
+  "account_security": {
+    "value": "Hesap güvenliği"
+  },
+  "account_setup": {
+    "value": "Hesap kurulumu"
+  },
+  "account_switched_automatically": {
+    "value": "Bir sonraki hesaba geçildi"
+  },
+  "account_unlocked": {
+    "value": "Kilitli değil"
+  },
+  "add": {
+    "value": "Ekle"
+  },
+  "add_a_number_or_symbol_to_make_it_even_stronger": {
+    "value": "\n        <annotation emphasis=\"bold\">Add a number or symbol</annotation>\n        to make it even stronger. Now you have a unique, secure, and memorable passphrase!\n    "
+  },
+  "add_a_send": {
+    "value": "Send ekle"
+  },
+  "add_account": {
+    "value": "Hesap ekle"
+  },
+  "add_an_item": {
+    "value": "Kayıt ekle"
+  },
+  "add_field": {
+    "value": "Alan ekle"
+  },
+  "add_folder": {
+    "value": "Klasör ekle"
+  },
+  "add_item": {
+    "value": "Kayıt ekle"
+  },
+  "add_new_attachment": {
+    "value": "Yeni dosya ekle"
+  },
+  "add_send": {
+    "value": "Yeni Send"
+  },
+  "add_the_key_to_an_existing_or_new_item": {
+    "value": "Anahtarı mevcut veya yeni bir kayda ekle"
+  },
+  "add_this_authenticator_key_to_a_login": {
+    "value": "Bu kimlik doğrulama anahtarını mevcut bir hesaba ekleyin veya\n        yeni bir hesap oluşturun.\n    "
+  },
+  "add_totp": {
+    "value": "TOTP ekle"
+  },
+  "add_website": {
+    "value": "Web sitesi ekle"
+  },
+  "additional_options": {
+    "value": "Ek seçenekler"
+  },
+  "address": {
+    "value": "Adres"
+  },
+  "address1": {
+    "value": "Adres 1"
+  },
+  "address2": {
+    "value": "Adres 2"
+  },
+  "address3": {
+    "value": "Adres 3"
+  },
+  "addy_io": {
+    "value": "addy.io"
+  },
+  "admin_approval_requested": {
+    "value": "Yönetici onayı istendi"
+  },
+  "after_you_save_your_new_password_to_bitwarden_don_t_forget_to_update_it_on_your_account_website": {
+    "value": "\n        \"After you save your new password to Bitwarden, don’t forget to update it on your account website. \"\n    "
+  },
+  "alias": {
+    "value": "Alias"
+  },
+  "all": {
+    "value": "Tümü"
+  },
+  "all_items": {
+    "value": "Tüm kayıtlar"
+  },
+  "all_notifications": {
+    "value": "Tüm bildirimler"
+  },
+  "all_sends": {
+    "value": "Tüm Send\\'ler"
+  },
+  "all_vaults": {
+    "value": "Tüm kasalar"
+  },
+  "allow_bitwarden_authenticator_syncing": {
+    "value": "Allow authenticator syncing"
+  },
+  "allow_notifications": {
+    "value": "Bildirimlere izin ver"
+  },
+  "allow_screen_capture": {
+    "value": "Ekran kaydına izin ver"
+  },
+  "an_error_has_occurred": {
+    "value": "Bir hata oluştu."
+  },
+  "an_error_occurred_while_sending_a_verification_code_to_your_email_please_try_again": {
+    "value": "E-posta adresinize\n        doğrulama kodu gönderilirken bir sorun oluştu. Lütfen daha sonra tekrar deneyin\n    "
+  },
+  "api_access_token": {
+    "value": "API erişim token\\'ı"
+  },
+  "api_key_required_parenthesis": {
+    "value": "API anahtarı (gerekli)"
+  },
+  "api_url": {
+    "value": "API sunucu URL\\'si"
+  },
+  "app_extension": {
+    "value": "Uygulama uzantısı"
+  },
+  "appearance": {
+    "value": "Görünüm"
+  },
+  "application": {
+    "value": "Uygulama"
+  },
+  "approve_login_requests": {
+    "value": "Giriş isteklerini onayla"
+  },
+  "approve_with_master_password": {
+    "value": "Ana parola ile onayla"
+  },
+  "approve_with_my_other_device": {
+    "value": "Diğer cihazımla onayla"
+  },
+  "april": {
+    "value": "Nisan"
+  },
+  "are_you_sure_delete_send": {
+    "value": "Bu Send\\'i silmek istediğinizden emin misiniz?"
+  },
+  "are_you_sure_remove_send_password": {
+    "value": "Parolayı kaldırmak istediğinizden emin misiniz?"
+  },
+  "are_you_sure_you_want_to_decline_all_pending_log_in_requests": {
+    "value": "Bekleyen tüm giriş isteklerini reddetmek\n        istediğinizden emin misiniz?\n    "
+  },
+  "are_you_sure_you_want_to_enable_screen_capture": {
+    "value": "Ekran kaydını açmak istediğinizden emin misiniz?\n    "
+  },
+  "are_you_sure_you_want_to_overwrite_the_current_username": {
+    "value": "Kullanıcı adının üzerine kaydetmek\n        istediğinizden emin misiniz?\n    "
+  },
+  "are_you_trying_to_log_in": {
+    "value": "Giriş yapmaya mı çalışıyorsunuz?"
+  },
+  "ask_to_add_login": {
+    "value": "Hesap eklemeyi öner"
+  },
+  "ask_to_add_login_description": {
+    "value": "Kasamda kayıt bulunamazsa eklemeyi öner."
+  },
+  "attachement_added": {
+    "value": "Dosya eklendi"
+  },
+  "attachment_deleted": {
+    "value": "Dosya silindi"
+  },
+  "attachment_large_warning": {
+    "value": "Bu dosyanın boyutu %1$s. Dosyayı cihazınıza indirmek istediğinizden emin\n        misiniz?\n    "
+  },
+  "attachments": {
+    "value": "Dosyalar"
+  },
+  "august": {
+    "value": "Ağustos"
+  },
+  "authenticator": {
+    "value": "Doğrulayıcı"
+  },
+  "authenticator_app_title": {
+    "value": "Kimlik doğrulama uygulaması"
+  },
+  "authenticator_key": {
+    "value": "Kimlik doğrulama anahtarı (TOTP)"
+  },
+  "authenticator_key_added": {
+    "value": "Kimlik doğrulama anahtarı eklendi."
+  },
+  "authenticator_key_help": {
+    "value": "Authenticator key help"
+  },
+  "authenticator_key_read_error": {
+    "value": "Kimlik doğrulama anahtarı okunamıyor."
+  },
+  "authenticator_key_scanner": {
+    "value": "Doğrulayıcı anahtarı"
+  },
+  "authenticator_sync": {
+    "value": "Authenticator Sync"
+  },
+  "auto_fill_will_not_be_offered_for_these_ur_is": {
+    "value": "Aşağıdaki adresler için otomatik doldurma\n        önerilmeyecektir.\n    "
+  },
+  "autofill": {
+    "value": "Otomatik doldur"
+  },
+  "autofill_accessibility_description": {
+    "value": "Uygulamalarda ve web\\'de giriş bilgilerinizi otomatik doldurmak\n        için Bitwarden erişilebilirlik hizmetini kullanabilirsiniz.\n    "
+  },
+  "autofill_accessibility_service": {
+    "value": "Otomatik Doldurma Erişilebilirlik Hizmeti"
+  },
+  "autofill_accessibility_summary": {
+    "value": "Diğer uygulamalarda ve web\\'de kullanıcı adlarını ve parolaları\n        doldurmaya yardımcı ol.\n    "
+  },
+  "autofill_activated": {
+    "value": "Otomatik doldurma etkinleştirildi!"
+  },
+  "autofill_and_save": {
+    "value": "Otomatik doldur ve kaydet"
+  },
+  "autofill_blocked_uris": {
+    "value": "Engellenmiş URI\\'leri otomatik doldur"
+  },
+  "autofill_options": {
+    "value": "Otomatik Doldurma Seçenekleri"
+  },
+  "autofill_or_view": {
+    "value": "Bu kaydı otomatik doldurmak veya görüntülemek ister misiniz?"
+  },
+  "autofill_passwords": {
+    "value": "Parolaları otomatik doldurun"
+  },
+  "autofill_service": {
+    "value": "Otomatik doldurma hizmeti"
+  },
+  "autofill_service_description": {
+    "value": "Bitwarden otomatik doldurma hizmeti, cihazınızdaki diğer uygulamalarda\n        hesap bilgilerini doldurmak için Android Otomatik Doldurma Sistemi\\'ni kullanır.\n    "
+  },
+  "autofill_service_not_enabled": {
+    "value": "Otomatik doldurma, web sitelerinden ve uygulamalardan Bitwarden kasanıza\n        güvenle erişmenizi kolaylaştırır. Bitwarden otomatik doldurma hizmetini henüz ayarlamamışsınız. \\\"Ayarlar\\\"\n        ekranından otomatik doldurmayı ayarlayın.\n    "
+  },
+  "autofill_services": {
+    "value": "Otomatik doldurma hizmetleri"
+  },
+  "autofill_services_explanation_long": {
+    "value": "Cihazınızdaki diğer uygulamalarda hesap bilgilerini doldurmak için\n        Android Otomatik Doldurma Sistemi kullanılır.\n    "
+  },
+  "autofill_setup": {
+    "value": "Uygulamalara ve web sitelerine giriş yaparken artık hesaplarınıza klavyenizden kolayca\n        ulaşabilirsiniz.\n    "
+  },
+  "autofill_setup2": {
+    "value": "Başka otomatik doldurma uygulamalarınız varsa ve artık onları kullanmayı\n        düşünmüyorsanız Ayarlar\\'dan onları devre dışı bırakmanızı öneririz.\n    "
+  },
+  "autofill_suggestion": {
+    "value": "Öneriyi otomatik doldur"
+  },
+  "autofill_tile_accessibility_required": {
+    "value": "Otomatik doldurma kutusunu kullanmak için lütfen Bitwarden\n        ayarlarından \\\"Otomatik doldurma erişilebilirlik hizmeti\\\"ni açın.\n    "
+  },
+  "autofill_tile_uri_not_found": {
+    "value": "Parola alanı tespit edilemedi"
+  },
+  "autofill_turn_on": {
+    "value": "Cihazınızda otomatik parola doldurmayı açmak için şu talimatları izleyin:"
+  },
+  "autofill_turn_on1": {
+    "value": "1. iOS\\'te \\\"Ayarlar\\\" uygulamasını açın"
+  },
+  "autofill_turn_on2": {
+    "value": "2. \\\"Parolalar\\\"a dokunun"
+  },
+  "autofill_turn_on3": {
+    "value": "3. \\\"Parolaları Oto. Doldur\\\"a dokunun"
+  },
+  "autofill_turn_on4": {
+    "value": "4. Otomatik doldurmayı açın"
+  },
+  "autofill_turn_on5": {
+    "value": "5. \\\"Bitwarden\\\"ı seçin"
+  },
+  "autofill_with_bitwarden": {
+    "value": "Bitwarden ile otomatik doldur"
+  },
+  "available_for_two_step_login": {
+    "value": "İki aşamalı girişte kullanılabilir"
+  },
+  "avoid_ambiguous_characters": {
+    "value": "Okurken karışabilecek karakterleri kullanma"
+  },
+  "back": {
+    "value": "Geri"
+  },
+  "base_domain": {
+    "value": "Ana alan adı"
+  },
+  "biometrics": {
+    "value": "biyometri"
+  },
+  "biometrics_decoding_failure": {
+    "value": "Log in with your Master Password or PIN then re-enable biometric login in\n        Settings.\n    "
+  },
+  "biometrics_direction": {
+    "value": "Biyometrik doğrulama"
+  },
+  "biometrics_failed": {
+    "value": "Biyometri doğrulanamadı"
+  },
+  "biometrics_no_longer_supported": {
+    "value": "Cihazınızın biyometrisi en son güvenlik gereksinimlerini karşılamadığı\n        için oturumunuz kapatıldı. Ayarları güncellemek için yeniden oturum açın veya erişim için yöneticinize başvurun.\n    "
+  },
+  "biometrics_no_longer_supported_title": {
+    "value": "Artık bu cihazda biyometri desteklenmiyor"
+  },
+  "bitwarden": {
+    "value": "Bitwarden"
+  },
+  "bitwarden_app_extension": {
+    "value": "Bitwarden uygulama uzantısı"
+  },
+  "bitwarden_app_extension_alert2": {
+    "value": "Kasanıza yeni hesaplar eklemenin en kolay yolu Bitwarden uygulama\n        uzantısıdır. Bitwarden uygulama uzantısı hakkında daha fazla bilgi almak için \\\"Ayarlar\\\" ekranına\n        bakabilirsiniz.\n    "
+  },
+  "bitwarden_app_extension_description": {
+    "value": "Giriş bilgilerinizi otomatik doldurmak için Safari\\'de ve diğer\n        uygulamalarda Bitwarden\\'ı kullanın.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description": {
+    "value": "Giriş bilgilerinizi otomatik olarak doldurmak\n        için Bitwarden erişilebilirlik hizmetini kullanabilirsiniz.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description2": {
+    "value": "Erişilebilirlik hizmeti, standart otomatik\n        doldurma hizmetini desteklemeyen uygulamalarda işe yarayabilir.\n    "
+  },
+  "bitwarden_autofill_alert2": {
+    "value": "Kasanıza yeni hesaplar eklemenin en kolay yolu Bitwarden Otomatik Parola\n        Doldurma uzantısını kullanmaktır. Bitwarden Otomatik Parola Doldurma uzantısı hakkında daha fazla bilgi almak\n        için \\\"Ayarlar\\\" ekranına bakabilirsiniz.\n    "
+  },
+  "bitwarden_autofill_description": {
+    "value": "Parolalarınızı hızlıca otomatik doldurmak için kasanıza doğrudan\n        klavyeden erişin.\n    "
+  },
+  "bitwarden_autofill_go_to_settings": {
+    "value": "Android otomatik doldurma ayarları menüsünü otomatik olarak\n        açamadık. Lütfen şu yolu izleyerek otomatik doldurma ayarları menüsüne gidin: Android ayarları  Sistem\n        Dil ve giriş  Gelişmiş  Otomatik doldurma hizmeti.\n    "
+  },
+  "bitwarden_autofill_service": {
+    "value": "Bitwarden otomatik doldurma hizmeti"
+  },
+  "bitwarden_autofill_service_alert2": {
+    "value": "Kasanıza yeni hesaplar eklemenin en kolay yolu Bitwarden Otomatik\n        Doldurma Hizmeti\\'dir. Bu özellik hakkında daha fazla bilgi almak için \\\"Ayarlar\\\" ekranına gidin.\n    "
+  },
+  "bitwarden_autofill_service_description": {
+    "value": "Diğer uygulamalarda hesap bilgilerinizi doldurmak için\n        Bitwarden otomatik doldurma hizmetini kullanabilirsiniz.\n    "
+  },
+  "bitwarden_autofill_service_match_confirm": {
+    "value": "Bu kaydı otomatik doldurmak istediğinizden emin misiniz?\n        \\\"%1$s\\\" ile tam olarak eşleşmiyor.\n    "
+  },
+  "bitwarden_autofill_service_notification_content": {
+    "value": "Formu kasanızdaki bilgilerle otomatik doldurmak için\n        bu bildirime dokunun.\n    "
+  },
+  "bitwarden_autofill_service_notification_content_old": {
+    "value": "Kasanızdaki kayıtları görmek için bu bildirime\n        dokunun.\n    "
+  },
+  "bitwarden_autofill_service_open_accessibility_settings": {
+    "value": "Erişebilirlik ayarlarını açın"
+  },
+  "bitwarden_autofill_service_open_autofill_settings": {
+    "value": "Otomatik doldurma ayarlarını aç"
+  },
+  "bitwarden_autofill_service_open_overlay_permission_settings": {
+    "value": "Üzerinde gösterme izni ayarlarını açın\n    "
+  },
+  "bitwarden_autofill_service_overlay": {
+    "value": "Bir giriş alanını seçip Bitwarden otomatik doldurma kutusunu\n        gördüğünüzde otomatik doldurmayı başlatmak için kutuya dokunabilirsiniz.\n    "
+  },
+  "bitwarden_autofill_service_overlay_permission": {
+    "value": "3. Android\\'in uygulama ayarları bölümünde Bitwarden\\'ı\n        bulun ve \\\"Diğer uygulamaların üzerinde görüntüle\\\" ayarını (\\\"Gelişmiş\\\" altında) açın.\n    "
+  },
+  "bitwarden_autofill_service_search": {
+    "value": "\\\"%1$s\\\" için otomatik doldurma kaydı arıyorsunuz."
+  },
+  "bitwarden_autofill_service_step1": {
+    "value": "1. Android Erişilebilirlik Ayarları ekranında, Hizmetler başlığı\n        altındaki \\\"Bitwarden\\\"a dokunun.\n    "
+  },
+  "bitwarden_autofill_service_step2": {
+    "value": "2. Ayarı açıp Tamam\\'a dokunarak onaylayın."
+  },
+  "bitwarden_autofill_service_step3": {
+    "value": "3. Android\\'in uygulama ayarları bölümünde Bitwarden\\'ı bulun ve\n        \\\"diğer uygulamaların üstünde göster\\\" ayarını açın. (\\\"Gelişmiş\\\" altında olabilir.)\n    "
+  },
+  "bitwarden_can_notify_you_each_time_you_receive_a_new_login_request_from_another_device": {
+    "value": "Başka bir\n        cihazdan yeni bir giriş isteği aldığınızda Bitwarden size bildirim gönderebilir.\n    "
+  },
+  "bitwarden_cannot_recover_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden, unuttuğunuz veya\n        kaybettiğiniz ana parolaları kurtaramaz.\n    "
+  },
+  "bitwarden_cannot_reset_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden, unuttuğunuz veya kaybettiğiniz\n        ana parolaları sıfırlayamaz.\n    "
+  },
+  "bitwarden_credential_provider_go_to_settings": {
+    "value": "Android bilgi sağlayıcı ayarları menüsünü otomatik\n        olarak açamadık. Bilgi sağlayıcı ayarları menüsüne kendiniz gitmek için Android Ayarları  Sistem \n        Parolalar ve hesaplar  Parolalar, geçiş anahtarları ve veri servisleri yolunu izleyebilirsiniz.\n    "
+  },
+  "bitwarden_help_center": {
+    "value": "Bitwarden Yardım Merkezi"
+  },
+  "bitwarden_tools": {
+    "value": "Bitwarden Araçları"
+  },
+  "bitwarden_will_soon_send_a_code_to_your_account_email_to_verify_logins_from_new_devices_in_february": {
+    "value": "\n        Şubat 2025 itibarıyla Bitwarden, yeni cihazlardan yeni girişleri doğrulamanız için e-posta adresinize bir kod\n        gönderecektir.\n    "
+  },
+  "black": {
+    "value": "Siyah"
+  },
+  "block_auto_fill": {
+    "value": "Otomatik doldurmayı engelle"
+  },
+  "brand": {
+    "value": "Marka"
+  },
+  "by_activating_this_switch_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "By activating this\n        switch, you agree to the <annotation link=\"termsOfService\">Terms of Service</annotation> and\n        <annotation link=\"privacyPolicy\">Privacy Policy</annotation>\n    "
+  },
+  "by_continuing_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "Devam etmeniz halinde Hizmet\n        Şartları ve Gizlilik Politikası\\'nı kabul etmiş olursunuz\n    "
+  },
+  "camera": {
+    "value": "Kamera"
+  },
+  "cancel": {
+    "value": "İptal"
+  },
+  "cannot_add_authenticator_key": {
+    "value": "Doğrulama anahtarını ekleyemediniz mi?"
+  },
+  "cannot_add_authenticator_key_scan_qr_code": {
+    "value": "Cannot add authenticator key?\n        <annotation link=\"scanQrCode\">Scan QR Code</annotation>\n    "
+  },
+  "cannot_edit_multiple_ur_is_at_once": {
+    "value": "Aynı anda birden fazla URl düzenlenemez"
+  },
+  "cannot_open_app": {
+    "value": "\\\"%1$s\\\" uygulaması açılamıyor."
+  },
+  "cannot_scan_qr_code_enter_key_manually": {
+    "value": "Cannot scan QR code?\n        <annotation link=\"enterKeyManually\">Enter key manually</annotation>\n    "
+  },
+  "capitalize": {
+    "value": "Baş harfleri büyük yap"
+  },
+  "captcha_failed": {
+    "value": "Captcha başarısız oldu. Lütfen yeniden deneyin."
+  },
+  "captcha_required": {
+    "value": "Captcha gerekiyor"
+  },
+  "card_details": {
+    "value": "Card Details"
+  },
+  "cardholder_name": {
+    "value": "Kart sahibinin adı"
+  },
+  "cards": {
+    "value": "Kartlar"
+  },
+  "catch_all_email": {
+    "value": "Catch-all e-posta"
+  },
+  "catch_all_email_description": {
+    "value": "Alan adınızın tüm iletileri yakalamaya ayarlanmış adresini kullanın.\n    "
+  },
+  "certificate_alias": {
+    "value": "Certificate alias"
+  },
+  "certificate_alias_already_exists": {
+    "value": "Certificate alias already exists"
+  },
+  "certificate_installation_failed": {
+    "value": "Certificate installation failed"
+  },
+  "certificate_installed": {
+    "value": "Certificate installed"
+  },
+  "certificate_password_incorrect": {
+    "value": "Certificate password incorrect"
+  },
+  "certificate_selection_failed": {
+    "value": "Certificate selection failed"
+  },
+  "certificate_used_for_client_authentication": {
+    "value": "Certificate used for client authentication."
+  },
+  "change_account_email": {
+    "value": "Hesap e-postasını değiştir"
+  },
+  "change_email": {
+    "value": "E-postayı değiştir"
+  },
+  "change_email_address": {
+    "value": "E-posta adresini değiştir"
+  },
+  "change_email_confirmation": {
+    "value": "E-posta adresinizi bitwarden.com web kasası üzerinden değiştirebilirsiniz.\n        Siteye gitmek ister misiniz?\n    "
+  },
+  "change_master_password": {
+    "value": "Ana parolayı değiştir"
+  },
+  "change_master_password_description_long": {
+    "value": "Ana parolanızı Bitwarden web uygulamasında\n        değiştirebilirsiniz.\n    "
+  },
+  "check_known_data_breaches_for_this_password": {
+    "value": "Bilinen veri ihlallerinde bu parolayı kontrol et"
+  },
+  "check_out_the_passphrase_generator": {
+    "value": "\"Check out the passphrase generator\""
+  },
+  "check_password": {
+    "value": "Parolanız ele geçirilip geçirilmediğini kontrol edin."
+  },
+  "check_password_for_data_breaches": {
+    "value": "Check password for data breaches"
+  },
+  "check_your_email": {
+    "value": "E-postanızı kontrol edin"
+  },
+  "checking_password": {
+    "value": "Parola kontrol ediliyor..."
+  },
+  "choose_a_login_to_save_this_passkey_to": {
+    "value": "Bu geçiş anahtarının kaydedileceği hesabı seçin"
+  },
+  "choose_a_unique_and_strong_password_to_keep_your_information_safe": {
+    "value": "Bilgilerinizi güvende tutmak için\n        başka yerde kullanmadığınız, güçlü bir parola seçin.\n    "
+  },
+  "choose_file": {
+    "value": "Dosya seç"
+  },
+  "choose_system_certificate": {
+    "value": "Choose system certificate"
+  },
+  "choose_three_or_four_random_words": {
+    "value": "Choose three or four random words"
+  },
+  "choose_your_master_password": {
+    "value": "Ana parolanızı seçin"
+  },
+  "city_town": {
+    "value": "Şehir"
+  },
+  "class_2_biometrics_description": {
+    "value": "Biyometri ile kilit açma, güçlü biyometrik kimlik doğrulama gerektirir\n        ve cihazınızdaki biyometri seçenekleriyle uyumlu değildir.\n    "
+  },
+  "class_3_biometrics_description": {
+    "value": "Biyometri ile kilit açma için güçlü biyometrik kimlik doğrulama\n        gerekir. Bu özellik, cihazınızdaki tüm biyometri seçenekleriyle uyumlu olmayabilir.\n    "
+  },
+  "clear": {
+    "value": "Temizle"
+  },
+  "clear_clipboard": {
+    "value": "Panoyu temizle"
+  },
+  "clear_clipboard_description": {
+    "value": "Kopyalanan değerleri panodan otomatik olarak temizle."
+  },
+  "client_certificate_mtls": {
+    "value": "Client certificate (mTLS)"
+  },
+  "clone": {
+    "value": "Klonla"
+  },
+  "close": {
+    "value": "Kapat"
+  },
+  "coachmark_1_of_3": {
+    "value": "1/3"
+  },
+  "coachmark_1_of_6": {
+    "value": "1 OF 6"
+  },
+  "coachmark_2_of_3": {
+    "value": "2/3"
+  },
+  "coachmark_2_of_6": {
+    "value": "2 OF 6"
+  },
+  "coachmark_3_of_3": {
+    "value": "3/3"
+  },
+  "coachmark_3_of_6": {
+    "value": "3 OF 6"
+  },
+  "coachmark_4_of_6": {
+    "value": "4 OF 6"
+  },
+  "coachmark_5_of_6": {
+    "value": "5 OF 6"
+  },
+  "coachmark_6_of_6": {
+    "value": "6 OF 6"
+  },
+  "code_sent": {
+    "value": "Kod gönderildi!"
+  },
+  "collections": {
+    "value": "Koleksiyonlar"
+  },
+  "combine_those_words_together": {
+    "value": "Combine those words together"
+  },
+  "company": {
+    "value": "Şirket"
+  },
+  "confim_log_in_attemp_for_x": {
+    "value": "%1$s girişini onayla"
+  },
+  "confirm": {
+    "value": "Onayla"
+  },
+  "confirm_file_password": {
+    "value": "Dosya parolasını onaylayın"
+  },
+  "confirm_log_in": {
+    "value": "Girişi onayla"
+  },
+  "confirm_your_identity": {
+    "value": "Devam etmek için kimliğinizi doğrulayın."
+  },
+  "connect_to_watch": {
+    "value": "Watch\\'a bağlan"
+  },
+  "contact_bitwarden_support": {
+    "value": "Bitwarden destek ekibiyle iletişime geç"
+  },
+  "contact_info": {
+    "value": "Contact Info"
+  },
+  "contact_support_description_long": {
+    "value": "Aradığınızı bulamadınız mı? bitwarden.com sitesinden Bitwarden\n        destek ekibine ulaşabilirsiniz.\n    "
+  },
+  "continue_text": {
+    "value": "Devam"
+  },
+  "continue_to_app_store": {
+    "value": "App Store\\'a gitmek ister misiniz?"
+  },
+  "continue_to_complete_web_authn_verification": {
+    "value": "Continue to complete WebAuthn verification."
+  },
+  "continue_to_contact_support": {
+    "value": "Destek ekibiyle iletişim kurmak ister misiniz?"
+  },
+  "continue_to_device_settings": {
+    "value": "Cihaz ayarlarına gidilsin mi?"
+  },
+  "continue_to_give_feedback": {
+    "value": "Puanlamaya devam etmek istiyor musunuz?"
+  },
+  "continue_to_help_center": {
+    "value": "Yardım merkezine gitmek ister misiniz?"
+  },
+  "continue_to_privacy_policy": {
+    "value": "Gizlilik ilkelerine gidilsin mi?"
+  },
+  "continue_to_provide_feedback": {
+    "value": "Devam ederek yeni uygulamamıza puan verin!"
+  },
+  "continue_to_web_app": {
+    "value": "Web uygulamasına devam edilsin mi?"
+  },
+  "continue_to_x": {
+    "value": "%1$s ile devam edilsin mi?"
+  },
+  "copied_to_clipboard": {
+    "value": "Panoya kopyalandı."
+  },
+  "copy": {
+    "value": "Kopyala"
+  },
+  "copy_address": {
+    "value": "Adresi kopyala"
+  },
+  "copy_app_information": {
+    "value": "Uygulama bilgilerini kopyala"
+  },
+  "copy_application": {
+    "value": "Uygulamayı kopyala"
+  },
+  "copy_company": {
+    "value": "Şirketi kopyala"
+  },
+  "copy_email": {
+    "value": "E-postayı kopyala"
+  },
+  "copy_fingerprint": {
+    "value": "Parmak izini kopyala"
+  },
+  "copy_identity_name": {
+    "value": "Kimlik adını kopyala"
+  },
+  "copy_license_number": {
+    "value": "Ruhsat numarasını kopyala"
+  },
+  "copy_link": {
+    "value": "Bağlantıyı kopyala"
+  },
+  "copy_notes": {
+    "value": "Notu kopyala"
+  },
+  "copy_number": {
+    "value": "Numarayı kopyala"
+  },
+  "copy_passport_number": {
+    "value": "Pasaport numarasını kopyala"
+  },
+  "copy_password": {
+    "value": "Parolayı kopyala"
+  },
+  "copy_phone": {
+    "value": "Telefon numarasını kopyala"
+  },
+  "copy_private_key": {
+    "value": "Copy private key"
+  },
+  "copy_public_key": {
+    "value": "Ortak anahtarı kopyala"
+  },
+  "copy_security_code": {
+    "value": "Güvenlik kodunu kopyala"
+  },
+  "copy_send_link_on_save": {
+    "value": "Kaydederken Send bağlantısını kopyala"
+  },
+  "copy_ssn": {
+    "value": "Sosyal güvenlik numarasını kopyala"
+  },
+  "copy_totp": {
+    "value": "TOTP\\'yi kopyala"
+  },
+  "copy_totp_automatically": {
+    "value": "TOTP\\'yi otomatik kopyala"
+  },
+  "copy_totp_automatically_description": {
+    "value": "Hesabınıza bağlı bir kimlik doğrulama anahtarı varsa giriş\n        bilgilerini otomatik doldurduğunuzda TOTP doğrulama kodu panonuza kopyalanır.\n    "
+  },
+  "copy_username": {
+    "value": "Kullanıcı adını kopyala"
+  },
+  "country": {
+    "value": "Ülke"
+  },
+  "create_a_hint": {
+    "value": "İpucu oluşturun"
+  },
+  "create_account": {
+    "value": "Hesap oluştur"
+  },
+  "create_account_on": {
+    "value": "Create account on"
+  },
+  "create_account_on_with_colon": {
+    "value": "Hesabın oluşturulacağı konum:"
+  },
+  "create_an_account": {
+    "value": "Hesap oluştur"
+  },
+  "created_xy": {
+    "value": "Oluşturulma: %1$s %2$s"
+  },
+  "creating_account": {
+    "value": "Hesap oluşturuluyor..."
+  },
+  "credits": {
+    "value": "Emeği geçenler"
+  },
+  "current_access_count": {
+    "value": "Mevcut erişim sayısı"
+  },
+  "current_master_password_required": {
+    "value": "Mevcut ana parola (gerekli)"
+  },
+  "custom": {
+    "value": "Özel"
+  },
+  "custom_environment": {
+    "value": "Özel ortam"
+  },
+  "custom_environment_footer": {
+    "value": "İleri düzey kullanıcılar için. Her hizmetin taban URL\\'sini bağımsız olarak\n        belirleyebilirsiniz.\n    "
+  },
+  "custom_field_name": {
+    "value": "Özel alan adı"
+  },
+  "custom_fields": {
+    "value": "Özel alanlar"
+  },
+  "cxp_export": {
+    "value": "CXP Export"
+  },
+  "cxp_import": {
+    "value": "CXP Import"
+  },
+  "dark": {
+    "value": "Koyu"
+  },
+  "data_region": {
+    "value": "Veri bölgesi"
+  },
+  "date_password_updated": {
+    "value": "Parola güncellendi"
+  },
+  "date_updated": {
+    "value": "Güncelleme"
+  },
+  "december": {
+    "value": "Aralık"
+  },
+  "decline": {
+    "value": "Reddet"
+  },
+  "decline_all_requests": {
+    "value": "Tüm istekleri reddet"
+  },
+  "default_dark_theme": {
+    "value": "Varsayılan koyu tema"
+  },
+  "default_dark_theme_description_long": {
+    "value": "Cihazınızın koyu modu kullanımdayken kullanılacak koyu temayı\n        seçin\n    "
+  },
+  "default_system": {
+    "value": "Varsayılan (sistem)"
+  },
+  "default_text": {
+    "value": "Varsayılan"
+  },
+  "default_uri_match_detection": {
+    "value": "Varsayılan URI eşleşme tespiti"
+  },
+  "default_uri_match_detection_description": {
+    "value": "Otomatik doldurma gibi eylemler gerçekleştirilirken hesaplar\n        için URI eşleşme tespitinin nasıl yapılacağını seçin.\n    "
+  },
+  "delete": {
+    "value": "Sil"
+  },
+  "delete_account": {
+    "value": "Hesabı sil"
+  },
+  "delete_account_explanation": {
+    "value": "Hesabınız ve kasanızdaki tüm veriler kalıcı olarak silinecektir. Devam\n        etmek istediğinizden emin misiniz?\n    "
+  },
+  "delete_this_file_after_import_is_complete": {
+    "value": "You’ll delete this file after import is complete."
+  },
+  "deleting": {
+    "value": "Siliniyor..."
+  },
+  "deleting_your_account": {
+    "value": "Hesabınız siliniyor"
+  },
+  "deleting_your_account_is_permanent": {
+    "value": "Silinen hesaplar geri getirilemez"
+  },
+  "deletion_date": {
+    "value": "Silinme tarihi"
+  },
+  "deletion_date_info": {
+    "value": "Bu Send belirtilen tarih ve saatte kalıcı olacak silinecek."
+  },
+  "deletion_time": {
+    "value": "Silinme saati"
+  },
+  "denied": {
+    "value": "Reddedildi"
+  },
+  "deny_log_in": {
+    "value": "Girişi reddet"
+  },
+  "device_type": {
+    "value": "Cihaz türü"
+  },
+  "disable_personal_vault_export_policy_in_effect": {
+    "value": "Bir veya daha fazla kuruluş ilkesi, kişisel kasanızı\n        dışa aktarmanızı engelliyor.\n    "
+  },
+  "disabled": {
+    "value": "Devre dışı"
+  },
+  "do_you_have_a_computer_available": {
+    "value": "Şu anda bilgisayar başında mısınız?"
+  },
+  "do_you_have_reliable_access_to_your_email": {
+    "value": "%1$s adresinize sağlıklı bir şekilde erişebiliyor\n        musunuz?\n    "
+  },
+  "do_you_really_want_to_delete": {
+    "value": "Gerçekten silmek istiyor musunuz? Bu işlem geri alınamaz."
+  },
+  "do_you_really_want_to_permanently_delete_cipher": {
+    "value": "Kalıcı olarak silmek istediğinizden emin misiniz? Bu\n        işlem geri alınamaz.\n    "
+  },
+  "do_you_really_want_to_restore_cipher": {
+    "value": "Bu kaydı geri yüklemek istediğinizden emin misiniz?"
+  },
+  "do_you_really_want_to_soft_delete_cipher": {
+    "value": "Bu kaydı çöp kutusuna göndermek istediğinizden emin\n        misiniz?\n    "
+  },
+  "domain_name_required_parenthesis": {
+    "value": "Alan adı (gerekli)"
+  },
+  "done_text": {
+    "value": "Tamam"
+  },
+  "download": {
+    "value": "İndir"
+  },
+  "download_the_browser_extension": {
+    "value": "Tarayıcı uzantısını indirin"
+  },
+  "downloading": {
+    "value": "İndiriliyor..."
+  },
+  "dr": {
+    "value": "Dr"
+  },
+  "draw_over": {
+    "value": "Üstünde göstermeyi kullan"
+  },
+  "draw_over_description": {
+    "value": "Bu seçeneği açarsanız, giriş formları seçildiğinde Bitwarden erişilebilirlik\n        hizmeti bir açılır pencere görüntüleyebilir.\n    "
+  },
+  "draw_over_description2": {
+    "value": "Bu seçeneği açarsanız, giriş formları seçildiğinde Bitwarden Erişilebilirlik\n        Hizmeti formu otomatik doldurmanızı sağlamak için bir pencere açar.\n    "
+  },
+  "draw_over_description3": {
+    "value": "Bu seçeneği açarsanız, Android\\'in otomatik doldurma özelliğini desteklemeyen\n        eski uygulamalarda bu özelliği taklit eden bir pencere açılacaktır.\n    "
+  },
+  "duck_duck_go": {
+    "value": "DuckDuckGo"
+  },
+  "duo_two_step_login_is_required_for_your_account": {
+    "value": "Hesabınız için Duo iki adımlı giriş gereklidir.\n    "
+  },
+  "edit": {
+    "value": "Düzenle"
+  },
+  "edit_card": {
+    "value": "Kartı düzenle"
+  },
+  "edit_folder": {
+    "value": "Klasörü düzenle"
+  },
+  "edit_identity": {
+    "value": "Kimliği düzenle"
+  },
+  "edit_item": {
+    "value": "Kaydı düzenle"
+  },
+  "edit_login": {
+    "value": "Hesabı düzenle"
+  },
+  "edit_note": {
+    "value": "Notu düzenle"
+  },
+  "edit_passkey": {
+    "value": "Geçiş anahtarını düzenle"
+  },
+  "edit_send": {
+    "value": "Send\\'i düzenle"
+  },
+  "edit_uri": {
+    "value": "URl\\'yi düzenle"
+  },
+  "email": {
+    "value": "E-posta"
+  },
+  "email_address": {
+    "value": "E-posta adresi"
+  },
+  "email_address_required": {
+    "value": "Eposta adresi (gerekli)"
+  },
+  "email_required_parenthesis": {
+    "value": "E-posta (gerekli)"
+  },
+  "email_type": {
+    "value": "E-posta türü"
+  },
+  "email_us": {
+    "value": "Bize e-posta gönderin"
+  },
+  "email_us_description": {
+    "value": "Görüş bildirmek ve yardım almak için bize e-posta gönderebilirsiniz."
+  },
+  "email_verified": {
+    "value": "E-posta doğrulandı"
+  },
+  "enable_automatic_syncing": {
+    "value": "Otomatik eşitlemeyi aç"
+  },
+  "enable_camer_permission_to_use_the_scanner": {
+    "value": "Tarayıcıyı kullanmak için kameraya erişim izni verin\n    "
+  },
+  "enable_notifications": {
+    "value": "Bildirimleri etkinleştir"
+  },
+  "enable_sync_on_refresh": {
+    "value": "Yenileme sırasında eşitlemeye izin ver"
+  },
+  "enable_sync_on_refresh_description": {
+    "value": "Parmağımla aşağı çektiğimde kasayı eşitle."
+  },
+  "enabled": {
+    "value": "Etkin"
+  },
+  "encryption_key_migration_required_description_long": {
+    "value": "Şifreleme anahtarınızın güncellenmesi gerekiyor.\n        Şifreleme anahtarınızı güncellemek için lütfen web kasasına giriş yapın.\n    "
+  },
+  "enter_email_for_hint": {
+    "value": "Ana parola ipucunuzun gönderileceği hesap e-posta adresinizi girin."
+  },
+  "enter_key_manually": {
+    "value": "Anahtarı elle girin"
+  },
+  "enter_pin": {
+    "value": "PIN kodunuzu girin."
+  },
+  "enter_the_client_certificate_password_and_alias": {
+    "value": "Enter the client certificate password and the desired\n        alias for this certificate.\n    "
+  },
+  "enter_the_verification_code_that_was_sent_to_your_email": {
+    "value": "E-posta adresinize gönderilen doğrulama\n        kodunu girin\n    "
+  },
+  "enter_uri": {
+    "value": "URl girin"
+  },
+  "enter_verification_code_app": {
+    "value": "Kimlik doğrulama uygulamanızdaki 6 haneli doğrulama kodunu girin.\n    "
+  },
+  "enter_verification_code_email": {
+    "value": "%1$s adresine e-postayla gönderdiğimiz 6 haneli doğrulama kodunu\n        girin.\n    "
+  },
+  "enter_verification_code_new_device": {
+    "value": "We don\\'t recognize this device. Enter the 8 digit verification\n        code that was emailed to %1$s.\n    "
+  },
+  "environment_page_urls_error": {
+    "value": "Girilen adreslerden biri veya birkaçı geçersiz. Lütfen düzeltip yeniden\n        kaydetmeyi deneyin.\n    "
+  },
+  "environment_saved": {
+    "value": "Ortam URL\\'leri kaydedildi."
+  },
+  "error_connecting_with_the_duo_service_use_a_different_two_step_login_method_or_contact_duo_for_assistance": {
+    "value": "\n        Duo hizmetine bağlanırken hata oluştu. Başka bir iki aşamalı giriş yöntemi kullanın veya destek almak Duo ile\n        iletişime geçin.\n    "
+  },
+  "error_creating_passkey": {
+    "value": "Geçiş anahtarı oluşturma hatası"
+  },
+  "error_loading_certificate": {
+    "value": "Error loading certificate"
+  },
+  "error_reading_passkey": {
+    "value": "Geçiş anahtarı okuma hatası"
+  },
+  "eu": {
+    "value": "AB"
+  },
+  "exact": {
+    "value": "Tam"
+  },
+  "exit": {
+    "value": "Çıkış"
+  },
+  "exit_confirmation": {
+    "value": "Bitwarden\\'dan çıkmak istediğinize emin misiniz?"
+  },
+  "exntesion_reenable": {
+    "value": "Uygulama uzantısını yeniden etkinleştir"
+  },
+  "expiration": {
+    "value": "Son kullanma tarihi"
+  },
+  "expiration_month": {
+    "value": "Son kullanma ayı"
+  },
+  "expiration_year": {
+    "value": "Son kullanma yılı"
+  },
+  "expired": {
+    "value": "Süresi dolmuş"
+  },
+  "expired_link": {
+    "value": "Bağlantının süresi dolmuş"
+  },
+  "explore_more_features_of_your_bitwarden_account_on_the_web_app": {
+    "value": "Web uygulamasında Bitwarden\n        hesabınızın diğer özelliklerini keşfedin.\n    "
+  },
+  "explore_the_generator": {
+    "value": "Explore the generator"
+  },
+  "export_vault": {
+    "value": "Kasayı dışa aktar"
+  },
+  "export_vault_confirmation_title": {
+    "value": "Kasayı dışa aktarmayı onaylayın"
+  },
+  "export_vault_failure": {
+    "value": "Kasanızı dışa aktarırken bir sorun oluştu. Sorun devam ederse web kasasından\n        dışa aktarmanız gerekir.\n    "
+  },
+  "export_vault_file_pw_protect_info": {
+    "value": "Dışarı aktarılan bu dosya parola korumalı olacak ve dosyanın\n        çözülmesi için parolayı girmeniz gerekecek.\n    "
+  },
+  "export_vault_master_password_description": {
+    "value": "Kasadaki verilerinizi dışa aktarmak için ana parolanızı\n        girin.\n    "
+  },
+  "export_vault_success": {
+    "value": "Kasa başarıyla dışa aktarıldı"
+  },
+  "export_vault_warning": {
+    "value": "Dışa aktarılan dosyadaki verileriniz şifrelenmemiş olacak. Bu dosyayı güvensiz\n        yöntemlerle (örn. e-posta) göndermemeli ve saklamamalısınız. İşiniz bittikten sonra dosyayı hemen silin.\n    "
+  },
+  "export_your_passwords_this_option_is_usually_found_in_your_settings": {
+    "value": "Parolalarınızı dışa aktarın. Bu\n        seçenek genellikle ayarlarınızda bulunur.\n    "
+  },
+  "export_your_saved_logins": {
+    "value": "Export your saved logins"
+  },
+  "exposed_master_password": {
+    "value": "Açığa Çıkmış Ana Parola"
+  },
+  "extension_activated": {
+    "value": "Uzantı etkinleştirildi!"
+  },
+  "extension_almost_done": {
+    "value": "Bitmek üzere!"
+  },
+  "extension_enable": {
+    "value": "Uygulama uzantısını etkinleştir"
+  },
+  "extension_in_safari": {
+    "value": "Safari\\'de paylaşım simgesini kullanarak Bitwarden\\'ı bulun. (İpucu: Menünün en\n        alt satırının sağ tarafına bakın.)\n    "
+  },
+  "extension_instant_access": {
+    "value": "Parolalarınıza anında erişin!"
+  },
+  "extension_ready": {
+    "value": "Giriş yapmaya hazırsınız!"
+  },
+  "extension_setup": {
+    "value": "Artık hesaplarınıza Safari, Chrome ve diğer desteklenen uygulamalardan kolayca\n        ulaşabilirsiniz.\n    "
+  },
+  "extension_setup2": {
+    "value": "Safari ve Chrome\\'da paylaşım simgesini kullanarak Bitwarden\\'ı bulun. (İpucu:\n        Paylaş menüsünün alt satırının sağ tarafına bakın.)\n    "
+  },
+  "extension_tap_icon": {
+    "value": "Uzantıyı açmak için menüdeki Bitwarden simgesine dokunun."
+  },
+  "extension_turn_on": {
+    "value": "Safari ve diğer uygulamalarda Bitwarden\\'ı açmak için menünün alt satırındaki\n        \\\"Daha Fazla\\\" simgesine dokunun.\n    "
+  },
+  "face_id": {
+    "value": "Face ID"
+  },
+  "face_id_direction": {
+    "value": "Doğrulamak için Face ID kullan."
+  },
+  "fastmail": {
+    "value": "Fastmail"
+  },
+  "favorite": {
+    "value": "Favori"
+  },
+  "favorites": {
+    "value": "Favoriler"
+  },
+  "feature_unavailable": {
+    "value": "Özellik kullanılamıyor"
+  },
+  "february": {
+    "value": "Şubat"
+  },
+  "fido2_authenticate_web_authn": {
+    "value": "WebAutn ile doğrula"
+  },
+  "fido2_check_browser": {
+    "value": "Lütfen varsayılan tarayıcınızın WebAuthn\\'i desteklediğini kontrol edip tekrar\n        deneyin.\n    "
+  },
+  "fido2_desc": {
+    "value": "FIDO2 WebAuthn ile kimlik doğrulamada harici bir güvenlik anahtarı kullanarak kimliğinizi\n        doğrulayabilirsiniz.\n    "
+  },
+  "fido2_instruction": {
+    "value": "Devam etmek için FIDO2 WebAuthn uyumlu güvenlik anahtarınızı hazır bulundurun ve\n        sonraki ekranda \\\"WebAuthn ile doğrula\\\"ya tıkladıktan sonra talimatları izleyin.\n    "
+  },
+  "fido2_return_to_app": {
+    "value": "Uygulamaya dön"
+  },
+  "fido2_title": {
+    "value": "FIDO2 WebAuthn"
+  },
+  "field_type_boolean": {
+    "value": "Boole"
+  },
+  "field_type_hidden": {
+    "value": "Gizli"
+  },
+  "field_type_linked": {
+    "value": "Bağlantılı"
+  },
+  "field_type_text": {
+    "value": "Metin"
+  },
+  "fifteen_minutes": {
+    "value": "15 dakika"
+  },
+  "file": {
+    "value": "Dosya"
+  },
+  "file_bug_report": {
+    "value": "Hata bildirin"
+  },
+  "file_bug_report_description": {
+    "value": "GitHub depomuzda sorun bildirin."
+  },
+  "file_format": {
+    "value": "Dosya biçimi"
+  },
+  "file_password": {
+    "value": "Dosya parolası"
+  },
+  "file_source": {
+    "value": "Dosya kaynağı"
+  },
+  "file_type_is_not_selected": {
+    "value": "Dosya türü seçilmedi. Seçmek için dokunun."
+  },
+  "file_type_is_selected": {
+    "value": "Dosya türü seçildi."
+  },
+  "fill_out_the_form_and_import_your_saved_password_file": {
+    "value": "Fill out the form and\n        <annotation emphasis=\"bold\">import your saved password file.</annotation>\n    "
+  },
+  "filter_by_vault": {
+    "value": "Kayıtları kasaya göre filtrele"
+  },
+  "fingerprint": {
+    "value": "Parmak izi"
+  },
+  "fingerprint_direction": {
+    "value": "Doğrulamak için parmak izinizi kullanın."
+  },
+  "fingerprint_phrase": {
+    "value": "Parmak izi ifadesi"
+  },
+  "firefox_relay": {
+    "value": "Firefox Relay"
+  },
+  "first_dot_go_to_your_device_settings_passwords_password_options": {
+    "value": "1. Cihazınızda Ayarlar  Parolalar\n         Parola Seçenekleri kısmına gidin\n    "
+  },
+  "first_name": {
+    "value": "Ad"
+  },
+  "five_minutes": {
+    "value": "5 dakika"
+  },
+  "folder": {
+    "value": "Klasör"
+  },
+  "folder_created": {
+    "value": "Yeni klasör oluşturuldu."
+  },
+  "folder_deleted": {
+    "value": "Klasör silindi."
+  },
+  "folder_none": {
+    "value": "Klasör yok"
+  },
+  "folder_updated": {
+    "value": "Klasör kaydedildi"
+  },
+  "folders": {
+    "value": "Klasörler"
+  },
+  "follow_the_instructions_in_the_email_sent_to_x_to_continue_creating_your_account": {
+    "value": "Hesabınızı\n        oluşturmaya devam etmek için %1$s adresine gönderdiğimiz e-postadaki yönergeleri uygulayın.\n    "
+  },
+  "follow_the_steps_from_duo_to_finish_logging_in": {
+    "value": "Girişi tamamlamak için Duo\\'daki adımları izleyin.\n    "
+  },
+  "for_your_security_be_sure_to_delete_your_saved_password_file": {
+    "value": "For your security, be sure to\n        <annotation emphasis=\"bold\">delete your saved password file.</annotation>\n    "
+  },
+  "format_x": {
+    "value": "Biçim: %1$s"
+  },
+  "format_x_separate_multiple_ur_is_with_a_comma": {
+    "value": "Biçim: %1$s. Birden fazla URl\\'yi virgülle\n        ayırabilirsiniz.\n    "
+  },
+  "formatted_incorrectly": {
+    "value": "%1$s doğru biçimlendirilmemiş."
+  },
+  "forward_email": {
+    "value": "ForwardEmail"
+  },
+  "forwarded_email_alias": {
+    "value": "İletilen e-posta maskesi"
+  },
+  "forwarded_email_description": {
+    "value": "Harici bir yönlendirme servisiyle e-posta maskesi oluştur."
+  },
+  "four_hours": {
+    "value": "4 saat"
+  },
+  "from_your_computer_follow_these_instructions_to_export_saved_passwords": {
+    "value": "Bilgisayarınızda bu\n        talimatları izleyerek tarayıcınızda veya başka bir parola yöneticisinde kayıtlı parolalarınızı dışa aktarabilir,\n        ardından güvenli bir şekilde Bitwarden\\'da içe aktarabilirsiniz.\n    "
+  },
+  "full_name": {
+    "value": "Adı soyadı"
+  },
+  "generate_button_label": {
+    "value": "Üret"
+  },
+  "generate_master_password": {
+    "value": "Ana parola üret"
+  },
+  "generate_password": {
+    "value": "Parola oluştur"
+  },
+  "generate_username": {
+    "value": "Kullanıcı adı oluştur"
+  },
+  "generator": {
+    "value": "Üreteç"
+  },
+  "generic_error_message": {
+    "value": "İsteğinizi işleyemedik. Lütfen yeniden deneyin veya bizimle iletişime geçin.\n    "
+  },
+  "get_advice_announcements_and_research_opportunities_from_bitwarden_in_your_inbox_unsubscribe_any_time": {
+    "value": "\n        Bitwarden\\'dan öneriler, duyurular ve araştırma fırsatları e-posta adresinize gelsin. İstediğiniz zaman\n        aboneliğinizi iptal edebilirsiniz.\n    "
+  },
+  "get_emails_from_bitwarden_for_announcements_advices_and_research_opportunities_unsubscribe_any_time": {
+    "value": "\n        Bitwarden\\'dan duyurular, öneriler ve araştırmalarla ilgili e-postalar alın. İstediğiniz zaman aboneliğinizi\n        iptal edebilirsiniz.\n    "
+  },
+  "get_instant_access_to_your_passwords_and_passkeys": {
+    "value": "Parolalarınıza ve geçiş anahtarlarınıza anında\n        erişin!\n    "
+  },
+  "get_master_passwordword_hint": {
+    "value": "Ana parola ipucunu al"
+  },
+  "get_password_hint": {
+    "value": "Ana parola ipucununuzu alın"
+  },
+  "get_started": {
+    "value": "Başlayın"
+  },
+  "give_feedback": {
+    "value": "Geribildirim Gönder"
+  },
+  "give_your_vault_a_head_start": {
+    "value": "Kasanız boş durmasın"
+  },
+  "go_back": {
+    "value": "Geri dönüp"
+  },
+  "go_to_bitwarden_com_download_to_integrate_bitwarden_into_browser": {
+    "value": "Daha rahat kullanım için\n        Bitwarden\\'ı en sevdiğiniz tarayıcınıza entegre etmek isterseniz bitwarden.com/download adresine gidin.\n    "
+  },
+  "go_to_my_vault": {
+    "value": "Kasama git"
+  },
+  "go_to_website": {
+    "value": "Web sitesine git"
+  },
+  "good": {
+    "value": "İyi"
+  },
+  "got_it": {
+    "value": "Anladım"
+  },
+  "granted": {
+    "value": "İzin verildi"
+  },
+  "help_and_feedback": {
+    "value": "Yardım ve geri bildirim"
+  },
+  "help_with_server_geolocations": {
+    "value": "Help with server geolocations."
+  },
+  "hide": {
+    "value": "Gizle"
+  },
+  "hide_email": {
+    "value": "E-posta adresimi alıcılardan gizle"
+  },
+  "hide_text_by_default": {
+    "value": "Send\\'e erişirken varsayılan olarak metni gizle"
+  },
+  "hold_yubikey_near_top": {
+    "value": "Yubikey\\'inizi cihazınızın üzerine doğru tutun."
+  },
+  "host": {
+    "value": "Sunucu"
+  },
+  "icons": {
+    "value": "Simgeler"
+  },
+  "icons_url": {
+    "value": "Simge sunucusu URL\\'si"
+  },
+  "identification": {
+    "value": "Identification"
+  },
+  "identities": {
+    "value": "Kimlikler"
+  },
+  "identity_name": {
+    "value": "Kimlik adı"
+  },
+  "identity_url": {
+    "value": "Kimlik sunucu URL\\'si"
+  },
+  "immediately": {
+    "value": "Hemen"
+  },
+  "import_certificate": {
+    "value": "Import certificate"
+  },
+  "import_client_certificate": {
+    "value": "Import client certificate"
+  },
+  "import_error": {
+    "value": "İçe aktarma hatası"
+  },
+  "import_items": {
+    "value": "Hesapları içe aktar"
+  },
+  "import_items_confirmation": {
+    "value": "bitwarden.com web kasasından hesaplarınız topluca içe aktarabilirsiniz.\n        Siteyi şimdi ziyaret etmek ister misiniz?\n    "
+  },
+  "import_items_description": {
+    "value": "Diğer parola yönetim uygulamalarındaki hesaplarınızı topluca ve hızlıca içe\n        aktarabilirsiniz.\n    "
+  },
+  "import_logins": {
+    "value": "Hesapları İçe Aktar"
+  },
+  "import_logins_later": {
+    "value": "Hesapları daha sonra içe aktar"
+  },
+  "import_logins_later_dialog_title": {
+    "value": "Hesaplar daha sonra içe aktarılsın mı?"
+  },
+  "import_logins_to_bitwarden": {
+    "value": "Import logins to Bitwarden"
+  },
+  "import_saved_logins": {
+    "value": "Kayıtlı hesapları içe aktar"
+  },
+  "import_successful": {
+    "value": "İçe aktarma başarılı!"
+  },
+  "important": {
+    "value": "Önemli"
+  },
+  "important_notice": {
+    "value": "Önemli uyarı"
+  },
+  "improves_login_filling_for_supported_websites_on_chrome": {
+    "value": "Improves login filling for supported websites\n        on Chrome. Once enabled, you’ll be directed to Chrome settings to enable third-party autofill.\n    "
+  },
+  "in_the_bitwarden_navigation_find_the_tools_option_and_select_import_data": {
+    "value": "In the Bitwarden navigation, <annotation emphasis=\"bold\">find the Tools\n    </annotation> option and\n        <annotation emphasis=\"bold\">select Import data.</annotation>\n    "
+  },
+  "include_number": {
+    "value": "Rakam ekle"
+  },
+  "inline_autofill": {
+    "value": "Satır içi otomatik doldurmayı kullan"
+  },
+  "inline_autofill_description": {
+    "value": "Seçtiğiniz IME (klavye) destekliyorsa satır içi otomatik doldurmayı\n        kullanabilirsiniz. Yapılandırmanız desteklenmiyorsa (veya bu seçenek kapalıysa) varsayılan otomatik doldurma\n        kutusu kullanılacaktır.\n    "
+  },
+  "internet_connection_required_message": {
+    "value": "Devam etmeden önce lütfen internete bağlanın."
+  },
+  "internet_connection_required_title": {
+    "value": "İnternet bağlantısı gerekli"
+  },
+  "invalid_api_key": {
+    "value": "Geçersiz API anahtarı"
+  },
+  "invalid_api_token": {
+    "value": "Geçersiz API token\\'ı"
+  },
+  "invalid_certificate_chain": {
+    "value": "Invalid certificate chain"
+  },
+  "invalid_email": {
+    "value": "Geçersiz e-posta adresi."
+  },
+  "invalid_format_use_https_http_or_android_app": {
+    "value": "Geçersiz biçim. https://, http:// veya androidapp://\n        kullanın\n    "
+  },
+  "invalid_master_password": {
+    "value": "Ana parola geçersiz. Tekrar deneyin."
+  },
+  "invalid_pin": {
+    "value": "Geçersiz PIN. Yeniden deneyin."
+  },
+  "invalid_uri": {
+    "value": "Geçersiz URl"
+  },
+  "invalid_verification_code": {
+    "value": "Doğrulama kodu geçersiz"
+  },
+  "ip_address": {
+    "value": "IP adresi"
+  },
+  "item_deleted": {
+    "value": "Kayıt silindi"
+  },
+  "item_details": {
+    "value": "Kayıt ayrıntıları"
+  },
+  "item_information": {
+    "value": "Hesap bilgileri"
+  },
+  "item_name_required": {
+    "value": "Kayıt adı (gerekli)"
+  },
+  "item_restored": {
+    "value": "Kayıt geri yüklendi"
+  },
+  "item_shared": {
+    "value": "Öge paylaşıldı."
+  },
+  "item_soft_deleted": {
+    "value": "Kayıt çöp kutusuna gönderildi."
+  },
+  "item_updated": {
+    "value": "Öğe kaydedildi"
+  },
+  "items": {
+    "value": "Kayıtlar"
+  },
+  "items_for_uri": {
+    "value": "%1$s kayıtları"
+  },
+  "january": {
+    "value": "Ocak"
+  },
+  "july": {
+    "value": "Temmuz"
+  },
+  "june": {
+    "value": "Haziran"
+  },
+  "just_now": {
+    "value": "Az önce"
+  },
+  "keep_it_secret_keep_it_safe": {
+    "value": "Parolanızı yazdığınız kâğıdı gizli ve güvenli bir yerde saklayın.\n    "
+  },
+  "language": {
+    "value": "Dil"
+  },
+  "language_change_requires_app_restart": {
+    "value": "Dil değişikliği için uygulamanın yeniden başlatılması\n        gerekiyor\n    "
+  },
+  "language_change_x_description": {
+    "value": "Dil %1$s olarak değiştirildi. Değişikliği görmek için uygulamayı\n        yeniden başlatın\n    "
+  },
+  "last_name": {
+    "value": "Soyadı"
+  },
+  "last_sync": {
+    "value": "Son eşitleme:"
+  },
+  "launch": {
+    "value": "Aç"
+  },
+  "launch_duo": {
+    "value": "Duo\\'yu başlat"
+  },
+  "launch_web_authn": {
+    "value": "Launch WebAuthn"
+  },
+  "learn_about_new_logins": {
+    "value": "Learn about new logins"
+  },
+  "learn_about_organizations_description_long": {
+    "value": "Bitwarden\\'ın kuruluş özelliğini kullanarak kasanızdaki\n        kayıtları başkalarıyla paylaşabilirsiniz. Daha fazla bilgi için bitwarden.com sitesini ziyaret edin.\n    "
+  },
+  "learn_about_other_ways_to_prevent_account_lockout": {
+    "value": "Hesabınıza erişimi kaybetmemenin diğer yollarını\n        öğrenin\n    "
+  },
+  "learn_about_ways_to_prevent_account_lockout": {
+    "value": "\n        <annotation link=\"onPreventAccountLockout\">Hesabınıza erişimi kaybetmemenin yollarını öğrenin</annotation>\n    "
+  },
+  "learn_more": {
+    "value": "Daha fazla bilgi al"
+  },
+  "learn_more_about_generating_secure_login_credentials_with_guided_tour": {
+    "value": "Learn more about generating\n        secure login credentials with a guided tour.\n    "
+  },
+  "learn_more_about_how_to_use_bitwarden_on_the_help_center": {
+    "value": "Yardım merkezinde Bitwarden kullanımı\n        hakkında daha fazla bilgi alabilirsiniz.\n    "
+  },
+  "learn_org": {
+    "value": "Kuruluşlar hakkında bilgi al"
+  },
+  "learn_org_confirmation": {
+    "value": "Bitwarden, kuruluş hesabı kullanarak kasanızdaki kayıtları başkalarıyla\n        paylaşmanıza olanak verir. Daha fazla bilgi için bitwarden.com sitesini ziyaret etmek ister misiniz?\n    "
+  },
+  "leave_organization": {
+    "value": "Kuruluştan ayrıl"
+  },
+  "leave_organization_name": {
+    "value": "%1$s kuruluşundan ayrılınsın mı?"
+  },
+  "length": {
+    "value": "Uzunluk"
+  },
+  "level_up_your_logins": {
+    "value": "Hesaplarınızı güçlendirin"
+  },
+  "license_number": {
+    "value": "Ehliyet numarası"
+  },
+  "light": {
+    "value": "Açık"
+  },
+  "link": {
+    "value": "Link"
+  },
+  "loading": {
+    "value": "Yükleniyor"
+  },
+  "lock": {
+    "value": "Kilitle"
+  },
+  "lock_now": {
+    "value": "Şimdi kilitle"
+  },
+  "log_in_accepted": {
+    "value": "Giriş onaylandı"
+  },
+  "log_in_at_bitwarden_com_to_easily_manage_your_account": {
+    "value": "Hesabınızı kolayca yönetmek ve ayarlarınızı\n        güncellemek isterseniz bitwarden.com adresine giriş yapın.\n    "
+  },
+  "log_in_attempt_by_x_on_y": {
+    "value": "%1$s - %2$s giriş denemesi"
+  },
+  "log_in_denied": {
+    "value": "Giriş reddedildi"
+  },
+  "log_in_initiated": {
+    "value": "Giriş başlatıldı"
+  },
+  "log_in_noun": {
+    "value": "Hesap"
+  },
+  "log_in_quickly_and_easily_across_devices": {
+    "value": "Farklı cihazlarda hızlıca ve kolayca oturum açın"
+  },
+  "log_in_requested": {
+    "value": "Giriş istendi"
+  },
+  "log_in_sso": {
+    "value": "Kurumsal çoklu oturum açma"
+  },
+  "log_in_sso_summary": {
+    "value": "Kuruluşunuzun çoklu oturum açma portalını kullanarak hızlıca giriş yapabilirsiniz.\n        Başlamak için lütfen kuruluşunuzun tanımlayıcısını girin.\n    "
+  },
+  "log_in_to_bitwarden": {
+    "value": "Bitwarden\\'a giriş yap"
+  },
+  "log_in_to_the_bitwarden_web_app": {
+    "value": "Log in to the Bitwarden web app."
+  },
+  "log_in_verb": {
+    "value": "Giriş yap"
+  },
+  "log_in_with_another_device": {
+    "value": "Cihazla giriş yap"
+  },
+  "log_in_with_device": {
+    "value": "Cihazla giriş yap"
+  },
+  "log_in_with_device_must_be_set_up_in_the_settings_of_the_bitwarden_app_need_another_option": {
+    "value": "Cihazla\n        girişi Bitwarden mobil uygulamasının ayarlarından etkinleştirmelisiniz. Başka bir seçeneğe mi ihtiyacınız var?\n    "
+  },
+  "log_in_with_master_password": {
+    "value": "Ana parola ile giriş yap"
+  },
+  "log_out": {
+    "value": "Çıkış"
+  },
+  "logged_in": {
+    "value": "Giriş yapıldı!"
+  },
+  "logged_in_as_on": {
+    "value": "%2$s sitesine %1$s olarak giriş yapıldı."
+  },
+  "logging_in": {
+    "value": "Giriş yapılıyor..."
+  },
+  "logging_in_as_x": {
+    "value": "%1$s olarak giriş yapılıyor"
+  },
+  "logging_in_as_x_on_y": {
+    "value": "%2$s sitesine %1$s olarak giriş yapılıyor"
+  },
+  "logging_in_on": {
+    "value": "Giriş yapılan konum"
+  },
+  "logging_in_on_with_colon": {
+    "value": "Giriş yapılan konum:"
+  },
+  "login_approved": {
+    "value": "Giriş onaylandı"
+  },
+  "login_attempt_from_x_do_you_want_to_switch_to_this_account": {
+    "value": "Giriş denemesi yapan hesap:\n        %1$s\n        Bu hesaba geçmek ister misiniz?\n    "
+  },
+  "login_credentials": {
+    "value": "Hesap Bilgileri"
+  },
+  "login_expired": {
+    "value": "Oturumunuzun süresi doldu."
+  },
+  "login_request_has_already_expired": {
+    "value": "Giriş isteğinin süresi doldu."
+  },
+  "login_sso_error": {
+    "value": "Şu anda SSO ile giriş yapılamıyor"
+  },
+  "login_to_bitwarden": {
+    "value": "Bitwarden\\'a giriş yap"
+  },
+  "login_unavailable": {
+    "value": "Giriş yapılamıyor"
+  },
+  "logins": {
+    "value": "Hesaplar"
+  },
+  "logins_imported": {
+    "value": "Hesaplar içe aktarıldı"
+  },
+  "logout_confirmation": {
+    "value": "Çıkmak istediğinizden emin misiniz?"
+  },
+  "lost_2fa_app": {
+    "value": "Kimlik doğrulama uygulamanızı kayıp mı ettiniz?"
+  },
+  "lowercase_ato_z": {
+    "value": "Küçük harf (A-Z)"
+  },
+  "make_it_yours": {
+    "value": "Make it yours"
+  },
+  "manage": {
+    "value": "Yönet"
+  },
+  "manage_your_logins_from_anywhere_with_bitwarden_tools": {
+    "value": "Hesaplarınızı Bitwarden web ve masaüstü\n        araçlarıyla her yerden yönetebilirsiniz.\n    "
+  },
+  "march": {
+    "value": "Mart"
+  },
+  "master_password": {
+    "value": "Ana parola"
+  },
+  "master_password_confirmation_val_message": {
+    "value": "Parola onayı doğru değil."
+  },
+  "master_password_description": {
+    "value": "Ana parola, kasanıza ulaşmak için kullanacağınız paroladır. Ana\n        parolanızı unutmamanız çok önemlidir. Unutursanız parolalarınızı asla kurtaramazsınız.\n    "
+  },
+  "master_password_hint": {
+    "value": "Ana parola ipucu (isteğe bağlı)"
+  },
+  "master_password_hint_description": {
+    "value": "Ana parolanızı unutursanız bu ipucuna bakınca size ana parolanızı\n        hatırlatacak bir şey yazabilirsiniz.\n    "
+  },
+  "master_password_hint_not_specified": {
+    "value": "Ana parola ipucu"
+  },
+  "master_password_important_hint": {
+    "value": "Dikkat: Ana parolanızı unutursanız kurtaramazsınız! En az 12\n        karakter.\n    "
+  },
+  "master_password_length_val_message_x": {
+    "value": "Ana parola en az %1$s karakter uzunluğunda olmalıdır."
+  },
+  "master_password_policy_in_effect": {
+    "value": "Bir veya daha fazla kuruluş ilkesi gereğince ana parolanız aşağıdaki\n        gereksinimleri karşılamalıdır:\n    "
+  },
+  "master_password_policy_validation_message": {
+    "value": "Parolanız kuruluş gereksinimlerini karşılamıyor. Lütfen\n        parola politikasını kontrol edip yeniden deneyin.\n    "
+  },
+  "master_password_policy_validation_title": {
+    "value": "Geçersiz parola"
+  },
+  "master_password_re_prompt_help": {
+    "value": "Ana parola yeniden istemi yardımı"
+  },
+  "master_password_required": {
+    "value": "Ana parola (gerekli)"
+  },
+  "match_detection": {
+    "value": "Eşleşme tespiti"
+  },
+  "matching_items": {
+    "value": "Eşleşen kayıtlar"
+  },
+  "max_file_size": {
+    "value": "Maksimum dosya boyutu 100 MB\\'dir."
+  },
+  "maximum_access_count": {
+    "value": "Maksimum erişim sayısı"
+  },
+  "maximum_access_count_info": {
+    "value": "Bunu ayarlarsanız maksimum erişim sayısına ulaşıldıktan sonra bu Send\\'e\n        erişilemeyecektir.\n    "
+  },
+  "maximum_access_count_reached": {
+    "value": "Maksimum erişim sayısına ulaşıldı"
+  },
+  "may": {
+    "value": "Mayıs"
+  },
+  "middle_name": {
+    "value": "İkinci ad"
+  },
+  "min_numbers": {
+    "value": "En az rakam"
+  },
+  "min_special": {
+    "value": "En az özel karakter"
+  },
+  "minimum_characters": {
+    "value": "%1$s karakter"
+  },
+  "miscellaneous": {
+    "value": "Diğer"
+  },
+  "more": {
+    "value": "Daha fazla"
+  },
+  "more_settings": {
+    "value": "Diğer ayarlar"
+  },
+  "move": {
+    "value": "Taşı"
+  },
+  "move_down": {
+    "value": "Aşağı taşı"
+  },
+  "move_to_org_desc": {
+    "value": "Bu kaydı taşımak istediğiniz kuruluşu seçin. Taşıdığınız kaydın sahipliği seçtiğiniz\n        kuruluşa aktarılacak. Artık bu kaydın doğrudan sahibi olmayacaksınız.\n    "
+  },
+  "move_to_organization": {
+    "value": "Kuruluşa taşı"
+  },
+  "move_up": {
+    "value": "Yukarı taşı"
+  },
+  "moved_item_to_org": {
+    "value": "%1$s, %2$s kuruluşuna taşındı."
+  },
+  "mr": {
+    "value": "Bay"
+  },
+  "mrs": {
+    "value": "Bayan"
+  },
+  "ms": {
+    "value": "Bayan"
+  },
+  "must_log_in_main_app": {
+    "value": "Uzantıyı kullanabilmek için ana Bitwarden uygulamasına giriş yapmalısınız.\n    "
+  },
+  "must_log_in_main_app_autofill": {
+    "value": "Otomatik doldurmayı kullanabilmek için Bitwarden ana uygulamasına giriş\n        yapmalısınız.\n    "
+  },
+  "mutual_tls": {
+    "value": "Mutual TLS"
+  },
+  "mx": {
+    "value": "Mx"
+  },
+  "my_vault": {
+    "value": "Kasam"
+  },
+  "name": {
+    "value": "Ad"
+  },
+  "near": {
+    "value": "Konum"
+  },
+  "need_another_option": {
+    "value": "Başka bir seçeneğe mi ihtiyacınız var?"
+  },
+  "need_help_check_out_import_help": {
+    "value": "Yardıma mı ihtiyacınız var? İçe aktarma yardımına göz atın."
+  },
+  "need_some_inspiration": {
+    "value": "\"Need some inspiration?\""
+  },
+  "never": {
+    "value": "Asla"
+  },
+  "never_lock_warning": {
+    "value": "Kilit seçeneklerinizi \\\"Asla\\\" olarak ayarlarsanız cihazınıza erişebilen herkes\n        kasanıza da erişebilir. Bu seçeneği kullanırsanız cihazınızı uygun şekilde koruduğunuzdan emin olmalısınız.\n    "
+  },
+  "never_lose_access_to_your_vault": {
+    "value": "Kasanıza erişiminizi kaybetmeyin"
+  },
+  "new_blocked_uri": {
+    "value": "Yeni engelli URI"
+  },
+  "new_card": {
+    "value": "Yeni kart"
+  },
+  "new_custom_field": {
+    "value": "Yeni özel alan"
+  },
+  "new_file_send": {
+    "value": "New file Send"
+  },
+  "new_identity": {
+    "value": "Yeni kimlik"
+  },
+  "new_item": {
+    "value": "Yeni kayıt"
+  },
+  "new_item_created": {
+    "value": "Kayıt eklendi"
+  },
+  "new_login": {
+    "value": "Yeni hesap"
+  },
+  "new_master_password_hint": {
+    "value": "Yeni ana parola ipucu"
+  },
+  "new_master_password_required": {
+    "value": "Yeni ana parola (gerekli)"
+  },
+  "new_note": {
+    "value": "Yeni not"
+  },
+  "new_passkey": {
+    "value": "Yeni passkey"
+  },
+  "new_password": {
+    "value": "Yeni parola"
+  },
+  "new_send_created": {
+    "value": "Send oluşturuldu"
+  },
+  "new_ssh_key": {
+    "value": "Yeni SSH anahtarı"
+  },
+  "new_text_send": {
+    "value": "New text Send"
+  },
+  "new_to_bitwarden": {
+    "value": "Bitwarden\\'da yeni misiniz?"
+  },
+  "new_uri": {
+    "value": "Yeni URI"
+  },
+  "next": {
+    "value": "İleri"
+  },
+  "no": {
+    "value": "Hayır"
+  },
+  "no_attachments": {
+    "value": "Ek dosya yok."
+  },
+  "no_cards": {
+    "value": "Kasanızda hiç kart yok."
+  },
+  "no_collections_to_list": {
+    "value": "Listelenecek koleksiyon yok."
+  },
+  "no_email_go_back_to_edit_your_email_address": {
+    "value": "E-posta gelmedi mi? Geri dönüp e-posta adresinizi\n        düzenleyin.\n    "
+  },
+  "no_favorites": {
+    "value": "Kasanızda hiç favoriniz yok."
+  },
+  "no_file_chosen": {
+    "value": "Dosya seçilmedi"
+  },
+  "no_file_sends": {
+    "value": "There are no file Sends in your vault."
+  },
+  "no_folder": {
+    "value": "Klasör yok"
+  },
+  "no_folders_to_list": {
+    "value": "Listelenecek klasör yok."
+  },
+  "no_identities": {
+    "value": "Kasanızda hiç kimlik yok."
+  },
+  "no_items": {
+    "value": "Kasanızda hiç kayıt yok."
+  },
+  "no_items_collection": {
+    "value": "Bu koleksiyonda hiç kayıt yok."
+  },
+  "no_items_folder": {
+    "value": "Bu klasörde hiç kayıt yok."
+  },
+  "no_items_for_uri": {
+    "value": "Kasanızda hiç %1$s kaydı bulunmuyor."
+  },
+  "no_items_for_vault": {
+    "value": "Kasanızda “%1$s” ile eşleşen kayıt yok"
+  },
+  "no_items_tap": {
+    "value": "Kasanızda bu siteye/uygulamaya ait hiç hesap yok. Eklemek isterseniz dokunun."
+  },
+  "no_items_to_list": {
+    "value": "Listelenecek kayıt yok."
+  },
+  "no_items_trash": {
+    "value": "Çöp kutusunda hiç kayıt yok."
+  },
+  "no_logins": {
+    "value": "Kasanızda hiç hesap yok."
+  },
+  "no_logins_were_imported": {
+    "value": "Hiç hesap aktarılmadı"
+  },
+  "no_notes": {
+    "value": "Kasanızda hiç not yok."
+  },
+  "no_orgs_to_list": {
+    "value": "Listelenecek kuruluş yok."
+  },
+  "no_passwords_to_list": {
+    "value": "Listelenecek parola yok."
+  },
+  "no_pending_requests": {
+    "value": "Bekleyen istek yok"
+  },
+  "no_sends": {
+    "value": "Hesabınızda hiç Send yok."
+  },
+  "no_ssh_keys": {
+    "value": "Kasanızda hiç SSH anahtarı yok."
+  },
+  "no_text_sends": {
+    "value": "There are no text Sends in your vault."
+  },
+  "no_thanks": {
+    "value": "Gerek yok"
+  },
+  "no_two_step_available": {
+    "value": "Bu hesap için iki aşamalı giriş etkinleştirilmiş ama yapılandırılan iki aşamalı\n        giriş sağlayıcılarının hiçbiri bu cihazda desteklenmiyor. Lütfen desteklenen bir cihaz kullanın ve/veya farklı\n        cihazlarda desteklenen yeni sağlayıcılar ekleyin (örn. kimlik doğrulama uygulaması).\n    "
+  },
+  "no_username": {
+    "value": "Kullanıcı adı yok"
+  },
+  "no_username_password_configured": {
+    "value": "Bu hesaba ait kullanıcı adı veya parola kaydedilmemiş."
+  },
+  "nord": {
+    "value": "Nord"
+  },
+  "not_you": {
+    "value": "Siz değil misiniz?"
+  },
+  "notes": {
+    "value": "Notlar"
+  },
+  "notes_info": {
+    "value": "Bu Send ile ilgili özel notlar."
+  },
+  "notice": {
+    "value": "Dikkat"
+  },
+  "november": {
+    "value": "Kasım"
+  },
+  "number": {
+    "value": "Numara"
+  },
+  "number_of_words": {
+    "value": "Kelime sayısı"
+  },
+  "numbers_zero_to_nine": {
+    "value": "Rakamlar (0-9)"
+  },
+  "october": {
+    "value": "Ekim"
+  },
+  "off": {
+    "value": "Kapalı"
+  },
+  "ok": {
+    "value": "Tamam"
+  },
+  "ok_got_it": {
+    "value": "Tamam, anladım!"
+  },
+  "on": {
+    "value": "Açık"
+  },
+  "on_restart": {
+    "value": "Uygulama yeniden başlatılınca"
+  },
+  "on_your_computer_log_in_to_your_current_browser_or_password_manager": {
+    "value": "Bilgisayarınızda mevcut\n        tarayıcınızı veya parola yöneticinizi açın.\n    "
+  },
+  "on_your_computer_open_a_new_browser_tab_and_go_to_vault_bitwarden_com": {
+    "value": "On your computer, open a new\n        browser tab and\n        <annotation emphasis=\"bold\">go to\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "once_the_key_is_successfully_entered": {
+    "value": "Anahtar eklendikten sonra anahtarı güvenli bir şekilde depolamak\n        için \\\"TOTP ekle\\\"yi seçin\n    "
+  },
+  "one_day": {
+    "value": "1 gün"
+  },
+  "one_hour": {
+    "value": "1 saat"
+  },
+  "one_hour_and_one_minute": {
+    "value": "1 saat 1 dakika"
+  },
+  "one_hour_and_x_minute": {
+    "value": "1 saat %1$s dakika"
+  },
+  "one_minute": {
+    "value": "1 dakika"
+  },
+  "one_of_the_best_ways_to_create_a_secure_and_memorable_password": {
+    "value": "One of the best ways to create a\n        secure and memorable password is to use a passphrase. \\nHere’s how:\n    "
+  },
+  "open": {
+    "value": "Aç"
+  },
+  "open_email_app": {
+    "value": "E-Posta uygulamasını aç"
+  },
+  "option_defaults": {
+    "value": "Varsayılan ayarlar, ana Bitwarden uygulamasının parola üreticisi aracından\n        ayarlanır.\n    "
+  },
+  "options": {
+    "value": "Seçenekler"
+  },
+  "options_collapsed": {
+    "value": "Seçenekler daraltıldı, genişletmek için dokunun."
+  },
+  "options_expanded": {
+    "value": "Seçenekler genişletildi, daraltmak için dokunun."
+  },
+  "or_log_in_you_may_already_have_an_account": {
+    "value": "Veya zaten hesabınız varsa giriş yapın."
+  },
+  "org_identifier": {
+    "value": "Kuruluş tanımlayıcı"
+  },
+  "organization": {
+    "value": "Kuruluş"
+  },
+  "organization_is_using_sso_with_a_self_hosted_key_server": {
+    "value": "%1$s kendi barındırdığı bir anahtar\n        sunucusuyla SSO kullanıyor. Bu kuruluşun üyelerinin giriş yapmak için artık ana parola kullanması gerekmiyor.\n    "
+  },
+  "organization_sso_identifier_required": {
+    "value": "Kuruluş SSO tanımlayıcısı gereklidir."
+  },
+  "organization_unassigned_items_message_self_host_041624_description_long": {
+    "value": ""
+  },
+  "organization_unassigned_items_message_useu_description_long": {
+    "value": "."
+  },
+  "other": {
+    "value": "Diğer"
+  },
+  "overlay_permission": {
+    "value": "İzin"
+  },
+  "overwrite_passkey": {
+    "value": "Geçiş anahtarının üzerine yazılsın mı?"
+  },
+  "owner": {
+    "value": "Owner"
+  },
+  "ownership": {
+    "value": "Sahip"
+  },
+  "page_number_x_of_y": {
+    "value": "%1$s / %2$s"
+  },
+  "passkey": {
+    "value": "Şifre anahtarı"
+  },
+  "passkey_authentication_failed_due_to_an_internal_error": {
+    "value": "Passkey authentication failed due to an\n        internal error.\n    "
+  },
+  "passkey_management": {
+    "value": "Geçiş anahtarı yönetimi"
+  },
+  "passkey_management_explanation_long": {
+    "value": "Bitwarden\\'ı yeni geçiş anahtarları kaydetmek ve kasadaki geçiş\n        anahtarlarıyla giriş yapmak için kullanabilirsiniz.\n    "
+  },
+  "passkey_operation_failed_because_app_could_not_be_verified": {
+    "value": "Geçiş anahtarı eylemi başarısız oldu çünkü\n        uygulama doğrulanamadı\n    "
+  },
+  "passkey_operation_failed_because_app_is_signed_incorrectly": {
+    "value": "Passkey operation failed because app is\n        signed incorrectly.\n    "
+  },
+  "passkey_operation_failed_because_app_not_found_in_asset_links": {
+    "value": "Geçiş anahtarı eylemi başarısız oldu\n        çünkü uygulama varlık bağlantılarında bulunamadı\n    "
+  },
+  "passkey_operation_failed_because_app_signature_is_invalid": {
+    "value": "Passkey operation failed because app\n        signature is invalid.\n    "
+  },
+  "passkey_operation_failed_because_browser_is_not_privileged": {
+    "value": "Geçiş anahtarı eylemi başarısız oldu çünkü\n        tarayıcı ayrıcalıklı değil\n    "
+  },
+  "passkey_operation_failed_because_browser_signature_does_not_match": {
+    "value": "Geçiş anahtarı eylemi başarısız\n        oldu çünkü tarayıcı imzası uyumsuz\n    "
+  },
+  "passkey_operation_failed_because_host_url_is_not_present_in_request": {
+    "value": "Passkey operation failed because\n        host URL is not present in request.\n    "
+  },
+  "passkey_operation_failed_because_no_item_was_selected": {
+    "value": "Passkey operation failed because no item was\n        selected.\n    "
+  },
+  "passkey_operation_failed_because_of_missing_asset_links": {
+    "value": "Geçiş anahtarı eylemi başarısız oldu çünkü\n        varlık bağlantıları eksik\n    "
+  },
+  "passkey_operation_failed_because_relying_party_cannot_be_identified": {
+    "value": "Passkey operation failed because\n        relying party cannot be identified.\n    "
+  },
+  "passkey_operation_failed_because_the_request_is_invalid": {
+    "value": "Passkey operation failed because the request\n        is invalid.\n    "
+  },
+  "passkey_operation_failed_because_the_selected_item_does_not_exist": {
+    "value": "Passkey operation failed because\n        the selected item does not exist.\n    "
+  },
+  "passkey_operation_failed_because_user_could_not_be_verified": {
+    "value": "Kullanıcı doğrulanamadığı için geçiş\n        anahtarı işlemi başarısız oldu.\n    "
+  },
+  "passkey_operation_failed_because_user_is_locked_out": {
+    "value": "Passkey operation failed because user is locked\n        out.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_attempts_exceeded": {
+    "value": "Passkey operation failed because\n        user verification attempts exceeded.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_was_cancelled": {
+    "value": "Passkey operation failed because\n        user verification was cancelled.\n    "
+  },
+  "passkey_registration_failed_due_to_an_internal_error": {
+    "value": "Passkey registration failed due to an internal\n        error.\n    "
+  },
+  "passkey_removed": {
+    "value": "Geçiş anahtarı kaldırıldı"
+  },
+  "passkey_will_not_be_copied": {
+    "value": "Şifre anahtarı kopyalanmayacak"
+  },
+  "passkeys": {
+    "value": "Şifre anahtarları"
+  },
+  "passkeys_for_x": {
+    "value": "%1$s geçiş anahtarları"
+  },
+  "passkeys_not_supported_for_this_app": {
+    "value": "Bu uygulamada geçiş anahtarları desteklenmiyor"
+  },
+  "passphrase": {
+    "value": "Uzun söz"
+  },
+  "passphrases_are_strong_passwords_that_are_often_easier_to_remember_and_type_than_random_passwords": {
+    "value": "\n        Passphrases are strong passwords that are often easier to remember and type than random passwords. They are\n        helpful for logging into accounts where Autofill is not available, like a streaming service on your TV.\n    "
+  },
+  "passport_number": {
+    "value": "Pasaport numarası"
+  },
+  "password": {
+    "value": "Parola"
+  },
+  "password_autofill": {
+    "value": "Otomatik parola doldurma"
+  },
+  "password_confirmation": {
+    "value": "Ana parola onayı"
+  },
+  "password_confirmation_desc": {
+    "value": "Bu işlem korumalıdır. İşleme devam etmek için lütfen ana parolanızı\n        yeniden girin.\n    "
+  },
+  "password_exposed": {
+    "value": "Bu parola, veri ihlallerinde %1$s kere açığa çıkmış. Değiştirmenizi tavsiye\n        ederiz.\n    "
+  },
+  "password_found_in_a_data_breach_alert_description": {
+    "value": "Bu parola bir veri ihlalinde tespit edildi.\n        Hesabınızı korumak için aynı parolayı farklı yerlerde kullanmayın. Bu parolayı kullanmak istediğinizden emin\n        misiniz?\n    "
+  },
+  "password_generated": {
+    "value": "Parola oluşturuldu"
+  },
+  "password_generator": {
+    "value": "Parola üreteci"
+  },
+  "password_generator_policy_in_effect": {
+    "value": "Bir veya daha fazla kuruluş ilkesi üreteç ayarlarınızı\n        etkiliyor\n    "
+  },
+  "password_hint": {
+    "value": "Parola ipucu"
+  },
+  "password_hint_alert": {
+    "value": "Size ana parolanızın ipucunu içeren bir e-posta gönderdik."
+  },
+  "password_history": {
+    "value": "Parola geçmişi"
+  },
+  "password_history_count": {
+    "value": "\n        <annotation link=\"passwordHistory\">Password history:\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "password_info": {
+    "value": "Kullanıcıların bu Send\\'e erişmek için parola girmelerini isteyebilirsiniz."
+  },
+  "password_is_not_visible_tap_to_show": {
+    "value": "Parola gizli. Göstermek için dokunun."
+  },
+  "password_is_visible_tap_to_hide": {
+    "value": "Parola görünür durumda. Gizlemek için dokunun."
+  },
+  "password_override_alert": {
+    "value": "Mevcut parolanın üzerine kaydetmek istediğinize emin misiniz?"
+  },
+  "password_prompt": {
+    "value": "Ana parolayı yeniden iste"
+  },
+  "password_protected": {
+    "value": "Parola Korumalı"
+  },
+  "password_safe": {
+    "value": "Bilinen veri ihlallerinde bu parola bulunamadı. Güvenle kullanabilirsiniz."
+  },
+  "password_type": {
+    "value": "Parola türü"
+  },
+  "password_used_to_export": {
+    "value": "Bu parola, bu dosyayı dışa ve içe aktarmak için kullanılacaktır"
+  },
+  "passwords": {
+    "value": "Parolalar"
+  },
+  "passwords_for_x": {
+    "value": "%1$s parolaları"
+  },
+  "pending_delete": {
+    "value": "Silinmesi bekleniyor"
+  },
+  "pending_log_in_requests": {
+    "value": "Bekleyen giriş istekleri"
+  },
+  "personal_details": {
+    "value": "Personal Details"
+  },
+  "personal_ownership_policy_in_effect": {
+    "value": "Bir kuruluş ilkesi sahiplik seçeneklerinizi etkiliyor."
+  },
+  "personal_ownership_submit_error": {
+    "value": "Bir kuruluş ilkesi nedeniyle kişisel kasanıza hesap kaydetmeniz\n        kısıtlanmış. Sahip seçeneğini bir kuruluş olarak değiştirin ve mevcut koleksiyonlar arasından seçim yapın.\n    "
+  },
+  "phone": {
+    "value": "Telefon"
+  },
+  "photos": {
+    "value": "Fotoğraflar"
+  },
+  "pick_three_or_four_random_unrelated_words": {
+    "value": "Pick three or four random, unrelated words that you can\n        easily remember. Think of <annotation emphasis=\"bold\">objects, places, or things</annotation> you like.\n    "
+  },
+  "pin": {
+    "value": "PIN"
+  },
+  "pin_require_master_password_restart": {
+    "value": "Uygulama yeniden başlatılınca ana parola girilmesine zorunlu\n        tutmak ister misiniz?\n    "
+  },
+  "please_make_sure_your_vault_is_unlocked_and_the_fingerprint_phrase_matches_on_the_other_device": {
+    "value": "Lütfen\n        kasanızın kilidinin açık olduğundan ve parmak izi ifadesinin diğer cihazla eşleştiğinden emin olun.\n    "
+  },
+  "please_restart_registration_or_try_logging_in": {
+    "value": "Lütfen kaydı yeniden başlatın veya giriş yapmayı\n        deneyin. Mevcut bir hesabınız olabilir.\n    "
+  },
+  "plus_addressed_email": {
+    "value": "Artı adresli e-posta"
+  },
+  "plus_addressed_email_description": {
+    "value": "E-posta sağlayıcınızın alt adres özelliklerini kullanın"
+  },
+  "point_your_camera_at_the_qr_code": {
+    "value": "Kameranızı QR koduna doğrultun.\n        Kod otomatik olarak taranacaktır.\n    "
+  },
+  "policy_in_effect_lowercase": {
+    "value": "Bir veya daha fazla küçük harf içermeli"
+  },
+  "policy_in_effect_min_complexity": {
+    "value": "Minimum karmaşıklık puanı: %1$s"
+  },
+  "policy_in_effect_min_length": {
+    "value": "Minimum uzunluk: %1$s"
+  },
+  "policy_in_effect_numbers": {
+    "value": "Bir veya daha fazla rakam içermeli"
+  },
+  "policy_in_effect_special": {
+    "value": "Şu özel karakterlerden birini veya daha fazlasını içermeli: %1$s"
+  },
+  "policy_in_effect_uppercase": {
+    "value": "Bir veya daha fazla büyük harf içermeli"
+  },
+  "possible_matching_items": {
+    "value": "Eşleşmesi olası kayıtlar"
+  },
+  "premium_required": {
+    "value": "Bu özelliği kullanmak için premium üyelik gereklidir."
+  },
+  "premium_subscription_required": {
+    "value": "Premium abonelik gerekli"
+  },
+  "prevent_account_lockout": {
+    "value": "Hesap kilitlenmelerinin önüne geçin"
+  },
+  "privacy_policy": {
+    "value": "Gizlilik Politikası"
+  },
+  "privacy_policy_description_long": {
+    "value": "Gizlilik ilkelerimizi bitwarden.com\\'da bulabilirsiniz."
+  },
+  "private_key": {
+    "value": "Özel anahtar"
+  },
+  "private_notes": {
+    "value": "Özel notlar"
+  },
+  "public_key": {
+    "value": "Ortak anahtar"
+  },
+  "push_notification_alert": {
+    "value": "Bitwarden, anında ilet bildirimlerini kullanarak kasanızı otomatik olarak\n        eşitleyebilir. Bitwarden\\'dan en iyi şekilde faydalanmak için lütfen bir sonraki ekranda \\\"İzin Ver\\\"i seçerek\n        bildirimlere izin verin.\n    "
+  },
+  "put_the_words_together_in_any_order_to_form_your_passphrase": {
+    "value": "Put the words together in any order to\n        form your passphrase. <annotation emphasis=\"bold\">Use hyphens, spaces, or leave them as one long\n            word</annotation>—your choice!\n    "
+  },
+  "quick_and_easy_login": {
+    "value": "Hızlı ve kolay giriş"
+  },
+  "random": {
+    "value": "Rastgele"
+  },
+  "random_and_complex_using_numbers_and_special_characters": {
+    "value": "Random and complex, using numbers and special\n        characters\n    "
+  },
+  "random_word": {
+    "value": "Rastgele kelime"
+  },
+  "rate_app_description_long": {
+    "value": "Bitwarden\\'ı başkalarına da tanımak ister misiniz? Uygulama mağazasını\n        ziyaret edip Bitwarden\\'ı değerlendirin.\n    "
+  },
+  "rate_the_app": {
+    "value": "Uygulamaya puan verin"
+  },
+  "rate_the_app_description": {
+    "value": "İyi bir yorum yazarak bizi destekleyebilirsiniz."
+  },
+  "receive_push_notifications_for_new_login_requests": {
+    "value": "Yeni giriş istekleri için bildirim al"
+  },
+  "recovery_code_title": {
+    "value": "Kurtarma kodu"
+  },
+  "reg_ex": {
+    "value": "Düzenli ifade"
+  },
+  "regenerate_password": {
+    "value": "Yeni parola oluştur"
+  },
+  "region": {
+    "value": "Bölge"
+  },
+  "remember": {
+    "value": "Hatırla"
+  },
+  "remember_email": {
+    "value": "E-postayı hatırla"
+  },
+  "remember_this_device": {
+    "value": "Bu cihazı hatırla"
+  },
+  "remember_to_delete_your_imported_password_file_from_your_computer": {
+    "value": "İçe aktardığınız parola dosyasını\n        bilgisayarınızdan silmeyi unutmayın\n    "
+  },
+  "remind_me_later": {
+    "value": "Daha sonra hatırlat"
+  },
+  "remove": {
+    "value": "Kaldır"
+  },
+  "remove_account": {
+    "value": "Hesabı sil"
+  },
+  "remove_account_confirmation": {
+    "value": "Bu hesabı silmek istediğinizden emin misiniz?"
+  },
+  "remove_master_password": {
+    "value": "Ana parolayı kaldır"
+  },
+  "remove_master_password_warning": {
+    "value": "%1$s, müşteri tarafından yönetilen şifreleme ile SSO kullanıyor. Devam\n        ederseniz ana parolanız hesabınızdan kaldırılacak ve giriş yapmak için SSO kullanmanız gerekecektir.\n    "
+  },
+  "remove_master_password_warning2": {
+    "value": "Ana Parolanızı kaldırmak istemiyorsanız bu kuruluştan\n        ayrılabilirsiniz.\n    "
+  },
+  "remove_passkey": {
+    "value": "Geçiş anahtarını kaldır"
+  },
+  "remove_password": {
+    "value": "Parolayı kaldır"
+  },
+  "removing_send_password": {
+    "value": "Parola kaldırılıyor"
+  },
+  "request_admin_approval": {
+    "value": "Yönetici onayı iste"
+  },
+  "request_otp": {
+    "value": "Tek kullanımlık parola iste"
+  },
+  "requests_declined": {
+    "value": "İstekler reddedildi"
+  },
+  "require_master_password_on_app_restart": {
+    "value": "Uygulama yeniden başlatıldığında ana parola sorulsun mu?\n    "
+  },
+  "resend_code": {
+    "value": "Kodu yeniden gönder"
+  },
+  "resend_notification": {
+    "value": "Bildirimi yeniden gönder"
+  },
+  "reset_password_auto_enroll_invite_warning": {
+    "value": "Bu kuruluşun sizi otomatik olarak parola sıfırlamaya\n        ekleyen bir ilkesi bulunmakta. Bu ilkeye eklenmek, kuruluş yöneticilerinin ana parolanızı değiştirebilmesini\n        sağlar.\n    "
+  },
+  "restart_registration": {
+    "value": "Kaydı yeniden başlat"
+  },
+  "restore": {
+    "value": "Geri yükle"
+  },
+  "restoring": {
+    "value": "Geri yükleniyor..."
+  },
+  "return_to_complete_this_step_anytime_in_settings": {
+    "value": "İstediğiniz zaman Ayarlar\\'a girerek bu adımı\n        tamamlayabilirsiniz.\n    "
+  },
+  "retype_master_password": {
+    "value": "Ana parolayı tekrar yazın"
+  },
+  "retype_master_password_required": {
+    "value": "Ana parolayı yeniden yazın (gerekli)"
+  },
+  "retype_new_master_password_required": {
+    "value": "Yeni ana parolayı yeniden yazın (gerekli)"
+  },
+  "review_flow_launched": {
+    "value": "Review flow launched!"
+  },
+  "save": {
+    "value": "Kaydet"
+  },
+  "save_and_protect_your_data": {
+    "value": "Verilerinizi kaydedin ve koruyun"
+  },
+  "save_attachment_success": {
+    "value": "Dosya başarıyla kaydedildi"
+  },
+  "save_passkey": {
+    "value": "Geçiş anahtarını kaydet"
+  },
+  "save_passkey_as_new_login": {
+    "value": "Geçiş anahtarını yeni hesap olarak kaydet"
+  },
+  "save_the_exported_file_somewhere_on_your_computer_you_can_find_easily": {
+    "value": "\n        <annotation emphasis=\"bold\">Save the exported file</annotation>\n        somewhere on your computer you can find easily.\n    "
+  },
+  "saving": {
+    "value": "Kaydediliyor..."
+  },
+  "scan_qr_code": {
+    "value": "QR kodunu tara"
+  },
+  "scan_qr_title": {
+    "value": "QR kodunu okutun"
+  },
+  "search": {
+    "value": "Ara"
+  },
+  "search_collection": {
+    "value": "Koleksiyonda ara"
+  },
+  "search_file_sends": {
+    "value": "Dosya Send\\'lerinde ara"
+  },
+  "search_for_a_login_or_add_a_new_login": {
+    "value": "Hesap ara veya yeni hesap ekle"
+  },
+  "search_for_an_item_or_add_a_new_item": {
+    "value": "Kayıtlarda ara veya yeni kayıt ekle"
+  },
+  "search_group": {
+    "value": "Ara: %1$s"
+  },
+  "search_sends": {
+    "value": "Send\\'lerde ara"
+  },
+  "search_text_sends": {
+    "value": "Metin Send\\'lerinde ara"
+  },
+  "search_trash": {
+    "value": "Çöp kutusunda ara"
+  },
+  "search_vault": {
+    "value": "Kasada ara"
+  },
+  "second_dot_turn_on_auto_fill": {
+    "value": "Oto-Doldurma\\'yı Etkinleştir"
+  },
+  "secure_notes": {
+    "value": "Güvenli notlar"
+  },
+  "security": {
+    "value": "Güvenlik"
+  },
+  "security_code": {
+    "value": "Güvenlik kodu"
+  },
+  "security_prioritized": {
+    "value": "Önce güvenlik"
+  },
+  "select": {
+    "value": "Seç"
+  },
+  "select_import_data_in_the_web_app_then_done_to_finish_syncing": {
+    "value": "\n        <annotation emphasis=\"bold\">Select Import data</annotation>\n        in the web app, then Done below to finish syncing.\n    "
+  },
+  "select_one_collection": {
+    "value": "En az bir koleksiyon seçmelisiniz."
+  },
+  "select_the_link_in_the_email_to_verify_your_email_address_and_continue_creating_your_account": {
+    "value": "\"E-posta\n        adresinizi onaylayarak hesap açılışına devam etmek için e-postadaki bağlantıya tıklayın. \"\n    "
+  },
+  "select_type_field": {
+    "value": "Ne tür bir özel alan eklemek istiyorsunuz?"
+  },
+  "self_host_server_url": {
+    "value": "Kendi kendine barındırılan sunucu URL\\'si"
+  },
+  "self_hosted": {
+    "value": "Barındırılan"
+  },
+  "self_hosted_environment": {
+    "value": "Şirket içinde barındırılan ortam"
+  },
+  "self_hosted_environment_footer": {
+    "value": "Kurum içinde barındırılan Bitwarden kurulumunuzun taban URL\\'sini\n        belirtin.\n    "
+  },
+  "self_hosted_server_url": {
+    "value": "Self-hosted server URL"
+  },
+  "send": {
+    "value": "Send"
+  },
+  "send_code": {
+    "value": "Kod gönder"
+  },
+  "send_deleted": {
+    "value": "Send silindi"
+  },
+  "send_details": {
+    "value": "Send ayrıntıları"
+  },
+  "send_disabled_warning": {
+    "value": "Bir kuruluş ilkesi nedeniyle yalnızca mevcut Send\\'leri silebilirsiniz.\n    "
+  },
+  "send_file_email_verification_required": {
+    "value": "Send ile dosya paylaşmak için e-postanızı doğrulamalısınız.\n        E-postanızı web kasası üzerinden doğrulayabilirsiniz.\n    "
+  },
+  "send_file_premium_required": {
+    "value": "Ücretsiz hesaplar yalnızca metin paylaşabilir. Send ile dosya paylaşmak\n        için premium üyelik gerekir.\n    "
+  },
+  "send_link": {
+    "value": "Send bağlantısı"
+  },
+  "send_name_required": {
+    "value": "\"Send adı (gerekli)\""
+  },
+  "send_options_policy_in_effect": {
+    "value": "Bir veya daha fazla kuruluş ilkesi Send seçeneklerinizi etkiliyor.\n    "
+  },
+  "send_password_removed": {
+    "value": "Parola kaldırıldı."
+  },
+  "send_sensitive_information_safely": {
+    "value": "Hassas bilgileri güvenle paylaşın"
+  },
+  "send_updated": {
+    "value": "Send kaydedildi"
+  },
+  "send_verification_code_again": {
+    "value": "Doğrulama kodunu yeniden gönder"
+  },
+  "send_verification_code_to_email": {
+    "value": "E-posta adresime doğrulama kodu gönder"
+  },
+  "sending": {
+    "value": "Gönderiliyor"
+  },
+  "sending_code": {
+    "value": "Kod gönderiliyor"
+  },
+  "sends": {
+    "value": "Send\\'ler"
+  },
+  "september": {
+    "value": "Eylül"
+  },
+  "server_url": {
+    "value": "Sunucu URL\\'si"
+  },
+  "service": {
+    "value": "Servis"
+  },
+  "session_timeout": {
+    "value": "Oturum zaman aşımı"
+  },
+  "session_timeout_action": {
+    "value": "Oturum zaman aşımı eylemi"
+  },
+  "set_bitwarden_as_passkey_manager_description": {
+    "value": "Cihaz ayarlarınızdan Bitwarden\\'ı geçiş anahtarı\n        sağlayıcınız olarak ayarlayın.\n    "
+  },
+  "set_master_password": {
+    "value": "Ana parolayı belirle"
+  },
+  "set_master_password_summary": {
+    "value": "SSO ile girişinizi tamamlamak için lütfen kasanıza erişirken\n        kullanacağınız ana parolayı belirleyin.\n    "
+  },
+  "set_password": {
+    "value": "Parola belirle"
+  },
+  "set_pin": {
+    "value": "PIN belirle"
+  },
+  "set_pin_description": {
+    "value": "Bitwarden\\'ı açarken kullanacağınız PIN kodunu belirleyin. Uygulamadan tamamen\n        çıkış yaparsanız PIN ayarlarınız sıfırlanacaktır.\n    "
+  },
+  "set_pin_direction": {
+    "value": "Uygulama kilidini açmak için 4 haneli bir PIN kodu girin."
+  },
+  "set_up_an_unlock_option_to_change_your_vault_timeout_action": {
+    "value": "Kasa zaman aşımı eyleminizi değiştirmek\n        için bir kilit açma yöntemi ayarlayın.\n    "
+  },
+  "set_up_authenticator_key": {
+    "value": ""
+  },
+  "set_up_auto_fill_description_long": {
+    "value": "Otomatik parola doldurma ve anahtar yönetimi için, iOS ayarlarında\n        Bitwarden\\'ı tercih edilen sağlayıcı olarak belirleyin.\n    "
+  },
+  "set_up_autofill": {
+    "value": "Otomatik doldurmayı ayarla"
+  },
+  "set_up_autofill_on_all_your_devices": {
+    "value": "Her yere tek dokunuşla giriş yapmak için tüm cihazlarınızda\n        otomatik doldurmayı etkinleştirin.\n    "
+  },
+  "set_up_biometrics_or_choose_a_pin_code_to_quickly_access_your_vault_and_autofill_your_logins": {
+    "value": "Set up\n        biometrics or choose a PIN code to quickly access your vault and Autofill your logins.\n    "
+  },
+  "set_up_later": {
+    "value": "Daha sonra ayarla"
+  },
+  "set_up_two_step_login": {
+    "value": "İki adımlı girişi ayarlayın"
+  },
+  "set_up_unlock": {
+    "value": "Kilit açmayı ayarla"
+  },
+  "set_up_unlock_later": {
+    "value": "Kilit açma daha sonra mı ayarlansın?"
+  },
+  "settings": {
+    "value": "Ayarlar"
+  },
+  "setup_totp": {
+    "value": "TOTP\\'yi kur"
+  },
+  "seven_days": {
+    "value": "7 gün"
+  },
+  "share": {
+    "value": "Paylaş"
+  },
+  "share_error_details": {
+    "value": "Share error details"
+  },
+  "share_files_and_data_securely_with_anyone_on_any_platform": {
+    "value": "Dosyaları ve verileri istediğiniz\n        kişilerle, istediğiniz platformda paylaşın. Bilgileriniz başkalarının eline geçmemesi için uçtan\n        şifrelenecektir.\n    "
+  },
+  "share_item": {
+    "value": "Öğeyi paylaş"
+  },
+  "share_link": {
+    "value": "Bağlantıyı paylaş"
+  },
+  "share_on_save": {
+    "value": "Bu Send\\'i kaydettikten sonra paylaş"
+  },
+  "shared": {
+    "value": "Paylaşılan"
+  },
+  "show": {
+    "value": "Göster"
+  },
+  "show_less": {
+    "value": "Daha az göster"
+  },
+  "show_more": {
+    "value": "Daha fazla göster"
+  },
+  "show_website_icons": {
+    "value": "Web sitesi simgelerini göster"
+  },
+  "show_website_icons_description": {
+    "value": "Hesapların yanında tanıdık görseller göster."
+  },
+  "simple_login": {
+    "value": "SimpleLogin"
+  },
+  "single_tap_passkey_authentication": {
+    "value": "Single tap passkey sign-on"
+  },
+  "single_tap_passkey_creation": {
+    "value": "Single tap passkey creation"
+  },
+  "skip_for_now": {
+    "value": "Şimdilik geç"
+  },
+  "soft_deleting": {
+    "value": "Çöp kutusuna gönderiliyor..."
+  },
+  "solarized_dark": {
+    "value": "Solarized Dark"
+  },
+  "special_characters": {
+    "value": "Özel karakterler (!@#$%^*)"
+  },
+  "ssh_keys": {
+    "value": "SSH anahtarları"
+  },
+  "ssn": {
+    "value": "Sosyal güvenlik numarası"
+  },
+  "starts_with": {
+    "value": "URI başlangıcı"
+  },
+  "state_province": {
+    "value": "Eyalet / İl"
+  },
+  "status": {
+    "value": "Durum"
+  },
+  "step_1_of_3": {
+    "value": "Step 1 of 3"
+  },
+  "step_2_of_3": {
+    "value": "Step 2 of 3"
+  },
+  "step_3_of_3": {
+    "value": "Step 3 of 3"
+  },
+  "strong": {
+    "value": "Güçlü"
+  },
+  "submit": {
+    "value": "Gönder"
+  },
+  "submit_crash_logs": {
+    "value": "Çökme günlüklerini gönder"
+  },
+  "submit_crash_logs_description": {
+    "value": "Çökme günlüklerini göndererek Bitwarden\\'ın uygulamayı geliştirmesine\n        yardımcı olun.\n    "
+  },
+  "submitting": {
+    "value": "Gönderiliyor..."
+  },
+  "switch_to_already_added_account_confirmation": {
+    "value": "Şimdi geçmek ister misiniz?"
+  },
+  "sync": {
+    "value": "Eşitle"
+  },
+  "sync_now": {
+    "value": "Şimdi eşitle"
+  },
+  "sync_vault_now": {
+    "value": "Kasayı şimdi eşitle"
+  },
+  "syncing": {
+    "value": "Eşitleniyor..."
+  },
+  "syncing_complete": {
+    "value": "Eşitleme tamamlandı"
+  },
+  "syncing_failed": {
+    "value": "Eşitleme başarısız oldu"
+  },
+  "syncing_logins_loading_message": {
+    "value": "Hesaplar eşitleniyor..."
+  },
+  "system_certificates_are_not_as_secure_as_importing_certificates_to_bitwarden": {
+    "value": "Using a system\n        certificate is less secure than storing the certificate with Bitwarden. Continuing will display a list of\n        available system certificates if one is already installed.\n    "
+  },
+  "tap_to_go_back": {
+    "value": "Geri dönmek için dokun"
+  },
+  "ten_seconds": {
+    "value": "10 saniye"
+  },
+  "terms_of_service": {
+    "value": "Hizmet Koşulları"
+  },
+  "text": {
+    "value": "Metin"
+  },
+  "text_to_share": {
+    "value": "Paylaşılacak metin"
+  },
+  "text_type_is_not_selected": {
+    "value": "Metin türü seçilmedi. Seçmek için dokunun."
+  },
+  "text_type_is_selected": {
+    "value": "Metin türü seçildi."
+  },
+  "thank_you": {
+    "value": "Teşekkürler"
+  },
+  "the_best_way_to_make_sure_you_can_always_access_your_vault": {
+    "value": "Kasanıza her an erişebilmenizin en iyi\n        yolu, önleminizi en baştan almaktır.\n    "
+  },
+  "the_following_instructions_will_guide_you_through_importing_logins": {
+    "value": "Aşağıdaki talimatları izleyerek\n        hesaplarınızı bilgisayarınızdan içe aktarabilirsiniz\n    "
+  },
+  "the_longer_your_password_the_more_difficult_to_hack": {
+    "value": "The longer your password, the more difficult it\n        is to hack. The minimum for account creation is 12 characters but if you do 14 characters, the time to crack\n        your password would be centuries!\n    "
+  },
+  "the_passkey_will_not_be_copied_to_the_cloned_item_do_you_want_to_continue_cloning_this_item": {
+    "value": "Şifre\n        anahtarı, klonlanan kayda kopyalanmayacaktır. Bu kaydı klonlamaya devam etmek istiyor musunuz?\n    "
+  },
+  "the_strongest_passwords_are_usually": {
+    "value": "The strongest passwords are usually:"
+  },
+  "the_urix_is_already_blocked": {
+    "value": "%1$s URl\\'si zaten engellenmiş"
+  },
+  "the_vault_protects_more_than_just_passwords": {
+    "value": "Kasanız sadece parolalarınız için değil. Hesaplarınızı,\n        kimliklerinizi, kredi kartlarınızı ve notlarınızı da güvenle burada depolayabilirsiniz.\n    "
+  },
+  "theme": {
+    "value": "Tema"
+  },
+  "theme_applied_on_restart": {
+    "value": "Tema değişiklikleriniz uygulama yeniden başlatılınca uygulanacaktır.\n    "
+  },
+  "theme_default": {
+    "value": "Varsayılan (sistem)"
+  },
+  "theme_description": {
+    "value": "Uygulamanın renk temasını değiştir."
+  },
+  "there_are_no_blocked_ur_is": {
+    "value": "Engellenmiş URI yok"
+  },
+  "there_are_no_items_in_your_vault_that_match_x": {
+    "value": "Kasanızda \\\"%1$s\\\" ile eşleşen kayıt yok"
+  },
+  "there_are_no_items_that_match_the_search": {
+    "value": "Aramayla eşleşen kayıt yok"
+  },
+  "there_was_a_problem_creating_a_passkey_for_x_try_again_later": {
+    "value": "%1$s için geçiş anahtarı oluşturulamadı.\n        Daha sonra tekrar deneyin.\n    "
+  },
+  "there_was_a_problem_reading_a_passkey_for_x_try_again_later": {
+    "value": "%1$s için geçiş anahtarı okunamadı. Daha\n        sonra tekrar deneyin.\n    "
+  },
+  "there_was_an_error_starting_web_authn_two_factor_authentication": {
+    "value": "There was an error starting WebAuthn\n        two factor authentication\n    "
+  },
+  "there_was_an_issue_validating_the_registration_token": {
+    "value": "There was an issue validating the registration\n        token.\n    "
+  },
+  "third_dot_select_bitwarden_to_use_for_passwords_and_passkeys": {
+    "value": "Parolalarınızı ve geçiş anahtarlarını\n        kullanmak için \\\"Bitwarden\\\" seçin\n    "
+  },
+  "thirty_days": {
+    "value": "30 gün"
+  },
+  "thirty_minutes": {
+    "value": "30 dakika"
+  },
+  "thirty_seconds": {
+    "value": "30 saniye"
+  },
+  "this_is_not_a_recognized_bitwarden_server_you_may_need_to_check_with_your_provider_or_update_your_server": {
+    "value": "\n        Bu Bitwarden sunucusu tanınmıyor. Servis sağlayıcınızdan bilgi alın veya sunucunuzu güncelleyin.\n    "
+  },
+  "this_item_already_contains_a_passkey_are_you_sure_you_want_to_overwrite_the_current_passkey": {
+    "value": "Bu kayıt\n        zaten bir geçiş anahtarı içeriyor. Mevcut geçiş anahtarının üzerine yazmak istediğinizden emin misiniz?\n    "
+  },
+  "this_request_is_no_longer_valid": {
+    "value": "Bu istek artık geçerli değil"
+  },
+  "three_days": {
+    "value": "3 gün"
+  },
+  "time": {
+    "value": "Tarih"
+  },
+  "title": {
+    "value": "Ünvan"
+  },
+  "toggle_visibility": {
+    "value": "Görünürlüğü aç/kapat"
+  },
+  "too_many_attempts": {
+    "value": "Çok fazla deneme"
+  },
+  "tools": {
+    "value": "Araçlar"
+  },
+  "totally_different_from_your_other_passwords": {
+    "value": "Totally different from your other passwords"
+  },
+  "totp": {
+    "value": "TOTP"
+  },
+  "touch_id": {
+    "value": "Touch ID"
+  },
+  "translations": {
+    "value": "Çeviriler"
+  },
+  "trash": {
+    "value": "Çöp Kutusu"
+  },
+  "trouble_logging_in": {
+    "value": "Giriş yaparken sorun mu yaşıyorsunuz?"
+  },
+  "try_again": {
+    "value": "Yeniden dene"
+  },
+  "try_it_out": {
+    "value": "Deneyin"
+  },
+  "turn_off_using_public_device": {
+    "value": "Paylaşılan bir cihaz kullanıyorsanız işaretlemeyin"
+  },
+  "turn_on_autofill": {
+    "value": "Otomatik doldurmayı etkinleştir"
+  },
+  "turn_on_autofill_later": {
+    "value": "Otomatik doldurma daha sonra mı etkinleştirilsin?"
+  },
+  "turn_on_later": {
+    "value": "Daha sonra etkinleştir"
+  },
+  "turn_on_two_step_login": {
+    "value": "İki adımlı girişi etkinleştir"
+  },
+  "twelve_or_more_characters": {
+    "value": "12 veya daha fazla karakter"
+  },
+  "twenty_seconds": {
+    "value": "20 saniye"
+  },
+  "two_days": {
+    "value": "2 gün"
+  },
+  "two_minutes": {
+    "value": "2 dakika"
+  },
+  "two_step_login": {
+    "value": "İki aşamalı giriş"
+  },
+  "two_step_login_description_long": {
+    "value": "Bitwarden web uygulamasında iki aşamalı girişi ayarlayarak\n        hesabınızın güvenliğini artırabilirsiniz.\n    "
+  },
+  "two_step_login_options": {
+    "value": "İki aşamalı giriş seçenekleri"
+  },
+  "type": {
+    "value": "Tür"
+  },
+  "type_card": {
+    "value": "Kart"
+  },
+  "type_file": {
+    "value": "Dosya"
+  },
+  "type_file_info": {
+    "value": "Göndermek istediğiniz dosya."
+  },
+  "type_identity": {
+    "value": "Kimlik"
+  },
+  "type_login": {
+    "value": "Hesap"
+  },
+  "type_secure_note": {
+    "value": "Güvenli not"
+  },
+  "type_ssh_key": {
+    "value": "SSH anahtarı"
+  },
+  "type_text": {
+    "value": "Metin"
+  },
+  "types": {
+    "value": "Türler"
+  },
+  "unable_to_download_file": {
+    "value": "Dosya indirilemiyor."
+  },
+  "unable_to_open_file": {
+    "value": "Cihazınız bu dosya türünü açamıyor."
+  },
+  "unable_to_save_attachment": {
+    "value": "Bu ek kaydedilirken bir sorun oluştu. Sorun devam ederse eki web kasasından\n        kaydedebilirsiniz.\n    "
+  },
+  "unfavorite": {
+    "value": "Favorilerden kaldır"
+  },
+  "unique_usernames_add_an_extra_layer_of_security_and_can_help_prevent_hackers_from_finding_your_accounts": {
+    "value": "\n        Unique usernames add an extra layer of security and can help prevent hackers from finding your accounts.\n    "
+  },
+  "unknown_account": {
+    "value": "Bilinmeyen hesap"
+  },
+  "unknown_x_error_message": {
+    "value": "Bilinmeyen %1$s hatası oluştu."
+  },
+  "unlock": {
+    "value": "Kilidi aç"
+  },
+  "unlock_options": {
+    "value": "Kilit açma seçenekleri"
+  },
+  "unlock_vault": {
+    "value": "Kasa kilidini aç"
+  },
+  "unlock_with": {
+    "value": "Kilidi %1$s ile aç"
+  },
+  "unlock_with_pin": {
+    "value": "Kilidi PIN koduyla aç"
+  },
+  "unlocking_may_fail_due_to_insufficient_memory_decrease_your_kdf_memory_settings_to_resolve": {
+    "value": "Yetersiz\n        bellek nedeniyle kilit açma başarısız olabilir. Sorunu çözmek için KDF bellek ayarlarınızı azaltın veya\n        biyometrik kilit açmayı ayarlayın.\n    "
+  },
+  "unsubscribe": {
+    "value": "Aboneliği iptal et"
+  },
+  "unsupported_certificate_type": {
+    "value": "Unsupported certificate type"
+  },
+  "update_key": {
+    "value": "Şifreleme anahtarınızı güncelleştirene kadar bu özelliği kullanamazsınız."
+  },
+  "update_master_password": {
+    "value": "Ana parolayı güncelle"
+  },
+  "update_master_password_warning": {
+    "value": "Ana parolanız kuruluşunuzdaki bir yönetici tarafından yakın zamanda\n        değiştirildi. Kasanıza erişmek için ana parolanızı güncellemelisiniz. Devam ettiğinizde oturumunuz kapanacak ve\n        yeniden oturum açmanız gerekecektir. Diğer cihazlardaki aktif oturumlar bir saate kadar aktif kalabilir.\n    "
+  },
+  "update_password_error": {
+    "value": "Şu anda parola güncellenemiyor"
+  },
+  "update_weak_master_password_warning": {
+    "value": "Ana parolanız kuruluş ilkelerinizi karşılamıyor. Kasanıza erişmek\n        için ana parolanızı güncellemelisiniz. Devam ettiğinizde oturumunuz kapanacak ve yeniden oturum açmanız\n        gerekecektir. Diğer cihazlardaki aktif oturumlar bir saate kadar aktif kalabilir.\n    "
+  },
+  "updated_master_password": {
+    "value": "Ana parola güncellendi"
+  },
+  "updating_password": {
+    "value": "Parola güncelleniyor"
+  },
+  "uppercase_ato_z": {
+    "value": "Büyük harf (A-Z)"
+  },
+  "ur_is": {
+    "value": "URl\\'ler"
+  },
+  "uri": {
+    "value": "URl"
+  },
+  "uri_match_detection": {
+    "value": "URI eşleşme tespiti"
+  },
+  "uri_position": {
+    "value": "URI %1$s"
+  },
+  "uri_removed": {
+    "value": "URl kaldırıldı"
+  },
+  "uri_saved": {
+    "value": "URl kaydedildi"
+  },
+  "us": {
+    "value": "ABD"
+  },
+  "use_a_computer_to_import_logins": {
+    "value": "Mevcut bir parola yöneticisindeki hesapları bilgisayar kullanarak içe\n        aktarabilirsiniz\n    "
+  },
+  "use_another_two_step_method": {
+    "value": "Başka bir iki aşamalı giriş yöntemini kullan"
+  },
+  "use_autofill_to_log_into_your_accounts": {
+    "value": "Hesaplarınıza tek dokunuşla giriş yapmak için otomatik\n        doldurmayı kullanabilirsiniz.\n    "
+  },
+  "use_biometrics_to_unlock": {
+    "value": "Kilidi biyometri ile aç"
+  },
+  "use_chrome_autofill_integration": {
+    "value": "Chrome otomatik doldurma entegrasyonunu kullan"
+  },
+  "use_chrome_beta_autofill_integration": {
+    "value": "Chrome otomatik doldurma entegrasyonunu kullan (Beta)"
+  },
+  "use_face_id_to_unlock": {
+    "value": "Kilidi Face ID ile aç"
+  },
+  "use_fingerprint_to_unlock": {
+    "value": "Kilidi parmak iziyle aç"
+  },
+  "use_inline_autofill_explanation_long": {
+    "value": "Seçtiğiniz klavye destekliyorsa satır içi otomatik doldurma\n        kullanılır. Aksi halde varsayılan üstünde gösterme kullanılır.\n    "
+  },
+  "use_system_certificate": {
+    "value": "Use system certificate"
+  },
+  "use_the_generator_to_create_a_strong_unique_password": {
+    "value": "Güçlü ve benzersiz bir parola oluşturmak için\n        üreteci kullanabilirsiniz\n    "
+  },
+  "use_the_generator_to_create_secure_passwords_passphrases_and_usernames": {
+    "value": "\"Use the generator to create\n        secure passwords, passphrases and usernames. \"\n    "
+  },
+  "use_the_web_app": {
+    "value": "Web uygulamasını kullanın"
+  },
+  "use_these_options_to_adjust_your_password_to_your_account_requirements": {
+    "value": "Use these options to adjust\n        your password to meet your account website\\'s requirements.\n    "
+  },
+  "use_this_button_to_generate_a_new_unique_password": {
+    "value": "Yeni ve benzersiz bir parola üretmek için bu\n        düğmeyi kullanın.\n    "
+  },
+  "use_this_device_to_approve_login_requests_made_from_other_devices": {
+    "value": "Diğer cihazlardan yapılan giriş\n        isteklerini bu cihazdan onayla\n    "
+  },
+  "user_verification_direction": {
+    "value": "Kullanıcı doğrulama"
+  },
+  "username": {
+    "value": "Kullanıcı adı"
+  },
+  "username_type": {
+    "value": "Kullanıcı adı türü"
+  },
+  "validating": {
+    "value": "Doğrulanıyor"
+  },
+  "validation_field_required": {
+    "value": "%1$s alanı gereklidir."
+  },
+  "value": {
+    "value": "Değer"
+  },
+  "value_has_been_copied": {
+    "value": "%1$s kopyalandı"
+  },
+  "vault": {
+    "value": "Kasa"
+  },
+  "vault_filter_description": {
+    "value": "Kasa: %1$s"
+  },
+  "vault_is_locked": {
+    "value": "Kasa kilitli"
+  },
+  "vault_locked_identity": {
+    "value": "Kasanız kilitli. Devam etmek için kimliğinizi doğrulayın."
+  },
+  "vault_locked_master_password": {
+    "value": "Kasanız kilitli. Devam etmek için ana parolanızı doğrulayın."
+  },
+  "vault_locked_pin": {
+    "value": "Kasanız kilitli. Devam etmek için PIN kodunuzu doğrulayın."
+  },
+  "vault_timeout": {
+    "value": "Kasa zaman aşımı"
+  },
+  "vault_timeout_action": {
+    "value": "Kasa zaman aşımı eylemi"
+  },
+  "vault_timeout_action_changed_to_log_out": {
+    "value": "Kasa zaman aşımı eylemi \\\"çıkış yap\\\" olarak değiştirildi\n    "
+  },
+  "vault_timeout_action_policy_in_effect": {
+    "value": "Kuruluş ilkeleriniz kasa zaman aşımı eyleminizi %1$s olarak\n        ayarlamış.\n    "
+  },
+  "vault_timeout_log_out_confirmation": {
+    "value": "Çıkış yaptığınızda kasanıza erişiminiz tamamen sonlanacak ve zaman\n        aşımının ardından çevrimiçi kimlik doğrulaması yapmanız gerekecek. Bu ayarı kullanmak istediğinizden emin\n        misiniz?\n    "
+  },
+  "vault_timeout_policy_in_effect": {
+    "value": "Kuruluş ilkeleriniz izin verilen maksimum kasa zaman aşımını %1$s saat\n        %2$s dakika olarak belirlemiş.\n    "
+  },
+  "vault_timeout_policy_with_action_in_effect": {
+    "value": "Kuruluş ilkeleriniz kasa zaman aşımınızı etkiliyor. İzin\n        verilen maksimum kasa zaman aşımı %1$s saat %2$s dakikadır. Kasa zaman aşımı eyleminiz %3$s olarak ayarlanmış.\n    "
+  },
+  "vault_timeout_to_large": {
+    "value": "Kasa zaman aşımınız, kuruluşunuz tarafından belirlenen kısıtlamaları aşıyor.\n    "
+  },
+  "vaults": {
+    "value": "Kasalar"
+  },
+  "verification_code": {
+    "value": "Doğrulama kodu"
+  },
+  "verification_code_totp": {
+    "value": "Doğrulama kodu (TOTP)"
+  },
+  "verification_codes": {
+    "value": "Doğrulama kodları"
+  },
+  "verification_email_not_sent": {
+    "value": "Doğrulama e-postası gönderilemedi. Yeniden deneyin."
+  },
+  "verification_email_sent": {
+    "value": "Doğrulama e-postası gönderildi"
+  },
+  "verification_required_by_x": {
+    "value": "%1$s için doğrulama gerekli"
+  },
+  "verification_required_for_this_action_set_up_an_unlock_method_in_bitwarden_to_continue": {
+    "value": "Bu eylem için\n        doğrulama gereklidir. Devam etmek için Bitwarden\\'da bir kilit açma yöntemi ayarlayın.\n    "
+  },
+  "verified_sso_domain_verified": {
+    "value": "Doğrulanmış SSO Alan Adı Uç Noktası"
+  },
+  "verify_face_id": {
+    "value": "Face ID\\'yi doğrula"
+  },
+  "verify_fingerprint": {
+    "value": "Parmak izini doğrula"
+  },
+  "verify_master_password": {
+    "value": "Ana parolayı doğrula"
+  },
+  "verify_pin": {
+    "value": "PIN\\'i doğrula"
+  },
+  "verify_your_identity": {
+    "value": "Kimliğinizi doğrulayın"
+  },
+  "verifying": {
+    "value": "Doğrulanıyor"
+  },
+  "verifying_identity_ellipsis": {
+    "value": "Kimlik doğrulanıyor..."
+  },
+  "version": {
+    "value": "Sürüm"
+  },
+  "view": {
+    "value": "Görüntüle"
+  },
+  "view_all_login_options": {
+    "value": "Tüm giriş seçeneklerini gör"
+  },
+  "view_card": {
+    "value": "View card"
+  },
+  "view_identity": {
+    "value": "View identity"
+  },
+  "view_item": {
+    "value": "Kaydı görüntüle"
+  },
+  "view_login": {
+    "value": "View login"
+  },
+  "view_note": {
+    "value": "View note"
+  },
+  "view_passkey": {
+    "value": "View passkey"
+  },
+  "visit_our_website": {
+    "value": "Web sitemizi ziyaret edin"
+  },
+  "warning": {
+    "value": "Uyarı"
+  },
+  "we_couldnt_verify_the_servers_certificate": {
+    "value": "We couldn’t verify the server’s certificate. The\n        certificate chain or proxy settings on your device or your Bitwarden server may not be set up correctly.\n    "
+  },
+  "we_ll_walk_you_through_the_key_features_to_add_a_new_login": {
+    "value": "We\\'ll walk you through the key features\n        to add a new login.\n    "
+  },
+  "we_sent_an_email_to": {
+    "value": "%1$s adresine bir e-posta gönderdik."
+  },
+  "weak": {
+    "value": "Zayıf"
+  },
+  "weak_and_exposed_master_password": {
+    "value": "Zayıf ve Açığa Çıkmış Ana Parola"
+  },
+  "weak_master_password": {
+    "value": "Zayıf ana parola"
+  },
+  "weak_password_identified_and_found_in_a_data_breach_alert_description": {
+    "value": "Hem zayıf hem de veri ihlalinde\n        yer alan bir tespit edildi. Hesabınızı korumak için güçlü bir parola seçin ve o parolayı başka yerlerde\n        kullanmayın. Bu parolayı kullanmak istediğinizden emin misiniz?\n    "
+  },
+  "weak_password_identified_use_a_strong_password_to_protect_your_account": {
+    "value": "Zayıf bir parola tespit\n        edildi. Hesabınızı korumak için daha güçlü bir parola kullanın. Zayıf parolayı kullanmak istediğinizden emin\n        misiniz?\n    "
+  },
+  "web_vault": {
+    "value": "Bitwarden web kasası"
+  },
+  "web_vault_url": {
+    "value": "Web kasası sunucu URL\\'si"
+  },
+  "website": {
+    "value": "Web sitesi"
+  },
+  "website_required": {
+    "value": "Web sitesi (gerekli)"
+  },
+  "website_uri": {
+    "value": "Web sitesi (URI)"
+  },
+  "welcome_message_1": {
+    "value": "Hesaplarınızı, kartlarınızı ve kimliklerinizi güvenli kasanıza kaydedin.\n        Bitwarden\\'ın sıfır bilgi ispatlı uçtan uca şifrelemesi sizin için önemli olan her şeyi korur.\n    "
+  },
+  "welcome_message_2": {
+    "value": "Hesaplarınıza parola yazmadan giriş yapmak için biyometrik kilit açmayı\n        ayarlayabilirsiniz.\n    "
+  },
+  "welcome_message_3": {
+    "value": "Hesaplarınız için güçlü ve benzersiz parolalar oluşturmak amacıyla üreteci\n        kullanabilirsiniz.\n    "
+  },
+  "welcome_message_4": {
+    "value": "Bitwarden mobil, tarayıcı ve masaüstü uygulamalarıyla istediğiniz kadar cihaza\n        istediğiniz kadar parola kaydedebilirsiniz.\n    "
+  },
+  "what_bitwarden_has_to_offer": {
+    "value": "Artık kayıtlı parolalarınızı kullanarak uygulamalara ve web sitelerine\n        giriş yapmak için otomatik doldurmayı kullanabilirsiniz. Bitwarden\\'ın sunduğu tüm imkânları keşfetmeye\n        hazırsınız.\n    "
+  },
+  "what_makes_a_password_strong": {
+    "value": "Bir parola nasıl güçlü olur?"
+  },
+  "what_would_you_like_to_generate": {
+    "value": "Ne oluşturmak istersiniz?"
+  },
+  "windows_hello": {
+    "value": "Windows Hello"
+  },
+  "word_separator": {
+    "value": "Kelime ayracı"
+  },
+  "write_this_password_down_and_keep_it_somewhere_safe": {
+    "value": "Bu parolayı not alıp güvenli bir yerde\n        saklayın.\n    "
+  },
+  "write_your_password_down": {
+    "value": "Parolanızı not alın"
+  },
+  "x_ellipses": {
+    "value": "%s..."
+  },
+  "x_hours": {
+    "value": "%1$s saat"
+  },
+  "x_hours_and_one_minute": {
+    "value": "%1$s saat 1 dakika"
+  },
+  "x_hours_and_y_minutes": {
+    "value": "%1$s saat %2$s dakika"
+  },
+  "x_minutes_ago": {
+    "value": "%1$s dakika önce"
+  },
+  "yes": {
+    "value": "Evet"
+  },
+  "yes_and_save": {
+    "value": "Evet ve kaydet"
+  },
+  "yes_i_can_reliably_access_my_email": {
+    "value": "Evet, e-postalarıma sağlıklı bir şekilde erişebiliyorum"
+  },
+  "you_can_change_your_account_email_on_the_bitwarden_web_app": {
+    "value": "Hesap e-postanızı Bitwarden web\n        uygulamasında değiştirebilirsiniz.\n    "
+  },
+  "you_can_import_data_to_your_vault_on_x": {
+    "value": "Verilerinizi %1$s adresinden kasanıza aktarabilirsiniz.\n    "
+  },
+  "you_can_return_to_complete_this_step_anytime_from_account_security_in_settings": {
+    "value": "You can return to\n        complete this step anytime from Account Security in Settings.\n    "
+  },
+  "you_can_return_to_complete_this_step_anytime_from_settings": {
+    "value": "İstediğiniz zaman kasa ayarlarına girerek\n        bu adımı tamamlayabilirsiniz.\n    "
+  },
+  "you_can_set_up_two_step_login_as_an_alternative_way_to_protect_your_account_or_change_your_email_to_one_you_can_access": {
+    "value": "\n        Hesabınızı korumanın alternatif bir yolu olarak iki adımlı girişi etkinleştirebilirsiniz. Aksi halde e-posta\n        adresinizin doğru olduğundan emin olmalısınız.\n    "
+  },
+  "you_cannot_edit_passkey_application_because_it_would_invalidate_the_passkey": {
+    "value": "Şifre anahtarınızı\n        geçersiz kılacağı için şifre anahtarı uygulamanızı düzenleyemezsiniz\n    "
+  },
+  "you_ll_only_need_to_set_up_authenticator_key": {
+    "value": "You’ll only need to set up Authenticator Key for logins\n        that require two-factor authentication with a code. The key will continuously generate six-digit codes you can\n        use to log in.\n    "
+  },
+  "you_must_add_a_web_address_to_use_autofill_to_access_this_account": {
+    "value": "You must add a web address to use\n        autofill to access this account.\n    "
+  },
+  "you_will_be_notified_once_approved": {
+    "value": "Onaylandıktan sonra bilgilendirileceksiniz."
+  },
+  "your_account_has_been_permanently_deleted": {
+    "value": "Hesabınız kalıcı olarak silinmiştir"
+  },
+  "your_accounts_fingerprint": {
+    "value": "Hesabınızın parmak izi ifadesi"
+  },
+  "your_data_when_and_where_you_need_it": {
+    "value": "Verilerinize her zaman, her yerden ulaşın"
+  },
+  "your_hint_will_be_send_to_you_via_email_when_you_request_it": {
+    "value": "Talep ederseniz ipucunuz e-posta\n        adresinize gönderilecektir.\n    "
+  },
+  "your_master_password_cannot_be_recovered_if_you_forget_it_x_characters_minimum": {
+    "value": "Ana parolanızı\n        unutursanız kurtaramazsınız! En az %1$s karakter.\n    "
+  },
+  "your_organization_permissions_were_updated_requering_you_to_set_a_master_password": {
+    "value": "Kuruluş izinleriniz\n        güncellendi ve bir ana parola belirlemeniz gerekiyor.\n    "
+  },
+  "your_organization_requires_you_to_set_a_master_password": {
+    "value": "Kuruluşunuz bir ana parola belirlemenizi\n        gerektiriyor.\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault": {
+    "value": "Geçiş anahtarınız Bitwarden kasasına\n        kaydedilecektir\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault_for_x": {
+    "value": "%1$s için geçiş anahtarınız Bitwarden\n        kasasına kaydedilecektir\n    "
+  },
+  "your_request_has_been_sent_to_your_admin": {
+    "value": "İsteğiniz yöneticinize gönderildi."
+  },
+  "youre_all_set": {
+    "value": "Artık hazırsınız!"
+  },
+  "yubi_key_instruction": {
+    "value": "Devam etmek için YubiKey NEO anahtarınızı cihazınızın arkasına doğru tutun veya\n        YubiKey\\'i cihazınızın USB portuna takıp düğmesine dokunun.\n    "
+  },
+  "yubi_key_instruction_ios": {
+    "value": "Devam etmek için Yubikey NEO\\'nuzu cihazınız arkasına doğru tutun."
+  },
+  "yubi_key_title": {
+    "value": "YubiKey güvenlik anahtarı"
+  },
+  "zip_postal_code": {
+    "value": "Posta kodu"
+  }
+}

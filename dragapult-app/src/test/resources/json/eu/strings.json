@@ -1,0 +1,3677 @@
+{
+  "a_notification_has_been_sent_to_your_device": {
+    "value": "Jakinarazpen bat bidali da zure gailura."
+  },
+  "a_secure_memorable_password": {
+    "value": "A secure, memorable password"
+  },
+  "a_verification_code_was_sent_to_your_email": {
+    "value": "Egiaztatze-kodea zure emailera bidali da"
+  },
+  "about": {
+    "value": "Honi buruz"
+  },
+  "about_send": {
+    "value": "Send-i buruz"
+  },
+  "accept": {
+    "value": "Onartu"
+  },
+  "accept_policies": {
+    "value": "Gaitzean, honakoa onartzen duzu:"
+  },
+  "accept_policies_error": {
+    "value": "Zerbitzuaren baldintzak eta pribatutasun politika ez dira onartu."
+  },
+  "accessibility": {
+    "value": "Erabili erabilerraztasuna"
+  },
+  "accessibility_description": {
+    "value": "Erabili Bitwarden erabilerraztasun zerbitzua zure saio hasierak aplikazioen\n        eta webgunearen bidez automatikoki betetzeko. Gaituta dagoenean, popup bat agertuko da saio-hasierako eremuak\n        hautatzean.\n    "
+  },
+  "accessibility_description2": {
+    "value": "Erabili Bitwarden erabilerraztasun zerbitzua zure saio hasierak\n        aplikazioen eta webgunearen bidez automatikoki betetzeko. (Gainjartzeak gaituta egon behar du)\n    "
+  },
+  "accessibility_description3": {
+    "value": "Erabili Bitwarden erabilerraztasun zerbitzua auto-betetze ekintza\n        azkarreko mosaikoa erabiltzeko eta/edo erakutsi popup bat gainjartzea erabiliz (gaituta badago).\n    "
+  },
+  "accessibility_description4": {
+    "value": "Ekintza azkarreko mosaikoa erabili behar da auto-betetzerako, edo\n        auto-betetze zerbitzua hobetu, gainjartzea erabiliz (gaituta badago).\n    "
+  },
+  "accessibility_description5": {
+    "value": "Required to use the Autofill Quick-Action Tile."
+  },
+  "accessibility_disclosure_text": {
+    "value": "Bitwardenek irisgarritasun zerbitzua erabiltzen du aplikazioetan eta\n        webguneetan sarbide-eremuak bilatzeko; ondoren, eremu-ID egokiak ezartzen ditu, aplikaziorako edo gunerako eremu\n        bat aurkitzen denean erabiltzaile-izena eta pasahitza sartzeko. Zerbitzuak ematen digun informazioa ez dugu\n        gordeko, eta ez gara saiatuko pantailan kredentzialen testutik haratagoko elementurik zelatatzen.\n    "
+  },
+  "accessibility_draw_over_permission_alert": {
+    "value": "Bitwardenek laguntza behar du - Gainjartzea gaitu behar duzu\n        Bitwarden ezarpenetako \\\"automatikoki betetzeko zerbitzua\\\"-n\n    "
+  },
+  "accessibility_overlay_permission_alert": {
+    "value": "Bitwardenek laguntza behar du - Kontsultatu Bitwarden\n        ezarpenetan \\\"automatikoki betetzeko erabilerraztasun zerbitzua\\\"\n    "
+  },
+  "accessibility_service_disclosure": {
+    "value": "Zabaldu irisgarritasun zerbitzua"
+  },
+  "account": {
+    "value": "Kontua"
+  },
+  "account_already_added": {
+    "value": "Kontua gehitu da"
+  },
+  "account_biometric_invalidated": {
+    "value": "Desblokeatze biometrikoa desgaituta dago kontu honentzat, pasahitz\n        nagusia egiaztatzeko zain.\n    "
+  },
+  "account_biometric_invalidated_extension": {
+    "value": "Desblokeatze biometriko automatikoa desgaituta dago kontu\n        honentzat, pasahitz nagusia egiaztatzeko zain.\n    "
+  },
+  "account_created": {
+    "value": "Zure kontua egina dago. Orain saioa has dezakezu."
+  },
+  "account_created_success": {
+    "value": "Your new account has been created!"
+  },
+  "account_fingerprint_phrase": {
+    "value": "Kontuaren hatz-marka digitalaren esaldia"
+  },
+  "account_locked": {
+    "value": "Blokeatuta"
+  },
+  "account_locked_successfully": {
+    "value": "Kontua blokeatuta"
+  },
+  "account_logged_out": {
+    "value": "Saioa itxita"
+  },
+  "account_logged_out_biometric_exceeded": {
+    "value": "Account logged out."
+  },
+  "account_logged_out_successfully": {
+    "value": "Kontuko saioa ondo itxi da"
+  },
+  "account_removed_successfully": {
+    "value": "Kontua ezabatu da"
+  },
+  "account_security": {
+    "value": "Account security"
+  },
+  "account_setup": {
+    "value": "Account setup"
+  },
+  "account_switched_automatically": {
+    "value": "Hurrengo kontu erabilgarrira aldatu"
+  },
+  "account_unlocked": {
+    "value": "Desblokeatuta"
+  },
+  "add": {
+    "value": "Gehitu"
+  },
+  "add_a_number_or_symbol_to_make_it_even_stronger": {
+    "value": "\n        <annotation emphasis=\"bold\">Add a number or symbol</annotation>\n        to make it even stronger. Now you have a unique, secure, and memorable passphrase!\n    "
+  },
+  "add_a_send": {
+    "value": "Gehitu Send-a"
+  },
+  "add_account": {
+    "value": "Gehitu kontua"
+  },
+  "add_an_item": {
+    "value": "Gehitu elementua"
+  },
+  "add_field": {
+    "value": "Add field"
+  },
+  "add_folder": {
+    "value": "Gehitu karpeta"
+  },
+  "add_item": {
+    "value": "Gehitu elementua"
+  },
+  "add_new_attachment": {
+    "value": "Gehitu eranskin berria"
+  },
+  "add_send": {
+    "value": "Gehitu Send-a"
+  },
+  "add_the_key_to_an_existing_or_new_item": {
+    "value": "Add the key to an existing or new item"
+  },
+  "add_this_authenticator_key_to_a_login": {
+    "value": "Add this authenticator key to an existing login, or create a\n        new login.\n    "
+  },
+  "add_totp": {
+    "value": "Gehitu TOTP-a"
+  },
+  "add_website": {
+    "value": "Add website"
+  },
+  "additional_options": {
+    "value": "Additional options"
+  },
+  "address": {
+    "value": "Helbidea"
+  },
+  "address1": {
+    "value": "1go helbidea"
+  },
+  "address2": {
+    "value": "2. helbidea"
+  },
+  "address3": {
+    "value": "3. helbidea"
+  },
+  "addy_io": {
+    "value": "addy.io"
+  },
+  "admin_approval_requested": {
+    "value": "Admin approval requested"
+  },
+  "after_you_save_your_new_password_to_bitwarden_don_t_forget_to_update_it_on_your_account_website": {
+    "value": "\n        \"After you save your new password to Bitwarden, don’t forget to update it on your account website. \"\n    "
+  },
+  "alias": {
+    "value": "Alias"
+  },
+  "all": {
+    "value": "Guztiak"
+  },
+  "all_items": {
+    "value": "Elementu guztiak"
+  },
+  "all_notifications": {
+    "value": "Jakinarazpen guztiak"
+  },
+  "all_sends": {
+    "value": "Send guztiak"
+  },
+  "all_vaults": {
+    "value": "Kutxa gotor guztiak"
+  },
+  "allow_bitwarden_authenticator_syncing": {
+    "value": "Allow authenticator syncing"
+  },
+  "allow_notifications": {
+    "value": "Baimendu jakinarazpenak"
+  },
+  "allow_screen_capture": {
+    "value": "Baimendu pantaila-argazkia"
+  },
+  "an_error_has_occurred": {
+    "value": "Akats bat gertatu da."
+  },
+  "an_error_occurred_while_sending_a_verification_code_to_your_email_please_try_again": {
+    "value": "Akats bat gertatu\n        da egiaztatze-kodea emailera bidaltzean. Mesedez, saiatu berriro\n    "
+  },
+  "api_access_token": {
+    "value": "Token sarbide API-a"
+  },
+  "api_key_required_parenthesis": {
+    "value": "API gakoa (beharrezkoa)"
+  },
+  "api_url": {
+    "value": "API zerbitzariaren URL-a"
+  },
+  "app_extension": {
+    "value": "Aplikazioaren gehigarria"
+  },
+  "appearance": {
+    "value": "Appearance"
+  },
+  "application": {
+    "value": "Application"
+  },
+  "approve_login_requests": {
+    "value": "Saio hasiera eskaerak onartu"
+  },
+  "approve_with_master_password": {
+    "value": "Approve with master password"
+  },
+  "approve_with_my_other_device": {
+    "value": "Approve with my other device"
+  },
+  "april": {
+    "value": "Apirila"
+  },
+  "are_you_sure_delete_send": {
+    "value": "Ziur al zaude Send hau ezabatu nahi duzula?"
+  },
+  "are_you_sure_remove_send_password": {
+    "value": "Ziur al zaude pasahitz hau ezabatu nahi duzula?"
+  },
+  "are_you_sure_you_want_to_decline_all_pending_log_in_requests": {
+    "value": "Ziur al zaude zain dauden saioa hasteko\n        eskaera guztiak ukatu nahi dituzula?\n    "
+  },
+  "are_you_sure_you_want_to_enable_screen_capture": {
+    "value": "Ziur al zaude pantaila-argazkia gaitu nahi duzula?\n    "
+  },
+  "are_you_sure_you_want_to_overwrite_the_current_username": {
+    "value": "Ziur al zaude erabiltzaile-izena berridatzi\n        nahi duzula?\n    "
+  },
+  "are_you_trying_to_log_in": {
+    "value": "Saioa hasten saiatzen ari zara?"
+  },
+  "ask_to_add_login": {
+    "value": "Galdetu saio-hasiera gehitzeko"
+  },
+  "ask_to_add_login_description": {
+    "value": "Elementu bat gehitu nahi duzun galdetu, elementu hau zure kutxa\n        gotorrean ez badago.\n    "
+  },
+  "attachement_added": {
+    "value": "Eranskina gehitu da"
+  },
+  "attachment_deleted": {
+    "value": "Eranskina ezabatu da"
+  },
+  "attachment_large_warning": {
+    "value": "Eranskin honek %1$s-eko tamaina du. Ziur al zaude zure gailuan deskargatu\n        nahi duzula?\n    "
+  },
+  "attachments": {
+    "value": "Eranskinak"
+  },
+  "august": {
+    "value": "Abuztua"
+  },
+  "authenticator": {
+    "value": "Autentifikatzailea"
+  },
+  "authenticator_app_title": {
+    "value": "Autentifikazio aplikazioa"
+  },
+  "authenticator_key": {
+    "value": "Autentifikazio-gakoa (TOTP)"
+  },
+  "authenticator_key_added": {
+    "value": "Autentifikazio-gakoa gehitu da."
+  },
+  "authenticator_key_help": {
+    "value": "Authenticator key help"
+  },
+  "authenticator_key_read_error": {
+    "value": "Ezin da autentifikazio-gakoa irakurri."
+  },
+  "authenticator_key_scanner": {
+    "value": "Autentifikazio gakoa"
+  },
+  "authenticator_sync": {
+    "value": "Authenticator Sync"
+  },
+  "auto_fill_will_not_be_offered_for_these_ur_is": {
+    "value": "Automatikoki betetzea ez da URL hauetan erabilgarri\n        egongo.\n    "
+  },
+  "autofill": {
+    "value": "Automatikoki betetzea"
+  },
+  "autofill_accessibility_description": {
+    "value": "Erabili Bitwarden-en erabilerraztasun zerbitzua zure saio hasierak\n        automatikoki betetzeko aplikazio eta webguneetan zehar.\n    "
+  },
+  "autofill_accessibility_service": {
+    "value": "Automatikoki betetzeko erabilerraztasun zerbitzua"
+  },
+  "autofill_accessibility_summary": {
+    "value": "Assist with filling username and password fields in other apps and on\n        the web.\n    "
+  },
+  "autofill_activated": {
+    "value": "Auto-betetzea gaituta!"
+  },
+  "autofill_and_save": {
+    "value": "Automatikoki bete eta gorde"
+  },
+  "autofill_blocked_uris": {
+    "value": "Automatikoki bete blokeatutako URI-ak"
+  },
+  "autofill_options": {
+    "value": "Autofill Options"
+  },
+  "autofill_or_view": {
+    "value": "Elementu hau ikusi edo automatikoki bete nahi duzu?"
+  },
+  "autofill_passwords": {
+    "value": "Autofill passwords"
+  },
+  "autofill_service": {
+    "value": "Automatikoki betetzeko zerbitzua"
+  },
+  "autofill_service_description": {
+    "value": "Bitwardenen automatikoki betetzeko zerbitzuak Android Autofill Framework\n        erabiltzen du zure gailuko beste aplikazio batzuetan saio-hasierako informazioa betetzen laguntzeko.\n    "
+  },
+  "autofill_service_not_enabled": {
+    "value": "Automatikoki betetzeak Bitwardenen kutxa gotorra segurtasunez\n        erabiltzeko aukera ematen du beste webgune eta aplikazio batzuetatik. Badirudi ez duzula Bitwardenentzat\n        automatikoki betetzeko zerbitzurik jarri. \\\"Ezarpenak\\\" atalean gaitu dezakezu.\n    "
+  },
+  "autofill_services": {
+    "value": "Automatikoki betetzeko zerbitzuak"
+  },
+  "autofill_services_explanation_long": {
+    "value": "The Android Autofill Framework is used to assist in filling login\n        information into other apps on your device.\n    "
+  },
+  "autofill_setup": {
+    "value": "Orain, zure saio hasierak erraz eskura ditzakezu zure teklatutik, aplikazio eta\n        webguneetan erregistratzen diren bitartean.\n    "
+  },
+  "autofill_setup2": {
+    "value": "Ezarpenak atalean auto-betetze aplikazioak desaktibatzea gomendatzen dugu, erabili\n        nahi ez badituzu.\n    "
+  },
+  "autofill_suggestion": {
+    "value": "Autofill suggestion"
+  },
+  "autofill_tile_accessibility_required": {
+    "value": "Mesedez, gaitu Bitwardeneko ezarpenetan \\\"automatikoki betetzeko\n        erabilerraztasun zerbitzua\\\", automatikoki betetzea erabiltzeko.\n    "
+  },
+  "autofill_tile_uri_not_found": {
+    "value": "Ez da pasahitz eremurik detektatu"
+  },
+  "autofill_turn_on": {
+    "value": "Zure gailuan pasahitza automatikoki betetzeko aukera gaitzeko, jarraitu jarraibide\n        hauei:\n    "
+  },
+  "autofill_turn_on1": {
+    "value": "1. Joan iOS \\\"Ezarpenak\\\" aplikaziora"
+  },
+  "autofill_turn_on2": {
+    "value": "2. Sakatu \\\"Pasahitzak\\\""
+  },
+  "autofill_turn_on3": {
+    "value": "3. Sakatu \\\"Pasahitzak automatikoki bete\\\""
+  },
+  "autofill_turn_on4": {
+    "value": "4. Piztu Automatikoki bete"
+  },
+  "autofill_turn_on5": {
+    "value": "5. Hautatu \\\"Bitwarden\\\""
+  },
+  "autofill_with_bitwarden": {
+    "value": "Bitwardenekin automatikoki bete"
+  },
+  "available_for_two_step_login": {
+    "value": "Available for two-step login"
+  },
+  "avoid_ambiguous_characters": {
+    "value": "Saihestu karaktere anbiguoak"
+  },
+  "back": {
+    "value": "Itzuli"
+  },
+  "base_domain": {
+    "value": "Oinarrizko domeinua"
+  },
+  "biometrics": {
+    "value": "Biometriak"
+  },
+  "biometrics_decoding_failure": {
+    "value": "Log in with your Master Password or PIN then re-enable biometric login in\n        Settings.\n    "
+  },
+  "biometrics_direction": {
+    "value": "Autentifikazio biometrikoa"
+  },
+  "biometrics_failed": {
+    "value": "Biometrics Failed"
+  },
+  "biometrics_no_longer_supported": {
+    "value": "You’ve been logged out because your device’s biometrics don’t meet the\n        latest security requirements. To update settings, log in once again or contact your administrator for access.\n    "
+  },
+  "biometrics_no_longer_supported_title": {
+    "value": "Biometrics are no longer supported on this device"
+  },
+  "bitwarden": {
+    "value": "Bitwarden"
+  },
+  "bitwarden_app_extension": {
+    "value": "Bitwarden aplikazioaren gehigarria"
+  },
+  "bitwarden_app_extension_alert2": {
+    "value": "Zure kutxa gotorrean saio hasiera berriak gehitzeko modurik errazena\n        Bitwarden aplikazioaren gehigarria zabaltzea da. Eskuratu informazio gehiago \\\"Ezarpenak\\\" eremuan.\n    "
+  },
+  "bitwarden_app_extension_description": {
+    "value": "Erabili Bitwarden Safari-n eta beste aplikazio batzuetan zure\n        saio hasierak automatikoki betetzeko.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description": {
+    "value": "Erabili Bitwardenen erabilerraztasun zerbitzua\n        zure saio hasierak automatikoki betetzeko.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description2": {
+    "value": "Erabilerraztasun zerbitzua erabilgarria izan\n        daiteke aplikazioak bere kabuz automatikoki betetzeko zerbitzu estandarra jasaten ez dutenean.\n    "
+  },
+  "bitwarden_autofill_alert2": {
+    "value": "Zure kutxa gotorrean saio hasiera berriak gehitzeko modurik errazena\n        Bitwarden pasahitzak auto-betetzea gehigarria erabiltzea da. Eskuratu Bitwarden pasahitzak auto-betetzea\n        gehigarriaren erabilerari buruzko informazio gehiago \\\"Ezarpenak\\\" eremuan.\n    "
+  },
+  "bitwarden_autofill_description": {
+    "value": "Sartu kutxa gotorrera zuzenean teklatutik, pasahitzak azkar\n        auto-betetzeko.\n    "
+  },
+  "bitwarden_autofill_go_to_settings": {
+    "value": "Ezin izan dugu automatikoki ireki Android-en auto-betetzerako\n        ezarpenen menua. Auto-betetzerako ezarpenen menura eskuz nabiga dezakezu, Android-en Ezarpenak  Sistema \n        Hizkuntzak eta idazketa  Hobespen aurreratuak  Betetze automatikoaren zerbitzutik.\n    "
+  },
+  "bitwarden_autofill_service": {
+    "value": "Bitwardenen automatikoki betetzeko zerbitzua"
+  },
+  "bitwarden_autofill_service_alert2": {
+    "value": "Zure kutxa gotorrean saio hasiera berriak gehitzeko modurik\n        errazena Bitwardenen automatikoki betetzeko zerbitzua erabiltzea da. Eskuratu informazio gehiago \\\"Ezarpenak\\\"\n        eremuan.\n    "
+  },
+  "bitwarden_autofill_service_description": {
+    "value": "Erabili Bitwarden automatikoki betetzeko zerbitzua\n        saio-hasierako informazioa beste aplikazio batzuetan betetzeko.\n    "
+  },
+  "bitwarden_autofill_service_match_confirm": {
+    "value": "Ziur al zaude elementu hau automatikoki bete nahi duzula? Ez\n        dago kointzidentzia osorik “%1$s\\\"-entzat.\n    "
+  },
+  "bitwarden_autofill_service_notification_content": {
+    "value": "Sakatu jakinarazpen hau kutxa gotorreko elementu bat\n        automatikoki betetzeko.\n    "
+  },
+  "bitwarden_autofill_service_notification_content_old": {
+    "value": "Sakatu jakinarazpen hau kutxa gotorreko elementu\n        bat ikusteko.\n    "
+  },
+  "bitwarden_autofill_service_open_accessibility_settings": {
+    "value": "Ireki erabilerraztasun ezarpenak"
+  },
+  "bitwarden_autofill_service_open_autofill_settings": {
+    "value": "Ireki auto-betetze ezarpenak"
+  },
+  "bitwarden_autofill_service_open_overlay_permission_settings": {
+    "value": "Ireki gainjartze baimenaren ezarpenak\n    "
+  },
+  "bitwarden_autofill_service_overlay": {
+    "value": "Sarrera-eremu bat hautatu eta Bitwardenen automatikoki betetzerako\n        gainjartze bat ikusten duzunean, bere kasa betetzeko erabil dezakezu.\n    "
+  },
+  "bitwarden_autofill_service_overlay_permission": {
+    "value": "3. Bitwarden aplikazioko Androiden konfigurazioa\n        pantailan, joan \\\"Erakutsi beste aplikazio batzuetan\\\" aukerara (Aurreratua) eta gaitu gainjartzea.\n    "
+  },
+  "bitwarden_autofill_service_search": {
+    "value": "\\\"%1$s\\\"-entzat automatikoki betetzeko elementu baten bila\n        zabiltza.\n    "
+  },
+  "bitwarden_autofill_service_step1": {
+    "value": "1. Androiderako erabilerraztasun ezarpenetan, sakatu \\\"Bitwarden\\\"\n        zerbitzuetan.\n    "
+  },
+  "bitwarden_autofill_service_step2": {
+    "value": "2. Gaitu eta sakatu OK onartzeko."
+  },
+  "bitwarden_autofill_service_step3": {
+    "value": "3. Bitwarden aplikazioko Androiden konfigurazioa pantailan, aukeratu\n        \\\"Erakutsi beste aplikazio batzuetan\\\" aukera (Aurreratua) eta gaitu gainjartzea.\n    "
+  },
+  "bitwarden_can_notify_you_each_time_you_receive_a_new_login_request_from_another_device": {
+    "value": "Bitwarden can\n        notify you each time you receive a new login request from another device.\n    "
+  },
+  "bitwarden_cannot_recover_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden cannot recover a lost or\n        forgotten master password.\n    "
+  },
+  "bitwarden_cannot_reset_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden cannot reset a lost or forgotten\n        master password.\n    "
+  },
+  "bitwarden_credential_provider_go_to_settings": {
+    "value": "We were unable to automatically open the Android\n        credential provider settings menu for you. You can navigate to the credential provider settings menu manually\n        from Android Settings  System  Passwords  accounts  Passwords, passkeys and data services.\n    "
+  },
+  "bitwarden_help_center": {
+    "value": "Bitwarden Help Center"
+  },
+  "bitwarden_tools": {
+    "value": "Bitwarden Tools"
+  },
+  "bitwarden_will_soon_send_a_code_to_your_account_email_to_verify_logins_from_new_devices_in_february": {
+    "value": "\n        Bitwarden will send a code to your account email to verify logins from new devices starting in February 2025.\n    "
+  },
+  "black": {
+    "value": "Beltza"
+  },
+  "block_auto_fill": {
+    "value": "Blokeatu automatikoki betetzea"
+  },
+  "brand": {
+    "value": "Marka"
+  },
+  "by_activating_this_switch_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "By activating this\n        switch, you agree to the <annotation link=\"termsOfService\">Terms of Service</annotation> and\n        <annotation link=\"privacyPolicy\">Privacy Policy</annotation>\n    "
+  },
+  "by_continuing_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "By continuing, you agree to the <annotation link=\"termsOfService\">Terms of Service\n    </annotation> and\n        <annotation link=\"privacyPolicy\">Privacy Policy</annotation>\n    "
+  },
+  "camera": {
+    "value": "Kamera"
+  },
+  "cancel": {
+    "value": "Ezeztatu"
+  },
+  "cannot_add_authenticator_key": {
+    "value": "Ezin duzu autentifikazio-gakoa gehitu?"
+  },
+  "cannot_add_authenticator_key_scan_qr_code": {
+    "value": "Cannot add authenticator key?\n        <annotation link=\"scanQrCode\">Scan QR Code</annotation>\n    "
+  },
+  "cannot_edit_multiple_ur_is_at_once": {
+    "value": "Cannot edit multiple URIs at once"
+  },
+  "cannot_open_app": {
+    "value": "Ezin da \\\"%1$s\\\" aplikazioa ireki."
+  },
+  "cannot_scan_qr_code_enter_key_manually": {
+    "value": "Cannot scan QR code?\n        <annotation link=\"enterKeyManually\">Enter key manually</annotation>\n    "
+  },
+  "capitalize": {
+    "value": "Hasierako letra larria"
+  },
+  "captcha_failed": {
+    "value": "Captcha-k huts egin du. Saiatu berriro."
+  },
+  "captcha_required": {
+    "value": "Captcha beharrezkoa da"
+  },
+  "card_details": {
+    "value": "Card Details"
+  },
+  "cardholder_name": {
+    "value": "Txartelaren titularraren izena"
+  },
+  "cards": {
+    "value": "Txartelak"
+  },
+  "catch_all_email": {
+    "value": "Harrapatu email guztiak"
+  },
+  "catch_all_email_description": {
+    "value": "Erabili zure domeinuan konfiguratutako sarrerako ontzia."
+  },
+  "certificate_alias": {
+    "value": "Certificate alias"
+  },
+  "certificate_alias_already_exists": {
+    "value": "Certificate alias already exists"
+  },
+  "certificate_installation_failed": {
+    "value": "Certificate installation failed"
+  },
+  "certificate_installed": {
+    "value": "Certificate installed"
+  },
+  "certificate_password_incorrect": {
+    "value": "Certificate password incorrect"
+  },
+  "certificate_selection_failed": {
+    "value": "Certificate selection failed"
+  },
+  "certificate_used_for_client_authentication": {
+    "value": "Certificate used for client authentication."
+  },
+  "change_account_email": {
+    "value": "Change account email"
+  },
+  "change_email": {
+    "value": "Aldatu emaila"
+  },
+  "change_email_address": {
+    "value": "Change email address"
+  },
+  "change_email_confirmation": {
+    "value": "Zure emaila alda dezakezu bitwarden.com webgunean. Orain joan nahi duzu\n        webgunera?\n    "
+  },
+  "change_master_password": {
+    "value": "Aldatu pasahitz nagusia"
+  },
+  "change_master_password_description_long": {
+    "value": "You can change your master password on the Bitwarden web\n        app.\n    "
+  },
+  "check_known_data_breaches_for_this_password": {
+    "value": "Behatu ezagunak diren datu- urraketak pasahitz\n        honentzat\n    "
+  },
+  "check_out_the_passphrase_generator": {
+    "value": "\"Check out the passphrase generator\""
+  },
+  "check_password": {
+    "value": "Egiaztatu pasahitza konprometituta dagoen."
+  },
+  "check_password_for_data_breaches": {
+    "value": "Check password for data breaches"
+  },
+  "check_your_email": {
+    "value": "Check your email"
+  },
+  "checking_password": {
+    "value": "Pasahitza egiaztatzen..."
+  },
+  "choose_a_login_to_save_this_passkey_to": {
+    "value": "Choose a login to save this passkey to"
+  },
+  "choose_a_unique_and_strong_password_to_keep_your_information_safe": {
+    "value": "Choose a unique and strong password\n        to keep your information safe.\n    "
+  },
+  "choose_file": {
+    "value": "Hautatu fitxategia"
+  },
+  "choose_system_certificate": {
+    "value": "Choose system certificate"
+  },
+  "choose_three_or_four_random_words": {
+    "value": "Choose three or four random words"
+  },
+  "choose_your_master_password": {
+    "value": "Choose your master password"
+  },
+  "city_town": {
+    "value": "Hiria / Herria"
+  },
+  "class_2_biometrics_description": {
+    "value": "Unlock with biometrics requires strong biometric authentication and is\n        not compatible with the biometrics options available on this device.\n    "
+  },
+  "class_3_biometrics_description": {
+    "value": "Unlock with biometrics requires strong biometric authentication and\n        may not be compatible with all biometric options on this device.\n    "
+  },
+  "clear": {
+    "value": "Ezabatu"
+  },
+  "clear_clipboard": {
+    "value": "Hustu arbela"
+  },
+  "clear_clipboard_description": {
+    "value": "Ezabatu automatikoki arbelean kopiatutako balioak."
+  },
+  "client_certificate_mtls": {
+    "value": "Client certificate (mTLS)"
+  },
+  "clone": {
+    "value": "Klonatu"
+  },
+  "close": {
+    "value": "Itxi"
+  },
+  "coachmark_1_of_3": {
+    "value": "1 OF 3"
+  },
+  "coachmark_1_of_6": {
+    "value": "1 OF 6"
+  },
+  "coachmark_2_of_3": {
+    "value": "2 OF 3"
+  },
+  "coachmark_2_of_6": {
+    "value": "2 OF 6"
+  },
+  "coachmark_3_of_3": {
+    "value": "3 OF 3"
+  },
+  "coachmark_3_of_6": {
+    "value": "3 OF 6"
+  },
+  "coachmark_4_of_6": {
+    "value": "4 OF 6"
+  },
+  "coachmark_5_of_6": {
+    "value": "5 OF 6"
+  },
+  "coachmark_6_of_6": {
+    "value": "6 OF 6"
+  },
+  "code_sent": {
+    "value": "Kodea bidalia!"
+  },
+  "collections": {
+    "value": "Bildumak"
+  },
+  "combine_those_words_together": {
+    "value": "Combine those words together"
+  },
+  "company": {
+    "value": "Enpresa"
+  },
+  "confim_log_in_attemp_for_x": {
+    "value": "Onartu %1$s-ren saio hasiera eskaera"
+  },
+  "confirm": {
+    "value": "Confirm"
+  },
+  "confirm_file_password": {
+    "value": "Confirm file password"
+  },
+  "confirm_log_in": {
+    "value": "Berretsi saio hasiera"
+  },
+  "confirm_your_identity": {
+    "value": "Jarraitzeko, berretsi zure identitatea."
+  },
+  "connect_to_watch": {
+    "value": "Erloju bati konektatu"
+  },
+  "contact_bitwarden_support": {
+    "value": "Contact Bitwarden support"
+  },
+  "contact_info": {
+    "value": "Contact Info"
+  },
+  "contact_support_description_long": {
+    "value": "Can’t find what you are looking for? Reach out to Bitwarden support\n        on bitwarden.com.\n    "
+  },
+  "continue_text": {
+    "value": "Jarraitu"
+  },
+  "continue_to_app_store": {
+    "value": "Continue to app store?"
+  },
+  "continue_to_complete_web_authn_verification": {
+    "value": "Continue to complete WebAuthn verification."
+  },
+  "continue_to_contact_support": {
+    "value": "Continue to contact support?"
+  },
+  "continue_to_device_settings": {
+    "value": "Continue to device Settings?"
+  },
+  "continue_to_give_feedback": {
+    "value": "Continue to Give Feedback?"
+  },
+  "continue_to_help_center": {
+    "value": "Continue to Help center?"
+  },
+  "continue_to_privacy_policy": {
+    "value": "Continue to privacy policy?"
+  },
+  "continue_to_provide_feedback": {
+    "value": "Select continue to give feedback on the new app!"
+  },
+  "continue_to_web_app": {
+    "value": "Continue to web app?"
+  },
+  "continue_to_x": {
+    "value": "Continue to %1$s?"
+  },
+  "copied_to_clipboard": {
+    "value": "Copied to clipboard."
+  },
+  "copy": {
+    "value": "Kopiatu"
+  },
+  "copy_address": {
+    "value": "Copy address"
+  },
+  "copy_app_information": {
+    "value": "Copy app information"
+  },
+  "copy_application": {
+    "value": "Copy application"
+  },
+  "copy_company": {
+    "value": "Copy company"
+  },
+  "copy_email": {
+    "value": "Copy email"
+  },
+  "copy_fingerprint": {
+    "value": "Copy fingerprint"
+  },
+  "copy_identity_name": {
+    "value": "Copy identity name"
+  },
+  "copy_license_number": {
+    "value": "Copy license number"
+  },
+  "copy_link": {
+    "value": "Kopiatu esteka"
+  },
+  "copy_notes": {
+    "value": "Kopiatu oharra"
+  },
+  "copy_number": {
+    "value": "Kopiatu zenbakia"
+  },
+  "copy_passport_number": {
+    "value": "Copy passport number"
+  },
+  "copy_password": {
+    "value": "Kopiatu pasahitza"
+  },
+  "copy_phone": {
+    "value": "Copy phone number"
+  },
+  "copy_private_key": {
+    "value": "Copy private key"
+  },
+  "copy_public_key": {
+    "value": "Copy public key"
+  },
+  "copy_security_code": {
+    "value": "Kopiatu segurtasun-kodea"
+  },
+  "copy_send_link_on_save": {
+    "value": "Kopiatu Send esteka gordetzean"
+  },
+  "copy_ssn": {
+    "value": "Copy social security number"
+  },
+  "copy_totp": {
+    "value": "Kopiatu TOTP-a"
+  },
+  "copy_totp_automatically": {
+    "value": "Kopiatu TOTP automatikoki"
+  },
+  "copy_totp_automatically_description": {
+    "value": "Saio hasiera batek autentifikazio-gakoa badu, TOTP\n        egiaztatze-kodea arbelean automatikoki kopiatuko da saio hasiera bat automatikoki betetzean.\n    "
+  },
+  "copy_username": {
+    "value": "Kopiatu erabiltzaile-izena"
+  },
+  "country": {
+    "value": "Herrialdea"
+  },
+  "create_a_hint": {
+    "value": "Create a hint"
+  },
+  "create_account": {
+    "value": "Sortu kontua"
+  },
+  "create_account_on": {
+    "value": "Create account on"
+  },
+  "create_account_on_with_colon": {
+    "value": "Create account on:"
+  },
+  "create_an_account": {
+    "value": "Create an account"
+  },
+  "created_xy": {
+    "value": "Created %1$s, %2$s"
+  },
+  "creating_account": {
+    "value": "Kontua sortzen..."
+  },
+  "credits": {
+    "value": "Kredituak"
+  },
+  "current_access_count": {
+    "value": "Uneko sarbide kopurua"
+  },
+  "current_master_password_required": {
+    "value": "Current master password (required)"
+  },
+  "custom": {
+    "value": "Pertsonalizatua"
+  },
+  "custom_environment": {
+    "value": "Ingurune pertsonalizatua"
+  },
+  "custom_environment_footer": {
+    "value": "Erabiltzaile aurreratuentzat. Zerbitzu bakoitzarentzako oinarrizko URL-a\n        zehaztu dezakezu independienteki.\n    "
+  },
+  "custom_field_name": {
+    "value": "Eremu pertsonalizatuaren izena"
+  },
+  "custom_fields": {
+    "value": "Eremu pertsonalizatuak"
+  },
+  "cxp_export": {
+    "value": "CXP Export"
+  },
+  "cxp_import": {
+    "value": "CXP Import"
+  },
+  "dark": {
+    "value": "Iluna"
+  },
+  "data_region": {
+    "value": "Data eskualdea"
+  },
+  "date_password_updated": {
+    "value": "Pasahitza eguneratu da"
+  },
+  "date_updated": {
+    "value": "Eguneratua"
+  },
+  "december": {
+    "value": "Abendua"
+  },
+  "decline": {
+    "value": "Baztertu"
+  },
+  "decline_all_requests": {
+    "value": "Ukatu eskaera guztiak"
+  },
+  "default_dark_theme": {
+    "value": "Lehehetsia gai iluna"
+  },
+  "default_dark_theme_description_long": {
+    "value": "Choose the dark theme to use when your device’s dark mode is in\n        use\n    "
+  },
+  "default_system": {
+    "value": "Lehenetsia (Sistema)"
+  },
+  "default_text": {
+    "value": "Lehenetsia"
+  },
+  "default_uri_match_detection": {
+    "value": "Lehenetsitako detekzioa URI kointzidentziarako"
+  },
+  "default_uri_match_detection_description": {
+    "value": "Hautatu automatikoki betetzean erabiliko den URI\n        kointzidentzia detektatzeko modu lehenetsia.\n    "
+  },
+  "delete": {
+    "value": "Ezabatu"
+  },
+  "delete_account": {
+    "value": "Ezabatu kontua"
+  },
+  "delete_account_explanation": {
+    "value": "Zure kontua eta kutxa gotorraren datu guztiak ezabatu eta berreskuraezinak\n        izango dira. Ziur al zaude jarraitu nahi duzula?\n    "
+  },
+  "delete_this_file_after_import_is_complete": {
+    "value": "You’ll delete this file after import is complete."
+  },
+  "deleting": {
+    "value": "Ezabatzen..."
+  },
+  "deleting_your_account": {
+    "value": "Zure kontua ezabatzen"
+  },
+  "deleting_your_account_is_permanent": {
+    "value": "Kontua ezabatzea itzulezina da"
+  },
+  "deletion_date": {
+    "value": "Ezabatze data"
+  },
+  "deletion_date_info": {
+    "value": "Send-a betiko ezabatuko da zehaztutako datan eta orduan."
+  },
+  "deletion_time": {
+    "value": "Ezabatutako unea"
+  },
+  "denied": {
+    "value": "Ukatua"
+  },
+  "deny_log_in": {
+    "value": "Sarrera ukatu"
+  },
+  "device_type": {
+    "value": "Gailu mota"
+  },
+  "disable_personal_vault_export_policy_in_effect": {
+    "value": "Erakundeko politika batek edo gehiagok kutxa gotorra\n        esportatzea galarazten dute.\n    "
+  },
+  "disabled": {
+    "value": "Desgaitua"
+  },
+  "do_you_have_a_computer_available": {
+    "value": "Do you have a computer available?"
+  },
+  "do_you_have_reliable_access_to_your_email": {
+    "value": "Do you have reliable access to your email,\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s?</annotation>\n        </annotation>\n        ?\n    "
+  },
+  "do_you_really_want_to_delete": {
+    "value": "Ziur al zaude benetan ezabatu nahi duzula? Eragiketa hau ezin da\n        desegin!\n    "
+  },
+  "do_you_really_want_to_permanently_delete_cipher": {
+    "value": "Ziur al zaude betirako ezabatu nahi duzula? Eragiketa\n        hau ezin da desegin.\n    "
+  },
+  "do_you_really_want_to_restore_cipher": {
+    "value": "Ziur al zaude elementu hau berreskuratu nahi duzula?"
+  },
+  "do_you_really_want_to_soft_delete_cipher": {
+    "value": "Ziur zaude elementu hau zakarrontzira bidali nahi duzula?\n    "
+  },
+  "domain_name_required_parenthesis": {
+    "value": "Domeinu izena (beharrezkoa)"
+  },
+  "done_text": {
+    "value": "Done"
+  },
+  "download": {
+    "value": "Deskargatu"
+  },
+  "download_the_browser_extension": {
+    "value": "Download the browser extension"
+  },
+  "downloading": {
+    "value": "Deskargatzen..."
+  },
+  "dr": {
+    "value": "Jn."
+  },
+  "draw_over": {
+    "value": "Erabili gainjartzea"
+  },
+  "draw_over_description": {
+    "value": "Gaituta dagoenean, Bitwarden erabilerraztasun zerbitzuari popup bat erakusteko\n        aukera ematen dio sarbide eremuak hautatzean.\n    "
+  },
+  "draw_over_description2": {
+    "value": "Gaituta badago, Bitwarden erabilerraztasun zerbitzuak popup bat erakutsiko du\n        saio-hasierako eremuak hautatzen direnean, saio hasierak automatikoki betetzen laguntzeko.\n    "
+  },
+  "draw_over_description3": {
+    "value": "Gaituz gero, Android-en auto-betetze Framework-arekin bateragarri ez diren\n        aplikazio zaharragoen auto-betetze zerbitzua handitzeko popup bat erakutsiko du erabilerraztasunak.\n    "
+  },
+  "duck_duck_go": {
+    "value": "DuckDuckGo"
+  },
+  "duo_two_step_login_is_required_for_your_account": {
+    "value": "Duo two-step login is required for your account.\n    "
+  },
+  "edit": {
+    "value": "Editatu"
+  },
+  "edit_card": {
+    "value": "Edit card"
+  },
+  "edit_folder": {
+    "value": "Editatu Karpeta"
+  },
+  "edit_identity": {
+    "value": "Edit identity"
+  },
+  "edit_item": {
+    "value": "Editatu elementua"
+  },
+  "edit_login": {
+    "value": "Edit login"
+  },
+  "edit_note": {
+    "value": "Edit note"
+  },
+  "edit_passkey": {
+    "value": "Edit passkey"
+  },
+  "edit_send": {
+    "value": "Editatu Send-a"
+  },
+  "edit_uri": {
+    "value": "Edit URI"
+  },
+  "email": {
+    "value": "Emaila"
+  },
+  "email_address": {
+    "value": "Email helbidea"
+  },
+  "email_address_required": {
+    "value": "Email address (required)"
+  },
+  "email_required_parenthesis": {
+    "value": "Emaila (beharrezkoa)"
+  },
+  "email_type": {
+    "value": "Email mota"
+  },
+  "email_us": {
+    "value": "Bidaliguzu email bat"
+  },
+  "email_us_description": {
+    "value": "Bidaliguzu email bat zuzenean laguntza lortzeko edo iruzkinak uzteko."
+  },
+  "email_verified": {
+    "value": "Email verified"
+  },
+  "enable_automatic_syncing": {
+    "value": "Gaitu sinkronizazio automatikoa"
+  },
+  "enable_camer_permission_to_use_the_scanner": {
+    "value": "Gaitu kameraren baimena eskanerra erabiltzeko"
+  },
+  "enable_notifications": {
+    "value": "Enable notifications"
+  },
+  "enable_sync_on_refresh": {
+    "value": "Gaitu eguneratzean sinkronizatzea"
+  },
+  "enable_sync_on_refresh_description": {
+    "value": "Sinkronizatu kutxa gotorra beherantz arrastatzeko keinuarekin.\n    "
+  },
+  "enabled": {
+    "value": "Gaituta"
+  },
+  "encryption_key_migration_required_description_long": {
+    "value": "Encryption key migration required. Please login\n        through the web vault to update your encryption key.\n    "
+  },
+  "enter_email_for_hint": {
+    "value": "Sartu zure kontuko emaila pasahitz nagusiaren pista jasotzeko."
+  },
+  "enter_key_manually": {
+    "value": "Sartu kodea eskuz"
+  },
+  "enter_pin": {
+    "value": "Sartu PIN kodea."
+  },
+  "enter_the_client_certificate_password_and_alias": {
+    "value": "Enter the client certificate password and the desired\n        alias for this certificate.\n    "
+  },
+  "enter_the_verification_code_that_was_sent_to_your_email": {
+    "value": "Sartu zure emailera bidali den\n        egiaztatze-kodea\n    "
+  },
+  "enter_uri": {
+    "value": "Enter URI"
+  },
+  "enter_verification_code_app": {
+    "value": "Sartu zure autentifikazio aplikazioaren 6 digituko egiaztatze-kodea.\n    "
+  },
+  "enter_verification_code_email": {
+    "value": "Sartu %1$s-era bidalitako 6 digituko egiaztatze-kodea."
+  },
+  "enter_verification_code_new_device": {
+    "value": "We don\\'t recognize this device. Enter the 8 digit verification\n        code that was emailed to %1$s.\n    "
+  },
+  "environment_page_urls_error": {
+    "value": "Sartutako URL batek edo gehiagok ez dute balio. Mesedez, berrikusi eta\n        saiatu berriro gordetzen.\n    "
+  },
+  "environment_saved": {
+    "value": "Inguruneko URL-ak gorde dira."
+  },
+  "error_connecting_with_the_duo_service_use_a_different_two_step_login_method_or_contact_duo_for_assistance": {
+    "value": "\n        Error connecting with the Duo service. Use a different two-step login method or contact Duo for assistance.\n    "
+  },
+  "error_creating_passkey": {
+    "value": "Error creating passkey"
+  },
+  "error_loading_certificate": {
+    "value": "Error loading certificate"
+  },
+  "error_reading_passkey": {
+    "value": "Error reading passkey"
+  },
+  "eu": {
+    "value": "EU"
+  },
+  "exact": {
+    "value": "Zehatza"
+  },
+  "exit": {
+    "value": "Irten"
+  },
+  "exit_confirmation": {
+    "value": "Zihur al zaude Bitwardenetik irten nahi duzula?"
+  },
+  "exntesion_reenable": {
+    "value": "Gaitu berriro aplikazio gehigarria"
+  },
+  "expiration": {
+    "value": "Iraungitze data"
+  },
+  "expiration_month": {
+    "value": "Iraungitze hilabetea"
+  },
+  "expiration_year": {
+    "value": "Iraungitze urtea"
+  },
+  "expired": {
+    "value": "Iraungita"
+  },
+  "expired_link": {
+    "value": "Expired link"
+  },
+  "explore_more_features_of_your_bitwarden_account_on_the_web_app": {
+    "value": "Explore more features of your\n        Bitwarden account on the web app.\n    "
+  },
+  "explore_the_generator": {
+    "value": "Explore the generator"
+  },
+  "export_vault": {
+    "value": "Esportatu kutxa gotorra"
+  },
+  "export_vault_confirmation_title": {
+    "value": "Baieztatu kutxa gotorra esportatzea"
+  },
+  "export_vault_failure": {
+    "value": "Kutxa gotorra esportatzean arazo bat izan da. Arazoak bere horretan jarraitzen\n        badu, kutxa gotorretik esportatu beharko duzu.\n    "
+  },
+  "export_vault_file_pw_protect_info": {
+    "value": "This file export will be password protected and require the file\n        password to decrypt.\n    "
+  },
+  "export_vault_master_password_description": {
+    "value": "Sartu pasahitz nagusia kutxa gotorreko datuak\n        esportatzeko.\n    "
+  },
+  "export_vault_success": {
+    "value": "Kutxa gotorra ongi esportatu da"
+  },
+  "export_vault_warning": {
+    "value": "Esportazio honek kutxa gotorraren datuak zifratu gabeko formatuan biltzen ditu.\n        Ez zenuke gorde edo kanal ez-seguruetaik (emaila, adibidez) bidali behar. Erabili eta berehala ezabatu.\n    "
+  },
+  "export_your_passwords_this_option_is_usually_found_in_your_settings": {
+    "value": "\n        <annotation emphasis=\"bold\">Export your passwords.</annotation>\n        This option is usually found in your settings.\n    "
+  },
+  "export_your_saved_logins": {
+    "value": "Export your saved logins"
+  },
+  "exposed_master_password": {
+    "value": "Agerian utzitako pasahitz nagusia"
+  },
+  "extension_activated": {
+    "value": "Gehigarria gaitu da!"
+  },
+  "extension_almost_done": {
+    "value": "Ia-ia amaitua!"
+  },
+  "extension_enable": {
+    "value": "Gaitu aplikazio gehigarria"
+  },
+  "extension_in_safari": {
+    "value": "Safari-n, aurkitu Bitwarden konpartitzeko ikonoa erabiliz (pista: mugitu\n        eskuinerantz menuaren beheko lerroan).\n    "
+  },
+  "extension_instant_access": {
+    "value": "Eskuratu zure pasahitzak berehala!"
+  },
+  "extension_ready": {
+    "value": "Saioa hasteko prest zaude!"
+  },
+  "extension_setup": {
+    "value": "Orain, saio hasierak erraz eskura daitezke Safari, Chrome eta beste aplikazio\n        bateragarri batzuetatik.\n    "
+  },
+  "extension_setup2": {
+    "value": "Safari-n eta Chrome-en, aurkitu Bitwarden konpartitzeko ikonoa erabiliz (pista:\n        mugitu eskuinerantz menuaren beheko lerroan).\n    "
+  },
+  "extension_tap_icon": {
+    "value": "Sakatu Bitwarden ikonoa menuan, gehigarria abiarazteko."
+  },
+  "extension_turn_on": {
+    "value": "Safari-n eta beste aplikazio batzuetan Bitwarden aktibatzeko, sakatu \\\"gehiago\\\"\n        ikonoa menuaren beheko lerroan.\n    "
+  },
+  "face_id": {
+    "value": "Face ID"
+  },
+  "face_id_direction": {
+    "value": "Egiaztatzeko erabili Face ID."
+  },
+  "fastmail": {
+    "value": "Fastmail"
+  },
+  "favorite": {
+    "value": "Gogokoa"
+  },
+  "favorites": {
+    "value": "Gogokoak"
+  },
+  "feature_unavailable": {
+    "value": "Ezaugarria ez dago erabilgarri"
+  },
+  "february": {
+    "value": "Otsaila"
+  },
+  "fido2_authenticate_web_authn": {
+    "value": "WebAuthn autentifikatu"
+  },
+  "fido2_check_browser": {
+    "value": "Mesedez, ziurtatu zure nabigatzaile lehenetsiak WebAuthn onartzen duela eta\n        saiatu berriro.\n    "
+  },
+  "fido2_desc": {
+    "value": "FIDO 2 WebAuthn bidezko autentifikazioa kanpoko segurtasun-gako bat erabiliz kudeatu ahal\n        da.\n    "
+  },
+  "fido2_instruction": {
+    "value": "Aurrera egiteko, gaituta duzun segurtasun-gakoa (FIDO 2 WebAuthn) prest eduki,\n        ondoren, jarraitu jarraibideei hurrengo pantailan \\\"WebAuthn autentifikatu\\\" sakatutakoan.\n    "
+  },
+  "fido2_return_to_app": {
+    "value": "Itzuli aplikaziora"
+  },
+  "fido2_title": {
+    "value": "FIDO2 WebAuthn"
+  },
+  "field_type_boolean": {
+    "value": "Boolearra"
+  },
+  "field_type_hidden": {
+    "value": "Ezkutatua"
+  },
+  "field_type_linked": {
+    "value": "Lotuta"
+  },
+  "field_type_text": {
+    "value": "Testua"
+  },
+  "fifteen_minutes": {
+    "value": "15 minutu"
+  },
+  "file": {
+    "value": "Fitxategia"
+  },
+  "file_bug_report": {
+    "value": "Akats-txostena bidali"
+  },
+  "file_bug_report_description": {
+    "value": "Ireki arazo bat gure GitHub biltegian."
+  },
+  "file_format": {
+    "value": "Fitxategiaren formatua"
+  },
+  "file_password": {
+    "value": "File password"
+  },
+  "file_source": {
+    "value": "Fitxategiaren iturria"
+  },
+  "file_type_is_not_selected": {
+    "value": "Fitxategi mota ez da hautatu, sakatu hautatzeko."
+  },
+  "file_type_is_selected": {
+    "value": "Fitxategi mota hautatu da."
+  },
+  "fill_out_the_form_and_import_your_saved_password_file": {
+    "value": "Fill out the form and\n        <annotation emphasis=\"bold\">import your saved password file.</annotation>\n    "
+  },
+  "filter_by_vault": {
+    "value": "Iragazi elementuak kutxa gotorraren arabera"
+  },
+  "fingerprint": {
+    "value": "Hatz-marka"
+  },
+  "fingerprint_direction": {
+    "value": "Egiaztatzeko, erabili hatz-marka."
+  },
+  "fingerprint_phrase": {
+    "value": "Hatz-marka digitalaren esaldia"
+  },
+  "firefox_relay": {
+    "value": "Firefox Relay"
+  },
+  "first_dot_go_to_your_device_settings_passwords_password_options": {
+    "value": "1. Go to your device\\'s Settings \n        Passwords  Password Options\n    "
+  },
+  "first_name": {
+    "value": "Izena"
+  },
+  "five_minutes": {
+    "value": "5 minutu"
+  },
+  "folder": {
+    "value": "Karpeta"
+  },
+  "folder_created": {
+    "value": "Karpeta berria sortua."
+  },
+  "folder_deleted": {
+    "value": "Karpeta ezabatu da."
+  },
+  "folder_none": {
+    "value": "Karpetarik ez"
+  },
+  "folder_updated": {
+    "value": "Karpeta eguneratua."
+  },
+  "folders": {
+    "value": "Karpetak"
+  },
+  "follow_the_instructions_in_the_email_sent_to_x_to_continue_creating_your_account": {
+    "value": "Follow the\n        instructions in the email sent to\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n        to continue creating your account.\n    "
+  },
+  "follow_the_steps_from_duo_to_finish_logging_in": {
+    "value": "Follow the steps from Duo to finish logging in.\n    "
+  },
+  "for_your_security_be_sure_to_delete_your_saved_password_file": {
+    "value": "For your security, be sure to\n        <annotation emphasis=\"bold\">delete your saved password file.</annotation>\n    "
+  },
+  "format_x": {
+    "value": "Format: %1$s"
+  },
+  "format_x_separate_multiple_ur_is_with_a_comma": {
+    "value": "Format: %1$s. Separate multiple URIs with a comma.\n    "
+  },
+  "formatted_incorrectly": {
+    "value": "%1$s ez dago behar bezala formateatuta."
+  },
+  "forward_email": {
+    "value": "ForwardEmail"
+  },
+  "forwarded_email_alias": {
+    "value": "Emaileko ezizena berbidalia"
+  },
+  "forwarded_email_description": {
+    "value": "Emaileko ezizen bat sortu kanpoko bidalketa zerbitzu batekin."
+  },
+  "four_hours": {
+    "value": "4 ordu"
+  },
+  "from_your_computer_follow_these_instructions_to_export_saved_passwords": {
+    "value": "From your computer, follow\n        these instructions to export saved passwords from your browser or other password manager. Then, safely import\n        them to Bitwarden.\n    "
+  },
+  "full_name": {
+    "value": "Izen osoa"
+  },
+  "generate_button_label": {
+    "value": "Generate"
+  },
+  "generate_master_password": {
+    "value": "Generate master password"
+  },
+  "generate_password": {
+    "value": "Sortu pasahitza"
+  },
+  "generate_username": {
+    "value": "Sortu erabiltzaile izena"
+  },
+  "generator": {
+    "value": "Sortzailea"
+  },
+  "generic_error_message": {
+    "value": "Ezin izan dugu zure eskaera bideratu. Mesedez, saiatu berriro edo jarri gurekin\n        harremanetan.\n    "
+  },
+  "get_advice_announcements_and_research_opportunities_from_bitwarden_in_your_inbox_unsubscribe_any_time": {
+    "value": "Get\n        advice, announcements, and research opportunities from Bitwarden in your inbox. Unsubscribe at any time.\n    "
+  },
+  "get_emails_from_bitwarden_for_announcements_advices_and_research_opportunities_unsubscribe_any_time": {
+    "value": "\n        Get emails from Bitwarden for announcements, advice, and research opportunities. <annotation link=\"unsubscribe\">\n        Unsubscribe\n    </annotation> at any time.\n    "
+  },
+  "get_instant_access_to_your_passwords_and_passkeys": {
+    "value": "Get instant access to your passwords and\n        passkeys!\n    "
+  },
+  "get_master_passwordword_hint": {
+    "value": "Jaso pasahitz nagusiaren pista"
+  },
+  "get_password_hint": {
+    "value": "Jaso zure pasahitz nagusiaren pista"
+  },
+  "get_started": {
+    "value": "Get started"
+  },
+  "give_feedback": {
+    "value": "Give Feedback"
+  },
+  "give_your_vault_a_head_start": {
+    "value": "Give your vault a head start"
+  },
+  "go_back": {
+    "value": "Go back"
+  },
+  "go_to_bitwarden_com_download_to_integrate_bitwarden_into_browser": {
+    "value": "Go to bitwarden.com/download to\n        integrate Bitwarden into your favorite browser for a seamless experience.\n    "
+  },
+  "go_to_my_vault": {
+    "value": "Joan kutxa gotorrera"
+  },
+  "go_to_website": {
+    "value": "Joan webgunera"
+  },
+  "good": {
+    "value": "Ona"
+  },
+  "got_it": {
+    "value": "Got it"
+  },
+  "granted": {
+    "value": "Eman da"
+  },
+  "help_and_feedback": {
+    "value": "Laguntza eta iritziak"
+  },
+  "help_with_server_geolocations": {
+    "value": "Help with server geolocations."
+  },
+  "hide": {
+    "value": "Ezkutatu"
+  },
+  "hide_email": {
+    "value": "Ezkutatu nire emaila hartzaileei"
+  },
+  "hide_text_by_default": {
+    "value": "Send-era sartzean, ezkutatu testua modu lehenetsian"
+  },
+  "hold_yubikey_near_top": {
+    "value": "Mantendu Yubikey gailuaren goiko aldetik gertu."
+  },
+  "host": {
+    "value": "Ostalaria"
+  },
+  "icons": {
+    "value": "Ikonoak"
+  },
+  "icons_url": {
+    "value": "Ikonoen zerbitzariaren URL-a"
+  },
+  "identification": {
+    "value": "Identification"
+  },
+  "identities": {
+    "value": "Identitateak"
+  },
+  "identity_name": {
+    "value": "Identitate izena"
+  },
+  "identity_url": {
+    "value": "Identitate zerbitzariaren URL-a"
+  },
+  "immediately": {
+    "value": "Berehala"
+  },
+  "import_certificate": {
+    "value": "Import certificate"
+  },
+  "import_client_certificate": {
+    "value": "Import client certificate"
+  },
+  "import_error": {
+    "value": "Import error"
+  },
+  "import_items": {
+    "value": "Inportatu elementuak"
+  },
+  "import_items_confirmation": {
+    "value": "Zure elementuen inportazioa bitwarden.com webguneko kutxa gotorrean kudeatu\n        dezakezu. Orain bisitatu nahi duzu webgunea?\n    "
+  },
+  "import_items_description": {
+    "value": "Inportatu berehala zure elementuak pasahitzak kudeatzeko beste aplikazio\n        batzuetatik.\n    "
+  },
+  "import_logins": {
+    "value": "Import Logins"
+  },
+  "import_logins_later": {
+    "value": "Import logins later"
+  },
+  "import_logins_later_dialog_title": {
+    "value": "Import logins later?"
+  },
+  "import_logins_to_bitwarden": {
+    "value": "Import logins to Bitwarden"
+  },
+  "import_saved_logins": {
+    "value": "Import saved logins"
+  },
+  "import_successful": {
+    "value": "Import Successful!"
+  },
+  "important": {
+    "value": "Garrantzitsua"
+  },
+  "important_notice": {
+    "value": "Important notice"
+  },
+  "improves_login_filling_for_supported_websites_on_chrome": {
+    "value": "Improves login filling for supported websites\n        on Chrome. Once enabled, you’ll be directed to Chrome settings to enable third-party autofill.\n    "
+  },
+  "in_the_bitwarden_navigation_find_the_tools_option_and_select_import_data": {
+    "value": "In the Bitwarden navigation, <annotation emphasis=\"bold\">find the Tools\n    </annotation> option and\n        <annotation emphasis=\"bold\">select Import data.</annotation>\n    "
+  },
+  "include_number": {
+    "value": "Sartu zenbakia"
+  },
+  "inline_autofill": {
+    "value": "Erabili lineako auto-betetzea"
+  },
+  "inline_autofill_description": {
+    "value": "Erabili teklatuko lerroko automatikoki betetzea, hautatutako IME-ak\n        (teklatua) onartzen badu. Ezarpenak ez badira bateragarriak (edo aukera hau desgaituta badago), automatikoki\n        betetzeko gainjartzea erabiliko da lehenespenez.\n    "
+  },
+  "internet_connection_required_message": {
+    "value": "Mesedez, konektatu internetera jarraitu aurretik."
+  },
+  "internet_connection_required_title": {
+    "value": "Internet konexioa beharrezkoa da"
+  },
+  "invalid_api_key": {
+    "value": "API giltza baliogabea"
+  },
+  "invalid_api_token": {
+    "value": "API kode baliogabia"
+  },
+  "invalid_certificate_chain": {
+    "value": "Invalid certificate chain"
+  },
+  "invalid_email": {
+    "value": "Email helbide baliogabea."
+  },
+  "invalid_format_use_https_http_or_android_app": {
+    "value": "Invalid format. Use https://, http://, or\n        androidapp://\n    "
+  },
+  "invalid_master_password": {
+    "value": "Pasahitz nagusi baliogabea. Saiatu berriro."
+  },
+  "invalid_pin": {
+    "value": "PIN baliogabea. Saiatu berriro."
+  },
+  "invalid_uri": {
+    "value": "Invalid URI"
+  },
+  "invalid_verification_code": {
+    "value": "Egiaztatze-kodea ez da baliozkoa."
+  },
+  "ip_address": {
+    "value": "IP helbidea"
+  },
+  "item_deleted": {
+    "value": "Elementua ezabatu da."
+  },
+  "item_details": {
+    "value": "Item details"
+  },
+  "item_information": {
+    "value": "Elementuaren informazioa"
+  },
+  "item_name_required": {
+    "value": "Item name (required)"
+  },
+  "item_restored": {
+    "value": "Elementua berreskuratu da."
+  },
+  "item_shared": {
+    "value": "Elementua partekatu da."
+  },
+  "item_soft_deleted": {
+    "value": "Elementua zakarrontzira bidali da."
+  },
+  "item_updated": {
+    "value": "Elementua eguneratu da."
+  },
+  "items": {
+    "value": "Elementuak"
+  },
+  "items_for_uri": {
+    "value": "%1$s-entzako elementuak"
+  },
+  "january": {
+    "value": "Urtarrila"
+  },
+  "july": {
+    "value": "Uztaila"
+  },
+  "june": {
+    "value": "Ekaina"
+  },
+  "just_now": {
+    "value": "Oraintxe bertan"
+  },
+  "keep_it_secret_keep_it_safe": {
+    "value": "Be careful to keep your written password somewhere secret and safe.\n    "
+  },
+  "language": {
+    "value": "Hizkuntza"
+  },
+  "language_change_requires_app_restart": {
+    "value": "Hizkuntza aldatzeak aplikazioa berabiaraztea behar du"
+  },
+  "language_change_x_description": {
+    "value": "%1$s hizkuntza ezarri da. Berrabiarazi aplikazioa mesedez aldaketa\n        ikusi ahal izateko\n    "
+  },
+  "last_name": {
+    "value": "Abizena"
+  },
+  "last_sync": {
+    "value": "Azken sinkronizazioa:"
+  },
+  "launch": {
+    "value": "Abiarazi"
+  },
+  "launch_duo": {
+    "value": "Launch Duo"
+  },
+  "launch_web_authn": {
+    "value": "Launch WebAuthn"
+  },
+  "learn_about_new_logins": {
+    "value": "Learn about new logins"
+  },
+  "learn_about_organizations_description_long": {
+    "value": "Bitwarden allows you to share your vault items with others\n        by using an organization. Learn more on the bitwarden.com website.\n    "
+  },
+  "learn_about_other_ways_to_prevent_account_lockout": {
+    "value": "Learn about other ways to prevent account lockout\n    "
+  },
+  "learn_about_ways_to_prevent_account_lockout": {
+    "value": "\n        <annotation link=\"onPreventAccountLockout\">Learn about ways to prevent account lockout</annotation>\n    "
+  },
+  "learn_more": {
+    "value": "Gehiago ezagutu"
+  },
+  "learn_more_about_generating_secure_login_credentials_with_guided_tour": {
+    "value": "Learn more about generating\n        secure login credentials with a guided tour.\n    "
+  },
+  "learn_more_about_how_to_use_bitwarden_on_the_help_center": {
+    "value": "Learn more about how to use Bitwarden on the\n        Help center.\n    "
+  },
+  "learn_org": {
+    "value": "Erakundeak ezagutu"
+  },
+  "learn_org_confirmation": {
+    "value": "Bitwardek kutxa gotorreko elementuak beste batzuekin partekatzeko aukera\n        ematen dizu erakunde kontu bat erabiliz. Gehiago jakiteko, bitwarden.com webgunea bisitatu nahi duzu?\n    "
+  },
+  "leave_organization": {
+    "value": "Utzi erakundea"
+  },
+  "leave_organization_name": {
+    "value": "%1$s utzi?"
+  },
+  "length": {
+    "value": "Luzera"
+  },
+  "level_up_your_logins": {
+    "value": "Level up your logins"
+  },
+  "license_number": {
+    "value": "Lizentzia zenbakia"
+  },
+  "light": {
+    "value": "Argia"
+  },
+  "link": {
+    "value": "Link"
+  },
+  "loading": {
+    "value": "Kargatzen"
+  },
+  "lock": {
+    "value": "Blokeatu"
+  },
+  "lock_now": {
+    "value": "Blokeatu orain"
+  },
+  "log_in_accepted": {
+    "value": "Saio hasiera onartua"
+  },
+  "log_in_at_bitwarden_com_to_easily_manage_your_account": {
+    "value": "Log in at bitwarden.com to easily manage your\n        account and update settings.\n    "
+  },
+  "log_in_attempt_by_x_on_y": {
+    "value": "%1$s saioa hasten saiatu da %2$s-n"
+  },
+  "log_in_denied": {
+    "value": "Saio hasiera ukatua"
+  },
+  "log_in_initiated": {
+    "value": "Saioa hastea martxan da"
+  },
+  "log_in_noun": {
+    "value": "Saio-hasiera"
+  },
+  "log_in_quickly_and_easily_across_devices": {
+    "value": "Log in quickly and easily across devices"
+  },
+  "log_in_requested": {
+    "value": "Saio hasiera eskatu da"
+  },
+  "log_in_sso": {
+    "value": "Enpresentzako saio hasiera bakarra (SSO)"
+  },
+  "log_in_sso_summary": {
+    "value": "Hasi saioa zure erakundeko atari bakarra erabiliz. Sartu zure erakundearen\n        identifikatzailea hasteko.\n    "
+  },
+  "log_in_to_bitwarden": {
+    "value": "Log in to Bitwarden"
+  },
+  "log_in_to_the_bitwarden_web_app": {
+    "value": "Log in to the Bitwarden web app."
+  },
+  "log_in_verb": {
+    "value": "Log in"
+  },
+  "log_in_with_another_device": {
+    "value": "Hasi saioa beste gailu batekin"
+  },
+  "log_in_with_device": {
+    "value": "Log in with device"
+  },
+  "log_in_with_device_must_be_set_up_in_the_settings_of_the_bitwarden_app_need_another_option": {
+    "value": "Log in\n        with device must be set up in the settings of the Bitwarden app. Need another option?\n    "
+  },
+  "log_in_with_master_password": {
+    "value": "Hasi saioa pasahitz nagusiarekin"
+  },
+  "log_out": {
+    "value": "Itxi saioa"
+  },
+  "logged_in": {
+    "value": "Logged in!"
+  },
+  "logged_in_as_on": {
+    "value": "%2$s-en %1$s bezala saioa hasita."
+  },
+  "logging_in": {
+    "value": "Saioa hasten..."
+  },
+  "logging_in_as_x": {
+    "value": "Logging in as %1$s"
+  },
+  "logging_in_as_x_on_y": {
+    "value": "%1$s bezala saioa hasten %2$s(e)n"
+  },
+  "logging_in_on": {
+    "value": "Logging in on"
+  },
+  "logging_in_on_with_colon": {
+    "value": "Logging in on:"
+  },
+  "login_approved": {
+    "value": "Login approved"
+  },
+  "login_attempt_from_x_do_you_want_to_switch_to_this_account": {
+    "value": "Saio hasiera saiakera hemendik:\n        %1$s\n        Kontu honetara aldatu nahi duzu?\n    "
+  },
+  "login_credentials": {
+    "value": "Login Credentials"
+  },
+  "login_expired": {
+    "value": "Saioa amaitu da."
+  },
+  "login_request_has_already_expired": {
+    "value": "Sarbide eskaera iraungi da."
+  },
+  "login_sso_error": {
+    "value": "Une honetan SSO-rekin saioa hastea ez dago gaituta"
+  },
+  "login_to_bitwarden": {
+    "value": "Log in to Bitwarden"
+  },
+  "login_unavailable": {
+    "value": "Ez dago eskuragarri saio-hasierarik"
+  },
+  "logins": {
+    "value": "Saio-hasierak"
+  },
+  "logins_imported": {
+    "value": "Logins imported"
+  },
+  "logout_confirmation": {
+    "value": "Ziur zaude saioa itxi nahi duzula?"
+  },
+  "lost_2fa_app": {
+    "value": "Autentifikazio aplikazioa galdu duzu?"
+  },
+  "lowercase_ato_z": {
+    "value": "Letra txikia (a-z)"
+  },
+  "make_it_yours": {
+    "value": "Make it yours"
+  },
+  "manage": {
+    "value": "Kudeatu"
+  },
+  "manage_your_logins_from_anywhere_with_bitwarden_tools": {
+    "value": "Manage your logins from anywhere with Bitwarden\n        tools for web and desktop.\n    "
+  },
+  "march": {
+    "value": "Martxoa"
+  },
+  "master_password": {
+    "value": "Pasahitz nagusia"
+  },
+  "master_password_confirmation_val_message": {
+    "value": "Pasahitzaren baieztapena ez da zuzena."
+  },
+  "master_password_description": {
+    "value": "Pasahitz nagusia, kutxa gotorrera sartzeko erabiltzen duzun pasahitza da.\n        Oso garrantzitsua da ez ahaztea, ahazten baduzu, ez dago pasahitza berreskuratzeko modurik.\n    "
+  },
+  "master_password_hint": {
+    "value": "Pasahitz nagusirako pista (aukerakoa)"
+  },
+  "master_password_hint_description": {
+    "value": "Pasahitz nagusia ahazten baduzu, pista batek pasahitza gogoratzen\n        lagunduko dizu.\n    "
+  },
+  "master_password_hint_not_specified": {
+    "value": "Master password hint"
+  },
+  "master_password_important_hint": {
+    "value": "Important: Your master password cannot be recovered if you forget it!\n        12 characters minimum.\n    "
+  },
+  "master_password_length_val_message_x": {
+    "value": "Pasahitz nagusiak %1$s karaktere izan behar ditu gutxienez.\n    "
+  },
+  "master_password_policy_in_effect": {
+    "value": "Erakundeko politika batek edo gehiagok pasahitz nagusia behar dute\n        baldintza hauek betetzeko:\n    "
+  },
+  "master_password_policy_validation_message": {
+    "value": "Pasahitzak ez ditu erakundearen baldintzak betetzen.\n        Mesedez, berrikusi politika eta saiatu berriro.\n    "
+  },
+  "master_password_policy_validation_title": {
+    "value": "Pasahitzak ez du balio"
+  },
+  "master_password_re_prompt_help": {
+    "value": "Master password re-prompt help"
+  },
+  "master_password_required": {
+    "value": "Master password (required)"
+  },
+  "match_detection": {
+    "value": "Detekzio modua"
+  },
+  "matching_items": {
+    "value": "Kointzidentzia duten elementuak"
+  },
+  "max_file_size": {
+    "value": "Eranskinaren gehienezko tamaina 100MB."
+  },
+  "maximum_access_count": {
+    "value": "Sarbide kopuru maximoa"
+  },
+  "maximum_access_count_info": {
+    "value": "Hala ezartzen bada, erabiltzaileak ezin izango dira Send honetara sartu\n        gehienezko sarbide kopurura iritsi ondoren.\n    "
+  },
+  "maximum_access_count_reached": {
+    "value": "Sarbide kopuru maximoa gaindituta"
+  },
+  "may": {
+    "value": "Maiatza"
+  },
+  "middle_name": {
+    "value": "Bigarren izena"
+  },
+  "min_numbers": {
+    "value": "Gutxieneko zenbaki kopurua"
+  },
+  "min_special": {
+    "value": "Gutxieneko karaktere bereziak"
+  },
+  "minimum_characters": {
+    "value": "%1$s characters"
+  },
+  "miscellaneous": {
+    "value": "Bestelakoak"
+  },
+  "more": {
+    "value": "Gehiago"
+  },
+  "more_settings": {
+    "value": "Ezarpen gehiago"
+  },
+  "move": {
+    "value": "Mugitu"
+  },
+  "move_down": {
+    "value": "Mugitu behera"
+  },
+  "move_to_org_desc": {
+    "value": "Aukeratu elementu hau zein erakundetara eraman nahi duzun. Erakunde batera pasatzeak\n        elementuaren jabetza erakunde horretara transferitzen du. Zu ez zara elementu honen jabe zuzena izango mugitzen\n        duzunean.\n    "
+  },
+  "move_to_organization": {
+    "value": "Mugitu erakundera"
+  },
+  "move_up": {
+    "value": "Mugitu gora"
+  },
+  "moved_item_to_org": {
+    "value": "%1$s %2$s-era mugitu da."
+  },
+  "mr": {
+    "value": "Jn."
+  },
+  "mrs": {
+    "value": "And."
+  },
+  "ms": {
+    "value": "And."
+  },
+  "must_log_in_main_app": {
+    "value": "Saioa hasi behar duzu Bitwarden aplikazioan, gehigarria erabili aurretik.\n    "
+  },
+  "must_log_in_main_app_autofill": {
+    "value": "Saioa hasi behar duzu Bitwarden aplikazioan, auto-betetzea erabili\n        aurretik.\n    "
+  },
+  "mutual_tls": {
+    "value": "Mutual TLS"
+  },
+  "mx": {
+    "value": "Mx"
+  },
+  "my_vault": {
+    "value": "Kutxa Gotorra"
+  },
+  "name": {
+    "value": "Izena"
+  },
+  "near": {
+    "value": "Gertu"
+  },
+  "need_another_option": {
+    "value": "Beste aukerarik behar al duzu?"
+  },
+  "need_help_check_out_import_help": {
+    "value": "Need help? Check out <annotation link=\"importHelp\">import\n        help</annotation>.\n    "
+  },
+  "need_some_inspiration": {
+    "value": "\"Need some inspiration?\""
+  },
+  "never": {
+    "value": "Inoiz ez"
+  },
+  "never_lock_warning": {
+    "value": "Zure blokeo aukerak \\\"inoiz ez\\\" bezala ezartzen badituzu, gailura sarbidea duen\n        edonork izango du kutxa gotorra eskuragarri. Aukera hau erabiltzen baduzu, gailua behar bezala babestuta duzula\n        ziurtatu behar duzu.\n    "
+  },
+  "never_lose_access_to_your_vault": {
+    "value": "Never lose access to your vault"
+  },
+  "new_blocked_uri": {
+    "value": "New blocked URI"
+  },
+  "new_card": {
+    "value": "New card"
+  },
+  "new_custom_field": {
+    "value": "Eremu pertsonalizatu berria"
+  },
+  "new_file_send": {
+    "value": "New file Send"
+  },
+  "new_identity": {
+    "value": "New identity"
+  },
+  "new_item": {
+    "value": "New item"
+  },
+  "new_item_created": {
+    "value": "Elementu berria sortua."
+  },
+  "new_login": {
+    "value": "New login"
+  },
+  "new_master_password_hint": {
+    "value": "New master password hint"
+  },
+  "new_master_password_required": {
+    "value": "New master password (required)"
+  },
+  "new_note": {
+    "value": "New note"
+  },
+  "new_passkey": {
+    "value": "New passkey"
+  },
+  "new_password": {
+    "value": "Pasahitz berria"
+  },
+  "new_send_created": {
+    "value": "Send berria sortua."
+  },
+  "new_ssh_key": {
+    "value": "New SSH key"
+  },
+  "new_text_send": {
+    "value": "New text Send"
+  },
+  "new_to_bitwarden": {
+    "value": "New to Bitwarden?"
+  },
+  "new_uri": {
+    "value": "URI berria"
+  },
+  "next": {
+    "value": "Next"
+  },
+  "no": {
+    "value": "Ez"
+  },
+  "no_attachments": {
+    "value": "Ez dago eranskinik."
+  },
+  "no_cards": {
+    "value": "There are no cards in your vault."
+  },
+  "no_collections_to_list": {
+    "value": "Ez dago erakusteko bildumarik."
+  },
+  "no_email_go_back_to_edit_your_email_address": {
+    "value": "No email? <annotation link=\"goBack\">Go back</annotation> to\n        edit your email address.\n    "
+  },
+  "no_favorites": {
+    "value": "Kutxa gotorrean ez dago gogokorik."
+  },
+  "no_file_chosen": {
+    "value": "Ez da fitxategirik hautatu"
+  },
+  "no_file_sends": {
+    "value": "There are no file Sends in your vault."
+  },
+  "no_folder": {
+    "value": "No folder"
+  },
+  "no_folders_to_list": {
+    "value": "Ez dago erakusteko karpetarik."
+  },
+  "no_identities": {
+    "value": "There are no identities in your vault."
+  },
+  "no_items": {
+    "value": "Kutxa gotorrean ez dago elementurik."
+  },
+  "no_items_collection": {
+    "value": "Bilduma honetan ez dago elementurik."
+  },
+  "no_items_folder": {
+    "value": "Karpeta honetan ez dago elementurik."
+  },
+  "no_items_for_uri": {
+    "value": "Kutxa gotorrean ez dago elementurik %1$s-entzako."
+  },
+  "no_items_for_vault": {
+    "value": "There are no items in your vault that match “%1$s”"
+  },
+  "no_items_tap": {
+    "value": "Kutxa gotorrean ez dago elementurik webgune/aplikazio honentzat. Sakatu bat gehitzeko.\n    "
+  },
+  "no_items_to_list": {
+    "value": "Ez dago erakusteko elementurik."
+  },
+  "no_items_trash": {
+    "value": "Zakarrontzian ez dago elementurik."
+  },
+  "no_logins": {
+    "value": "There are no logins in your vault."
+  },
+  "no_logins_were_imported": {
+    "value": "No logins were imported"
+  },
+  "no_notes": {
+    "value": "There are no notes in your vault."
+  },
+  "no_orgs_to_list": {
+    "value": "Ez dago erakunderik erakusteko."
+  },
+  "no_passwords_to_list": {
+    "value": "Ez dago erakusteko pasahitzik."
+  },
+  "no_pending_requests": {
+    "value": "Ez dago eskaerarik zain"
+  },
+  "no_sends": {
+    "value": "Zure kontuan ez dago Send-ik."
+  },
+  "no_ssh_keys": {
+    "value": "There are no SSH keys in your vault."
+  },
+  "no_text_sends": {
+    "value": "There are no text Sends in your vault."
+  },
+  "no_thanks": {
+    "value": "Ez, eskerrik asko"
+  },
+  "no_two_step_available": {
+    "value": "Kontu honek bi urratseko saio hasiera du gaituta, baina ezarritako bi urratsen\n        hornitzaileak ez dira gailu honetan bateragarriak. Mesedez, erabili gailu bateragarri bat eta/edo gehitu beste\n        hornitzaile bat, gailu guztietan bateragarriago direnak (adibidez, autentifikazio aplikazio bat).\n    "
+  },
+  "no_username": {
+    "value": "No Username"
+  },
+  "no_username_password_configured": {
+    "value": "Saio hasiera honek ez du ezarritako erabiltzaile izen edo\n        pasahitzik.\n    "
+  },
+  "nord": {
+    "value": "Nord"
+  },
+  "not_you": {
+    "value": "Ez zara zu?"
+  },
+  "notes": {
+    "value": "Oharrak"
+  },
+  "notes_info": {
+    "value": "Send honi buruzko ohar pribatuak."
+  },
+  "notice": {
+    "value": "Notice"
+  },
+  "november": {
+    "value": "Azaroa"
+  },
+  "number": {
+    "value": "Zenbakia"
+  },
+  "number_of_words": {
+    "value": "Hitz kopurua"
+  },
+  "numbers_zero_to_nine": {
+    "value": "Zenbakiak (0-9)"
+  },
+  "october": {
+    "value": "Urria"
+  },
+  "off": {
+    "value": "Itzalita"
+  },
+  "ok": {
+    "value": "Ados"
+  },
+  "ok_got_it": {
+    "value": "Ongi, aurrera!"
+  },
+  "on": {
+    "value": "Piztuta"
+  },
+  "on_restart": {
+    "value": "Aplikazioa berrabiarazten denean"
+  },
+  "on_your_computer_log_in_to_your_current_browser_or_password_manager": {
+    "value": "On your computer,\n        <annotation emphasis=\"bold\">log in to your current browser or password manager.</annotation>\n    "
+  },
+  "on_your_computer_open_a_new_browser_tab_and_go_to_vault_bitwarden_com": {
+    "value": "On your computer, open a new\n        browser tab and\n        <annotation emphasis=\"bold\">go to\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "once_the_key_is_successfully_entered": {
+    "value": "Gakoa ondo sartzen duzunean, sakatu Gehitu TOTP-a gakoa modu\n        seguruan gordetzeko\n    "
+  },
+  "one_day": {
+    "value": "Egun 1"
+  },
+  "one_hour": {
+    "value": "Ordu 1"
+  },
+  "one_hour_and_one_minute": {
+    "value": "One hour and one minute"
+  },
+  "one_hour_and_x_minute": {
+    "value": "One hour and %1$s minutes"
+  },
+  "one_minute": {
+    "value": "Minutu 1"
+  },
+  "one_of_the_best_ways_to_create_a_secure_and_memorable_password": {
+    "value": "One of the best ways to create a\n        secure and memorable password is to use a passphrase. \\nHere’s how:\n    "
+  },
+  "open": {
+    "value": "Ireki"
+  },
+  "open_email_app": {
+    "value": "Open email app"
+  },
+  "option_defaults": {
+    "value": "Aukera lehenetsiak Bitwarden aplikazioaren pasahitzak sortzeko ataletik ezartzen\n        dira.\n    "
+  },
+  "options": {
+    "value": "Aukerak"
+  },
+  "options_collapsed": {
+    "value": "Aukerak multzokatuta daude, sakatu zabaltzeko."
+  },
+  "options_expanded": {
+    "value": "Aukerak zabaldu egin dira, sakatu multzokatzeko."
+  },
+  "or_log_in_you_may_already_have_an_account": {
+    "value": "Or <annotation link=\"logIn\">log in</annotation>, you may\n        already have an account.\n    "
+  },
+  "org_identifier": {
+    "value": "Erakundearen identifikatzailea"
+  },
+  "organization": {
+    "value": "Erakundea"
+  },
+  "organization_is_using_sso_with_a_self_hosted_key_server": {
+    "value": "%1$s is using SSO with a self-hosted key\n        server. A master password is no longer required to log in for members of this organization.\n    "
+  },
+  "organization_sso_identifier_required": {
+    "value": "Erakundearen identifikazio bakarra (SSO) beharrezkoa da.\n    "
+  },
+  "organization_unassigned_items_message_self_host_041624_description_long": {
+    "value": "On May 16, 2024, unassigned\n        organization items will no longer be visible in the All Vaults view and only accessible via the Admin Console.\n        Assign these items to a collection from the Admin Console to make them visible.\n    "
+  },
+  "organization_unassigned_items_message_useu_description_long": {
+    "value": "Unassigned organization items are no\n        longer visible in the All Vaults view and only accessible via the Admin Console. Assign these items to a\n        collection from the Admin Console to make them visible.\n    "
+  },
+  "other": {
+    "value": "Bestelakoak"
+  },
+  "overlay_permission": {
+    "value": "Baimena"
+  },
+  "overwrite_passkey": {
+    "value": "Overwrite passkey?"
+  },
+  "owner": {
+    "value": "Owner"
+  },
+  "ownership": {
+    "value": "Jabetza"
+  },
+  "page_number_x_of_y": {
+    "value": "%1$s of %2$s"
+  },
+  "passkey": {
+    "value": "Passkey"
+  },
+  "passkey_authentication_failed_due_to_an_internal_error": {
+    "value": "Passkey authentication failed due to an\n        internal error.\n    "
+  },
+  "passkey_management": {
+    "value": "Passkey management"
+  },
+  "passkey_management_explanation_long": {
+    "value": "Use Bitwarden to save new passkeys and log in with passkeys\n        stored in your vault.\n    "
+  },
+  "passkey_operation_failed_because_app_could_not_be_verified": {
+    "value": "Passkey operation failed because app could\n        not be verified\n    "
+  },
+  "passkey_operation_failed_because_app_is_signed_incorrectly": {
+    "value": "Passkey operation failed because app is\n        signed incorrectly.\n    "
+  },
+  "passkey_operation_failed_because_app_not_found_in_asset_links": {
+    "value": "Passkey operation failed because app\n        not found in asset links\n    "
+  },
+  "passkey_operation_failed_because_app_signature_is_invalid": {
+    "value": "Passkey operation failed because app\n        signature is invalid.\n    "
+  },
+  "passkey_operation_failed_because_browser_is_not_privileged": {
+    "value": "Passkey operation failed because browser\n        is not privileged\n    "
+  },
+  "passkey_operation_failed_because_browser_signature_does_not_match": {
+    "value": "Passkey operation failed because\n        browser signature does not match\n    "
+  },
+  "passkey_operation_failed_because_host_url_is_not_present_in_request": {
+    "value": "Passkey operation failed because\n        host URL is not present in request.\n    "
+  },
+  "passkey_operation_failed_because_no_item_was_selected": {
+    "value": "Passkey operation failed because no item was\n        selected.\n    "
+  },
+  "passkey_operation_failed_because_of_missing_asset_links": {
+    "value": "Passkey operation failed because of missing\n        asset links\n    "
+  },
+  "passkey_operation_failed_because_relying_party_cannot_be_identified": {
+    "value": "Passkey operation failed because\n        relying party cannot be identified.\n    "
+  },
+  "passkey_operation_failed_because_the_request_is_invalid": {
+    "value": "Passkey operation failed because the request\n        is invalid.\n    "
+  },
+  "passkey_operation_failed_because_the_selected_item_does_not_exist": {
+    "value": "Passkey operation failed because\n        the selected item does not exist.\n    "
+  },
+  "passkey_operation_failed_because_user_could_not_be_verified": {
+    "value": "Passkey operation failed because user\n        could not be verified.\n    "
+  },
+  "passkey_operation_failed_because_user_is_locked_out": {
+    "value": "Passkey operation failed because user is locked\n        out.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_attempts_exceeded": {
+    "value": "Passkey operation failed because\n        user verification attempts exceeded.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_was_cancelled": {
+    "value": "Passkey operation failed because\n        user verification was cancelled.\n    "
+  },
+  "passkey_registration_failed_due_to_an_internal_error": {
+    "value": "Passkey registration failed due to an internal\n        error.\n    "
+  },
+  "passkey_removed": {
+    "value": "Passkey removed"
+  },
+  "passkey_will_not_be_copied": {
+    "value": "Passkey will not be copied"
+  },
+  "passkeys": {
+    "value": "Passkeys"
+  },
+  "passkeys_for_x": {
+    "value": "Passkeys for %1$s"
+  },
+  "passkeys_not_supported_for_this_app": {
+    "value": "Passkeys not supported for this app"
+  },
+  "passphrase": {
+    "value": "Pasaesaldia"
+  },
+  "passphrases_are_strong_passwords_that_are_often_easier_to_remember_and_type_than_random_passwords": {
+    "value": "\n        Passphrases are strong passwords that are often easier to remember and type than random passwords. They are\n        helpful for logging into accounts where Autofill is not available, like a streaming service on your TV.\n    "
+  },
+  "passport_number": {
+    "value": "Pasaporte zenbakia"
+  },
+  "password": {
+    "value": "Pasahitza"
+  },
+  "password_autofill": {
+    "value": "Pasahitza automatikoki bete"
+  },
+  "password_confirmation": {
+    "value": "Baieztatu pasahitz nagusia"
+  },
+  "password_confirmation_desc": {
+    "value": "Ekintza hau babestuta dago. Jarraitzeko, mesedez, sartu berriro pasahitz\n        nagusia zure identitatea egiaztatzeko.\n    "
+  },
+  "password_exposed": {
+    "value": "Pasahitz hau %1$s aldiz datu-iragazketetan aurkitu da. Aldatu egin beharko zenuke.\n    "
+  },
+  "password_found_in_a_data_breach_alert_description": {
+    "value": "Pasahitza datu-urraketa batean aurkitu da. Erabil\n        ezazu beste inon erabili ez duzun pasahitz bat zure kontua babesteko. Ziur zaude agerian utzitako pasahitz bat\n        erabili nahi duzula?\n    "
+  },
+  "password_generated": {
+    "value": "Pasahitza sortua."
+  },
+  "password_generator": {
+    "value": "Pasahitz sortzailea"
+  },
+  "password_generator_policy_in_effect": {
+    "value": "Erakundeko politika batek edo gehiagok sortzailearen\n        konfigurazioari eragiten diote\n    "
+  },
+  "password_hint": {
+    "value": "Pasahitza gogoratzeko pista"
+  },
+  "password_hint_alert": {
+    "value": "Mezu elektroniko bat bidali dizugu zure pasahitz nagusiaren pistarekin."
+  },
+  "password_history": {
+    "value": "Pasahitz historia"
+  },
+  "password_history_count": {
+    "value": "\n        <annotation link=\"passwordHistory\">Password history:\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "password_info": {
+    "value": "Nahi izanez gero, pasahitza eskatu erabiltzaileak Send honetara sar daitezen."
+  },
+  "password_is_not_visible_tap_to_show": {
+    "value": "Pasahitza ezkutatuta dago, sakatu bistaratzeko."
+  },
+  "password_is_visible_tap_to_hide": {
+    "value": "Pasahitza ikusgai dago, sakatu ezkutatzeko."
+  },
+  "password_override_alert": {
+    "value": "Ziur al zaude pasahitza berridatzi nahi duzula?"
+  },
+  "password_prompt": {
+    "value": "Berriro eskatu pasahitz nagusia"
+  },
+  "password_protected": {
+    "value": "Password Protected"
+  },
+  "password_safe": {
+    "value": "Pasahitz hau ez da inongo datu-filtrazio ezagunetan aurkitu. Erabiltzea segurua izan\n        beharko luke.\n    "
+  },
+  "password_type": {
+    "value": "Pasahitz mota"
+  },
+  "password_used_to_export": {
+    "value": "This password will be used to export and import this file"
+  },
+  "passwords": {
+    "value": "Passwords"
+  },
+  "passwords_for_x": {
+    "value": "Passwords for %1$s"
+  },
+  "pending_delete": {
+    "value": "Ezabatzea egiteke"
+  },
+  "pending_log_in_requests": {
+    "value": "Pending login requests"
+  },
+  "personal_details": {
+    "value": "Personal Details"
+  },
+  "personal_ownership_policy_in_effect": {
+    "value": "Erakunde politika batek, jabetza aukerei eragiten die."
+  },
+  "personal_ownership_submit_error": {
+    "value": "Erakundeko politika bat dela eta, ezin dituzu elementuak zure kutxa\n        gotor pertsonalean gorde. Aldatu jabe aukera erakunde aukera batera, eta aukeratu bilduma erabilgarrien artean.\n    "
+  },
+  "phone": {
+    "value": "Telefonoa"
+  },
+  "photos": {
+    "value": "Argazkiak"
+  },
+  "pick_three_or_four_random_unrelated_words": {
+    "value": "Pick three or four random, unrelated words that you can\n        easily remember. Think of <annotation emphasis=\"bold\">objects, places, or things</annotation> you like.\n    "
+  },
+  "pin": {
+    "value": "PIN-a"
+  },
+  "pin_require_master_password_restart": {
+    "value": "Aplikazioa berrabiarazten denean, pasahitz nagusiarekin\n        desblokeatu nahi duzu?\n    "
+  },
+  "please_make_sure_your_vault_is_unlocked_and_the_fingerprint_phrase_matches_on_the_other_device": {
+    "value": "\n        Mesedez, ziurtatu kutxa gotorra desblokeatuta dagoela eta hatz-marka digitalaren esaldia bat datorrela beste\n        gailuarekin.\n    "
+  },
+  "please_restart_registration_or_try_logging_in": {
+    "value": "Please restart registration or try logging in. You may\n        already have an account.\n    "
+  },
+  "plus_addressed_email": {
+    "value": "Atzizkidun emaila"
+  },
+  "plus_addressed_email_description": {
+    "value": "Erabili emailaren hornitzailearen azpihelbideratze gaitasunak\n    "
+  },
+  "point_your_camera_at_the_qr_code": {
+    "value": "Apuntatu zure kamera QR kodera. Eskaneatzea automatikoki egingo\n        da.\n    "
+  },
+  "policy_in_effect_lowercase": {
+    "value": "Karaktere txiki bat edo gehiago edukitzea"
+  },
+  "policy_in_effect_min_complexity": {
+    "value": "%1$s-en gutxieneko konplexutasun puntuazioa"
+  },
+  "policy_in_effect_min_length": {
+    "value": "Gutxienezko luzera %1$s da"
+  },
+  "policy_in_effect_numbers": {
+    "value": "Zenbaki bat edo gehiago edukitzea"
+  },
+  "policy_in_effect_special": {
+    "value": "Karaktere berezi hauetako %1$s bat edo gehiago edukitzea"
+  },
+  "policy_in_effect_uppercase": {
+    "value": "Karaktere larri bat edo gehiago edukitzea"
+  },
+  "possible_matching_items": {
+    "value": "Kointzidentzia posible bat duten elementuak"
+  },
+  "premium_required": {
+    "value": "Premium bazkidetza beharrezkoa da ezaugarri hau erabiltzeko."
+  },
+  "premium_subscription_required": {
+    "value": "Premium harpidetza beharrezkoa da"
+  },
+  "prevent_account_lockout": {
+    "value": "Prevent account lockout"
+  },
+  "privacy_policy": {
+    "value": "Pribatutasun politika"
+  },
+  "privacy_policy_description_long": {
+    "value": "Check out our privacy policy on bitwarden.com."
+  },
+  "private_key": {
+    "value": "Private key"
+  },
+  "private_notes": {
+    "value": "Private notes"
+  },
+  "public_key": {
+    "value": "Public key"
+  },
+  "push_notification_alert": {
+    "value": "Bitwardenek automatikoki sinkronizatzen du kutxa gotorra, push jakinarazpenak\n        erabiliz. Ahalik eta esperientziarik onena lortzeko, hautatu \\\"Baimendu\\\" hurrengo jakinarazpenean, push\n        jakinarazpenak gaitzeko eskatzen zaizunean.\n    "
+  },
+  "put_the_words_together_in_any_order_to_form_your_passphrase": {
+    "value": "Put the words together in any order to\n        form your passphrase. <annotation emphasis=\"bold\">Use hyphens, spaces, or leave them as one long\n            word</annotation>—your choice!\n    "
+  },
+  "quick_and_easy_login": {
+    "value": "Quick and easy login"
+  },
+  "random": {
+    "value": "Ausazkoa"
+  },
+  "random_and_complex_using_numbers_and_special_characters": {
+    "value": "Random and complex, using numbers and special\n        characters\n    "
+  },
+  "random_word": {
+    "value": "Ausazko hitza"
+  },
+  "rate_app_description_long": {
+    "value": "Help others find out if Bitwarden is right for them. Visit the app store\n        and leave a rating now.\n    "
+  },
+  "rate_the_app": {
+    "value": "Baloratu aplikazioa"
+  },
+  "rate_the_app_description": {
+    "value": "Mesedez, aipu on batekin lagundu!"
+  },
+  "receive_push_notifications_for_new_login_requests": {
+    "value": "Jaso push jakinarazpenak saio hasiera eskaera\n        berrietarako\n    "
+  },
+  "recovery_code_title": {
+    "value": "Berreskuratze-kodea"
+  },
+  "reg_ex": {
+    "value": "Expresio erregularra"
+  },
+  "regenerate_password": {
+    "value": "Berrezarri pasahitza"
+  },
+  "region": {
+    "value": "Eskualdea"
+  },
+  "remember": {
+    "value": "Remember"
+  },
+  "remember_email": {
+    "value": "Remember email"
+  },
+  "remember_this_device": {
+    "value": "Remember this device"
+  },
+  "remember_to_delete_your_imported_password_file_from_your_computer": {
+    "value": "Remember to delete your imported\n        password file from your computer\n    "
+  },
+  "remind_me_later": {
+    "value": "Remind me later"
+  },
+  "remove": {
+    "value": "Ezabatu"
+  },
+  "remove_account": {
+    "value": "Kendu kontua"
+  },
+  "remove_account_confirmation": {
+    "value": "Ziur al zaude kontu hau kendu nahi duzula?"
+  },
+  "remove_master_password": {
+    "value": "Ezabatu pasahitz nagusia"
+  },
+  "remove_master_password_warning": {
+    "value": "%1$s bezeroak kudeatutako zifratua duen SSO erabiltzen ari da.\n        Jarraitzeak zure kontuko pasahitz nagusia ezabatuko du, eta SSO eskatuko du saioa hasteko.\n    "
+  },
+  "remove_master_password_warning2": {
+    "value": "Zure pasahitz nagusia ezabatu nahi ez baduzu, erakundea utzi beharko\n        duzu.\n    "
+  },
+  "remove_passkey": {
+    "value": "Remove passkey"
+  },
+  "remove_password": {
+    "value": "Kendu pasahitza"
+  },
+  "removing_send_password": {
+    "value": "Pasahitza kentzen"
+  },
+  "request_admin_approval": {
+    "value": "Request admin approval"
+  },
+  "request_otp": {
+    "value": "Behin bakarrik erabiltzeko pasahitza eskatu"
+  },
+  "requests_declined": {
+    "value": "Eskaerak ukatuta"
+  },
+  "require_master_password_on_app_restart": {
+    "value": "Require master password on app restart?"
+  },
+  "resend_code": {
+    "value": "Berbidali kodea"
+  },
+  "resend_notification": {
+    "value": "Berbidali jakinarazpena"
+  },
+  "reset_password_auto_enroll_invite_warning": {
+    "value": "Erakunde honen enpresa politika baten ondorioz,\n        automatikoki pasahitza berrezartzean izen-emango zaitu. Izen-emateak aukera emango die erakundeko\n        administratzaileei pasahitz nagusia aldatzeko.\n    "
+  },
+  "restart_registration": {
+    "value": "Restart registration"
+  },
+  "restore": {
+    "value": "Berreskuratu"
+  },
+  "restoring": {
+    "value": "Berreskuratzen..."
+  },
+  "return_to_complete_this_step_anytime_in_settings": {
+    "value": "You can return to complete this step anytime in\n        Settings.\n    "
+  },
+  "retype_master_password": {
+    "value": "Idatzi berriro pasahitz nagusia"
+  },
+  "retype_master_password_required": {
+    "value": "Re-type master password (required)"
+  },
+  "retype_new_master_password_required": {
+    "value": "Re-type new master password (required)"
+  },
+  "review_flow_launched": {
+    "value": "Review flow launched!"
+  },
+  "save": {
+    "value": "Gorde"
+  },
+  "save_and_protect_your_data": {
+    "value": "Save and protect your data"
+  },
+  "save_attachment_success": {
+    "value": "Eranskina ondo atxiki da"
+  },
+  "save_passkey": {
+    "value": "Save passkey"
+  },
+  "save_passkey_as_new_login": {
+    "value": "Save passkey as new login"
+  },
+  "save_the_exported_file_somewhere_on_your_computer_you_can_find_easily": {
+    "value": "\n        <annotation emphasis=\"bold\">Save the exported file</annotation>\n        somewhere on your computer you can find easily.\n    "
+  },
+  "saving": {
+    "value": "Gordetzen..."
+  },
+  "scan_qr_code": {
+    "value": "Eskaneatu QR kodea"
+  },
+  "scan_qr_title": {
+    "value": "Eskaneatu QR kodea"
+  },
+  "search": {
+    "value": "Bilatu"
+  },
+  "search_collection": {
+    "value": "Bilatu bilduma"
+  },
+  "search_file_sends": {
+    "value": "Fitxategi Send-ak bilatu"
+  },
+  "search_for_a_login_or_add_a_new_login": {
+    "value": "Search for a login or add a new login"
+  },
+  "search_for_an_item_or_add_a_new_item": {
+    "value": "Bilatu elementu bat ala gehitu elementu berria"
+  },
+  "search_group": {
+    "value": "Bilatu %1$s"
+  },
+  "search_sends": {
+    "value": "Send-ak bilatu"
+  },
+  "search_text_sends": {
+    "value": "Testu Send-ak bilatu"
+  },
+  "search_trash": {
+    "value": "Bilatu zakarrontzian"
+  },
+  "search_vault": {
+    "value": "Kutxa Gotorrean bilatu"
+  },
+  "second_dot_turn_on_auto_fill": {
+    "value": "2. Turn on Autofill"
+  },
+  "secure_notes": {
+    "value": "Ohar seguruak"
+  },
+  "security": {
+    "value": "Segurtasuna"
+  },
+  "security_code": {
+    "value": "Segurtasun-kodea"
+  },
+  "security_prioritized": {
+    "value": "Security, prioritized"
+  },
+  "select": {
+    "value": "Hautatu"
+  },
+  "select_import_data_in_the_web_app_then_done_to_finish_syncing": {
+    "value": "\n        <annotation emphasis=\"bold\">Select Import data</annotation>\n        in the web app, then Done below to finish syncing.\n    "
+  },
+  "select_one_collection": {
+    "value": "Gutxienez bilduma bat aukeratu behar duzu."
+  },
+  "select_the_link_in_the_email_to_verify_your_email_address_and_continue_creating_your_account": {
+    "value": "\"Select\n        the link in the email to verify your email address and continue creating your account. \"\n    "
+  },
+  "select_type_field": {
+    "value": "Zein eremu pertsonalizatu mota gehitu nahi duzu?"
+  },
+  "self_host_server_url": {
+    "value": "Self-host server URL"
+  },
+  "self_hosted": {
+    "value": "Norberak ostatatua"
+  },
+  "self_hosted_environment": {
+    "value": "Ostatze ingurune propioa"
+  },
+  "self_hosted_environment_footer": {
+    "value": "Bitwarden instalatzeko, zehaztu ostatatze propioaren oinarrizko\n        URL-a.\n    "
+  },
+  "self_hosted_server_url": {
+    "value": "Self-hosted server URL"
+  },
+  "send": {
+    "value": "Send"
+  },
+  "send_code": {
+    "value": "Bidali kodea"
+  },
+  "send_deleted": {
+    "value": "Send-a ezabatu da."
+  },
+  "send_details": {
+    "value": "Send Details"
+  },
+  "send_disabled_warning": {
+    "value": "Enpresa-politika baten ondorioz, lehendik dagoen Send-a bakarrik ezaba\n        dezakezu.\n    "
+  },
+  "send_file_email_verification_required": {
+    "value": "Emaila egiaztatu behar duzu fitxategiak Send-ekin partekatzeko.\n        Emaila webguneko kutxa gotorrean egiazta dezakezu.\n    "
+  },
+  "send_file_premium_required": {
+    "value": "Doako kontuak testuak partekatzera mugatzen dira. Premium bazkidetza behar\n        da Send-ekin fitxategiak partekatzeko.\n    "
+  },
+  "send_link": {
+    "value": "Send esteka"
+  },
+  "send_name_required": {
+    "value": "\"Send name (required)\""
+  },
+  "send_options_policy_in_effect": {
+    "value": "Erakundeko politika batek edo gehiagok Send-eko aukerei eragiten\n        diote.\n    "
+  },
+  "send_password_removed": {
+    "value": "Pasahitza kendu da."
+  },
+  "send_sensitive_information_safely": {
+    "value": "Send sensitive information, safely"
+  },
+  "send_updated": {
+    "value": "Send-a eguneratu da."
+  },
+  "send_verification_code_again": {
+    "value": "Berbidali email bidezko egiaztatze-kodea"
+  },
+  "send_verification_code_to_email": {
+    "value": "Bidali egiaztatze-kodea zure emailera"
+  },
+  "sending": {
+    "value": "Bidaltzen"
+  },
+  "sending_code": {
+    "value": "Kodea bidaltzen"
+  },
+  "sends": {
+    "value": "Send-ak"
+  },
+  "september": {
+    "value": "Iraila"
+  },
+  "server_url": {
+    "value": "Zerbitzariaren URL-a"
+  },
+  "service": {
+    "value": "Zerbitzua"
+  },
+  "session_timeout": {
+    "value": "Session timeout"
+  },
+  "session_timeout_action": {
+    "value": "Session timeout action"
+  },
+  "set_bitwarden_as_passkey_manager_description": {
+    "value": "Set Bitwarden as your passkey provider in device\n        settings.\n    "
+  },
+  "set_master_password": {
+    "value": "Ezarri pasahitz nagusia"
+  },
+  "set_master_password_summary": {
+    "value": "SSO-rekin saioa hasteko, mesedez, ezarri pasahitz nagusi bat kutxa\n        gotorrera sartu eta babesteko.\n    "
+  },
+  "set_password": {
+    "value": "Set password"
+  },
+  "set_pin": {
+    "value": "Ezarri PIN-a"
+  },
+  "set_pin_description": {
+    "value": "Ezarri zure PIN kodea Bitwarden desblokeatzeko. Zure PIN-aren konfigurazioa\n        berrezarriko da, noizbait aplikaziotik erabat saioa ixten baduzu.\n    "
+  },
+  "set_pin_direction": {
+    "value": "Sartu 4 digituko PIN kode bat aplikazioa desblokeatzeko."
+  },
+  "set_up_an_unlock_option_to_change_your_vault_timeout_action": {
+    "value": "Set up an unlock option to change your\n        vault timeout action.\n    "
+  },
+  "set_up_authenticator_key": {
+    "value": "Set up authenticator key"
+  },
+  "set_up_auto_fill_description_long": {
+    "value": "To set up password autofill and passkey management, set Bitwarden\n        as your preferred provider in the iOS Settings.\n    "
+  },
+  "set_up_autofill": {
+    "value": "Set up autofill"
+  },
+  "set_up_autofill_on_all_your_devices": {
+    "value": "Set up autofill on all your devices to login with a single tap\n        anywhere.\n    "
+  },
+  "set_up_biometrics_or_choose_a_pin_code_to_quickly_access_your_vault_and_autofill_your_logins": {
+    "value": "Set up\n        biometrics or choose a PIN code to quickly access your vault and Autofill your logins.\n    "
+  },
+  "set_up_later": {
+    "value": "Set up later"
+  },
+  "set_up_two_step_login": {
+    "value": "Set up two-step login"
+  },
+  "set_up_unlock": {
+    "value": "Set up unlock"
+  },
+  "set_up_unlock_later": {
+    "value": "Set up unlock later?"
+  },
+  "settings": {
+    "value": "Ezarpenak"
+  },
+  "setup_totp": {
+    "value": "TOTP-a konfiguratu"
+  },
+  "seven_days": {
+    "value": "7 egun"
+  },
+  "share": {
+    "value": "Partekatu"
+  },
+  "share_error_details": {
+    "value": "Share error details"
+  },
+  "share_files_and_data_securely_with_anyone_on_any_platform": {
+    "value": "Share files and data securely with anyone,\n        on any platform. Your information will remain end-to-end encrypted while limiting exposure.\n    "
+  },
+  "share_item": {
+    "value": "Partekatu elementua"
+  },
+  "share_link": {
+    "value": "Partekatu esteka"
+  },
+  "share_on_save": {
+    "value": "Send hau gordetzean partekatu"
+  },
+  "shared": {
+    "value": "Partekatua"
+  },
+  "show": {
+    "value": "Erakutsi"
+  },
+  "show_less": {
+    "value": "Show less"
+  },
+  "show_more": {
+    "value": "Show more"
+  },
+  "show_website_icons": {
+    "value": "Erakutsi webguneko ikonoak"
+  },
+  "show_website_icons_description": {
+    "value": "Erakutsi irudi bat saio-hasiera bakoitzaren ondoan."
+  },
+  "simple_login": {
+    "value": "SimpleLogin"
+  },
+  "single_tap_passkey_authentication": {
+    "value": "Single tap passkey sign-on"
+  },
+  "single_tap_passkey_creation": {
+    "value": "Single tap passkey creation"
+  },
+  "skip_for_now": {
+    "value": "Skip for now"
+  },
+  "soft_deleting": {
+    "value": "Zakarrontzira bidaltzen..."
+  },
+  "solarized_dark": {
+    "value": "Solarized iluna"
+  },
+  "special_characters": {
+    "value": "Karaktere bereziak (!@#$%^*)"
+  },
+  "ssh_keys": {
+    "value": "SSH keys"
+  },
+  "ssn": {
+    "value": "Segurtasun sozialaren zenbakia"
+  },
+  "starts_with": {
+    "value": "Hasi honekin"
+  },
+  "state_province": {
+    "value": "Estatua / Probintzia"
+  },
+  "status": {
+    "value": "Egoera"
+  },
+  "step_1_of_3": {
+    "value": "Step 1 of 3"
+  },
+  "step_2_of_3": {
+    "value": "Step 2 of 3"
+  },
+  "step_3_of_3": {
+    "value": "Step 3 of 3"
+  },
+  "strong": {
+    "value": "Sendoa"
+  },
+  "submit": {
+    "value": "Bidali"
+  },
+  "submit_crash_logs": {
+    "value": "Bidali akatsen txostena"
+  },
+  "submit_crash_logs_description": {
+    "value": "Lagundu Bitwarden aplikazioaren egonkortasuna hobetzen, akatsen\n        txostenak bidaliz.\n    "
+  },
+  "submitting": {
+    "value": "Bidaltzen..."
+  },
+  "switch_to_already_added_account_confirmation": {
+    "value": "Orain aldatu nahi duzu?"
+  },
+  "sync": {
+    "value": "Sinkronizatu"
+  },
+  "sync_now": {
+    "value": "Sync now"
+  },
+  "sync_vault_now": {
+    "value": "Sinkronizatu kutxa gotorra orain"
+  },
+  "syncing": {
+    "value": "Sinkronizatzen..."
+  },
+  "syncing_complete": {
+    "value": "Sinkronizatu da."
+  },
+  "syncing_failed": {
+    "value": "Sinkronizazioak huts egin du."
+  },
+  "syncing_logins_loading_message": {
+    "value": "Syncing logins..."
+  },
+  "system_certificates_are_not_as_secure_as_importing_certificates_to_bitwarden": {
+    "value": "Using a system\n        certificate is less secure than storing the certificate with Bitwarden. Continuing will display a list of\n        available system certificates if one is already installed.\n    "
+  },
+  "tap_to_go_back": {
+    "value": "Sakatu itzultzeko"
+  },
+  "ten_seconds": {
+    "value": "10 segundu"
+  },
+  "terms_of_service": {
+    "value": "Zerbitzuaren baldintzak"
+  },
+  "text": {
+    "value": "Testua"
+  },
+  "text_to_share": {
+    "value": "Text to share"
+  },
+  "text_type_is_not_selected": {
+    "value": "Testu mota ez da hautatu, sakatu hautatzeko."
+  },
+  "text_type_is_selected": {
+    "value": "Testu mota hautatu da."
+  },
+  "thank_you": {
+    "value": "Eskerrik asko"
+  },
+  "the_best_way_to_make_sure_you_can_always_access_your_vault": {
+    "value": "The best way to make sure you can always\n        access your vault is to set up safeguards from the start.\n    "
+  },
+  "the_following_instructions_will_guide_you_through_importing_logins": {
+    "value": "The following instructions will\n        guide you through importing logins from your desktop or laptop computer\n    "
+  },
+  "the_longer_your_password_the_more_difficult_to_hack": {
+    "value": "The longer your password, the more difficult it\n        is to hack. The minimum for account creation is 12 characters but if you do 14 characters, the time to crack\n        your password would be centuries!\n    "
+  },
+  "the_passkey_will_not_be_copied_to_the_cloned_item_do_you_want_to_continue_cloning_this_item": {
+    "value": "The\n        passkey will not be copied to the cloned item. Do you want to continue cloning this item?\n    "
+  },
+  "the_strongest_passwords_are_usually": {
+    "value": "The strongest passwords are usually:"
+  },
+  "the_urix_is_already_blocked": {
+    "value": "The URI %1$s is already blocked"
+  },
+  "the_vault_protects_more_than_just_passwords": {
+    "value": "The vault protects more than just passwords. Store secure\n        logins, IDs, cards and notes securely here.\n    "
+  },
+  "theme": {
+    "value": "Gaia"
+  },
+  "theme_applied_on_restart": {
+    "value": "Aplikazioa berrabiarazten denean aplikatuko dira gai aldaketak."
+  },
+  "theme_default": {
+    "value": "Lehenetsia (Sistema)"
+  },
+  "theme_description": {
+    "value": "Aldatu aplikaziorako kolore gaia."
+  },
+  "there_are_no_blocked_ur_is": {
+    "value": "There are no blocked URIs"
+  },
+  "there_are_no_items_in_your_vault_that_match_x": {
+    "value": "There are no items in your vault that match \\\"%1$s\\\"\n    "
+  },
+  "there_are_no_items_that_match_the_search": {
+    "value": "Ez dago bilaketarekin bat datorren emaitzarik"
+  },
+  "there_was_a_problem_creating_a_passkey_for_x_try_again_later": {
+    "value": "There was a problem creating a passkey\n        for %1$s. Try again later.\n    "
+  },
+  "there_was_a_problem_reading_a_passkey_for_x_try_again_later": {
+    "value": "There was a problem reading your passkey\n        for %1$s. Try again later.\n    "
+  },
+  "there_was_an_error_starting_web_authn_two_factor_authentication": {
+    "value": "There was an error starting WebAuthn\n        two factor authentication\n    "
+  },
+  "there_was_an_issue_validating_the_registration_token": {
+    "value": "There was an issue validating the registration\n        token.\n    "
+  },
+  "third_dot_select_bitwarden_to_use_for_passwords_and_passkeys": {
+    "value": "3. Select \\\"Bitwarden\\\" to use for\n        passwords and passkeys\n    "
+  },
+  "thirty_days": {
+    "value": "30 egun"
+  },
+  "thirty_minutes": {
+    "value": "30 minutu"
+  },
+  "thirty_seconds": {
+    "value": "30 segundu"
+  },
+  "this_is_not_a_recognized_bitwarden_server_you_may_need_to_check_with_your_provider_or_update_your_server": {
+    "value": "\n        This is not a recognized Bitwarden server. You may need to check with your provider or update your server.\n    "
+  },
+  "this_item_already_contains_a_passkey_are_you_sure_you_want_to_overwrite_the_current_passkey": {
+    "value": "This item\n        already contains a passkey. Are you sure you want to overwrite the current passkey?\n    "
+  },
+  "this_request_is_no_longer_valid": {
+    "value": "Eskaera jada ez da balekoa."
+  },
+  "three_days": {
+    "value": "3 egun"
+  },
+  "time": {
+    "value": "Ordua"
+  },
+  "title": {
+    "value": "Titulua"
+  },
+  "toggle_visibility": {
+    "value": "Txandakatu ikusgarritasuna"
+  },
+  "too_many_attempts": {
+    "value": "Too many attempts"
+  },
+  "tools": {
+    "value": "Tresnak"
+  },
+  "totally_different_from_your_other_passwords": {
+    "value": "Totally different from your other passwords"
+  },
+  "totp": {
+    "value": "TOTP"
+  },
+  "touch_id": {
+    "value": "Touch ID"
+  },
+  "translations": {
+    "value": "Itzulpenak"
+  },
+  "trash": {
+    "value": "Zakarrontzia"
+  },
+  "trouble_logging_in": {
+    "value": "Trouble logging in?"
+  },
+  "try_again": {
+    "value": "Saiatu berriro"
+  },
+  "try_it_out": {
+    "value": "Try it out"
+  },
+  "turn_off_using_public_device": {
+    "value": "Turn off using a public device"
+  },
+  "turn_on_autofill": {
+    "value": "Turn on autofill"
+  },
+  "turn_on_autofill_later": {
+    "value": "Turn on autofill later?"
+  },
+  "turn_on_later": {
+    "value": "Turn on later"
+  },
+  "turn_on_two_step_login": {
+    "value": "Turn on two-step login"
+  },
+  "twelve_or_more_characters": {
+    "value": "12 or more characters"
+  },
+  "twenty_seconds": {
+    "value": "20 segundu"
+  },
+  "two_days": {
+    "value": "2 egun"
+  },
+  "two_minutes": {
+    "value": "2 minutu"
+  },
+  "two_step_login": {
+    "value": "Bi urratseko saio hasiera"
+  },
+  "two_step_login_description_long": {
+    "value": "Make your account more secure by setting up two-step login in the\n        Bitwarden web app.\n    "
+  },
+  "two_step_login_options": {
+    "value": "Bi urratseko saio hasieraren aukerak"
+  },
+  "type": {
+    "value": "Mota"
+  },
+  "type_card": {
+    "value": "Txartela"
+  },
+  "type_file": {
+    "value": "Fitxategia"
+  },
+  "type_file_info": {
+    "value": "Bidali nahi duzun fitxategia."
+  },
+  "type_identity": {
+    "value": "Identitatea"
+  },
+  "type_login": {
+    "value": "Saio-hasiera"
+  },
+  "type_secure_note": {
+    "value": "Ohar seguruak"
+  },
+  "type_ssh_key": {
+    "value": "SSH key"
+  },
+  "type_text": {
+    "value": "Testua"
+  },
+  "types": {
+    "value": "Motak"
+  },
+  "unable_to_download_file": {
+    "value": "Ezin da fitxategia deskargatu."
+  },
+  "unable_to_open_file": {
+    "value": "Zure gailuak ezin du fitxategi mota hau ireki."
+  },
+  "unable_to_save_attachment": {
+    "value": "Arazo bat egon da eranskin hau atxikitzean. Arazoak bere horretan\n        jarraitzen badu, webguneko kutxa gotorretik atxiki dezakezu.\n    "
+  },
+  "unfavorite": {
+    "value": "Unfavorite"
+  },
+  "unique_usernames_add_an_extra_layer_of_security_and_can_help_prevent_hackers_from_finding_your_accounts": {
+    "value": "\n        Unique usernames add an extra layer of security and can help prevent hackers from finding your accounts.\n    "
+  },
+  "unknown_account": {
+    "value": "Unknown account"
+  },
+  "unknown_x_error_message": {
+    "value": "%1$s akats ezezaguna gertatu da."
+  },
+  "unlock": {
+    "value": "Desblokeatu"
+  },
+  "unlock_options": {
+    "value": "Unlock options"
+  },
+  "unlock_vault": {
+    "value": "Desblokeatu kutxa gotorra"
+  },
+  "unlock_with": {
+    "value": "%1$s-arekin desblokeatu"
+  },
+  "unlock_with_pin": {
+    "value": "PIN kodearekin desblokeatu"
+  },
+  "unlocking_may_fail_due_to_insufficient_memory_decrease_your_kdf_memory_settings_to_resolve": {
+    "value": "Unlocking\n        may fail due to insufficient memory. Decrease your KDF memory settings or set up biometric unlock to resolve.\n    "
+  },
+  "unsubscribe": {
+    "value": "Unsubscribe"
+  },
+  "unsupported_certificate_type": {
+    "value": "Unsupported certificate type"
+  },
+  "update_key": {
+    "value": "Ezin duzu ezaugarri hau erabili zifratze-gakoa eguneratu arte."
+  },
+  "update_master_password": {
+    "value": "Pasahitz nagusia eguneratu"
+  },
+  "update_master_password_warning": {
+    "value": "Zure erakundeko administratzaile batek pasahitz nagusia aldatu berri\n        du. Kutxa gotorrera sartzeko, pasahitz nagusia orain eguneratu behar duzu. Beraz, oraingo saiotik atera eta\n        saioa hasteko eskatuko zaizu. Beste gailu batzuetako saio aktiboek ordubete iraun dezakete aktibo.\n    "
+  },
+  "update_password_error": {
+    "value": "Orain ezin da pasahitza eguneratu"
+  },
+  "update_weak_master_password_warning": {
+    "value": "Your master password does not meet one or more of your\n        organization policies. In order to access the vault, you must update your master password now. Proceeding will\n        log you out of your current session, requiring you to log back in. Active sessions on other devices may continue\n        to remain active for up to one hour.\n    "
+  },
+  "updated_master_password": {
+    "value": "Pasahitz nagusia eguneratuta"
+  },
+  "updating_password": {
+    "value": "Pasahitza eguneratzen"
+  },
+  "uppercase_ato_z": {
+    "value": "Letra larria (A-Z)"
+  },
+  "ur_is": {
+    "value": "URI-ak"
+  },
+  "uri": {
+    "value": "URI"
+  },
+  "uri_match_detection": {
+    "value": "URI detekzio modua"
+  },
+  "uri_position": {
+    "value": "URI %1$s"
+  },
+  "uri_removed": {
+    "value": "URI removed"
+  },
+  "uri_saved": {
+    "value": "URI saved"
+  },
+  "us": {
+    "value": "AEB"
+  },
+  "use_a_computer_to_import_logins": {
+    "value": "Use a computer to import logins from an existing password manager\n    "
+  },
+  "use_another_two_step_method": {
+    "value": "Erabili bi urratseko saio hasierarako beste modu bat"
+  },
+  "use_autofill_to_log_into_your_accounts": {
+    "value": "Use autofill to log into your accounts with a single tap.\n    "
+  },
+  "use_biometrics_to_unlock": {
+    "value": "Erabili biometria desblokeatzeko"
+  },
+  "use_chrome_autofill_integration": {
+    "value": "Use Chrome autofill integration"
+  },
+  "use_chrome_beta_autofill_integration": {
+    "value": "Use Chrome autofill integration (Beta)"
+  },
+  "use_face_id_to_unlock": {
+    "value": "Desblokeatzeko erabili Face ID."
+  },
+  "use_fingerprint_to_unlock": {
+    "value": "Erabili hatz-marka desblokeatzeko"
+  },
+  "use_inline_autofill_explanation_long": {
+    "value": "Erabili teklatuko lerroko atomatikoki betetzea, zure teklatuak\n        ahalbidetzen badu. Horrela ez bada, automatikoki betetzeko gainjartzea erabiliko da lehenespenez.\n    "
+  },
+  "use_system_certificate": {
+    "value": "Use system certificate"
+  },
+  "use_the_generator_to_create_a_strong_unique_password": {
+    "value": "Use the generator to create a strong, unique\n        password\n    "
+  },
+  "use_the_generator_to_create_secure_passwords_passphrases_and_usernames": {
+    "value": "\"Use the generator to create\n        secure passwords, passphrases and usernames. \"\n    "
+  },
+  "use_the_web_app": {
+    "value": "Use the web app"
+  },
+  "use_these_options_to_adjust_your_password_to_your_account_requirements": {
+    "value": "Use these options to adjust\n        your password to meet your account website\\'s requirements.\n    "
+  },
+  "use_this_button_to_generate_a_new_unique_password": {
+    "value": "Use this button to generate a new unique\n        password.\n    "
+  },
+  "use_this_device_to_approve_login_requests_made_from_other_devices": {
+    "value": "Erabili gailu hau beste gailu\n        batzuetatik egindako saio hasiera eskaerak onartzeko.\n    "
+  },
+  "user_verification_direction": {
+    "value": "User verification"
+  },
+  "username": {
+    "value": "Erabiltzaile izena"
+  },
+  "username_type": {
+    "value": "Erabiltzaile izen mota"
+  },
+  "validating": {
+    "value": "Baliozkotzen"
+  },
+  "validation_field_required": {
+    "value": "%1$s ezinbestekoa da."
+  },
+  "value": {
+    "value": "Balioa"
+  },
+  "value_has_been_copied": {
+    "value": "%1$s kopiatu da."
+  },
+  "vault": {
+    "value": "Vault"
+  },
+  "vault_filter_description": {
+    "value": "Kutxa gotorra: %1$s"
+  },
+  "vault_is_locked": {
+    "value": "Kutxa gotorra blokeatuta dago"
+  },
+  "vault_locked_identity": {
+    "value": "Zure kutxa gotorra blokeatuta dago. Egiaztatu zure identitatea jarraitzeko.\n    "
+  },
+  "vault_locked_master_password": {
+    "value": "Zure kutxa gotorra blokeatuta dago. Egiaztatu zure pasahitz nagusia\n        jarraitzeko.\n    "
+  },
+  "vault_locked_pin": {
+    "value": "Zure kutxa gotorra blokeatuta dago. Egiaztatu zure PIN kodea jarraitzeko."
+  },
+  "vault_timeout": {
+    "value": "Kutxa gotorraren itxaronaldia"
+  },
+  "vault_timeout_action": {
+    "value": "Kutxa gotorraren itxaronaldiaren ekintza"
+  },
+  "vault_timeout_action_changed_to_log_out": {
+    "value": "Vault timeout action changed to log out"
+  },
+  "vault_timeout_action_policy_in_effect": {
+    "value": "Your organization policies have set your vault timeout action\n        to %1$s.\n    "
+  },
+  "vault_timeout_log_out_confirmation": {
+    "value": "Saioa ixteak kutxa gotorreko sarrera guztia kenduko du eta\n        itxaronaldiaren ondoren lineako autentifikazioa eskatuko du. Ziur al zaude hau egin nahi duzula?\n    "
+  },
+  "vault_timeout_policy_in_effect": {
+    "value": "Zure erakundearen politikek zure itxaronaldiari eragiten diote.\n        Itxaronaldiak gehienez ere %1$s ordu eta %2$s minutu izango ditu\n    "
+  },
+  "vault_timeout_policy_with_action_in_effect": {
+    "value": "Your organization policies are affecting your vault\n        timeout. Maximum allowed vault timeout is %1$s hour(s) and %2$s minute(s). Your vault timeout action is set to\n        %3$s.\n    "
+  },
+  "vault_timeout_to_large": {
+    "value": "Zure kutxa gotorreko itxaronaldiak, zure erakundeak ezarritako murrizpenak\n        gainditzen ditu.\n    "
+  },
+  "vaults": {
+    "value": "Kutxa Gotorrak"
+  },
+  "verification_code": {
+    "value": "Egiaztatze-kodea"
+  },
+  "verification_code_totp": {
+    "value": "Egiaztatze-kodea (TOTP)"
+  },
+  "verification_codes": {
+    "value": "Egiaztatze-kodeak"
+  },
+  "verification_email_not_sent": {
+    "value": "Ezin izan da egiaztatze-emailik bidali. Saiatu berriro."
+  },
+  "verification_email_sent": {
+    "value": "Egiaztatze-emaila bidali da."
+  },
+  "verification_required_by_x": {
+    "value": "Verification required by %1$s"
+  },
+  "verification_required_for_this_action_set_up_an_unlock_method_in_bitwarden_to_continue": {
+    "value": "Verification\n        required for this action. Set up an unlock method in Bitwarden to continue.\n    "
+  },
+  "verified_sso_domain_verified": {
+    "value": "Verified SSO Domain Endpoint"
+  },
+  "verify_face_id": {
+    "value": "Egiaztatu Face ID."
+  },
+  "verify_fingerprint": {
+    "value": "Egiaztatu hatz-marka"
+  },
+  "verify_master_password": {
+    "value": "Egiaztatu pasahitz nagusia"
+  },
+  "verify_pin": {
+    "value": "Egiaztatu PIN-a"
+  },
+  "verify_your_identity": {
+    "value": "Verify your identity"
+  },
+  "verifying": {
+    "value": "Egiaztatzen"
+  },
+  "verifying_identity_ellipsis": {
+    "value": "Verifying identity..."
+  },
+  "version": {
+    "value": "Bertsioa"
+  },
+  "view": {
+    "value": "Erakutsi"
+  },
+  "view_all_login_options": {
+    "value": "Ikusi erregistro guztiak ezarpenetan"
+  },
+  "view_card": {
+    "value": "View card"
+  },
+  "view_identity": {
+    "value": "View identity"
+  },
+  "view_item": {
+    "value": "Bistaratu elementua"
+  },
+  "view_login": {
+    "value": "View login"
+  },
+  "view_note": {
+    "value": "View note"
+  },
+  "view_passkey": {
+    "value": "View passkey"
+  },
+  "visit_our_website": {
+    "value": "Bisitatu gure webgunea"
+  },
+  "warning": {
+    "value": "Kontuz"
+  },
+  "we_couldnt_verify_the_servers_certificate": {
+    "value": "We couldn’t verify the server’s certificate. The\n        certificate chain or proxy settings on your device or your Bitwarden server may not be set up correctly.\n    "
+  },
+  "we_ll_walk_you_through_the_key_features_to_add_a_new_login": {
+    "value": "We\\'ll walk you through the key features\n        to add a new login.\n    "
+  },
+  "we_sent_an_email_to": {
+    "value": "We sent an email to\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n        .\n    "
+  },
+  "weak": {
+    "value": "Ahula"
+  },
+  "weak_and_exposed_master_password": {
+    "value": "Agerian utzitako pasahitz nagusia, ahula"
+  },
+  "weak_master_password": {
+    "value": "Pasahitz nagusia ahula"
+  },
+  "weak_password_identified_and_found_in_a_data_breach_alert_description": {
+    "value": "Pasahitz ahul hau datu-urraketa\n        batean aurkitu da. Erabil ezazu beste inon erabili ez duzun pasahitz sendi bat zure kontua babesteko. Ziur zaude\n        pasahitz hau erabili nahi duzula?\n    "
+  },
+  "weak_password_identified_use_a_strong_password_to_protect_your_account": {
+    "value": "Pasahitz ahula atzeman da.\n        Erabili pasahitz sendo bat zure kontua babesteko. Ziur zaude pasahitz ahul bat erabili nahi duzula?\n    "
+  },
+  "web_vault": {
+    "value": "Bitwarden kutxa gotorra"
+  },
+  "web_vault_url": {
+    "value": "Web kutxa gotorreko zerbitzariaren URL-a"
+  },
+  "website": {
+    "value": "Webgunea"
+  },
+  "website_required": {
+    "value": "Webgunea (beharrezkoa)"
+  },
+  "website_uri": {
+    "value": "Website (URI)"
+  },
+  "welcome_message_1": {
+    "value": "Save logins, cards, and identities to your secure vault. Bitwarden uses\n        zero-knowledge, end-to-end encryption to protect what’s important to you.\n    "
+  },
+  "welcome_message_2": {
+    "value": "Set up biometric unlock and autofill to log into your accounts without typing a\n        single letter.\n    "
+  },
+  "welcome_message_3": {
+    "value": "Use the generator to create and save strong, unique passwords for all your\n        accounts.\n    "
+  },
+  "welcome_message_4": {
+    "value": "Save unlimited passwords across unlimited devices with Bitwarden mobile, browser,\n        and desktop apps.\n    "
+  },
+  "what_bitwarden_has_to_offer": {
+    "value": "You can now explore everything Bitwarden has to offer and start managing\n        your passwords securely.\n    "
+  },
+  "what_makes_a_password_strong": {
+    "value": "What makes a password strong?"
+  },
+  "what_would_you_like_to_generate": {
+    "value": "Zer sortu nahi duzu?"
+  },
+  "windows_hello": {
+    "value": "Windows Hello"
+  },
+  "word_separator": {
+    "value": "Hitz banatzailea"
+  },
+  "write_this_password_down_and_keep_it_somewhere_safe": {
+    "value": "Write this password down and keep it somewhere\n        safe.\n    "
+  },
+  "write_your_password_down": {
+    "value": "Write your password down"
+  },
+  "x_ellipses": {
+    "value": "%s..."
+  },
+  "x_hours": {
+    "value": "%1$s hours"
+  },
+  "x_hours_and_one_minute": {
+    "value": "%1$s hours and one minute"
+  },
+  "x_hours_and_y_minutes": {
+    "value": "%1$s hours and %2$s minutes"
+  },
+  "x_minutes_ago": {
+    "value": "Orain dela %1$s minutu"
+  },
+  "yes": {
+    "value": "Bai"
+  },
+  "yes_and_save": {
+    "value": "Bai, eta gorde"
+  },
+  "yes_i_can_reliably_access_my_email": {
+    "value": "Yes, I can reliably access my email"
+  },
+  "you_can_change_your_account_email_on_the_bitwarden_web_app": {
+    "value": "You can change your account email on the\n        Bitwarden web app.\n    "
+  },
+  "you_can_import_data_to_your_vault_on_x": {
+    "value": "You can import data to your vault on %1$s."
+  },
+  "you_can_return_to_complete_this_step_anytime_from_account_security_in_settings": {
+    "value": "You can return to\n        complete this step anytime from Account Security in Settings.\n    "
+  },
+  "you_can_return_to_complete_this_step_anytime_from_settings": {
+    "value": "You can return to complete this step\n        anytime in Vault Settings.\n    "
+  },
+  "you_can_set_up_two_step_login_as_an_alternative_way_to_protect_your_account_or_change_your_email_to_one_you_can_access": {
+    "value": "\n        You can set up two-step login as an alternative way to protect your account or change your email to one you can\n        access.\n    "
+  },
+  "you_cannot_edit_passkey_application_because_it_would_invalidate_the_passkey": {
+    "value": "You cannot edit passkey\n        application because it would invalidate the passkey\n    "
+  },
+  "you_ll_only_need_to_set_up_authenticator_key": {
+    "value": "You’ll only need to set up Authenticator Key for logins\n        that require two-factor authentication with a code. The key will continuously generate six-digit codes you can\n        use to log in.\n    "
+  },
+  "you_must_add_a_web_address_to_use_autofill_to_access_this_account": {
+    "value": "You must add a web address to use\n        autofill to access this account.\n    "
+  },
+  "you_will_be_notified_once_approved": {
+    "value": "You will be notified once approved."
+  },
+  "your_account_has_been_permanently_deleted": {
+    "value": "Zure kontua betirako ezabatu da"
+  },
+  "your_accounts_fingerprint": {
+    "value": "Zure kontuaren hatz-marka digitalaren esaldia"
+  },
+  "your_data_when_and_where_you_need_it": {
+    "value": "Your data, when and where you need it"
+  },
+  "your_hint_will_be_send_to_you_via_email_when_you_request_it": {
+    "value": "Your hint will be sent to you via email\n        when you request it.\n    "
+  },
+  "your_master_password_cannot_be_recovered_if_you_forget_it_x_characters_minimum": {
+    "value": "Zure pasahitz nagusia\n        ezin da berreskuratu ahazten baduzu! %1$s karaktere gutxienez.\n    "
+  },
+  "your_organization_permissions_were_updated_requering_you_to_set_a_master_password": {
+    "value": "Your organization\n        permissions were updated, requiring you to set a master password.\n    "
+  },
+  "your_organization_requires_you_to_set_a_master_password": {
+    "value": "Your organization requires you to set a\n        master password.\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault": {
+    "value": "Your passkey will be saved to your Bitwarden\n        vault\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault_for_x": {
+    "value": "Your passkey will be saved to your Bitwarden\n        vault for %1$s\n    "
+  },
+  "your_request_has_been_sent_to_your_admin": {
+    "value": "Your request has been sent to your admin."
+  },
+  "youre_all_set": {
+    "value": "You\\'re all set!"
+  },
+  "yubi_key_instruction": {
+    "value": "Aurrera egiteko, mantendu zure NEO YubiKey gailuaren atzeko aldean edo sartu\n        YubiKey zure gailuaren USB atakan. Ondoren, sakatu botoia.\n    "
+  },
+  "yubi_key_instruction_ios": {
+    "value": "Aurrera egiteko, mantendu YubiKey NEO gailuaren atzeko aldean."
+  },
+  "yubi_key_title": {
+    "value": "YubiKey segurtasun-gakoa"
+  },
+  "zip_postal_code": {
+    "value": "Posta kodea"
+  }
+}

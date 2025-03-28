@@ -1,0 +1,3677 @@
+{
+  "a_notification_has_been_sent_to_your_device": {
+    "value": "Обавештење је послато на твој уређај."
+  },
+  "a_secure_memorable_password": {
+    "value": "Безбедна, упамтива лозинка"
+  },
+  "a_verification_code_was_sent_to_your_email": {
+    "value": "Верификациони кôд је послат на вашу е-пошту"
+  },
+  "about": {
+    "value": "О апликацији"
+  },
+  "about_send": {
+    "value": "О слању"
+  },
+  "accept": {
+    "value": "Прихвати"
+  },
+  "accept_policies": {
+    "value": "Активирањем овог прекидача прихватате следеће:"
+  },
+  "accept_policies_error": {
+    "value": "Услови услуге и Политика приватности нису признати."
+  },
+  "accessibility": {
+    "value": "Користите приступачност"
+  },
+  "accessibility_description": {
+    "value": "Користите Bitwarden услугу приступачности да бисте ауто-пунили своје\n        пријаве у апликацијама и на вебу. Када је омогућено, приказаћемо искачући прозор када су изабрана поља за\n        пријаву.\n    "
+  },
+  "accessibility_description2": {
+    "value": "Користите Bitwarden услугу приступачности да бисте ауто-пунили своје\n        пријаве у апликацијама и на вебу. (Захтева и омогућавање превлачења)\n    "
+  },
+  "accessibility_description3": {
+    "value": "Употребите Bitwarden сервис приступачности за уотребу Ауто-пуњење брзе\n        акције, и/или приказати искачући прозор помоћу Превлачење (ако је омогућено).\n    "
+  },
+  "accessibility_description4": {
+    "value": "Потребно за употребу Љуто-пуњење брзе акције, или са се повећа сервис са\n        превачење (ако је омогућено).\n    "
+  },
+  "accessibility_description5": {
+    "value": "Неопходно је за коришћење плочице брзе акције ауто-попуњавања."
+  },
+  "accessibility_disclosure_text": {
+    "value": "Битварден користи услугу приступачности да тражи поља за пријаву у\n        апликацијама и веб локацијама, а затим успоставља одговарајуће ИД-ове поља за уношење корисничког имена и\n        лозинке када се пронађе подударање за апликацију или сајт. Не чувамо ниједну информацију коју нам пружа услуга,\n        нити покушавамо да контролишемо било које елементе на екрану осим уноса текста акредитива.\n    "
+  },
+  "accessibility_draw_over_permission_alert": {
+    "value": "Bitwarden треба пажњу - Омогућите „Преко“ у „Сервиси\n        Ауто-пуњења“ из подешавања Bitwarden-а\n    "
+  },
+  "accessibility_overlay_permission_alert": {
+    "value": "Bitwarden треба пажњу - Ићи на „Сервис приступачности\n        ауто-пуњења“ из подешавања Bitwarden-а\n    "
+  },
+  "accessibility_service_disclosure": {
+    "value": "Откривање услуге приступачности"
+  },
+  "account": {
+    "value": "Налог"
+  },
+  "account_already_added": {
+    "value": "Налог је већ додат"
+  },
+  "account_biometric_invalidated": {
+    "value": "Биометријско откључавање је онемогућено до верификације главне\n        лозинке.\n    "
+  },
+  "account_biometric_invalidated_extension": {
+    "value": "Биометријско откључавање аутоматског попуњавања за овај налог\n        је онемогућено до верификације главне лозинке.\n    "
+  },
+  "account_created": {
+    "value": "Ваш налог је креиран! Сада се можете пријавити."
+  },
+  "account_created_success": {
+    "value": "Ваш нови налог је направљен!"
+  },
+  "account_fingerprint_phrase": {
+    "value": "Сигурносна фраза налога"
+  },
+  "account_locked": {
+    "value": "Закључано"
+  },
+  "account_locked_successfully": {
+    "value": "Налог закључан"
+  },
+  "account_logged_out": {
+    "value": "Одјављено"
+  },
+  "account_logged_out_biometric_exceeded": {
+    "value": "Налог је одјављен."
+  },
+  "account_logged_out_successfully": {
+    "value": "Успешно одјављивање"
+  },
+  "account_removed_successfully": {
+    "value": "Налог je успешно уклоњен"
+  },
+  "account_security": {
+    "value": "Безбедност налога"
+  },
+  "account_setup": {
+    "value": "Подешавање налога"
+  },
+  "account_switched_automatically": {
+    "value": "Пребацили сте се на следећи доступни налог"
+  },
+  "account_unlocked": {
+    "value": "Откључано"
+  },
+  "add": {
+    "value": "Додај"
+  },
+  "add_a_number_or_symbol_to_make_it_even_stronger": {
+    "value": "Додајте број или симбол да би сте је учинили још\n        јачом. Сада имате јединствену, безбедну и упамтиву фразу!\n    "
+  },
+  "add_a_send": {
+    "value": "Ново слање"
+  },
+  "add_account": {
+    "value": "Додај налог"
+  },
+  "add_an_item": {
+    "value": "Додај ставку"
+  },
+  "add_field": {
+    "value": "Add field"
+  },
+  "add_folder": {
+    "value": "Додај фасциклу"
+  },
+  "add_item": {
+    "value": "Додај ставку"
+  },
+  "add_new_attachment": {
+    "value": "Додај нови прилог"
+  },
+  "add_send": {
+    "value": "Додај слање"
+  },
+  "add_the_key_to_an_existing_or_new_item": {
+    "value": "Додајте кључ постојећој или новој ставци"
+  },
+  "add_this_authenticator_key_to_a_login": {
+    "value": "Додајте овај кључ за аутентификацију постојећој пријави или\n        направите нову пријаву.\n    "
+  },
+  "add_totp": {
+    "value": "Додати ТОТП"
+  },
+  "add_website": {
+    "value": "Додај вебсајт"
+  },
+  "additional_options": {
+    "value": "Додатне опције"
+  },
+  "address": {
+    "value": "Адреса"
+  },
+  "address1": {
+    "value": "Адреса 1"
+  },
+  "address2": {
+    "value": "Адреса 2"
+  },
+  "address3": {
+    "value": "Адреса 3"
+  },
+  "addy_io": {
+    "value": "addy.io"
+  },
+  "admin_approval_requested": {
+    "value": "Захтевано је одобрење администратора"
+  },
+  "after_you_save_your_new_password_to_bitwarden_don_t_forget_to_update_it_on_your_account_website": {
+    "value": "\n        \"Након што сачувате вашу нову лозинку у Bitwarden, не заборавите да је обновите на налогу веб сајта. \"\n    "
+  },
+  "alias": {
+    "value": "Надимак"
+  },
+  "all": {
+    "value": "Све"
+  },
+  "all_items": {
+    "value": "Све ставке"
+  },
+  "all_notifications": {
+    "value": "Сва обавештења"
+  },
+  "all_sends": {
+    "value": "Све послато"
+  },
+  "all_vaults": {
+    "value": "Сви Сефови"
+  },
+  "allow_bitwarden_authenticator_syncing": {
+    "value": "Дозволи синхронизацију аутентификатора"
+  },
+  "allow_notifications": {
+    "value": "Дозволи обавештавања"
+  },
+  "allow_screen_capture": {
+    "value": "Дозволи снимање екрана"
+  },
+  "an_error_has_occurred": {
+    "value": "Појавила се грешка."
+  },
+  "an_error_occurred_while_sending_a_verification_code_to_your_email_please_try_again": {
+    "value": "Дошло је до грешке\n        при слању верификационог кôда на вашу е-пошту. Покушајте поново\n    "
+  },
+  "api_access_token": {
+    "value": "Приступни АПИ токен"
+  },
+  "api_key_required_parenthesis": {
+    "value": "API кључ (обавезно)"
+  },
+  "api_url": {
+    "value": "УРЛ АПИ Сервера"
+  },
+  "app_extension": {
+    "value": "Додатак апликације"
+  },
+  "appearance": {
+    "value": "Изглед"
+  },
+  "application": {
+    "value": "Апликација"
+  },
+  "approve_login_requests": {
+    "value": "Одобравање захтева за пријављивање"
+  },
+  "approve_with_master_password": {
+    "value": "Одобрити са главном лозинком"
+  },
+  "approve_with_my_other_device": {
+    "value": "Одобри са мојим другим уређајем"
+  },
+  "april": {
+    "value": "Април"
+  },
+  "are_you_sure_delete_send": {
+    "value": "Да ли си сигуран да желиш да избришеш ово слање?"
+  },
+  "are_you_sure_remove_send_password": {
+    "value": "Да ли сте сигурни да желите уклонити лозинку?"
+  },
+  "are_you_sure_you_want_to_decline_all_pending_log_in_requests": {
+    "value": "Да ли сте сигурни да желите да одбијете\n        све захтеве за пријављивање на чекању?\n    "
+  },
+  "are_you_sure_you_want_to_enable_screen_capture": {
+    "value": "Да ли сте сигурни да желите да укључите снимање\n        екрана?\n    "
+  },
+  "are_you_sure_you_want_to_overwrite_the_current_username": {
+    "value": "Сигурно преписати тренутно име?"
+  },
+  "are_you_trying_to_log_in": {
+    "value": "Да ли покушавате да се пријавите?"
+  },
+  "ask_to_add_login": {
+    "value": "Питај да се дода пријава"
+  },
+  "ask_to_add_login_description": {
+    "value": "Затражи да се дода ставка ако она није пронађена у вашем сефу."
+  },
+  "attachement_added": {
+    "value": "Прилог додат"
+  },
+  "attachment_deleted": {
+    "value": "Прилог избрисан"
+  },
+  "attachment_large_warning": {
+    "value": "Овај прилог има %1$s. Да ли сте сигурни да желите да га преузмете на свој\n        уређај?\n    "
+  },
+  "attachments": {
+    "value": "Прилози"
+  },
+  "august": {
+    "value": "Август"
+  },
+  "authenticator": {
+    "value": "Аутентификатор"
+  },
+  "authenticator_app_title": {
+    "value": "Апликација Аутентификатор"
+  },
+  "authenticator_key": {
+    "value": "Једнократни код"
+  },
+  "authenticator_key_added": {
+    "value": "Верификациони код додат."
+  },
+  "authenticator_key_help": {
+    "value": "Помоћ за увлачење аутентификатора"
+  },
+  "authenticator_key_read_error": {
+    "value": "Не могу да читам верификациони код."
+  },
+  "authenticator_key_scanner": {
+    "value": "Кључ аутентификатора"
+  },
+  "authenticator_sync": {
+    "value": "Синхронизација аутентификатора"
+  },
+  "auto_fill_will_not_be_offered_for_these_ur_is": {
+    "value": "Ауто-пуњење неће бити понуђено за ове УРЛ."
+  },
+  "autofill": {
+    "value": "Ауто-попуњавање"
+  },
+  "autofill_accessibility_description": {
+    "value": "Користи услугу приступачности Bitwarden-а за аутоматско попуњавање\n        пријава у апликацијама и на мрежи.\n    "
+  },
+  "autofill_accessibility_service": {
+    "value": "Услуга приступачности ауто-попуњавања"
+  },
+  "autofill_accessibility_summary": {
+    "value": "Помозите при попуњавању поља за корисничко име и лозинку у другим\n        апликацијама и на вебу.\n    "
+  },
+  "autofill_activated": {
+    "value": "Ауто-пуњење активирано!"
+  },
+  "autofill_and_save": {
+    "value": "Ауто-пуни и сачувај"
+  },
+  "autofill_blocked_uris": {
+    "value": "Ауто-попуни клокиране УРЛ"
+  },
+  "autofill_options": {
+    "value": "Опције аутоматског попуњавања"
+  },
+  "autofill_or_view": {
+    "value": "Да ли желите да ауто-попуните или да погледате ову ставку?"
+  },
+  "autofill_passwords": {
+    "value": "Ауто-попуњавање лозинки"
+  },
+  "autofill_service": {
+    "value": "Услуга Аутоматског попуњавања"
+  },
+  "autofill_service_description": {
+    "value": "Bitwarden услуга ауто-пуњења користи Android Autofill Framework да би\n        помогао у попуњавању података за пријављивање, кредитне картице и податке о идентитету у друге апликације на\n        уређају.\n    "
+  },
+  "autofill_service_not_enabled": {
+    "value": "Ауто-пуњење олакшава сигуран приступ вашем Bitwarden сефу са других веб\n        локација и апликација. Изгледа да нисте омогућили сервис ауто-пуњења за Bitwarden. Омогућите Ауто-пуњење за\n        Bitwarden из екрана „Подешавања“.\n    "
+  },
+  "autofill_services": {
+    "value": "Услуге Аутоматског попуњавања"
+  },
+  "autofill_services_explanation_long": {
+    "value": "Android Autofill Framework се користи за помоћ при попуњавању\n        података за пријаву у друге апликације на вашем уређају.\n    "
+  },
+  "autofill_setup": {
+    "value": "Вашим пријавама је сада лако приступити са тастатуре док се пријављујете у апликације\n        и на веб локације.\n    "
+  },
+  "autofill_setup2": {
+    "value": "Препоручујемо да онемогућите било коју другу апликацију за ауто-попуњавање у оквиру\n        Подешавања ако не планирате да их користите.\n    "
+  },
+  "autofill_suggestion": {
+    "value": "Предлог за ауто-попуњавање"
+  },
+  "autofill_tile_accessibility_required": {
+    "value": "Омогући „Аутоматско попуњавање услуге приступачности“ из\n        подешавања Bitwarden-а да би могао да користиш аутоматско попуњавање.\n    "
+  },
+  "autofill_tile_uri_not_found": {
+    "value": "Поља са лозинкама нису нађена"
+  },
+  "autofill_turn_on": {
+    "value": "Да бисте омогућили ауто-пуњење лозинке на уређају, пратите ова упутства:"
+  },
+  "autofill_turn_on1": {
+    "value": "1. Идите у „Подешавања“ iOS-а"
+  },
+  "autofill_turn_on2": {
+    "value": "2. Стисните „Лозинке  Рачуни“"
+  },
+  "autofill_turn_on3": {
+    "value": "3. Стисните „Ауто-Пуњење Лозинке“"
+  },
+  "autofill_turn_on4": {
+    "value": "4. Омогућите ауто-пуњење"
+  },
+  "autofill_turn_on5": {
+    "value": "5. Одаберите „Bitwarden“"
+  },
+  "autofill_with_bitwarden": {
+    "value": "Ауто-пуњење са Bitwarden"
+  },
+  "available_for_two_step_login": {
+    "value": "Доступно за пријаву у два корака"
+  },
+  "avoid_ambiguous_characters": {
+    "value": "Избегавај двосмислене карактере"
+  },
+  "back": {
+    "value": "Назад"
+  },
+  "base_domain": {
+    "value": "Главни домен"
+  },
+  "biometrics": {
+    "value": "Биометријом"
+  },
+  "biometrics_decoding_failure": {
+    "value": "Пријавите се са својом главном лозинком или ПИН-ом, а затим поново\n        омогућите биометријску пријаву у подешавањима.\n    "
+  },
+  "biometrics_direction": {
+    "value": "Биометријска провера"
+  },
+  "biometrics_failed": {
+    "value": "Биометрија није успела"
+  },
+  "biometrics_no_longer_supported": {
+    "value": "Одјављени сте јер биометрија вашег уређаја не испуњава најновије\n        безбедносне захтеве. Да бисте ажурирали подешавања, пријавите се још једном или контактирајте свог\n        администратора за приступ.\n    "
+  },
+  "biometrics_no_longer_supported_title": {
+    "value": "Биометрија више није подржана на овом уређају"
+  },
+  "bitwarden": {
+    "value": "Bitwarden"
+  },
+  "bitwarden_app_extension": {
+    "value": "Bitwarden додатак"
+  },
+  "bitwarden_app_extension_alert2": {
+    "value": "Најлакши начин за додавање нових пријава у свој сеф је из додатка\n        Bitwarden. Сазнајте више о коришћењу додатка Bitwarden преко екрана „Подешавања“.\n    "
+  },
+  "bitwarden_app_extension_description": {
+    "value": "Користите Bitwarden у Safari и другим апликацијама за\n        ауто-попуњавање Ваших пријава.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description": {
+    "value": "Користи услугу приступачности Bitwarden-а за\n        аутоматско попуњавање твојих пријава.\n    "
+  },
+  "bitwarden_autofill_accessibility_service_description2": {
+    "value": "Услуга приступачности може бити корисна за\n        употребу када апликације не подржавају стандардну услугу ауто-попуњавања.\n    "
+  },
+  "bitwarden_autofill_alert2": {
+    "value": "Најлакши начин за додавање нових пријава у свој сеф је користећи додатка\n        Bitwarden. Сазнајте више о коришћењу додатка Bitwarden преко екрана „Подешавања“.\n    "
+  },
+  "bitwarden_autofill_description": {
+    "value": "Приступите сефу директно са тастатуре да бисте брзо ауто-пунили\n        лозинке.\n    "
+  },
+  "bitwarden_autofill_go_to_settings": {
+    "value": "Нисмо могли аутоматски да отворимо мени за подешавања Ауто-пуњења.\n        До менија подешавања ауто-пуњења можете ручно да дођете из Андроид подешавања  Систем  Језици и унос\n         Напредно  Сервис ауто-пуњења.\n    "
+  },
+  "bitwarden_autofill_service": {
+    "value": "Bitwarden Сервис ауто-попуњавања"
+  },
+  "bitwarden_autofill_service_alert2": {
+    "value": "Најлакши начин за додавање нових пријава у свој сеф је из сервиса\n        ауто-попуњавања Bitwarden-а. Сазнајте више о коришћењу сервиса ауто-попуњавања Bitwarden-а преко екрана\n        „Подешавања“.\n    "
+  },
+  "bitwarden_autofill_service_description": {
+    "value": "Употребите Bitwarden услуга ауто-пуњења да би попуњавало\n        податке за пријављивање, кредитне картице и податке о идентитету у друге апликације.\n    "
+  },
+  "bitwarden_autofill_service_match_confirm": {
+    "value": "Да ли сте сигурни да желите да ауто-попуните ову ставку?\n        Није потпуно подударање за „%1$s“.\n    "
+  },
+  "bitwarden_autofill_service_notification_content": {
+    "value": "Додирните ово обавештење да бисте аутоматски попунили\n        ставку из сефа.\n    "
+  },
+  "bitwarden_autofill_service_notification_content_old": {
+    "value": "Додирните ово обавештење да бисте видели ставку\n        из сефа.\n    "
+  },
+  "bitwarden_autofill_service_open_accessibility_settings": {
+    "value": "Отвори подешавања приступачности"
+  },
+  "bitwarden_autofill_service_open_autofill_settings": {
+    "value": "Отворити подешавања ауто-пуњења"
+  },
+  "bitwarden_autofill_service_open_overlay_permission_settings": {
+    "value": "Отворите поставке дозволе за преклапање\n    "
+  },
+  "bitwarden_autofill_service_overlay": {
+    "value": "Када одаберете поље за унос и видите Bitwarden прозор за\n        аутоматско попуњавање, можете да га додирнете да бисте покренули услугу ауто-попуњавања.\n    "
+  },
+  "bitwarden_autofill_service_overlay_permission": {
+    "value": "3. На екрану подешавања Андроид апликације за\n        Bitwarden, идите на напредну опцију „Прикажите преко других апликација“ и додирните прекидач да бисте омогућили\n        подршку за преклапање.\n    "
+  },
+  "bitwarden_autofill_service_search": {
+    "value": "Тражите ауто-попуњавање за „%1$s“."
+  },
+  "bitwarden_autofill_service_step1": {
+    "value": "1. На екрану Подешавања Приступачности Android-а, додирни\n        „Bitwarden“ под насловом Услуге.\n    "
+  },
+  "bitwarden_autofill_service_step2": {
+    "value": "2. Укључи прекидач и притисни ОК за прихватање."
+  },
+  "bitwarden_autofill_service_step3": {
+    "value": "3. На екрану подешавања за Bitwarden, одабрати „Прикажите преко\n        других апликација“ (испод „Напредно“) и укључите прекидач да бисте дозволили прекривање.\n    "
+  },
+  "bitwarden_can_notify_you_each_time_you_receive_a_new_login_request_from_another_device": {
+    "value": "Bitwarden може\n        да вас обавести сваки пут када добијете нови захтев за пријаву са другог уређаја.\n    "
+  },
+  "bitwarden_cannot_recover_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden не може да поврати изгубљену\n        или заборављену главну лозинку.\n    "
+  },
+  "bitwarden_cannot_reset_a_lost_or_forgotten_master_password": {
+    "value": "Bitwarden cannot reset a lost or forgotten\n        master password.\n    "
+  },
+  "bitwarden_credential_provider_go_to_settings": {
+    "value": "Нисмо успели да аутоматски отворимо мени за подешавања\n        Андроид провајдера акредитива за вас. Можете да се крећете до менија подешавања добављача акредитива ручно из\n        Андроид подешавања  Систем  Лозинке и налози  Лозинке, приступни кључени.\n    "
+  },
+  "bitwarden_help_center": {
+    "value": "Bitwarden помоћни центар"
+  },
+  "bitwarden_tools": {
+    "value": "Bitwarden алатке"
+  },
+  "bitwarden_will_soon_send_a_code_to_your_account_email_to_verify_logins_from_new_devices_in_february": {
+    "value": "\n        Bitwarden ће послати кôд на Е-пошту вашег налога за верификовање пријављивања са нових уређаја почевши од\n        фебруара 2025.\n    "
+  },
+  "black": {
+    "value": "Црно"
+  },
+  "block_auto_fill": {
+    "value": "Блокирати ауто-пуњење"
+  },
+  "brand": {
+    "value": "Произвођач"
+  },
+  "by_activating_this_switch_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "Активирањем ове\n        опције, прихватате <annotation link=\"termsOfService\">Услове коришћења</annotation> и\n        <annotation link=\"privacyPolicy\">Политику приватности</annotation>\n    "
+  },
+  "by_continuing_you_agree_to_the_terms_of_service_and_privacy_policy": {
+    "value": "Ако наставите, слажете се са\n        Услови коришћења услуге и Политике приватности\n    "
+  },
+  "camera": {
+    "value": "Камера"
+  },
+  "cancel": {
+    "value": "Откажи"
+  },
+  "cannot_add_authenticator_key": {
+    "value": "Не може да се дода верификациони код?"
+  },
+  "cannot_add_authenticator_key_scan_qr_code": {
+    "value": "Не може се додати кључ за аутентификатор?\n        <annotation link=\"scanQrCode\">Скенирати QR кôд</annotation>\n    "
+  },
+  "cannot_edit_multiple_ur_is_at_once": {
+    "value": "Не може да се уреди истовремено више адресе"
+  },
+  "cannot_open_app": {
+    "value": "Не може да се отвори апликација „%1$s“."
+  },
+  "cannot_scan_qr_code_enter_key_manually": {
+    "value": "Не можете да скенирате QR кôд?\n        <annotation link=\"enterKeyManually\">Ручно унесите кључ</annotation>\n    "
+  },
+  "capitalize": {
+    "value": "Прво слово велико"
+  },
+  "captcha_failed": {
+    "value": "Провера није успела. Покушајте поново."
+  },
+  "captcha_required": {
+    "value": "Провера је потребна"
+  },
+  "card_details": {
+    "value": "Детаљи картице"
+  },
+  "cardholder_name": {
+    "value": "Име Власника Картице"
+  },
+  "cards": {
+    "value": "Кредитне Картице"
+  },
+  "catch_all_email": {
+    "value": "„Ухвати све“ е-порука"
+  },
+  "catch_all_email_description": {
+    "value": "Користите подешено catch-all пријемно сандуче вашег домена."
+  },
+  "certificate_alias": {
+    "value": "Certificate alias"
+  },
+  "certificate_alias_already_exists": {
+    "value": "Certificate alias already exists"
+  },
+  "certificate_installation_failed": {
+    "value": "Certificate installation failed"
+  },
+  "certificate_installed": {
+    "value": "Certificate installed"
+  },
+  "certificate_password_incorrect": {
+    "value": "Certificate password incorrect"
+  },
+  "certificate_selection_failed": {
+    "value": "Certificate selection failed"
+  },
+  "certificate_used_for_client_authentication": {
+    "value": "Сертификат који се користи за аутентификацију клијента.\n    "
+  },
+  "change_account_email": {
+    "value": "Промени Е-пошту налога"
+  },
+  "change_email": {
+    "value": "Промени Е-пошту"
+  },
+  "change_email_address": {
+    "value": "Промени адресу Е-поште"
+  },
+  "change_email_confirmation": {
+    "value": "Можеш променити адресу Е-поште у твом сефу на bitwarden.com. Да ли желиш да\n        посетиш мрежну страницу сада?\n    "
+  },
+  "change_master_password": {
+    "value": "Промени главну лозинку"
+  },
+  "change_master_password_description_long": {
+    "value": "Можете променити главну лозинку на Bitwarden веб\n        апликацији.\n    "
+  },
+  "check_known_data_breaches_for_this_password": {
+    "value": "Проверите познате упада података за ову лозинку"
+  },
+  "check_out_the_passphrase_generator": {
+    "value": "\"Испробајте генератор фраза\""
+  },
+  "check_password": {
+    "value": "Проверите да ли је лозинка изложена."
+  },
+  "check_password_for_data_breaches": {
+    "value": "Провери лозинку за провалу података"
+  },
+  "check_your_email": {
+    "value": "Погледај своје пријемно сандуче у Е-пошти"
+  },
+  "checking_password": {
+    "value": "Проверавање лозинке..."
+  },
+  "choose_a_login_to_save_this_passkey_to": {
+    "value": "Изаберите пријаву да бисте сачували овај приступни кључ\n    "
+  },
+  "choose_a_unique_and_strong_password_to_keep_your_information_safe": {
+    "value": "Изаберите јединствену и јаку\n        лозинку да бисте заштитили своје податке.\n    "
+  },
+  "choose_file": {
+    "value": "Изабери датотеку"
+  },
+  "choose_system_certificate": {
+    "value": "Choose system certificate"
+  },
+  "choose_three_or_four_random_words": {
+    "value": "Изаберите три или четири насумичне речи"
+  },
+  "choose_your_master_password": {
+    "value": "Одаберите вашу главну лозинку"
+  },
+  "city_town": {
+    "value": "Град"
+  },
+  "class_2_biometrics_description": {
+    "value": "Откључавање биометријом захтева снажну биометријску аутентификацију и\n        није компатибилно са биометријским опцијама доступним на овом уређају.\n    "
+  },
+  "class_3_biometrics_description": {
+    "value": "Откључавање биометријом захтева снажну биометријску аутентификацију и\n        можда неће бити компатибилно са свим биометријским опцијама на овом уређају.\n    "
+  },
+  "clear": {
+    "value": "Очисти"
+  },
+  "clear_clipboard": {
+    "value": "Очисти међуспремник"
+  },
+  "clear_clipboard_description": {
+    "value": "Аутоматски избриши копиране вредности из међуспремника."
+  },
+  "client_certificate_mtls": {
+    "value": "Сертификат клијента (mTLS)"
+  },
+  "clone": {
+    "value": "Клонирај"
+  },
+  "close": {
+    "value": "Затвори"
+  },
+  "coachmark_1_of_3": {
+    "value": "1 од 3"
+  },
+  "coachmark_1_of_6": {
+    "value": "1 ОД 6"
+  },
+  "coachmark_2_of_3": {
+    "value": "2 од 3"
+  },
+  "coachmark_2_of_6": {
+    "value": "2 ОД 6"
+  },
+  "coachmark_3_of_3": {
+    "value": "3 од 3"
+  },
+  "coachmark_3_of_6": {
+    "value": "3 ОД 6"
+  },
+  "coachmark_4_of_6": {
+    "value": "4 ОД 6"
+  },
+  "coachmark_5_of_6": {
+    "value": "5 ОД 6"
+  },
+  "coachmark_6_of_6": {
+    "value": "6 ОД 6"
+  },
+  "code_sent": {
+    "value": "Код послат!"
+  },
+  "collections": {
+    "value": "Колекције"
+  },
+  "combine_those_words_together": {
+    "value": "Укомбинујте те речи заједно"
+  },
+  "company": {
+    "value": "Предузеће"
+  },
+  "confim_log_in_attemp_for_x": {
+    "value": "Потврдити пријаву за %1$s"
+  },
+  "confirm": {
+    "value": "Потврди"
+  },
+  "confirm_file_password": {
+    "value": "Потврдити лозинку датотеке"
+  },
+  "confirm_log_in": {
+    "value": "Потврди пријављивање"
+  },
+  "confirm_your_identity": {
+    "value": "Да бисте наставили потврдите ваш идентитет."
+  },
+  "connect_to_watch": {
+    "value": "Повежите се на Watch"
+  },
+  "contact_bitwarden_support": {
+    "value": "Контактирајте подршку Bitwarden-а"
+  },
+  "contact_info": {
+    "value": "Контакт информације"
+  },
+  "contact_support_description_long": {
+    "value": "Не можете да пронађете оно што тражите? Контактирајте Bitwarden\n        подршку на bitwarden.com.\n    "
+  },
+  "continue_text": {
+    "value": "Настави"
+  },
+  "continue_to_app_store": {
+    "value": "Настави на радњу апликације?"
+  },
+  "continue_to_complete_web_authn_verification": {
+    "value": "Наставите са довршавањем WebAuthn верификације."
+  },
+  "continue_to_contact_support": {
+    "value": "Настави на подршку?"
+  },
+  "continue_to_device_settings": {
+    "value": "Желите ли да наставите на подешавања уређаја?"
+  },
+  "continue_to_give_feedback": {
+    "value": "Желите ли да наставите да шаљете повратне информације?"
+  },
+  "continue_to_help_center": {
+    "value": "Настави на помоћни центар?"
+  },
+  "continue_to_privacy_policy": {
+    "value": "Желите ли да наставите са политиком приватности?"
+  },
+  "continue_to_provide_feedback": {
+    "value": "Изаберите Настави да бисте дали повратне информације о новој\n        апликацији!\n    "
+  },
+  "continue_to_web_app": {
+    "value": "Ићи на веб апликацију?"
+  },
+  "continue_to_x": {
+    "value": "Наставити на %1$s?"
+  },
+  "copied_to_clipboard": {
+    "value": "Копирано у привремену меморију."
+  },
+  "copy": {
+    "value": "Копирај"
+  },
+  "copy_address": {
+    "value": "Копирати адресу"
+  },
+  "copy_app_information": {
+    "value": "Копирај инфо апликације"
+  },
+  "copy_application": {
+    "value": "Копирај апликацију"
+  },
+  "copy_company": {
+    "value": "Копирати фирму"
+  },
+  "copy_email": {
+    "value": "Копирај Е-пошту"
+  },
+  "copy_fingerprint": {
+    "value": "Копирати отисак"
+  },
+  "copy_identity_name": {
+    "value": "Копирати име идентитета"
+  },
+  "copy_license_number": {
+    "value": "Копирати број дозволе"
+  },
+  "copy_link": {
+    "value": "Копирај везу"
+  },
+  "copy_notes": {
+    "value": "Копирај белешке"
+  },
+  "copy_number": {
+    "value": "Копирај број"
+  },
+  "copy_passport_number": {
+    "value": "Копирати број пасоша"
+  },
+  "copy_password": {
+    "value": "Копирај лозинку"
+  },
+  "copy_phone": {
+    "value": "Копирати број телефона"
+  },
+  "copy_private_key": {
+    "value": "Копирај приватни кључ"
+  },
+  "copy_public_key": {
+    "value": "Копирај јавни кључ"
+  },
+  "copy_security_code": {
+    "value": "Копирај сигурносни код"
+  },
+  "copy_send_link_on_save": {
+    "value": "Копирај линк за Send након чувања"
+  },
+  "copy_ssn": {
+    "value": "Копирати број социјалног осигурања"
+  },
+  "copy_totp": {
+    "value": "Копирај једнократни код"
+  },
+  "copy_totp_automatically": {
+    "value": "Аутоматски копирај једнократни кôд"
+  },
+  "copy_totp_automatically_description": {
+    "value": "Ако пријава има кључ за аутентификацију, копирајте ТОТП\n        верификациони кôд у остави када аутоматски попуните пријаву.\n    "
+  },
+  "copy_username": {
+    "value": "Копирај име"
+  },
+  "country": {
+    "value": "Земља"
+  },
+  "create_a_hint": {
+    "value": "Направите наговештај"
+  },
+  "create_account": {
+    "value": "Направи налог"
+  },
+  "create_account_on": {
+    "value": "Направи налог на"
+  },
+  "create_account_on_with_colon": {
+    "value": "Направи налог на:"
+  },
+  "create_an_account": {
+    "value": "Направи налог"
+  },
+  "created_xy": {
+    "value": "Креирано %1$s, %2$s"
+  },
+  "creating_account": {
+    "value": "Прављење налога..."
+  },
+  "credits": {
+    "value": "Заслуге"
+  },
+  "current_access_count": {
+    "value": "Тренутни број приступа"
+  },
+  "current_master_password_required": {
+    "value": "Тренутна главна лозинка (неопходно)"
+  },
+  "custom": {
+    "value": "Друго"
+  },
+  "custom_environment": {
+    "value": "Прилагођено окружење"
+  },
+  "custom_environment_footer": {
+    "value": "За напредне кориснике. Можете да одредите независно основни УРЛ сваког\n        сервиса.\n    "
+  },
+  "custom_field_name": {
+    "value": "Назив прилагођеног поља"
+  },
+  "custom_fields": {
+    "value": "Прилагођена Поља"
+  },
+  "cxp_export": {
+    "value": "CXP извоз"
+  },
+  "cxp_import": {
+    "value": "CXP увоз"
+  },
+  "dark": {
+    "value": "Тамна"
+  },
+  "data_region": {
+    "value": "Регион података"
+  },
+  "date_password_updated": {
+    "value": "Лозинка ажурирана"
+  },
+  "date_updated": {
+    "value": "Промењено"
+  },
+  "december": {
+    "value": "Децембар"
+  },
+  "decline": {
+    "value": "Одбиј"
+  },
+  "decline_all_requests": {
+    "value": "Одбиј све захтеве"
+  },
+  "default_dark_theme": {
+    "value": "Подразумевана тамна тема"
+  },
+  "default_dark_theme_description_long": {
+    "value": "Одаберите тамну тему коју ћете користити када се користи тамни\n        режим вашег уређаја\n    "
+  },
+  "default_system": {
+    "value": "Подразумевано (системско)"
+  },
+  "default_text": {
+    "value": "Подразумевано"
+  },
+  "default_uri_match_detection": {
+    "value": "Стандардно налажење УРЛ"
+  },
+  "default_uri_match_detection_description": {
+    "value": "Изабери подразумевани начин на који се поступа са откривањем\n        УРЛ за пријаве приликом извођења радњи као што је аутоматско попуњавање.\n    "
+  },
+  "delete": {
+    "value": "Избриши"
+  },
+  "delete_account": {
+    "value": "Избриши Налог"
+  },
+  "delete_account_explanation": {
+    "value": "Ваш налог и сви придружени подаци биће избрисани и неповратно. Да ли сте\n        сигурни да желите да наставите?\n    "
+  },
+  "delete_this_file_after_import_is_complete": {
+    "value": "Ову датотеку ћете избрисати након што се увоз заврши.\n    "
+  },
+  "deleting": {
+    "value": "Брисање..."
+  },
+  "deleting_your_account": {
+    "value": "Брисање вашег налога"
+  },
+  "deleting_your_account_is_permanent": {
+    "value": "Брисање налога је трајно"
+  },
+  "deletion_date": {
+    "value": "Брисање после"
+  },
+  "deletion_date_info": {
+    "value": "Слање ће бити трајно обрисано у наведени датум и време."
+  },
+  "deletion_time": {
+    "value": "Време брисања"
+  },
+  "denied": {
+    "value": "Одбијено"
+  },
+  "deny_log_in": {
+    "value": "Одбиј пријављивање"
+  },
+  "device_type": {
+    "value": "Тип уређаја"
+  },
+  "disable_personal_vault_export_policy_in_effect": {
+    "value": "Једна или више полиса ваше организације вас спречава\n        да извезете ваш сеф.\n    "
+  },
+  "disabled": {
+    "value": "Онемогућено"
+  },
+  "do_you_have_a_computer_available": {
+    "value": "Да ли имате рачунар на располагању?"
+  },
+  "do_you_have_reliable_access_to_your_email": {
+    "value": "Да ли имаш поуздан приступ својој Е-пошти,\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s?</annotation>\n        </annotation>\n        ?\n    "
+  },
+  "do_you_really_want_to_delete": {
+    "value": "Да ли сигурно желиш да избришеш? Ово се не може поништити."
+  },
+  "do_you_really_want_to_permanently_delete_cipher": {
+    "value": "Да ли сигурно желите да трајно избришете? Ово се не\n        може поништити.\n    "
+  },
+  "do_you_really_want_to_restore_cipher": {
+    "value": "Да ли заиста желиш да вратиш ову ставку?"
+  },
+  "do_you_really_want_to_soft_delete_cipher": {
+    "value": "Да ли заиста желиш да пошаљеш у смеће?"
+  },
+  "domain_name_required_parenthesis": {
+    "value": "Име домена (обавезно)"
+  },
+  "done_text": {
+    "value": "Готово"
+  },
+  "download": {
+    "value": "Преузми"
+  },
+  "download_the_browser_extension": {
+    "value": "Преузмите проширење претраживача"
+  },
+  "downloading": {
+    "value": "Преузимање..."
+  },
+  "dr": {
+    "value": "Др"
+  },
+  "draw_over": {
+    "value": "Употреби превлачење"
+  },
+  "draw_over_description": {
+    "value": "Када је омогућено, омогућава Bitwarden-а да приказује искачући прозор када су\n        изабрана поља за пријављивање.\n    "
+  },
+  "draw_over_description2": {
+    "value": "Ако је омогућено, Bitwarden ће приказати искачући прозор када су изабрана поља\n        за пријаву за помагање у ауто-пуњење ваших пријава.\n    "
+  },
+  "draw_over_description3": {
+    "value": "Ако је омогућена, доступност ће приказати искачући прозор за увећавање услуге\n        ауто-пуњења за старије апликације које не подржавају Android Autofill Framework.\n    "
+  },
+  "duck_duck_go": {
+    "value": "DuckDuckGo"
+  },
+  "duo_two_step_login_is_required_for_your_account": {
+    "value": "Duo пријава у два корака је потребна за ваш налог.\n    "
+  },
+  "edit": {
+    "value": "Уреди"
+  },
+  "edit_card": {
+    "value": "Уредити картицу"
+  },
+  "edit_folder": {
+    "value": "Уреди фасциклу"
+  },
+  "edit_identity": {
+    "value": "Уредити идентитет"
+  },
+  "edit_item": {
+    "value": "Уреди ставку"
+  },
+  "edit_login": {
+    "value": "Уредити пријаву"
+  },
+  "edit_note": {
+    "value": "Уредити белешку"
+  },
+  "edit_passkey": {
+    "value": "Уредити приступни кључ"
+  },
+  "edit_send": {
+    "value": "Уреди слање"
+  },
+  "edit_uri": {
+    "value": "Уредити УРЛ"
+  },
+  "email": {
+    "value": "Е-пошта"
+  },
+  "email_address": {
+    "value": "Адреса е-поште"
+  },
+  "email_address_required": {
+    "value": "Адреса Е-поште (неопходно)"
+  },
+  "email_required_parenthesis": {
+    "value": "Е-пошта (обавезно)"
+  },
+  "email_type": {
+    "value": "Врста Е-поште"
+  },
+  "email_us": {
+    "value": "Пошаљи нам е-поруку"
+  },
+  "email_us_description": {
+    "value": "Пошаљи нам Е-пошту директно да би добио помоћ или остави повратне информације.\n    "
+  },
+  "email_verified": {
+    "value": "Е-пошта је верификована"
+  },
+  "enable_automatic_syncing": {
+    "value": "Активирај аутоматску синхронизацију"
+  },
+  "enable_camer_permission_to_use_the_scanner": {
+    "value": "Омогућите дозволу камере за коришћење скенера"
+  },
+  "enable_notifications": {
+    "value": "Омогући обавештења"
+  },
+  "enable_sync_on_refresh": {
+    "value": "Омогући синхронизацију при освежавању"
+  },
+  "enable_sync_on_refresh_description": {
+    "value": "Синхронизација сефа с покретом према доле."
+  },
+  "enabled": {
+    "value": "Омогућено"
+  },
+  "encryption_key_migration_required_description_long": {
+    "value": "Потребна је миграција кључа за шифровање.\n        Пријавите се преко веб сефа да бисте ажурирали кључ за шифровање.\n    "
+  },
+  "enter_email_for_hint": {
+    "value": "Унеси своју адресу Е-поште да би добио савет за твоју Главну Лозинку."
+  },
+  "enter_key_manually": {
+    "value": "Унесите кључ ручно"
+  },
+  "enter_pin": {
+    "value": "Унеси свој ПИН код."
+  },
+  "enter_the_client_certificate_password_and_alias": {
+    "value": "Унесите лозинку за ертификата клијента и жељени\n        псеудоним знадимак овај сертификат.\n    "
+  },
+  "enter_the_verification_code_that_was_sent_to_your_email": {
+    "value": "Унесите верификациони кôд који је послат на\n        Вашу е-адресу\n    "
+  },
+  "enter_uri": {
+    "value": "Унос УРЛ-а"
+  },
+  "enter_verification_code_app": {
+    "value": "Унесите шестоцифрени верификациони код из апликације за утврђивање\n        аутентичности.\n    "
+  },
+  "enter_verification_code_email": {
+    "value": "Унесите шестоцифрени верификациони код који је послан на %1$s."
+  },
+  "enter_verification_code_new_device": {
+    "value": "Не препознајемо овај уређај. Унесите 8-цифрени верификациони кôд\n        који је послат на %1$s.\n    "
+  },
+  "environment_page_urls_error": {
+    "value": "Једна или више унетих УРЛ адреса су неважеће. Проверите их и покушајте\n        поново да сачувате.\n    "
+  },
+  "environment_saved": {
+    "value": "УРЛ адресе окружења су сачуване."
+  },
+  "error_connecting_with_the_duo_service_use_a_different_two_step_login_method_or_contact_duo_for_assistance": {
+    "value": "\n        Грешка при повезивању са услугом Duo. Користите други метод пријаве у два корака или контактирајте Duo за помоћ.\n    "
+  },
+  "error_creating_passkey": {
+    "value": "Грешка у креацији приступног кључа"
+  },
+  "error_loading_certificate": {
+    "value": "Error loading certificate"
+  },
+  "error_reading_passkey": {
+    "value": "Грешка у читању приступног кључа"
+  },
+  "eu": {
+    "value": "EU"
+  },
+  "exact": {
+    "value": "Тачно"
+  },
+  "exit": {
+    "value": "Изађи"
+  },
+  "exit_confirmation": {
+    "value": "Да ли сте сигурни да желите да изађете из Bitwarden?"
+  },
+  "exntesion_reenable": {
+    "value": "Поново омогући додатак апликације"
+  },
+  "expiration": {
+    "value": "Истек"
+  },
+  "expiration_month": {
+    "value": "Месец истека"
+  },
+  "expiration_year": {
+    "value": "Година истека"
+  },
+  "expired": {
+    "value": "Истекло"
+  },
+  "expired_link": {
+    "value": "Истекла веза"
+  },
+  "explore_more_features_of_your_bitwarden_account_on_the_web_app": {
+    "value": "Истражите више својстава на Bitwarden\n        налогу на веб апликаији.\n    "
+  },
+  "explore_the_generator": {
+    "value": "Истражите генератор"
+  },
+  "export_vault": {
+    "value": "Извоз сефа"
+  },
+  "export_vault_confirmation_title": {
+    "value": "Потврдите извоз сефа"
+  },
+  "export_vault_failure": {
+    "value": "Дошло је до проблема при извозу сефа. Ако се проблем настави, мораћете да\n        извезете из веб сефа.\n    "
+  },
+  "export_vault_file_pw_protect_info": {
+    "value": "Овај извоз ће бити заштићен лозинком и захтеваће лозинку датотеке\n        за дешифровање.\n    "
+  },
+  "export_vault_master_password_description": {
+    "value": "Унети главну лозинку за извоз сефа."
+  },
+  "export_vault_success": {
+    "value": "Сеф успешно извежен!"
+  },
+  "export_vault_warning": {
+    "value": "Овај извоз садржи податке сефа у нешифрираном формату. Не би требало да чуваш\n        или шаљеш извезену датотеку преко несигурних канала (као што је Е-пошта). Избриши датотеку одмах након што\n        завршиш са коришћењем.\n    "
+  },
+  "export_your_passwords_this_option_is_usually_found_in_your_settings": {
+    "value": "Извезите своје лозинке. Ова\n        опција се обично налази у вашим подешавањима.\n    "
+  },
+  "export_your_saved_logins": {
+    "value": "Извезите сачуване пријаве"
+  },
+  "exposed_master_password": {
+    "value": "Изложена главна лозинка"
+  },
+  "extension_activated": {
+    "value": "Додатак активиран!"
+  },
+  "extension_almost_done": {
+    "value": "Скоро готово!"
+  },
+  "extension_enable": {
+    "value": "Омогући додатак апликације"
+  },
+  "extension_in_safari": {
+    "value": "У Safari, нађите Bitwarden помоћу иконе за дељење (савет: померите се удесно у\n        доњем реду менија).\n    "
+  },
+  "extension_instant_access": {
+    "value": "Имајте инстантни приступ Вашим лозинкама!"
+  },
+  "extension_ready": {
+    "value": "Спремни сте за пријављивање!"
+  },
+  "extension_setup": {
+    "value": "Вашим пријавама је сада лако доступити преко Safari, Chrome и других подржаних\n        апликација.\n    "
+  },
+  "extension_setup2": {
+    "value": "У Safari и Chrome, нађите Bitwarden помоћу иконе за дељење (савет: померите се\n        удесно у доњем реду менија дељења).\n    "
+  },
+  "extension_tap_icon": {
+    "value": "Додирните икону Bitwarden у менију да бисте покренули додатак."
+  },
+  "extension_turn_on": {
+    "value": "Да би омогућили Bitwarden у Safari и другим апликацијама, додирните икону „више“ у\n        доњем реду менија.\n    "
+  },
+  "face_id": {
+    "value": "Face ID"
+  },
+  "face_id_direction": {
+    "value": "Употреби Face ID за проверу."
+  },
+  "fastmail": {
+    "value": "Fastmail"
+  },
+  "favorite": {
+    "value": "Омиљено"
+  },
+  "favorites": {
+    "value": "Омиљени"
+  },
+  "feature_unavailable": {
+    "value": "Функција је недоступна"
+  },
+  "february": {
+    "value": "Фебруар"
+  },
+  "fido2_authenticate_web_authn": {
+    "value": "WebAuthn аутентификација"
+  },
+  "fido2_check_browser": {
+    "value": "Молимо вас да се побрините да подразумевани претраживач подржава WebAuthn и\n        поновите.\n    "
+  },
+  "fido2_desc": {
+    "value": "Аутентификација преко FIDO2 WebAuthn, можете аутентификовати помоћу спољног безбедносног\n        кључа.\n    "
+  },
+  "fido2_instruction": {
+    "value": "Да наставите, припремите Ваш FIDO2 WebAuthn кључ, затим следите упутства након што\n        кликнете \\'WebAuthn аутентификација\\'.\n    "
+  },
+  "fido2_return_to_app": {
+    "value": "Врати се на аппликацију"
+  },
+  "fido2_title": {
+    "value": "FIDO2 WebAuthn"
+  },
+  "field_type_boolean": {
+    "value": "Булове"
+  },
+  "field_type_hidden": {
+    "value": "Сакривено"
+  },
+  "field_type_linked": {
+    "value": "Повезано"
+  },
+  "field_type_text": {
+    "value": "Текст"
+  },
+  "fifteen_minutes": {
+    "value": "15 минута"
+  },
+  "file": {
+    "value": "Датотека"
+  },
+  "file_bug_report": {
+    "value": "Поднеси извештај о грешци"
+  },
+  "file_bug_report_description": {
+    "value": "Отвори пријаву грешке на нашем GitHub-у."
+  },
+  "file_format": {
+    "value": "Формат датотеке"
+  },
+  "file_password": {
+    "value": "Лозинка датотеке"
+  },
+  "file_source": {
+    "value": "Изворна датотека"
+  },
+  "file_type_is_not_selected": {
+    "value": "Тип датотеке није изабран, пипните за одабир."
+  },
+  "file_type_is_selected": {
+    "value": "Тип датотеке је изабран."
+  },
+  "fill_out_the_form_and_import_your_saved_password_file": {
+    "value": "Попуните образац и увезите своју сачувану\n        датотеку лозинке.\n    "
+  },
+  "filter_by_vault": {
+    "value": "Филтрирати ставке из сефа"
+  },
+  "fingerprint": {
+    "value": "Отисак прста"
+  },
+  "fingerprint_direction": {
+    "value": "Користи твој отисак прста за потврду."
+  },
+  "fingerprint_phrase": {
+    "value": "Сигурносна Фраза Сефа"
+  },
+  "firefox_relay": {
+    "value": "Firefox Relay"
+  },
+  "first_dot_go_to_your_device_settings_passwords_password_options": {
+    "value": "1. Идите на подешавања уређаја \n        Лозинке  Опције лозинке\n    "
+  },
+  "first_name": {
+    "value": "Име"
+  },
+  "five_minutes": {
+    "value": "5 минута"
+  },
+  "folder": {
+    "value": "Фасцикла"
+  },
+  "folder_created": {
+    "value": "Нова фасцикла направљена."
+  },
+  "folder_deleted": {
+    "value": "Фасцикла је избрисана."
+  },
+  "folder_none": {
+    "value": "Без фасцикле"
+  },
+  "folder_updated": {
+    "value": "Фасцикла ажурирана."
+  },
+  "folders": {
+    "value": "Фасцикле"
+  },
+  "follow_the_instructions_in_the_email_sent_to_x_to_continue_creating_your_account": {
+    "value": "Прати упутства из\n        Е-поште који су послата на %1$s да наставиш са прављењем налога.\n    "
+  },
+  "follow_the_steps_from_duo_to_finish_logging_in": {
+    "value": "Пратите кораке од Duo да завршите пријављивање.\n    "
+  },
+  "for_your_security_be_sure_to_delete_your_saved_password_file": {
+    "value": "Ради ваше безбедности, обавезно\n        избришите своју сачувану датотеку лозинке.\n    "
+  },
+  "format_x": {
+    "value": "Формат: %1$s"
+  },
+  "format_x_separate_multiple_ur_is_with_a_comma": {
+    "value": "Формат: %1$s. Одвојите више УРЛ-ове са зарезом.\n    "
+  },
+  "formatted_incorrectly": {
+    "value": "%1$s није правилно форматиран."
+  },
+  "forward_email": {
+    "value": "ForwardEmail"
+  },
+  "forwarded_email_alias": {
+    "value": "Прослеђен псеудоним е-поште"
+  },
+  "forwarded_email_description": {
+    "value": "Генеришите псеудоним е-поште помоћу екстерне услуге прослеђивања.\n    "
+  },
+  "four_hours": {
+    "value": "4 сата"
+  },
+  "from_your_computer_follow_these_instructions_to_export_saved_passwords": {
+    "value": "Са рачунара пратите ова\n        упутства да бисте извезли сачуване лозинке из прегледача или другог менаџера лозинки. Затим их безбедно увезите\n        у Bitwarden.\n    "
+  },
+  "full_name": {
+    "value": "Пуно име"
+  },
+  "generate_button_label": {
+    "value": "Генериши"
+  },
+  "generate_master_password": {
+    "value": "Генеришите главну лозинку"
+  },
+  "generate_password": {
+    "value": "Генерисање лозинке"
+  },
+  "generate_username": {
+    "value": "Генериши име"
+  },
+  "generator": {
+    "value": "Генератор"
+  },
+  "generic_error_message": {
+    "value": "Ваш захтев није успео да буде обрађен. Покушајте поново или нас\n        контактирајте.\n    "
+  },
+  "get_advice_announcements_and_research_opportunities_from_bitwarden_in_your_inbox_unsubscribe_any_time": {
+    "value": "\n        Добијајте савете, најаве и могућности истраживања од Bitwarden-а у пријемном сандучету. Откажите претплату у\n        било ком тренутку.\n    "
+  },
+  "get_emails_from_bitwarden_for_announcements_advices_and_research_opportunities_unsubscribe_any_time": {
+    "value": "\n        Добијајте имјл од Bitwarden-а за најаве, савете и могућности истраживања. Откажите претплату у било ком\n        тренутку.\n    "
+  },
+  "get_instant_access_to_your_passwords_and_passkeys": {
+    "value": "Имајте инстантни приступ Вашим лозинкама и\n        приступним кључевима!\n    "
+  },
+  "get_master_passwordword_hint": {
+    "value": "Добити савет за Главну Лозинку"
+  },
+  "get_password_hint": {
+    "value": "Добити савет за Вашу Главну Лозинку"
+  },
+  "get_started": {
+    "value": "Почните"
+  },
+  "give_feedback": {
+    "value": "Пошаљите повратне информације"
+  },
+  "give_your_vault_a_head_start": {
+    "value": "Дајте предност свом сефу"
+  },
+  "go_back": {
+    "value": "Ићи назад"
+  },
+  "go_to_bitwarden_com_download_to_integrate_bitwarden_into_browser": {
+    "value": "Идите на bitwarden.com/download да\n        интегришете Bitwarden у свој омиљени претраживач за беспрекорно искуство.\n    "
+  },
+  "go_to_my_vault": {
+    "value": "Иди у мој Сеф"
+  },
+  "go_to_website": {
+    "value": "Иди на мрежну локацију"
+  },
+  "good": {
+    "value": "Добро"
+  },
+  "got_it": {
+    "value": "Разумем"
+  },
+  "granted": {
+    "value": "Одобрено"
+  },
+  "help_and_feedback": {
+    "value": "Помоћ и подршка"
+  },
+  "help_with_server_geolocations": {
+    "value": "Помоћ око геолокације сервера."
+  },
+  "hide": {
+    "value": "Сакриј"
+  },
+  "hide_email": {
+    "value": "Сакриј моју е-адресу од примаоца."
+  },
+  "hide_text_by_default": {
+    "value": "При приступању „Пошаљи“, сакриј текст"
+  },
+  "hold_yubikey_near_top": {
+    "value": "Дрћите Ваш Yubikey при врху уређаја."
+  },
+  "host": {
+    "value": "Хост"
+  },
+  "icons": {
+    "value": "Иконице"
+  },
+  "icons_url": {
+    "value": "УРЛ сервера иконице"
+  },
+  "identification": {
+    "value": "Идентификација"
+  },
+  "identities": {
+    "value": "Идентитети"
+  },
+  "identity_name": {
+    "value": "Име идентитета"
+  },
+  "identity_url": {
+    "value": "УРЛ сервера идентитета"
+  },
+  "immediately": {
+    "value": "Одмах"
+  },
+  "import_certificate": {
+    "value": "Import certificate"
+  },
+  "import_client_certificate": {
+    "value": "Увезите сертификат клијента"
+  },
+  "import_error": {
+    "value": "Грешка при увозу"
+  },
+  "import_items": {
+    "value": "Увоз ставки"
+  },
+  "import_items_confirmation": {
+    "value": "Можете скупно увести ставке из bitwarden.com сефа. Да ли желите да посетите\n        веб страницу сада?\n    "
+  },
+  "import_items_description": {
+    "value": "Брзо увезите ставке из других апликација за управљање лозинком."
+  },
+  "import_logins": {
+    "value": "Увезите пријаве"
+  },
+  "import_logins_later": {
+    "value": "Увезите пријаве касније"
+  },
+  "import_logins_later_dialog_title": {
+    "value": "Желите ли касније да увезете пријаве?"
+  },
+  "import_logins_to_bitwarden": {
+    "value": "Увезите пријаве у Bitwarden"
+  },
+  "import_saved_logins": {
+    "value": "Увезите сачуване пријаве"
+  },
+  "import_successful": {
+    "value": "Увоз успешан!"
+  },
+  "important": {
+    "value": "Важно"
+  },
+  "important_notice": {
+    "value": "Важно обавештење"
+  },
+  "improves_login_filling_for_supported_websites_on_chrome": {
+    "value": "Improves login filling for supported websites\n        on Chrome. Once enabled, you’ll be directed to Chrome settings to enable third-party autofill.\n    "
+  },
+  "in_the_bitwarden_navigation_find_the_tools_option_and_select_import_data": {
+    "value": "У Bitwarden навигацији,\n        пронађите опцију Алатке и изаберите Увези податке.\n    "
+  },
+  "include_number": {
+    "value": "Убаци број"
+  },
+  "inline_autofill": {
+    "value": "Користи аутоматско попуњавање на месту"
+  },
+  "inline_autofill_description": {
+    "value": "Употребити на месту Ауто-пуњење ако Ваша тастатура то подржава. Ако ваша\n        конфигурација није подржана (или је ова опција онемогућена), подразумевано прекривање Ауто-пуњење ће се\n        користити.\n    "
+  },
+  "internet_connection_required_message": {
+    "value": "Повежите се на Интернет пре него што наставите."
+  },
+  "internet_connection_required_title": {
+    "value": "Неопходна је веза са интернетом"
+  },
+  "invalid_api_key": {
+    "value": "Неисправан API кључ"
+  },
+  "invalid_api_token": {
+    "value": "Неисправан API токен"
+  },
+  "invalid_certificate_chain": {
+    "value": "Invalid certificate chain"
+  },
+  "invalid_email": {
+    "value": "Неисправна адреса Е-поште."
+  },
+  "invalid_format_use_https_http_or_android_app": {
+    "value": "Погрешан формат. Употребити https://, http://, или\n        androidapp://\n    "
+  },
+  "invalid_master_password": {
+    "value": "Главна Лозинка је неважећа. Покушајте поново."
+  },
+  "invalid_pin": {
+    "value": "Погрешан ПИН. Покушајте поново."
+  },
+  "invalid_uri": {
+    "value": "Неисправна адреса"
+  },
+  "invalid_verification_code": {
+    "value": "Неисправан верификациони код."
+  },
+  "ip_address": {
+    "value": "ИП адреса"
+  },
+  "item_deleted": {
+    "value": "Ставка је избрисана."
+  },
+  "item_details": {
+    "value": "Детаљи ставке"
+  },
+  "item_information": {
+    "value": "Информације о ставци"
+  },
+  "item_name_required": {
+    "value": "Име ставке (неопходно)"
+  },
+  "item_restored": {
+    "value": "Ставка је враћена."
+  },
+  "item_shared": {
+    "value": "Ставка је подељена."
+  },
+  "item_soft_deleted": {
+    "value": "Ставка је послата у отпад."
+  },
+  "item_updated": {
+    "value": "Ставка је сачувана"
+  },
+  "items": {
+    "value": "Ставке"
+  },
+  "items_for_uri": {
+    "value": "Ставке за %1$s"
+  },
+  "january": {
+    "value": "Јануар"
+  },
+  "july": {
+    "value": "Јул"
+  },
+  "june": {
+    "value": "Јун"
+  },
+  "just_now": {
+    "value": "Управо сада"
+  },
+  "keep_it_secret_keep_it_safe": {
+    "value": "Пазите да своју написану лозинку чувате на тајном и безбедном месту.\n    "
+  },
+  "language": {
+    "value": "Језик"
+  },
+  "language_change_requires_app_restart": {
+    "value": "Промена језика захтева поновно покретање апликације"
+  },
+  "language_change_x_description": {
+    "value": "Језик је промењен у %1$s. Поново покрените апликацију да бисте видели\n        промену\n    "
+  },
+  "last_name": {
+    "value": "Презиме"
+  },
+  "last_sync": {
+    "value": "Задња синронизација:"
+  },
+  "launch": {
+    "value": "Отвори"
+  },
+  "launch_duo": {
+    "value": "Покренути Duo"
+  },
+  "launch_web_authn": {
+    "value": "Покренути WebAuthn"
+  },
+  "learn_about_new_logins": {
+    "value": "Сазнајте више о новим пријављивањима"
+  },
+  "learn_about_organizations_description_long": {
+    "value": "Bitwarden вам омогућава да делите ставке сефа са другима\n        користећи организацију. Сазнајте више на веб локацију bitwarden.com.\n    "
+  },
+  "learn_about_other_ways_to_prevent_account_lockout": {
+    "value": "Сазнајте више о другим начинима да спречите\n        закључавање налога\n    "
+  },
+  "learn_about_ways_to_prevent_account_lockout": {
+    "value": "\n        <annotation link=\"onPreventAccountLockout\">Learn about ways to prevent account lockout</annotation>\n    "
+  },
+  "learn_more": {
+    "value": "Сазнај више"
+  },
+  "learn_more_about_generating_secure_login_credentials_with_guided_tour": {
+    "value": "Сазнајте више о генерисању\n        сигурних акредитива за пријаву са вођеном обилом.\n    "
+  },
+  "learn_more_about_how_to_use_bitwarden_on_the_help_center": {
+    "value": "Learn more about how to use Bitwarden у\n        помоћни центар.\n    "
+  },
+  "learn_org": {
+    "value": "Сазнајте о организацијама"
+  },
+  "learn_org_confirmation": {
+    "value": "Bitwarden вам омогућава да делите ставке сефа другима користећи налог\n        организације. Да ли желите да посетите веб локацију bitwarden.com да бисте сазнали више?\n    "
+  },
+  "leave_organization": {
+    "value": "Напусти организацију"
+  },
+  "leave_organization_name": {
+    "value": "Напустити %1$s?"
+  },
+  "length": {
+    "value": "Дужина"
+  },
+  "level_up_your_logins": {
+    "value": "Подигните ниво својих пријава"
+  },
+  "license_number": {
+    "value": "Број возачке дозволе"
+  },
+  "light": {
+    "value": "Светла"
+  },
+  "link": {
+    "value": "Link"
+  },
+  "loading": {
+    "value": "Учитавање"
+  },
+  "lock": {
+    "value": "Закључај"
+  },
+  "lock_now": {
+    "value": "Закључај одмах"
+  },
+  "log_in_accepted": {
+    "value": "Пријава потврђена"
+  },
+  "log_in_at_bitwarden_com_to_easily_manage_your_account": {
+    "value": "Пријавите се на bitwarden.com да лако управљате\n        својим налогом и ажурирате подешавања.\n    "
+  },
+  "log_in_attempt_by_x_on_y": {
+    "value": "%1$s пробао да се пријави на %2$s"
+  },
+  "log_in_denied": {
+    "value": "Пријава одбијена"
+  },
+  "log_in_initiated": {
+    "value": "Пријава је покренута"
+  },
+  "log_in_noun": {
+    "value": "Пријава"
+  },
+  "log_in_quickly_and_easily_across_devices": {
+    "value": "Пријавите се брзо и лако на више уређаја"
+  },
+  "log_in_requested": {
+    "value": "Захтев пријаве"
+  },
+  "log_in_sso": {
+    "value": "Enterprise Једна Пријава"
+  },
+  "log_in_sso_summary": {
+    "value": "Брзо се пријавите помоћу портала за јединствену пријаву ваше организације. Унесите\n        идентификатор организације да бисте започели.\n    "
+  },
+  "log_in_to_bitwarden": {
+    "value": "Пријавите се на Bitwarden"
+  },
+  "log_in_to_the_bitwarden_web_app": {
+    "value": "Пријавите се на веб-апликацију Bitwarden."
+  },
+  "log_in_verb": {
+    "value": "Пријави се"
+  },
+  "log_in_with_another_device": {
+    "value": "Пријави се са другим уређајем"
+  },
+  "log_in_with_device": {
+    "value": "Пријавите се са уређајем"
+  },
+  "log_in_with_device_must_be_set_up_in_the_settings_of_the_bitwarden_app_need_another_option": {
+    "value": "Пријава\n        помоћу уређаја мора бити подешена у подешавањима Bitwarden апликације. Потребна је друга опција?\n    "
+  },
+  "log_in_with_master_password": {
+    "value": "Пријави се са главном лозинком"
+  },
+  "log_out": {
+    "value": "Одјави се"
+  },
+  "logged_in": {
+    "value": "Пријављено!"
+  },
+  "logged_in_as_on": {
+    "value": "Пријављен преко %1$s на %2$s."
+  },
+  "logging_in": {
+    "value": "Пријављивање..."
+  },
+  "logging_in_as_x": {
+    "value": "Пријављивање као %1$s"
+  },
+  "logging_in_as_x_on_y": {
+    "value": "Пријављен преко %1$s на %2$s"
+  },
+  "logging_in_on": {
+    "value": "Пријављено на"
+  },
+  "logging_in_on_with_colon": {
+    "value": "Пријављено на:"
+  },
+  "login_approved": {
+    "value": "Пријава је одобрена"
+  },
+  "login_attempt_from_x_do_you_want_to_switch_to_this_account": {
+    "value": "Покушај пријаве са:\n        %1$s\n        Да ли желите да пређете на овај налог?\n    "
+  },
+  "login_credentials": {
+    "value": "Акредитиве за пријављивање"
+  },
+  "login_expired": {
+    "value": "Ваша сесија је истекла."
+  },
+  "login_request_has_already_expired": {
+    "value": "Захтев за пријаву је већ истекао."
+  },
+  "login_sso_error": {
+    "value": "Тренутно није могуће пријавити се са SSO"
+  },
+  "login_to_bitwarden": {
+    "value": "Пријави се на Bitwarden"
+  },
+  "login_unavailable": {
+    "value": "Пријава недоступна"
+  },
+  "logins": {
+    "value": "Пријаве"
+  },
+  "logins_imported": {
+    "value": "Увезене пријаве"
+  },
+  "logout_confirmation": {
+    "value": "Заиста желиш да се одјавиш?"
+  },
+  "lost_2fa_app": {
+    "value": "Изгубио си апликацију за аутентификацију?"
+  },
+  "lowercase_ato_z": {
+    "value": "Мала слова (A-Z)"
+  },
+  "make_it_yours": {
+    "value": "Учините је својом"
+  },
+  "manage": {
+    "value": "Управљај"
+  },
+  "manage_your_logins_from_anywhere_with_bitwarden_tools": {
+    "value": "Управљајте својим пријавама са било ког места\n        помоћу Bitwarden алата за веб и десктоп.\n    "
+  },
+  "march": {
+    "value": "Март"
+  },
+  "master_password": {
+    "value": "Главна Лозинка"
+  },
+  "master_password_confirmation_val_message": {
+    "value": "Потврђена лозинка није тачна."
+  },
+  "master_password_description": {
+    "value": "Главна Лозинка је лозинка коју користите за приступ Вашем сефу. Врло је\n        важно да је не заборавите. Не постоји начин да повратите лозинку у случају да је заборавите.\n    "
+  },
+  "master_password_hint": {
+    "value": "Савет Главне Лозинке (опционо)"
+  },
+  "master_password_hint_description": {
+    "value": "Савет Главне Лозинке може да Вам помогне да се потсетите ако је\n        заборавите.\n    "
+  },
+  "master_password_hint_not_specified": {
+    "value": "Савет главне лозинке"
+  },
+  "master_password_important_hint": {
+    "value": "Важно: Ваша главна лозинка се не може повратити ако је заборавите!\n        Минимално 12 слова.\n    "
+  },
+  "master_password_length_val_message_x": {
+    "value": "Главна лозинка треба имати барем %1$s карактера."
+  },
+  "master_password_policy_in_effect": {
+    "value": "Једна или више смерница организације захтевају да ваша главна\n        лозинка да би испуњавали следеће захтеве:\n    "
+  },
+  "master_password_policy_validation_message": {
+    "value": "Лозинка не испуњава организационе захтеве. Проверите\n        информације о политици и покушајте поново.\n    "
+  },
+  "master_password_policy_validation_title": {
+    "value": "Неисправна лозинка"
+  },
+  "master_password_re_prompt_help": {
+    "value": "Помоћ поновно тражење главне лозинке"
+  },
+  "master_password_required": {
+    "value": "Главна лозинка (неопходно)"
+  },
+  "match_detection": {
+    "value": "Налажење УРЛ"
+  },
+  "matching_items": {
+    "value": "Ставке које се подударају"
+  },
+  "max_file_size": {
+    "value": "Максимална величина је 100МБ."
+  },
+  "maximum_access_count": {
+    "value": "Максималан број приступа"
+  },
+  "maximum_access_count_info": {
+    "value": "Ако је постављено, корисници више неће моћи да приступе овом слању када се\n        достигне максимални број приступа.\n    "
+  },
+  "maximum_access_count_reached": {
+    "value": "Достигнут максималан број приступа"
+  },
+  "may": {
+    "value": "Мај"
+  },
+  "middle_name": {
+    "value": "Средње име"
+  },
+  "min_numbers": {
+    "value": "Минимално Бројева"
+  },
+  "min_special": {
+    "value": "Минимално специјалних"
+  },
+  "minimum_characters": {
+    "value": "%1$s знакова"
+  },
+  "miscellaneous": {
+    "value": "Разно"
+  },
+  "more": {
+    "value": "Више"
+  },
+  "more_settings": {
+    "value": "Још подешавања"
+  },
+  "move": {
+    "value": "Премести"
+  },
+  "move_down": {
+    "value": "Помери доле"
+  },
+  "move_to_org_desc": {
+    "value": "Изаберите организацију коју желите да преместите овај предмет. Прелазак на\n        организацију преноси власништво над ставком у ту организацију. Више нећете бити директни власник ове ставке\n        након што је премештена.\n    "
+  },
+  "move_to_organization": {
+    "value": "Премести у организацију"
+  },
+  "move_up": {
+    "value": "Помери горе"
+  },
+  "moved_item_to_org": {
+    "value": "%1$s премештено у %2$s."
+  },
+  "mr": {
+    "value": "Господин"
+  },
+  "mrs": {
+    "value": "Госпођица"
+  },
+  "ms": {
+    "value": "Госпођа"
+  },
+  "must_log_in_main_app": {
+    "value": "Мораш се пријавити на главну апликацију Bitwarden пре употребе додатка."
+  },
+  "must_log_in_main_app_autofill": {
+    "value": "Морате се пријавити на главну апликацију Bitwarden пре употребе\n        ауто-попуњавања.\n    "
+  },
+  "mutual_tls": {
+    "value": "Обострани TLS"
+  },
+  "mx": {
+    "value": "Mx"
+  },
+  "my_vault": {
+    "value": "Мој Сеф"
+  },
+  "name": {
+    "value": "Име"
+  },
+  "near": {
+    "value": "Близу"
+  },
+  "need_another_option": {
+    "value": "Треба Вам друга опције?"
+  },
+  "need_help_check_out_import_help": {
+    "value": "Треба вам помоћ? Проверите помоћ за увоз."
+  },
+  "need_some_inspiration": {
+    "value": "\"Потребна вам је инспирација?\""
+  },
+  "never": {
+    "value": "Никада"
+  },
+  "never_lock_warning": {
+    "value": "Постављањем опција закључавања на „Никад“, ваш сеф остаје доступан свима који\n        имају приступ вашем уређају. Ако користите ову опцију, требало би да будете сигурни да ћете свој уређај правилно\n        заштитити.\n    "
+  },
+  "never_lose_access_to_your_vault": {
+    "value": "Никада не губите приступ свом сефу"
+  },
+  "new_blocked_uri": {
+    "value": "Нов блокиран УРЛ"
+  },
+  "new_card": {
+    "value": "Нова картица"
+  },
+  "new_custom_field": {
+    "value": "Ново прилагођено поље"
+  },
+  "new_file_send": {
+    "value": "Нова датотека Send"
+  },
+  "new_identity": {
+    "value": "Нови идентитет"
+  },
+  "new_item": {
+    "value": "Нова ставка"
+  },
+  "new_item_created": {
+    "value": "Нова ставка је додата"
+  },
+  "new_login": {
+    "value": "Ново пријављивање"
+  },
+  "new_master_password_hint": {
+    "value": "New master password hint"
+  },
+  "new_master_password_required": {
+    "value": "Нова главна лозинка (неопходно)"
+  },
+  "new_note": {
+    "value": "Нова белешка"
+  },
+  "new_passkey": {
+    "value": "Нов приступни кључ"
+  },
+  "new_password": {
+    "value": "Нова лозинка"
+  },
+  "new_send_created": {
+    "value": "Направљено је ново слање"
+  },
+  "new_ssh_key": {
+    "value": "Нов SSH кљич"
+  },
+  "new_text_send": {
+    "value": "Нови текст Send"
+  },
+  "new_to_bitwarden": {
+    "value": "Нов си у Bitwarden-у?"
+  },
+  "new_uri": {
+    "value": "Нови УРЛ"
+  },
+  "next": {
+    "value": "Следеће"
+  },
+  "no": {
+    "value": "Не"
+  },
+  "no_attachments": {
+    "value": "Не постоје прилози."
+  },
+  "no_cards": {
+    "value": "У вашем сефу нема картице."
+  },
+  "no_collections_to_list": {
+    "value": "Нема колекције у листи."
+  },
+  "no_email_go_back_to_edit_your_email_address": {
+    "value": "Ниси добио Е-пошту? <annotation link=\"goBack\">Иди назад\n    </annotation> за промену ваше адресе Е-поште.\n    "
+  },
+  "no_favorites": {
+    "value": "У вашем сефу нема омиљених."
+  },
+  "no_file_chosen": {
+    "value": "Није изабрана ниједна датотека"
+  },
+  "no_file_sends": {
+    "value": "У вашем сефу нема датотеке Send."
+  },
+  "no_folder": {
+    "value": "Нема фасцикле"
+  },
+  "no_folders_to_list": {
+    "value": "Нема фасцикле у листи."
+  },
+  "no_identities": {
+    "value": "У вашем сефу нема идентитета."
+  },
+  "no_items": {
+    "value": "У вашем сефу нема ставки."
+  },
+  "no_items_collection": {
+    "value": "Не постоје ставке у овој колекцији."
+  },
+  "no_items_folder": {
+    "value": "Нема ставке у овој фасцикли."
+  },
+  "no_items_for_uri": {
+    "value": "У вашем сефу нема ставке за %1$s."
+  },
+  "no_items_for_vault": {
+    "value": "У вашем сефу нема ставке за \\\"%1$s\\\""
+  },
+  "no_items_tap": {
+    "value": "У вашем сефу нема ставке за ову веб локацију/апликацију. Додирните да бисте додали\n        једну.\n    "
+  },
+  "no_items_to_list": {
+    "value": "Нама ставке у листи."
+  },
+  "no_items_trash": {
+    "value": "У отпад нема ставке."
+  },
+  "no_logins": {
+    "value": "У вашем сефу нема пријаве."
+  },
+  "no_logins_were_imported": {
+    "value": "Нису увезене никакве пријаве"
+  },
+  "no_notes": {
+    "value": "У вашем сефу нема белешке."
+  },
+  "no_orgs_to_list": {
+    "value": "Ниједна организација у листу."
+  },
+  "no_passwords_to_list": {
+    "value": "Нема лозинке у листи."
+  },
+  "no_pending_requests": {
+    "value": "Нема захтева на чекању"
+  },
+  "no_sends": {
+    "value": "Нема слања на твом налогу."
+  },
+  "no_ssh_keys": {
+    "value": "У вашем сефу нема SSH кључева."
+  },
+  "no_text_sends": {
+    "value": "У вашем сефу нема текст Send."
+  },
+  "no_thanks": {
+    "value": "Не, хвала"
+  },
+  "no_two_step_available": {
+    "value": "Овај налог има омогућено пријављивање у два корака, међутим, ниједан од\n        конфигурисаних добављача пријављивања није подржан на овом уређају. Користите подржани уређај и/или додајте\n        додатне добављаче који су боље подржани на свим уређајима (као што је апликација за утврђивање аутентичности).\n    "
+  },
+  "no_username": {
+    "value": "Нема корисничког имена"
+  },
+  "no_username_password_configured": {
+    "value": "Ова пријава нема конфигурисано корисничко име или лозинку."
+  },
+  "nord": {
+    "value": "Nord"
+  },
+  "not_you": {
+    "value": "Не ти?"
+  },
+  "notes": {
+    "value": "Белешке"
+  },
+  "notes_info": {
+    "value": "Приватне белешке о овом слању."
+  },
+  "notice": {
+    "value": "Напомена"
+  },
+  "november": {
+    "value": "Новембар"
+  },
+  "number": {
+    "value": "Број"
+  },
+  "number_of_words": {
+    "value": "Број речи"
+  },
+  "numbers_zero_to_nine": {
+    "value": "Цифре (0-9)"
+  },
+  "october": {
+    "value": "Октобар"
+  },
+  "off": {
+    "value": "Не"
+  },
+  "ok": {
+    "value": "У реду"
+  },
+  "ok_got_it": {
+    "value": "У реду, схватам!"
+  },
+  "on": {
+    "value": "Да"
+  },
+  "on_restart": {
+    "value": "На поновно покретање"
+  },
+  "on_your_computer_log_in_to_your_current_browser_or_password_manager": {
+    "value": "На рачунару, пријавите се у свој\n        тренутни прегледач или менаџер лозинки.\n    "
+  },
+  "on_your_computer_open_a_new_browser_tab_and_go_to_vault_bitwarden_com": {
+    "value": "На рачунару отворите нову\n        картицу прегледача и идите на vault.bitwarden.com\n    "
+  },
+  "once_the_key_is_successfully_entered": {
+    "value": "Када се кључ успешно унесе,\n        одабрати Додати ТОТП да би сигурносно сачували кључ\n    "
+  },
+  "one_day": {
+    "value": "1 дан"
+  },
+  "one_hour": {
+    "value": "1 сат"
+  },
+  "one_hour_and_one_minute": {
+    "value": "Један сат и један минут"
+  },
+  "one_hour_and_x_minute": {
+    "value": "Један сат и %1$s минута"
+  },
+  "one_minute": {
+    "value": "1 минут"
+  },
+  "one_of_the_best_ways_to_create_a_secure_and_memorable_password": {
+    "value": "Један од најбољих начина да направите\n        безбедну и упамтиву лозинку је да користите фразе. \\nЕво како:\n    "
+  },
+  "open": {
+    "value": "Отвори"
+  },
+  "open_email_app": {
+    "value": "Отвори апликацију за Е-пошту"
+  },
+  "option_defaults": {
+    "value": "Подразумеване опције се постављају у главној Bitwarden апликацији у генератору\n        лозинке.\n    "
+  },
+  "options": {
+    "value": "Опције"
+  },
+  "options_collapsed": {
+    "value": "Опције су скупљене, додирните да бисте проширили."
+  },
+  "options_expanded": {
+    "value": "Опције су проширене, додирните да бисте скупили."
+  },
+  "or_log_in_you_may_already_have_an_account": {
+    "value": "Или пријавите се, можда већ имате налог."
+  },
+  "org_identifier": {
+    "value": "Идентификатор организације"
+  },
+  "organization": {
+    "value": "Организација"
+  },
+  "organization_is_using_sso_with_a_self_hosted_key_server": {
+    "value": "%1$s користи SSO уз сопствени сервер за\n        кључеве. Главна лозинка за пријаву више није неопходна за чланове ове организације.\n    "
+  },
+  "organization_sso_identifier_required": {
+    "value": "Потребан је SSO идентификатор организације."
+  },
+  "organization_unassigned_items_message_self_host_041624_description_long": {
+    "value": "16. маја 2024. недодељене\n        ставке организације више неће бити видљиве у приказу Сви сефови и биће доступне само преко Админ конзоле.\n        Доделите ове ставке колекцији са Админ конзолом да бисте их учинили видљивим.\n    "
+  },
+  "organization_unassigned_items_message_useu_description_long": {
+    "value": "Недодељене ставке организације више нису\n        видљиве у приказу Сви сефови и доступне су само преко Админ конзоле. Доделите ове ставке колекцији са Админ\n        конзолом да бисте их учинили видљивим.\n    "
+  },
+  "other": {
+    "value": "Остало"
+  },
+  "overlay_permission": {
+    "value": "Дозвола"
+  },
+  "overwrite_passkey": {
+    "value": "Заменити приступни кључ?"
+  },
+  "owner": {
+    "value": "Власник"
+  },
+  "ownership": {
+    "value": "Власништво"
+  },
+  "page_number_x_of_y": {
+    "value": "%1$s од %2$s"
+  },
+  "passkey": {
+    "value": "Приступни кључ"
+  },
+  "passkey_authentication_failed_due_to_an_internal_error": {
+    "value": "Passkey authentication failed due to an\n        internal error.\n    "
+  },
+  "passkey_management": {
+    "value": "Управљање приступног кључа"
+  },
+  "passkey_management_explanation_long": {
+    "value": "Употребити Bitwarden да сачувате нове приступне кључеве и\n        пријавите се са приступним кључевима ускладиштеним у вашем трезору.\n    "
+  },
+  "passkey_operation_failed_because_app_could_not_be_verified": {
+    "value": "Операција лозинке није успела јер\n        апликација није могла да се верификује\n    "
+  },
+  "passkey_operation_failed_because_app_is_signed_incorrectly": {
+    "value": "Passkey operation failed because app is\n        signed incorrectly.\n    "
+  },
+  "passkey_operation_failed_because_app_not_found_in_asset_links": {
+    "value": "Операција лозинке није успела јер\n        апликација није пронађена у везама за средства\n    "
+  },
+  "passkey_operation_failed_because_app_signature_is_invalid": {
+    "value": "Passkey operation failed because app\n        signature is invalid.\n    "
+  },
+  "passkey_operation_failed_because_browser_is_not_privileged": {
+    "value": "Операција лозинке није успела јер\n        прегледач није привилегован\n    "
+  },
+  "passkey_operation_failed_because_browser_signature_does_not_match": {
+    "value": "Операција лозинке није успела јер\n        се потпис прегледача не подудара\n    "
+  },
+  "passkey_operation_failed_because_host_url_is_not_present_in_request": {
+    "value": "Passkey operation failed because\n        host URL is not present in request.\n    "
+  },
+  "passkey_operation_failed_because_no_item_was_selected": {
+    "value": "Passkey operation failed because no item was\n        selected.\n    "
+  },
+  "passkey_operation_failed_because_of_missing_asset_links": {
+    "value": "Операција лозинке није успела због\n        недостајућих веза средстава\n    "
+  },
+  "passkey_operation_failed_because_relying_party_cannot_be_identified": {
+    "value": "Passkey operation failed because\n        relying party cannot be identified.\n    "
+  },
+  "passkey_operation_failed_because_the_request_is_invalid": {
+    "value": "Passkey operation failed because the request\n        is invalid.\n    "
+  },
+  "passkey_operation_failed_because_the_selected_item_does_not_exist": {
+    "value": "Passkey operation failed because\n        the selected item does not exist.\n    "
+  },
+  "passkey_operation_failed_because_user_could_not_be_verified": {
+    "value": "Операција лозинке није успела јер\n        корисник није могао да се верификује.\n    "
+  },
+  "passkey_operation_failed_because_user_is_locked_out": {
+    "value": "Passkey operation failed because user is locked\n        out.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_attempts_exceeded": {
+    "value": "Passkey operation failed because\n        user verification attempts exceeded.\n    "
+  },
+  "passkey_operation_failed_because_user_verification_was_cancelled": {
+    "value": "Passkey operation failed because\n        user verification was cancelled.\n    "
+  },
+  "passkey_registration_failed_due_to_an_internal_error": {
+    "value": "Passkey registration failed due to an internal\n        error.\n    "
+  },
+  "passkey_removed": {
+    "value": "Приступни кључ је уклоњен"
+  },
+  "passkey_will_not_be_copied": {
+    "value": "Приступни кључ неће бити копиран"
+  },
+  "passkeys": {
+    "value": "Приступни кључеви"
+  },
+  "passkeys_for_x": {
+    "value": "Приступни кључ за %1$s"
+  },
+  "passkeys_not_supported_for_this_app": {
+    "value": "Приступни кључеви нису подржани за ову апликацију"
+  },
+  "passphrase": {
+    "value": "Фраза лозинка"
+  },
+  "passphrases_are_strong_passwords_that_are_often_easier_to_remember_and_type_than_random_passwords": {
+    "value": "\n        Фразе су јаке лозинке које је често лакше запамтити и уписивати од насумичних лозинки. Оне су корисне за\n        пријављивање за налоге где аутоматско попуњавање није доступно, као што су услуге стриминга на вашем ТВ-у.\n    "
+  },
+  "passport_number": {
+    "value": "Број пасоша"
+  },
+  "password": {
+    "value": "Лозинка"
+  },
+  "password_autofill": {
+    "value": "Ауто-пуњење лозинке"
+  },
+  "password_confirmation": {
+    "value": "Потврда главне лозинке"
+  },
+  "password_confirmation_desc": {
+    "value": "Ова акција је заштићена, да бисте наставили, поново унесите своју главну\n        лозинку да бисте проверили идентитет.\n    "
+  },
+  "password_exposed": {
+    "value": "Ова лозинка је изложена %1$s пута. Требали би да је промените."
+  },
+  "password_found_in_a_data_breach_alert_description": {
+    "value": "Лозинка је пронађена у случају повреде података.\n        Користите јединствену лозинку да бисте заштитили свој налог. Да ли сте сигурни да желите да користите откривену\n        лозинку?\n    "
+  },
+  "password_generated": {
+    "value": "Лозинка генерисана."
+  },
+  "password_generator": {
+    "value": "Генератор Лозинке"
+  },
+  "password_generator_policy_in_effect": {
+    "value": "Једна или више смерница организације утичу на поставке вашег\n        генератора\n    "
+  },
+  "password_hint": {
+    "value": "Помоћ за лозинку"
+  },
+  "password_hint_alert": {
+    "value": "Послали смо Вам поруку са саветом главне лозинке."
+  },
+  "password_history": {
+    "value": "Историја Лозинке"
+  },
+  "password_history_count": {
+    "value": "\n        <annotation link=\"passwordHistory\">Историјат лозинке:\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n    "
+  },
+  "password_info": {
+    "value": "Опционо захтевај лозинку од корисника за приступ овом слању."
+  },
+  "password_is_not_visible_tap_to_show": {
+    "value": "Лозинка је сакривена, додирните да се види."
+  },
+  "password_is_visible_tap_to_hide": {
+    "value": "Лозинка се види, додирните да је сакријете."
+  },
+  "password_override_alert": {
+    "value": "Сигурно преписати тренутну лозинку?"
+  },
+  "password_prompt": {
+    "value": "Поновно тражење главне лозинке"
+  },
+  "password_protected": {
+    "value": "Заштићено лозинком"
+  },
+  "password_safe": {
+    "value": "Ова лозинка није никада изложена. Треба да је сигурна за употребу."
+  },
+  "password_type": {
+    "value": "Тип лозинке"
+  },
+  "password_used_to_export": {
+    "value": "Ова лозинка ће се користити за извоз и увоз ове датотеке"
+  },
+  "passwords": {
+    "value": "Лозинке"
+  },
+  "passwords_for_x": {
+    "value": "Лозинке за %1$s"
+  },
+  "pending_delete": {
+    "value": "Брисање на чекању"
+  },
+  "pending_log_in_requests": {
+    "value": "Захтеви за пријаву на чекању"
+  },
+  "personal_details": {
+    "value": "Личне информације"
+  },
+  "personal_ownership_policy_in_effect": {
+    "value": "Политика организације утичу на ваше могућности власништва.\n    "
+  },
+  "personal_ownership_submit_error": {
+    "value": "Због смерница за предузећа, ограничено вам је чување предмета у вашем\n        личном трезору. Промените опцију власништва у организацију и изаберите из доступних колекција.\n    "
+  },
+  "phone": {
+    "value": "Телефон"
+  },
+  "photos": {
+    "value": "Слике"
+  },
+  "pick_three_or_four_random_unrelated_words": {
+    "value": "Изаберите три или четири насумичне, неповезане речи које\n        можете лако упамтити. Мислите о објектима, местима или стварима које волите.\n    "
+  },
+  "pin": {
+    "value": "ПИН"
+  },
+  "pin_require_master_password_restart": {
+    "value": "Да ли желите да затражите откључавање главном лозинком када се\n        апликација поново покрене?\n    "
+  },
+  "please_make_sure_your_vault_is_unlocked_and_the_fingerprint_phrase_matches_on_the_other_device": {
+    "value": "Увери\n        се да је твој сеф откључан и да се фраза отиска прста подудара на другом уређају.\n    "
+  },
+  "please_restart_registration_or_try_logging_in": {
+    "value": "Поново покрените регистрацију или покушајте да се\n        пријавите. Можда већ имате налог.\n    "
+  },
+  "plus_addressed_email": {
+    "value": "Плус адреса е-поште"
+  },
+  "plus_addressed_email_description": {
+    "value": "Користите могућности подадресе вашег добављача е-поште"
+  },
+  "point_your_camera_at_the_qr_code": {
+    "value": "Усмерите камеру на QR кôд.\n        Скенирање ће се десити аутоматски.\n    "
+  },
+  "policy_in_effect_lowercase": {
+    "value": "Садржи један или више малих слова"
+  },
+  "policy_in_effect_min_complexity": {
+    "value": "Оцена минималне сложености од %1$s"
+  },
+  "policy_in_effect_min_length": {
+    "value": "Минимална дужина од %1$s"
+  },
+  "policy_in_effect_numbers": {
+    "value": "Садрже један или више бројева"
+  },
+  "policy_in_effect_special": {
+    "value": "Садрже један или више бројева ових специјалних слова: %1$s"
+  },
+  "policy_in_effect_uppercase": {
+    "value": "Садржи један или више великих слова"
+  },
+  "possible_matching_items": {
+    "value": "Могуће ставке које се подударају"
+  },
+  "premium_required": {
+    "value": "Премијум је потребно за употребу ове способности."
+  },
+  "premium_subscription_required": {
+    "value": "Premium претплата је потребна"
+  },
+  "prevent_account_lockout": {
+    "value": "Спречите закључавање налога"
+  },
+  "privacy_policy": {
+    "value": "Политика приватности"
+  },
+  "privacy_policy_description_long": {
+    "value": "Погледајте нашу политику приватности на bitwarden.com."
+  },
+  "private_key": {
+    "value": "Приватни кључ"
+  },
+  "private_notes": {
+    "value": "Приватне белешке"
+  },
+  "public_key": {
+    "value": "Јавни кључ"
+  },
+  "push_notification_alert": {
+    "value": "Bitwarden чува ваш сеф аутоматски синхронизованим помоћу обавештења. За\n        најбоље могуће искуство, изаберите „Дозволи“ на следећем упозорењу када се затражи да омогућите обавештења.\n    "
+  },
+  "put_the_words_together_in_any_order_to_form_your_passphrase": {
+    "value": "Поставите речи заједно у било ком\n        редоследу да би сте формирали фразу. Користите цртице, размаке или их оставите спојене—избор је ваш!\n    "
+  },
+  "quick_and_easy_login": {
+    "value": "Брза и лака пријава"
+  },
+  "random": {
+    "value": "Случајно"
+  },
+  "random_and_complex_using_numbers_and_special_characters": {
+    "value": "Насумично и сложено, користећи бројеве и\n        посебне знакове\n    "
+  },
+  "random_word": {
+    "value": "Случајна реч"
+  },
+  "rate_app_description_long": {
+    "value": "Помозите другима да сазнају да ли је Bitwarden прави за њих. Посетите\n        продавницу апликација и оставите оцену.\n    "
+  },
+  "rate_the_app": {
+    "value": "Оцени апликацију"
+  },
+  "rate_the_app_description": {
+    "value": "Молимо вас да размотрите да нам помогнете уз добру оцену!"
+  },
+  "receive_push_notifications_for_new_login_requests": {
+    "value": "Примајте обавештења за нове захтеве за пријаву\n    "
+  },
+  "recovery_code_title": {
+    "value": "Шифра за опоравак"
+  },
+  "reg_ex": {
+    "value": "Регуларни израз"
+  },
+  "regenerate_password": {
+    "value": "Поново генериши лозинку"
+  },
+  "region": {
+    "value": "Регион"
+  },
+  "remember": {
+    "value": "Запамти ме"
+  },
+  "remember_email": {
+    "value": "Запамти адресу е-поште"
+  },
+  "remember_this_device": {
+    "value": "Запамти овај уређај"
+  },
+  "remember_to_delete_your_imported_password_file_from_your_computer": {
+    "value": "Не заборавите да избришете увезену\n        датотеку лозинке са свог рачунара\n    "
+  },
+  "remind_me_later": {
+    "value": "Подсети ме касније"
+  },
+  "remove": {
+    "value": "Уклони"
+  },
+  "remove_account": {
+    "value": "Уклони налог"
+  },
+  "remove_account_confirmation": {
+    "value": "Да ли си сигуран да желиш да уклониш овај налог?"
+  },
+  "remove_master_password": {
+    "value": "Уклони главну лозинку"
+  },
+  "remove_master_password_warning": {
+    "value": "%1$s користи SSO уз прилагођено управљање шифровањем. Наставак ће\n        уклонити главну лозинку са вашег налога и SSO ће бити неопходан за пријаву.\n    "
+  },
+  "remove_master_password_warning2": {
+    "value": "Ако не желите да уклоните вашу главну лозинку, можете да напустите\n        ову организацију.\n    "
+  },
+  "remove_passkey": {
+    "value": "Уклонити приступни кључ"
+  },
+  "remove_password": {
+    "value": "Уклони лозинку"
+  },
+  "removing_send_password": {
+    "value": "Уклањање лозинке"
+  },
+  "request_admin_approval": {
+    "value": "Затражити одобрење администратора"
+  },
+  "request_otp": {
+    "value": "Захтевај једнократну лозинку"
+  },
+  "requests_declined": {
+    "value": "Захтеви одбијени"
+  },
+  "require_master_password_on_app_restart": {
+    "value": "Потражити главну лозинку при поновном покретању апликације?\n    "
+  },
+  "resend_code": {
+    "value": "Понови слање кôда"
+  },
+  "resend_notification": {
+    "value": "Поново послати обавештење"
+  },
+  "reset_password_auto_enroll_invite_warning": {
+    "value": "Ова организација има политику која ће вас аутоматски\n        уписати у ресетовање лозинке. Упис ће омогућити администраторима организације да промене вашу главну лозинку.\n    "
+  },
+  "restart_registration": {
+    "value": "Поново покрените регистрацију"
+  },
+  "restore": {
+    "value": "Поврати"
+  },
+  "restoring": {
+    "value": "Враћање…"
+  },
+  "return_to_complete_this_step_anytime_in_settings": {
+    "value": "Можете се вратити да бисте завршили овај корак у\n        било ком тренутку у подешавањима.\n    "
+  },
+  "retype_master_password": {
+    "value": "Поновити Главну Лозинку"
+  },
+  "retype_master_password_required": {
+    "value": "Поново унети главну лозинку (неопходно)"
+  },
+  "retype_new_master_password_required": {
+    "value": "Поново унети нову главну лозинку (неопходно)"
+  },
+  "review_flow_launched": {
+    "value": "Рецензија тока је покренута!"
+  },
+  "save": {
+    "value": "Сачувај"
+  },
+  "save_and_protect_your_data": {
+    "value": "Сачувајте и заштитите своје податке"
+  },
+  "save_attachment_success": {
+    "value": "Прилог успешно сачуван"
+  },
+  "save_passkey": {
+    "value": "Сачувати приступни кључ"
+  },
+  "save_passkey_as_new_login": {
+    "value": "Сачувати приступни кључ као нову пријаву"
+  },
+  "save_the_exported_file_somewhere_on_your_computer_you_can_find_easily": {
+    "value": "Сачувајте извезену датотеку\n        негде на рачунару где можете лако да пронађете.\n    "
+  },
+  "saving": {
+    "value": "Чување..."
+  },
+  "scan_qr_code": {
+    "value": "Скенирај QR код"
+  },
+  "scan_qr_title": {
+    "value": "Скенирај QR код"
+  },
+  "search": {
+    "value": "Тражи"
+  },
+  "search_collection": {
+    "value": "Претражи колекцију"
+  },
+  "search_file_sends": {
+    "value": "Тражи послате датотеке"
+  },
+  "search_for_a_login_or_add_a_new_login": {
+    "value": "Потражите лозинку или додајте нову лозинку"
+  },
+  "search_for_an_item_or_add_a_new_item": {
+    "value": "Потражите ставку или додајте нову"
+  },
+  "search_group": {
+    "value": "Претражи %1$s"
+  },
+  "search_sends": {
+    "value": "Претражи слања"
+  },
+  "search_text_sends": {
+    "value": "Тражи послат текст"
+  },
+  "search_trash": {
+    "value": "Тражи отпад"
+  },
+  "search_vault": {
+    "value": "Претражи сеф"
+  },
+  "second_dot_turn_on_auto_fill": {
+    "value": "2. Омогућите ауто-пуњење"
+  },
+  "secure_notes": {
+    "value": "Сигурносне белешке"
+  },
+  "security": {
+    "value": "Сигурност"
+  },
+  "security_code": {
+    "value": "Сигурносни код"
+  },
+  "security_prioritized": {
+    "value": "Сигурност, приоритет"
+  },
+  "select": {
+    "value": "Изабери"
+  },
+  "select_import_data_in_the_web_app_then_done_to_finish_syncing": {
+    "value": "Изаберите Увези податке у веб\n        апликацији, а затим Готово да бисте завршили синхронизацију.\n    "
+  },
+  "select_one_collection": {
+    "value": "Морате одабрати макар једну колекцију."
+  },
+  "select_the_link_in_the_email_to_verify_your_email_address_and_continue_creating_your_account": {
+    "value": "\"Изабери\n        везу у е-поруци да верификујеш своју адресу е-поште и наставиш са прављењем налога. \"\n    "
+  },
+  "select_type_field": {
+    "value": "Какву врсту прилагођеног поља желите да додате?"
+  },
+  "self_host_server_url": {
+    "value": "Self-host server URL"
+  },
+  "self_hosted": {
+    "value": "Личан хостинг"
+  },
+  "self_hosted_environment": {
+    "value": "Самостално окружење"
+  },
+  "self_hosted_environment_footer": {
+    "value": "Наведите основни УРЛ вашег локалног инсталиране Bitwarden\n        инсталације.\n    "
+  },
+  "self_hosted_server_url": {
+    "value": "УРЛ сервера који се самостално хостује"
+  },
+  "send": {
+    "value": "Пошаљи"
+  },
+  "send_code": {
+    "value": "Пошаљи код"
+  },
+  "send_deleted": {
+    "value": "Слање је избрисано"
+  },
+  "send_details": {
+    "value": "Детаљи пошиљке"
+  },
+  "send_disabled_warning": {
+    "value": "Због полисе компаније, можеш само да бришеш постојећа слања."
+  },
+  "send_file_email_verification_required": {
+    "value": "Морате да проверите е-пошту да бисте користили датотеке са\n        „Send“-ом.\n    "
+  },
+  "send_file_premium_required": {
+    "value": "Бесплатни налози су ограничени само на дељење текста. Премиум чланство је\n        потребно да би се користиле датотеке са „Send“-ом.\n    "
+  },
+  "send_link": {
+    "value": "Пошаљи повезницу"
+  },
+  "send_name_required": {
+    "value": "\"Назив пошиљке (неопходно)\""
+  },
+  "send_options_policy_in_effect": {
+    "value": "Једна или више смерница организације утичу на опције „Send“-а."
+  },
+  "send_password_removed": {
+    "value": "Лозинка је уклоњена."
+  },
+  "send_sensitive_information_safely": {
+    "value": "Шаљите осетљиве информације, безбедно"
+  },
+  "send_updated": {
+    "value": "Слање је сачувано"
+  },
+  "send_verification_code_again": {
+    "value": "Поново ми пошаљи верификациони код на Е-пошту"
+  },
+  "send_verification_code_to_email": {
+    "value": "Слање верификационог кода на твоју Е-пошту"
+  },
+  "sending": {
+    "value": "Слање"
+  },
+  "sending_code": {
+    "value": "Слање кôда"
+  },
+  "sends": {
+    "value": "Послато"
+  },
+  "september": {
+    "value": "Септембар"
+  },
+  "server_url": {
+    "value": "УРЛ Сервера"
+  },
+  "service": {
+    "value": "Сервис"
+  },
+  "session_timeout": {
+    "value": "Истек сесије"
+  },
+  "session_timeout_action": {
+    "value": "Акција на истек сесије"
+  },
+  "set_bitwarden_as_passkey_manager_description": {
+    "value": "Постави Bitwarden као добављача приступног кључа у\n        подешавањима уређаја.\n    "
+  },
+  "set_master_password": {
+    "value": "Постави Главну Лозинку"
+  },
+  "set_master_password_summary": {
+    "value": "Да бисте довршили пријављивање помоћу SSO, молимо да поставите главну\n        лозинку за приступ и заштиту вашег сефа.\n    "
+  },
+  "set_password": {
+    "value": "Поставити лозинку"
+  },
+  "set_pin": {
+    "value": "Подеси ПИН"
+  },
+  "set_pin_description": {
+    "value": "Постави свој ПИН код за откључавање Bitwarden-а. Поставке ПИН-а ће се ресетовати\n        ако се икада потпуно одјавите из апликације.\n    "
+  },
+  "set_pin_direction": {
+    "value": "Унеси четвороцифрени ПИН за откључавање апликације."
+  },
+  "set_up_an_unlock_option_to_change_your_vault_timeout_action": {
+    "value": "Подесите опцију откључавања да бисте\n        променили радњу временског ограничења сефа.\n    "
+  },
+  "set_up_authenticator_key": {
+    "value": "Подесите кључ за аутентификатор"
+  },
+  "set_up_auto_fill_description_long": {
+    "value": "Да бисте подесили ауто-пуњење лозинки и управљање приступним\n        кључевима, подесите Bitwarden као ваш омиљени провајдер у подешавањима iOS-а.\n    "
+  },
+  "set_up_autofill": {
+    "value": "Подесити ауто-пуњење"
+  },
+  "set_up_autofill_on_all_your_devices": {
+    "value": "Подесите ауто-попуњавање на свим својим уређајима да бисте се\n        пријавили једним додиром било где.\n    "
+  },
+  "set_up_biometrics_or_choose_a_pin_code_to_quickly_access_your_vault_and_autofill_your_logins": {
+    "value": "Подеси\n        биометрију или изабери ПИН кôд да би брзо приступио свом сефу и аутоматски попунио своје пријаве.\n    "
+  },
+  "set_up_later": {
+    "value": "Подесићу касније"
+  },
+  "set_up_two_step_login": {
+    "value": "Поставити дво-степенску пријаву"
+  },
+  "set_up_unlock": {
+    "value": "Подесите откључавање"
+  },
+  "set_up_unlock_later": {
+    "value": "Подесити откључавање касније?"
+  },
+  "settings": {
+    "value": "Подешавања"
+  },
+  "setup_totp": {
+    "value": "Подесити ТОТП"
+  },
+  "seven_days": {
+    "value": "7 дана"
+  },
+  "share": {
+    "value": "Подели"
+  },
+  "share_error_details": {
+    "value": "Share error details"
+  },
+  "share_files_and_data_securely_with_anyone_on_any_platform": {
+    "value": "Делите датотеке и податке безбедно са било\n        ким, на било којој платформи. Ваше информације ће остати шифроване од почетка-до-краја уз ограничење\n        изложености.\n    "
+  },
+  "share_item": {
+    "value": "Поделити ставку"
+  },
+  "share_link": {
+    "value": "Подели везу"
+  },
+  "share_on_save": {
+    "value": "Подели ово Слање након чувања"
+  },
+  "shared": {
+    "value": "Дељено"
+  },
+  "show": {
+    "value": "Прикажи"
+  },
+  "show_less": {
+    "value": "Прикажи мање"
+  },
+  "show_more": {
+    "value": "Прикажи више"
+  },
+  "show_website_icons": {
+    "value": "Прикажи иконе сајтова"
+  },
+  "show_website_icons_description": {
+    "value": "Прикажи препознатљиву слику поред сваке ставке за пријаву."
+  },
+  "simple_login": {
+    "value": "SimpleLogin"
+  },
+  "single_tap_passkey_authentication": {
+    "value": "Пријављивање фразом једним додиром"
+  },
+  "single_tap_passkey_creation": {
+    "value": "Прављење фразе једним додиром"
+  },
+  "skip_for_now": {
+    "value": "Прескочи за сада"
+  },
+  "soft_deleting": {
+    "value": "Слање у отпад..."
+  },
+  "solarized_dark": {
+    "value": "Solarized црно"
+  },
+  "special_characters": {
+    "value": "Специјална слова (!@#$%^*)"
+  },
+  "ssh_keys": {
+    "value": "SSH кључеве"
+  },
+  "ssn": {
+    "value": "Број социјалног осигурања"
+  },
+  "starts_with": {
+    "value": "Почиње са"
+  },
+  "state_province": {
+    "value": "Држава / покрајина"
+  },
+  "status": {
+    "value": "Статус"
+  },
+  "step_1_of_3": {
+    "value": "Корак 1 од 3"
+  },
+  "step_2_of_3": {
+    "value": "Корак 2 од 3"
+  },
+  "step_3_of_3": {
+    "value": "Корак 3 од 3"
+  },
+  "strong": {
+    "value": "Јако"
+  },
+  "submit": {
+    "value": "Пошаљи"
+  },
+  "submit_crash_logs": {
+    "value": "Пошаљите евиденцију о паду"
+  },
+  "submit_crash_logs_description": {
+    "value": "Помозите Bitwarden-у да побољша стабилност апликације слањем извештаја\n        о паду.\n    "
+  },
+  "submitting": {
+    "value": "Слање..."
+  },
+  "switch_to_already_added_account_confirmation": {
+    "value": "Да ли желиш да га отвориш сада?"
+  },
+  "sync": {
+    "value": "Синхронизуј"
+  },
+  "sync_now": {
+    "value": "Синхронизуј сада"
+  },
+  "sync_vault_now": {
+    "value": "Синхронизуј сеф одмах"
+  },
+  "syncing": {
+    "value": "Синхронизује се..."
+  },
+  "syncing_complete": {
+    "value": "Синхронизација је завршена"
+  },
+  "syncing_failed": {
+    "value": "Синхронизација није успела"
+  },
+  "syncing_logins_loading_message": {
+    "value": "Синхронизовање пријављивања..."
+  },
+  "system_certificates_are_not_as_secure_as_importing_certificates_to_bitwarden": {
+    "value": "Using a system\n        certificate is less secure than storing the certificate with Bitwarden. Continuing will display a list of\n        available system certificates if one is already installed.\n    "
+  },
+  "tap_to_go_back": {
+    "value": "Додирните за уназад"
+  },
+  "ten_seconds": {
+    "value": "10 секунди"
+  },
+  "terms_of_service": {
+    "value": "Услови коришћења услуге"
+  },
+  "text": {
+    "value": "Текст"
+  },
+  "text_to_share": {
+    "value": "Текст за дељење"
+  },
+  "text_type_is_not_selected": {
+    "value": "Тип текста није изабран, пипните за одабир."
+  },
+  "text_type_is_selected": {
+    "value": "Тип текста је изабран."
+  },
+  "thank_you": {
+    "value": "Хвала"
+  },
+  "the_best_way_to_make_sure_you_can_always_access_your_vault": {
+    "value": "Најбољи начин да осигурате да увек можете\n        да приступите вашем трезору је да поставите безбедносе провере од самог почетка.\n    "
+  },
+  "the_following_instructions_will_guide_you_through_importing_logins": {
+    "value": "Следећа упутства ће вас водити\n        кроз увоз података за пријављивање са вашег десктоп или лаптоп рачунара\n    "
+  },
+  "the_longer_your_password_the_more_difficult_to_hack": {
+    "value": "Што је ваша лозинка дужа, то је теже хаковати.\n        Минимум за креирање налога је 12 знакова, али ако направите 14 знакова, време за пробијање ваше лозинке би\n        трајало векове!\n    "
+  },
+  "the_passkey_will_not_be_copied_to_the_cloned_item_do_you_want_to_continue_cloning_this_item": {
+    "value": "Приступни\n        кључ неће бити копиран на клонирану ставку. Да ли желите да наставите са клонирањем ставке?\n    "
+  },
+  "the_strongest_passwords_are_usually": {
+    "value": "Најјаче лозинке су обично:"
+  },
+  "the_urix_is_already_blocked": {
+    "value": "Адреса %1$s је већ блокирана"
+  },
+  "the_vault_protects_more_than_just_passwords": {
+    "value": "Сеф штити више од само лозинки. Овде безбедно чувајте\n        безбедне пријаве, личне карте, картице и белешке.\n    "
+  },
+  "theme": {
+    "value": "Тема"
+  },
+  "theme_applied_on_restart": {
+    "value": "Промене теме примењиваће се када се апликација поново покрене."
+  },
+  "theme_default": {
+    "value": "Подразумевано (системско)"
+  },
+  "theme_description": {
+    "value": "Промени боје апликације."
+  },
+  "there_are_no_blocked_ur_is": {
+    "value": "Нема блокираних адреса"
+  },
+  "there_are_no_items_in_your_vault_that_match_x": {
+    "value": "У вашем сефу нема ставке за \\\"%1$s\\\""
+  },
+  "there_are_no_items_that_match_the_search": {
+    "value": "Нема ставки које одговарају претрази"
+  },
+  "there_was_a_problem_creating_a_passkey_for_x_try_again_later": {
+    "value": "Дошло је до проблема при креирању\n        приступачког кључа за %1$s. Покушајте поново касније.\n    "
+  },
+  "there_was_a_problem_reading_a_passkey_for_x_try_again_later": {
+    "value": "Дошло је до проблема при читању\n        приступачког кључа за %1$s. Покушајте поново касније.\n    "
+  },
+  "there_was_an_error_starting_web_authn_two_factor_authentication": {
+    "value": "Дошло је до грешке при покретању\n        WebAuthn двофакторске аутентификације\n    "
+  },
+  "there_was_an_issue_validating_the_registration_token": {
+    "value": "Дошло је до проблема са валидацијом\n        регистрационог токена.\n    "
+  },
+  "third_dot_select_bitwarden_to_use_for_passwords_and_passkeys": {
+    "value": "3. Одабрати \\\"Bitwarden\\\" за употребу за\n        лозинке\n    "
+  },
+  "thirty_days": {
+    "value": "30 дана"
+  },
+  "thirty_minutes": {
+    "value": "30 минута"
+  },
+  "thirty_seconds": {
+    "value": "30 секунди"
+  },
+  "this_is_not_a_recognized_bitwarden_server_you_may_need_to_check_with_your_provider_or_update_your_server": {
+    "value": "\n        Ово није признати Bitwarden сервер. Можда ћете морати да проверите код свог провајдера или да ажурирате сервер.\n    "
+  },
+  "this_item_already_contains_a_passkey_are_you_sure_you_want_to_overwrite_the_current_passkey": {
+    "value": "Ова\n        ставка већ садржи приступни кључ. Да ли сте сигурни да желите да замените тренутни приступни кључ?\n    "
+  },
+  "this_request_is_no_longer_valid": {
+    "value": "Овај захтев више не важи"
+  },
+  "three_days": {
+    "value": "3 дана"
+  },
+  "time": {
+    "value": "Време"
+  },
+  "title": {
+    "value": "Наслов"
+  },
+  "toggle_visibility": {
+    "value": "Пребаци видљивост"
+  },
+  "too_many_attempts": {
+    "value": "Превише покушаја"
+  },
+  "tools": {
+    "value": "Алатке"
+  },
+  "totally_different_from_your_other_passwords": {
+    "value": "Потпуно другачија од ваших осталих лозинки"
+  },
+  "totp": {
+    "value": "ТОТП"
+  },
+  "touch_id": {
+    "value": "Додирни ИД"
+  },
+  "translations": {
+    "value": "Преводи"
+  },
+  "trash": {
+    "value": "Отпад"
+  },
+  "trouble_logging_in": {
+    "value": "Имате проблема са пријављивањем?"
+  },
+  "try_again": {
+    "value": "Покушајте опет"
+  },
+  "try_it_out": {
+    "value": "Испробајте"
+  },
+  "turn_off_using_public_device": {
+    "value": "Искључите ако се користи јавни уређај"
+  },
+  "turn_on_autofill": {
+    "value": "Омогућите ауто-пуњење"
+  },
+  "turn_on_autofill_later": {
+    "value": "Упалити ауто-пуњење касније?"
+  },
+  "turn_on_later": {
+    "value": "Упалити касније"
+  },
+  "turn_on_two_step_login": {
+    "value": "Упалити дво-степенску пријаву"
+  },
+  "twelve_or_more_characters": {
+    "value": "12 или више знакова"
+  },
+  "twenty_seconds": {
+    "value": "20 секунди"
+  },
+  "two_days": {
+    "value": "2 дана"
+  },
+  "two_minutes": {
+    "value": "2 минута"
+  },
+  "two_step_login": {
+    "value": "Дво-коракна лозинка"
+  },
+  "two_step_login_description_long": {
+    "value": "Учините свој налог сигурнијим подешавањем пријаве у два корака у\n        Bitwarden веб апликацији.\n    "
+  },
+  "two_step_login_options": {
+    "value": "Опције дво-коракне пријаве"
+  },
+  "type": {
+    "value": "Тип"
+  },
+  "type_card": {
+    "value": "Кредитна Картица"
+  },
+  "type_file": {
+    "value": "Датотека"
+  },
+  "type_file_info": {
+    "value": "Датотека коју желиш да пошаљеш."
+  },
+  "type_identity": {
+    "value": "Идентитет"
+  },
+  "type_login": {
+    "value": "Пријава"
+  },
+  "type_secure_note": {
+    "value": "Сигурносна белешка"
+  },
+  "type_ssh_key": {
+    "value": "SSH кључ"
+  },
+  "type_text": {
+    "value": "Текст"
+  },
+  "types": {
+    "value": "Врсте"
+  },
+  "unable_to_download_file": {
+    "value": "Не могу да преузмем датотеку."
+  },
+  "unable_to_open_file": {
+    "value": "Уређај не може да отвори ову врсту датотеке."
+  },
+  "unable_to_save_attachment": {
+    "value": "Дошло је до проблема при чувању овог прилога. Ако се проблем настави,\n        можете га сачувати из веб сефа.\n    "
+  },
+  "unfavorite": {
+    "value": "Скини омиљено"
+  },
+  "unique_usernames_add_an_extra_layer_of_security_and_can_help_prevent_hackers_from_finding_your_accounts": {
+    "value": "\n        Јединствена корисничка имена чине додатни слој заштите и помажу у спречавању хакера од проналажења ваших налога.\n    "
+  },
+  "unknown_account": {
+    "value": "Непознат налог"
+  },
+  "unknown_x_error_message": {
+    "value": "Непозната %1$s грешка."
+  },
+  "unlock": {
+    "value": "Откључај"
+  },
+  "unlock_options": {
+    "value": "Опције деблокирања"
+  },
+  "unlock_vault": {
+    "value": "Откључај сеф"
+  },
+  "unlock_with": {
+    "value": "Откључај са %1$s"
+  },
+  "unlock_with_pin": {
+    "value": "Откључај са ПИН кодом"
+  },
+  "unlocking_may_fail_due_to_insufficient_memory_decrease_your_kdf_memory_settings_to_resolve": {
+    "value": "\n        Откључавање можда неће успети због недовољне меморије. Умањите подешавање KDF меморије или подесите биометрију\n        за решење.\n    "
+  },
+  "unsubscribe": {
+    "value": "Одјави се"
+  },
+  "unsupported_certificate_type": {
+    "value": "Unsupported certificate type"
+  },
+  "update_key": {
+    "value": "Не можете да користите ову способност док не промените Ваш кључ за шифровање."
+  },
+  "update_master_password": {
+    "value": "Ажурирај главну лозинку"
+  },
+  "update_master_password_warning": {
+    "value": "Ваша главна лозинка је недавно промењена од стране администратора\n        организације. Како бисте приступили сефу, морате да ажурирате вашу главну лозинку. Ако наставите бићете\n        одјављени из ваше тренутне сесије, што ће захтевати да се поново пријавите. Активне сесије на другим уређајима\n        ће можда наставити да раде до сат времена.\n    "
+  },
+  "update_password_error": {
+    "value": "Тренутно није могуће ажурирати лозинку"
+  },
+  "update_weak_master_password_warning": {
+    "value": "Ваша главна лозинка не испуњава једну или више смерница ваше\n        организације. Да бисте приступили сефу, морате одмах да ажурирате главну лозинку. Ако наставите, одјавићете се\n        са ваше тренутне сесије, што захтева да се поново пријавите. Активне сесије на другим уређајима могу да остану\n        активне до један сат.\n    "
+  },
+  "updated_master_password": {
+    "value": "Главна лозинка ажурирана"
+  },
+  "updating_password": {
+    "value": "Ажурирање лозинке"
+  },
+  "uppercase_ato_z": {
+    "value": "Велика слова (A-Z)"
+  },
+  "ur_is": {
+    "value": "УРЛ"
+  },
+  "uri": {
+    "value": "УРЛ"
+  },
+  "uri_match_detection": {
+    "value": "Налажење УРЛ"
+  },
+  "uri_position": {
+    "value": "УРЛ %1$s"
+  },
+  "uri_removed": {
+    "value": "УРЛ уклоњен"
+  },
+  "uri_saved": {
+    "value": "УРЛ сачуван"
+  },
+  "us": {
+    "value": "US"
+  },
+  "use_a_computer_to_import_logins": {
+    "value": "Користите рачунар за увоз пријава из постојећег менаџера лозинки\n    "
+  },
+  "use_another_two_step_method": {
+    "value": "Користите другу методу пријављивања у два корака"
+  },
+  "use_autofill_to_log_into_your_accounts": {
+    "value": "Користите ауто-пуњење да бисте се пријавили на своје налоге\n        једним додиром.\n    "
+  },
+  "use_biometrics_to_unlock": {
+    "value": "Користи биометријско откључавање"
+  },
+  "use_chrome_autofill_integration": {
+    "value": "Use Chrome autofill integration"
+  },
+  "use_chrome_beta_autofill_integration": {
+    "value": "Use Chrome autofill integration (Beta)"
+  },
+  "use_face_id_to_unlock": {
+    "value": "Face ID за откључавање"
+  },
+  "use_fingerprint_to_unlock": {
+    "value": "Користи отисак прста за откључавање"
+  },
+  "use_inline_autofill_explanation_long": {
+    "value": "Користите ауто-попуњавање на линији ако га ваша изабрана\n        тастатура подржава. У супротном, користите подразумевано преклапање.\n    "
+  },
+  "use_system_certificate": {
+    "value": "Користи сертификат система"
+  },
+  "use_the_generator_to_create_a_strong_unique_password": {
+    "value": "Користите генератор да креирате јаку,\n        јединствену лозинку\n    "
+  },
+  "use_the_generator_to_create_secure_passwords_passphrases_and_usernames": {
+    "value": "\"Користите генератор да би сте\n        направили сигурне лозинке, фразе и корисничка имена. \"\n    "
+  },
+  "use_the_web_app": {
+    "value": "Користите веб апликацију"
+  },
+  "use_these_options_to_adjust_your_password_to_your_account_requirements": {
+    "value": "Користите ове опције да би сте\n        прилагодили лозинку захтевима вашег налога.\n    "
+  },
+  "use_this_button_to_generate_a_new_unique_password": {
+    "value": "Користите ово дугме да би сте генерисали нову\n        јединствену лозинку.\n    "
+  },
+  "use_this_device_to_approve_login_requests_made_from_other_devices": {
+    "value": "Користите овај уређај за одобравање\n        захтева за пријављивање са других уређаја.\n    "
+  },
+  "user_verification_direction": {
+    "value": "Верификација корисника"
+  },
+  "username": {
+    "value": "Корисничко име"
+  },
+  "username_type": {
+    "value": "Тип имена"
+  },
+  "validating": {
+    "value": "Проверавање"
+  },
+  "validation_field_required": {
+    "value": "Поље %1$s је обавезно."
+  },
+  "value": {
+    "value": "Вредност"
+  },
+  "value_has_been_copied": {
+    "value": "%1$s је копиран/а."
+  },
+  "vault": {
+    "value": "Сеф"
+  },
+  "vault_filter_description": {
+    "value": "Сеф: %1$s"
+  },
+  "vault_is_locked": {
+    "value": "Сеф је закључан"
+  },
+  "vault_locked_identity": {
+    "value": "Ваш сеф је закључан. Потврди идентитет за наставак."
+  },
+  "vault_locked_master_password": {
+    "value": "Сеф је блокиран. Унеси главну лозинку за наставак."
+  },
+  "vault_locked_pin": {
+    "value": "Сеф је блокиран. Провери ПИН код за наставак."
+  },
+  "vault_timeout": {
+    "value": "Временско ограничење сефа"
+  },
+  "vault_timeout_action": {
+    "value": "Радња након временског ограничења сефа"
+  },
+  "vault_timeout_action_changed_to_log_out": {
+    "value": "Радња временског ограничења сефа је промењена за\n        одјављивање\n    "
+  },
+  "vault_timeout_action_policy_in_effect": {
+    "value": "Смернице ваше организације су поставиле вашу радњу временског\n        ограничења сефа на %1$s.\n    "
+  },
+  "vault_timeout_log_out_confirmation": {
+    "value": "Одјава ће уклонити сваки приступ вашем сефу и захтева мрежну\n        потврду идентитета након истека тајмаута. Да ли сте сигурни да желите да користите ову поставку?\n    "
+  },
+  "vault_timeout_policy_in_effect": {
+    "value": "Полиса ваше организације утиче на време истека сефа. Максимално\n        дозвољено време истека је %1$s сат(и) и %2$s minut(а)\n    "
+  },
+  "vault_timeout_policy_with_action_in_effect": {
+    "value": "Смернице ваше организације утичу на временско ограничење\n        сефа. Максимално дозвољено ограничење сефа је %1$s сат(и) и %2$s минут(а). Ваша радња временског ограничења сефа\n        је подешена на %3$s.\n    "
+  },
+  "vault_timeout_to_large": {
+    "value": "Време истека вашег сефа је премашило дозвољена ограничења од стране ваше\n        организације.\n    "
+  },
+  "vaults": {
+    "value": "Сефови"
+  },
+  "verification_code": {
+    "value": "Верификациони код"
+  },
+  "verification_code_totp": {
+    "value": "Једнократни код"
+  },
+  "verification_codes": {
+    "value": "Верификациони кодови"
+  },
+  "verification_email_not_sent": {
+    "value": "Слање Е-поште за верификацију није успело. Покушај поново."
+  },
+  "verification_email_sent": {
+    "value": "Е-пошта за потвру је послата"
+  },
+  "verification_required_by_x": {
+    "value": "Потребдна верификација %1$s"
+  },
+  "verification_required_for_this_action_set_up_an_unlock_method_in_bitwarden_to_continue": {
+    "value": "За ову радњу\n        је потребна верификација. Подесите метод откључавања у Bitwarden да би наставили.\n    "
+  },
+  "verified_sso_domain_verified": {
+    "value": "Потврђена крајња тачка SSO домена"
+  },
+  "verify_face_id": {
+    "value": "Провера Face ID"
+  },
+  "verify_fingerprint": {
+    "value": "Верификуј отисак прста"
+  },
+  "verify_master_password": {
+    "value": "Верификуј Главну Лозинку"
+  },
+  "verify_pin": {
+    "value": "Верификуј ПИН"
+  },
+  "verify_your_identity": {
+    "value": "Verify your identity"
+  },
+  "verifying": {
+    "value": "Проверавање"
+  },
+  "verifying_identity_ellipsis": {
+    "value": "Верификација идентитета..."
+  },
+  "version": {
+    "value": "Верзија"
+  },
+  "view": {
+    "value": "Приказ"
+  },
+  "view_all_login_options": {
+    "value": "Погледајте сав извештај у опције"
+  },
+  "view_card": {
+    "value": "Преглед картице"
+  },
+  "view_identity": {
+    "value": "Преглед идентитета"
+  },
+  "view_item": {
+    "value": "Види ставку"
+  },
+  "view_login": {
+    "value": "Преглед пријаве"
+  },
+  "view_note": {
+    "value": "Преглед белешке"
+  },
+  "view_passkey": {
+    "value": "Преглед приступног кључа"
+  },
+  "visit_our_website": {
+    "value": "Посети наш веб-сајт"
+  },
+  "warning": {
+    "value": "Упозорење"
+  },
+  "we_couldnt_verify_the_servers_certificate": {
+    "value": "Нисмо могли да верификујемо сертификат сервера. Ланац\n        сертификата или подешавања проксија на вашем уређају или вашем Bitwarden серверу можда нису правилно подешени.\n    "
+  },
+  "we_ll_walk_you_through_the_key_features_to_add_a_new_login": {
+    "value": "Провеђћемо вас кроз кључне кораке како би\n        сте додали ново пријављивање.\n    "
+  },
+  "we_sent_an_email_to": {
+    "value": "Послали смо Е-пошту на\n        <annotation emphasis=\"bold\">\n            <annotation arg=\"0\">%1$s</annotation>\n        </annotation>\n        .\n    "
+  },
+  "weak": {
+    "value": "Слабо"
+  },
+  "weak_and_exposed_master_password": {
+    "value": "Слаба и изложена главна лозинка"
+  },
+  "weak_master_password": {
+    "value": "Слаба главна лозинка"
+  },
+  "weak_password_identified_and_found_in_a_data_breach_alert_description": {
+    "value": "Идентификована је слаба лозинка\n        и пронађена у упаду података. Користите јаку и јединствену лозинку да заштитите свој налог. Да ли сте сигурни да\n        желите да користите ову лозинку?\n    "
+  },
+  "weak_password_identified_use_a_strong_password_to_protect_your_account": {
+    "value": "Идентификована је слаба\n        лозинка. Користите јаку лозинку да бисте заштитили свој налог. Да ли сте сигурни да желите да користите слабу\n        лозинку?\n    "
+  },
+  "web_vault": {
+    "value": "Bitwarden Мрежни Сеф"
+  },
+  "web_vault_url": {
+    "value": "УРЛ сервера Сефа"
+  },
+  "website": {
+    "value": "Веб сајт"
+  },
+  "website_required": {
+    "value": "Вебсајт (обавезно)"
+  },
+  "website_uri": {
+    "value": "Вебсајт (URI)"
+  },
+  "welcome_message_1": {
+    "value": "Сачувај пријаве, картице и идентитете у свом безбедном сефу. Bitwarden користи\n        шифровање од почетка-до-краја да заштити оно што вам је важно.\n    "
+  },
+  "welcome_message_2": {
+    "value": "Подесите биометријско откључавање и аутоматско попуњавање да бисте се пријавили на\n        своје налоге без уноса ниједног слова.\n    "
+  },
+  "welcome_message_3": {
+    "value": "Користите генератор да креирате и сачувате јаке, јединствене лозинке за све ваше\n        налоге.\n    "
+  },
+  "welcome_message_4": {
+    "value": "Сачувајте неограничене лозинке на неограниченим уређајима помоћу Bitwarden мобилних\n        апликација, претраживача и десктоп апликација.\n    "
+  },
+  "what_bitwarden_has_to_offer": {
+    "value": "Сада можете да користите аутоматско попуњавање за пријављивање у\n        апликације и веб локације помоћу сачуваних лозинки. Сада можете истражити све остало што Bitwarden може да\n        понуди.\n    "
+  },
+  "what_makes_a_password_strong": {
+    "value": "Шта лозинку чини јаком?"
+  },
+  "what_would_you_like_to_generate": {
+    "value": "Шта желите да генеришете?"
+  },
+  "windows_hello": {
+    "value": "Windows Hello"
+  },
+  "word_separator": {
+    "value": "Одвајач речи"
+  },
+  "write_this_password_down_and_keep_it_somewhere_safe": {
+    "value": "Запишите ову лозинку и чувајте је негде на\n        сигурном.\n    "
+  },
+  "write_your_password_down": {
+    "value": "Запишите своју лозинку"
+  },
+  "x_ellipses": {
+    "value": "%s..."
+  },
+  "x_hours": {
+    "value": "%1$s сати/а"
+  },
+  "x_hours_and_one_minute": {
+    "value": "%1$s сата/и и један минута"
+  },
+  "x_hours_and_y_minutes": {
+    "value": "%1$s сата/и и %2$s минута"
+  },
+  "x_minutes_ago": {
+    "value": "пре %1$s минута"
+  },
+  "yes": {
+    "value": "Да"
+  },
+  "yes_and_save": {
+    "value": "Да, и Сачувати"
+  },
+  "yes_i_can_reliably_access_my_email": {
+    "value": "Да, могу поуздано да приступим мојој Е-пошти"
+  },
+  "you_can_change_your_account_email_on_the_bitwarden_web_app": {
+    "value": "Можеш да промениш Е-пошту свог налога у\n        мрежној апликацији Bitwarden-а.\n    "
+  },
+  "you_can_import_data_to_your_vault_on_x": {
+    "value": "Можете да увезете податке у свој сеф на %1$s."
+  },
+  "you_can_return_to_complete_this_step_anytime_from_account_security_in_settings": {
+    "value": "Можете се вратити да\n        бисте завршили овај корак у било ком тренутку из „Безбедност налога“ у подешавањима.\n    "
+  },
+  "you_can_return_to_complete_this_step_anytime_from_settings": {
+    "value": "Можете се вратити да бисте завршили овај\n        корак у било ком тренутку у подешавањима. сефа.\n    "
+  },
+  "you_can_set_up_two_step_login_as_an_alternative_way_to_protect_your_account_or_change_your_email_to_one_you_can_access": {
+    "value": "\n        Можеш да подесиш пријаву у два корака као алтернативни начин да заштитиш свој налог или да промениш своју\n        Е-пошту у ону коју можеш да приступиш.\n    "
+  },
+  "you_cannot_edit_passkey_application_because_it_would_invalidate_the_passkey": {
+    "value": "Не може да се уреди\n        апликација кључева јер би то поништило приступни кључ\n    "
+  },
+  "you_ll_only_need_to_set_up_authenticator_key": {
+    "value": "Морате подесити само кључ аутентификатора за\n        пријављивања која захтевају двофакторску аутентификацију са кодом. Кључ ће непрестано генерисати шестоцифрене\n        кодове које можете користити за пријављивање.\n    "
+  },
+  "you_must_add_a_web_address_to_use_autofill_to_access_this_account": {
+    "value": "Морате додати веб адресу да би сте\n        користили аутоматско попуњавање за приступ овом налогу.\n    "
+  },
+  "you_will_be_notified_once_approved": {
+    "value": "Бићете обавештени када буде одобрено."
+  },
+  "your_account_has_been_permanently_deleted": {
+    "value": "Ваш налог је трајно обрисан"
+  },
+  "your_accounts_fingerprint": {
+    "value": "Ваша Сигурносна Фраза Сефа"
+  },
+  "your_data_when_and_where_you_need_it": {
+    "value": "Ваши подаци, када и где су вам потребни"
+  },
+  "your_hint_will_be_send_to_you_via_email_when_you_request_it": {
+    "value": "Твој наговештај ће ти бити послат путем\n        Е-поште када га затражиш.\n    "
+  },
+  "your_master_password_cannot_be_recovered_if_you_forget_it_x_characters_minimum": {
+    "value": "Ваша главна лозинка се\n        не може повратити ако је заборавите! Минимално %1$s слова.\n    "
+  },
+  "your_organization_permissions_were_updated_requering_you_to_set_a_master_password": {
+    "value": "Дозволе за вашу\n        организацију су ажуриране, што захтева да поставите главну лозинку.\n    "
+  },
+  "your_organization_requires_you_to_set_a_master_password": {
+    "value": "Ваша организација захтева да поставите главну\n        лозинку.\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault": {
+    "value": "Ваш приступни кључ ће бити сачуван у вашем\n        Bitwarden сефу\n    "
+  },
+  "your_passkey_will_be_saved_to_your_bitwarden_vault_for_x": {
+    "value": "Ваш приступни кључ ће бити сачуван у вашем\n        Bitwarden сефу за %1$s\n    "
+  },
+  "your_request_has_been_sent_to_your_admin": {
+    "value": "Ваш захтев је послат вашем администратору."
+  },
+  "youre_all_set": {
+    "value": "Спремни сте!"
+  },
+  "yubi_key_instruction": {
+    "value": "Да бисте наставили, држите YubiKey NEO на задњој страни уређаја или убаците свој\n        YubiKey у УСБ порт уређаја, а затим додирните његово дугме.\n    "
+  },
+  "yubi_key_instruction_ios": {
+    "value": "Да бисте наставили, држите YubiKey NEO на задњој страни уређаја."
+  },
+  "yubi_key_title": {
+    "value": "YubiKey Сигурносни Кључ"
+  },
+  "zip_postal_code": {
+    "value": "Поштански број"
+  }
+}
