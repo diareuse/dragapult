@@ -5,45 +5,54 @@ import dragapult.app.v2.reader.ReaderJsonIR
 import dragapult.app.v2.reader.WriterAndroid
 import dragapult.app.v2.reader.WriterJsonIR
 import java.io.ByteArrayOutputStream
-import java.io.File
 import java.nio.file.Files
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
-class AndroidTest {
+class AndroidTest : ConversionHarness() {
 
     @Test
-    fun `read from android matches json IR`() {
-        val reader = ReaderAndroid(File("src/test/resources/android/res"))
-        val output = ByteArrayOutputStream()
-        WriterJsonIR(output).use { writer ->
-            for (item in reader) {
-                writer.append(item)
-            }
+    fun `read from android matches json IR`() = test(
+        prepare = {
+            val output = ByteArrayOutputStream()
+            val reader = ReaderAndroid(resourceDir("android/res"))
+            val writer = WriterJsonIR(output)
+            TestSetup.ToIR(reader, writer, output)
+        },
+        test = { (reader, writer, output) ->
+            reader.copyTo(writer)
+            output.toString("UTF-8")
+        },
+        verify = { actual ->
+            assertEquals(
+                expected = resourceFileAsString("ir/keys.json.ir"),
+                actual = actual
+            )
         }
-        assertEquals(
-            expected = output.toString("UTF-8"),
-            actual = this::class.java.classLoader.getResourceAsStream("ir/keys.json")!!.bufferedReader().readText()
-        )
-    }
+    )
 
     @Test
-    fun `read from json IR matches android`() {
-        val reader = ReaderJsonIR(this::class.java.classLoader.getResourceAsStream("ir/keys.json"))
-        val outputDir = Files.createTempDirectory("android-test").toFile()
-        outputDir.deleteOnExit()
-        WriterAndroid(outputDir).use { writer ->
-            for (item in reader) {
-                writer.append(item)
+    fun `read from json IR matches android`() = test(
+        prepare = {
+            val reader = ReaderJsonIR(resourceFile("ir/keys.json.ir"))
+            val outputDir = Files.createTempDirectory("android-test").toFile()
+            val writer = WriterAndroid(outputDir)
+            TestSetup.FromIR(reader, writer, outputDir)
+        },
+        test = { (reader, writer, outputDir) ->
+            reader.copyTo(writer)
+            outputDir
+        },
+        verify = { dir ->
+            dir.walk().filter { it.isFile }.forEach {
+                val expected = resourceFileAsString("output/android/res/${it.relativeTo(dir)}.out")
+                val actual = it.reader().readText()
+                assertEquals(
+                    expected = expected,
+                    actual = actual
+                )
             }
         }
-        outputDir.walk().filter { it.isFile }.forEach {
-            val expected =
-                this::class.java.classLoader.getResourceAsStream("output/android/res/" + it.relativeTo(outputDir).path)
-                    .reader().readText()
-            val actual = it.reader().readText()
-            assertEquals(expected, actual)
-        }
-    }
+    )
 
 }

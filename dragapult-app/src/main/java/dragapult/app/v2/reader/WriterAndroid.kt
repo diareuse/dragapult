@@ -12,7 +12,8 @@ import java.io.File
 import java.util.*
 
 class WriterAndroid(
-    private val outputDirectory: File
+    private val outputDirectory: File,
+    private val fileName: String = "strings.xml"
 ) : TranslationWriter {
 
     private val xml = XML {
@@ -41,7 +42,7 @@ class WriterAndroid(
     override fun close() {
         for (locale in resources.keys) {
             val res = Resources(strings = resources[locale]!!)
-            val file = File(outputDirectory, "values-${locale.toLanguageTag()}/strings.xml")
+            val file = File(outputDirectory, "values-${locale.toLanguageTag()}/$fileName")
             file.parentFile?.mkdirs()
             file.outputStream().writer().use { output ->
                 xml.encodeToWriter(
