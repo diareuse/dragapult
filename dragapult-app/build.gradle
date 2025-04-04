@@ -12,5 +12,4 @@ dependencies {
     implementation libs.kotlin.serialization.csv
     implementation libs.kotlin.serialization.xml
     implementation libs.kotlin.serialization.yaml
-    implementation libs.kotlin.serialization.toml
 }

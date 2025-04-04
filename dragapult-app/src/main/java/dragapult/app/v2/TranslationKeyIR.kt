@@ -18,12 +18,3 @@ interface TranslationKeyIR {
     }
 
 }
-
-interface TranslationFileIR {
-    val sections: Iterable<TranslationSectionIR>
-}
-
-interface TranslationSectionIR {
-    val name: String?
-    val keys: Iterable<TranslationKeyIR>
-}
