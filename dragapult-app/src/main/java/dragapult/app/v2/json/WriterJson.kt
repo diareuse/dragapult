@@ -1,4 +1,4 @@
-package dragapult.app.v2.reader
+package dragapult.app.v2.json
 
 import dragapult.app.v2.TranslationKeyIR
 import dragapult.app.v2.TranslationWriter

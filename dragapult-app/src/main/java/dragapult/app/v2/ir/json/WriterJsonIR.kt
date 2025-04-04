@@ -1,14 +1,17 @@
-package dragapult.app.v2.reader
+package dragapult.app.v2.ir.json
 
 import dragapult.app.v2.TranslationKeyIR
 import dragapult.app.v2.TranslationWriter
 import kotlinx.serialization.ExperimentalSerializationApi
+import kotlinx.serialization.KSerializer
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.builtins.MapSerializer
 import kotlinx.serialization.builtins.serializer
 import kotlinx.serialization.descriptors.PrimitiveKind
 import kotlinx.serialization.descriptors.PrimitiveSerialDescriptor
+import kotlinx.serialization.encoding.Decoder
+import kotlinx.serialization.encoding.Encoder
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.encodeToStream
 import kotlinx.serialization.modules.plus
@@ -59,13 +62,13 @@ class WriterJsonIR(
         val translations: Map<@Serializable(with = LocaleSerializer::class) Locale, String>
     )
 
-    class LocaleSerializer : kotlinx.serialization.KSerializer<Locale> {
+    class LocaleSerializer : KSerializer<Locale> {
         override val descriptor = PrimitiveSerialDescriptor("locale", PrimitiveKind.STRING)
-        override fun deserialize(decoder: kotlinx.serialization.encoding.Decoder): Locale {
+        override fun deserialize(decoder: Decoder): Locale {
             return Locale.forLanguageTag(decoder.decodeString())
         }
 
-        override fun serialize(encoder: kotlinx.serialization.encoding.Encoder, value: Locale) {
+        override fun serialize(encoder: Encoder, value: Locale) {
             encoder.encodeString(value.toLanguageTag())
         }
     }

@@ -1,4 +1,4 @@
-package dragapult.app.v2.reader
+package dragapult.app.v2.ir.yaml
 
 import com.charleskorn.kaml.Yaml
 import com.charleskorn.kaml.YamlConfiguration

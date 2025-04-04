@@ -1,9 +1,9 @@
 package dragapult.app
 
-import dragapult.app.v2.reader.ReaderAndroid
-import dragapult.app.v2.reader.ReaderJsonIR
-import dragapult.app.v2.reader.WriterAndroid
-import dragapult.app.v2.reader.WriterJsonIR
+import dragapult.app.v2.android.ReaderAndroid
+import dragapult.app.v2.android.WriterAndroid
+import dragapult.app.v2.ir.json.ReaderJsonIR
+import dragapult.app.v2.ir.json.WriterJsonIR
 import java.io.ByteArrayOutputStream
 import java.nio.file.Files
 import kotlin.test.Test
