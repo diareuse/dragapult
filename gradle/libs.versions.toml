@@ -4,11 +4,11 @@ dagger = "2.55"
 ksp = "2.1.20-1.0.31"
 publish = "0.31.0"
 shadow = "9.0.0-beta11"
-csv = "2.1.0"
+csv = "1.13.0"
 kaml = "0.73.0"
 xml = "0.91.0-RC1"
 json = "1.8.0"
-toml = "0.5.2"
+cli = "1.9.0"
 
 [libraries]
 kotlin-test-junit = { module = "org.jetbrains.kotlin:kotlin-test-junit5", version.ref = "kotlin-version" }
@@ -17,8 +17,8 @@ dagger-compiler = { module = "com.google.dagger:dagger-compiler", version.ref = 
 kotlin-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "json" }
 kotlin-serialization-xml = { module = "io.github.pdvrieze.xmlutil:serialization", version.ref = "xml" }
 kotlin-serialization-yaml = { module = "com.charleskorn.kaml:kaml", version.ref = "kaml" }
-kotlin-serialization-toml = { module = "com.akuleshov7:ktoml-core", version.ref = "toml" }
-kotlin-serialization-csv = { module = "de.brudaswen.kotlinx.serialization:kotlinx-serialization-csv", version.ref = "csv" }
+apache-csv = { module = "org.apache.commons:commons-csv", version.ref = "csv" }
+apache-cli = { module = "commons-cli:commons-cli", version.ref = "cli" }
 
 [plugins]
 kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin-version" }

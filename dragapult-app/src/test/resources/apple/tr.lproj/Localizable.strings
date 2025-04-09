@@ -752,7 +752,6 @@
 "organization" = "Kuruluş";
 "organization_is_using_sso_with_a_self_hosted_key_server" = "%1$s kendi barındırdığı bir anahtar\n        sunucusuyla SSO kullanıyor. Bu kuruluşun üyelerinin giriş yapmak için artık ana parola kullanması gerekmiyor.\n    ";
 "organization_sso_identifier_required" = "Kuruluş SSO tanımlayıcısı gereklidir.";
-"organization_unassigned_items_message_self_host_041624_description_long" = "";
 "organization_unassigned_items_message_useu_description_long" = ".";
 "other" = "Diğer";
 "overlay_permission" = "İzin";
@@ -951,7 +950,6 @@
 "set_pin_description" = "Bitwarden\'ı açarken kullanacağınız PIN kodunu belirleyin. Uygulamadan tamamen\n        çıkış yaparsanız PIN ayarlarınız sıfırlanacaktır.\n    ";
 "set_pin_direction" = "Uygulama kilidini açmak için 4 haneli bir PIN kodu girin.";
 "set_up_an_unlock_option_to_change_your_vault_timeout_action" = "Kasa zaman aşımı eyleminizi değiştirmek\n        için bir kilit açma yöntemi ayarlayın.\n    ";
-"set_up_authenticator_key" = "";
 "set_up_auto_fill_description_long" = "Otomatik parola doldurma ve anahtar yönetimi için, iOS ayarlarında\n        Bitwarden\'ı tercih edilen sağlayıcı olarak belirleyin.\n    ";
 "set_up_autofill" = "Otomatik doldurmayı ayarla";
 "set_up_autofill_on_all_your_devices" = "Her yere tek dokunuşla giriş yapmak için tüm cihazlarınızda\n        otomatik doldurmayı etkinleştirin.\n    ";

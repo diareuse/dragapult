@@ -2261,9 +2261,6 @@
   "organization_sso_identifier_required": {
     "value": "Kuruluş SSO tanımlayıcısı gereklidir."
   },
-  "organization_unassigned_items_message_self_host_041624_description_long": {
-    "value": ""
-  },
   "organization_unassigned_items_message_useu_description_long": {
     "value": "."
   },
@@ -2857,9 +2854,6 @@
   },
   "set_up_an_unlock_option_to_change_your_vault_timeout_action": {
     "value": "Kasa zaman aşımı eyleminizi değiştirmek\n        için bir kilit açma yöntemi ayarlayın.\n    "
-  },
-  "set_up_authenticator_key": {
-    "value": ""
   },
   "set_up_auto_fill_description_long": {
     "value": "Otomatik parola doldurma ve anahtar yönetimi için, iOS ayarlarında\n        Bitwarden\\'ı tercih edilen sağlayıcı olarak belirleyin.\n    "

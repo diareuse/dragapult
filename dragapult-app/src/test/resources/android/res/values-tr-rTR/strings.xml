@@ -967,7 +967,6 @@
     <string name="enter_key_manually">Anahtarı elle girin</string>
     <string name="add_totp">TOTP ekle</string>
     <string name="setup_totp">TOTP\'yi kur</string>
-    <string name="set_up_authenticator_key"></string>
     <string name="once_the_key_is_successfully_entered">Anahtar eklendikten sonra anahtarı güvenli bir şekilde depolamak
         için \"TOTP ekle\"yi seçin
     </string>
@@ -1299,7 +1298,6 @@
         kasasına kaydedilecektir
     </string>
     <string name="organization_unassigned_items_message_useu_description_long">.</string>
-    <string name="organization_unassigned_items_message_self_host_041624_description_long"></string>
     <string name="remind_me_later">Daha sonra hatırlat</string>
     <string name="notice">Dikkat</string>
     <string name="passkeys_not_supported_for_this_app">Bu uygulamada geçiş anahtarları desteklenmiyor</string>
