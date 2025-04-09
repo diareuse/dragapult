@@ -1059,7 +1059,6 @@
         sunucusuyla SSO kullanıyor. Bu kuruluşun üyelerinin giriş yapmak için artık ana parola kullanması gerekmiyor.
     </string>
     <string name="organization_sso_identifier_required">Kuruluş SSO tanımlayıcısı gereklidir.</string>
-    <string name="organization_unassigned_items_message_self_host_041624_description_long" />
     <string name="organization_unassigned_items_message_useu_description_long">.</string>
     <string name="other">Diğer</string>
     <string name="overlay_permission">İzin</string>
@@ -1370,7 +1369,6 @@
     <string name="set_up_an_unlock_option_to_change_your_vault_timeout_action">Kasa zaman aşımı eyleminizi değiştirmek
         için bir kilit açma yöntemi ayarlayın.
     </string>
-    <string name="set_up_authenticator_key" />
     <string name="set_up_auto_fill_description_long">Otomatik parola doldurma ve anahtar yönetimi için, iOS ayarlarında
         Bitwarden\'ı tercih edilen sağlayıcı olarak belirleyin.
     </string>
