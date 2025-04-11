@@ -1,5 +1,7 @@
-package dragapult.app
+package dragapult.app.harness
 
+import dragapult.app.TranslationReader
+import dragapult.app.TranslationWriter
 import java.io.ByteArrayOutputStream
 import java.io.File
 

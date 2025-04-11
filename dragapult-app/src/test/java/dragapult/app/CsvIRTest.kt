@@ -1,5 +1,6 @@
 package dragapult.app
 
+import dragapult.app.harness.ConversionHarness
 import dragapult.app.ir.csv.ReaderCsvIR
 import dragapult.app.ir.csv.WriterCsvIR
 import dragapult.app.ir.json.ReaderJsonIR
