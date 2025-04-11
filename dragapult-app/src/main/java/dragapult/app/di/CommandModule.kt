@@ -56,6 +56,10 @@ class CommandModule {
                     Platform.Json -> WriterJson(output)
                 }
             }
+
+            is HelpSubroutine -> return Command {
+                option.print()
+            }
         }
         val plugins = plugins.sortedByDescending { it.priority }
         return Command {

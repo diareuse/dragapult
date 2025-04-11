@@ -1,7 +1,10 @@
 package dragapult.app.harness
 
+import dragapult.app.Command
 import dragapult.app.DaggerApp
+import java.io.ByteArrayOutputStream
 import java.io.File
+import java.io.PrintStream
 import java.nio.file.Files
 import kotlin.io.path.absolutePathString
 
@@ -27,14 +30,40 @@ abstract class CommandLineHarness {
                 output = File(this)
             }
         }
-        val app = DaggerApp.factory().create(scope.prepare())
-        val setup = TestSetup(
-            input = checkNotNull(input),
-            output = checkNotNull(output)
+        simpleTest(
+            prepare = {
+                scope.prepare()
+            },
+            test = {
+                val setup = TestSetup(
+                    input = checkNotNull(input),
+                    output = checkNotNull(output)
+                )
+                it.execute()
+                verify(setup)
+            }
         )
+    }
+
+    fun simpleTest(
+        prepare: () -> Array<out String>,
+        test: (Command) -> Unit
+    ) {
+        val app = DaggerApp.factory().create(prepare())
         val command = app.command
-        command.execute()
-        verify(setup)
+        test(command)
+    }
+
+    inline fun withOutputStream(body: () -> Unit): String {
+        val out = ByteArrayOutputStream()
+        val original = System.out
+        System.setOut(PrintStream(out))
+        try {
+            body()
+        } finally {
+            System.setOut(original)
+        }
+        return out.toString("UTF-8")
     }
 
     fun TestSetupScope.inputResDir(path: String) = input("src/test/resources/$path")
