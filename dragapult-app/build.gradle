@@ -12,4 +12,6 @@ dependencies {
     implementation libs.kotlin.serialization.yaml
     implementation libs.apache.csv
     implementation libs.apache.cli
+    implementation libs.dagger
+    ksp libs.dagger.compiler
 }

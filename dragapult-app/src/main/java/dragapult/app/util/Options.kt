@@ -1,14 +1,9 @@
-package dragapult.app.options
+package dragapult.app.util
 
 import org.apache.commons.cli.Options
+import kotlin.system.exitProcess
 
-interface SubroutineOptions {
-
-    fun printHelp()
-
-}
-
-fun Options.printHelp() {
+fun Options.printHelp(): Nothing {
     for (option in options) buildString {
         when {
             option.argName != null -> append(option.argName)
@@ -29,4 +24,5 @@ fun Options.printHelp() {
         append('\t')
         appendLine(option.description)
     }.apply(::println)
+    exitProcess(0)
 }
