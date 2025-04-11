@@ -1,9 +1,58 @@
+import proguard.gradle.ProGuardTask
+
 plugins {
     id 'jvm-application'
 }
 
 application {
     mainClassName = 'dragapult.app.MainKt'
+}
+
+tasks.register("proguard", ProGuardTask) {
+    dependsOn(tasks.shadowJar)
+    group = "proguard"
+
+    // ensure task is not made dirty when nothing changes
+    inputs.file("proguard.pro")
+    inputs.files(tasks.shadowJar.outputs.files)
+    outputs.file(project.layout.buildDirectory.file("libs/dragapult-min.jar"))
+
+    configuration(files("proguard.pro"))
+    injars(tasks.shadowJar.outputs.files)
+    outjars(project.layout.buildDirectory.file("libs/dragapult-min.jar"))
+
+    libraryjars "${System.getProperty("java.home")}/jmods/java.base.jmod", jarfilter: "!**.jar", filter: "!module-info.class"
+    libraryjars "${System.getProperty("java.home")}/jmods/java.sql.jmod", jarfilter: "!**.jar", filter: "!module-info.class"
+    libraryjars "${System.getProperty("java.home")}/jmods/java.xml.jmod", jarfilter: "!**.jar", filter: "!module-info.class"
+}
+
+tasks.shadowJar.finalizedBy(proguard)
+
+tasks.register("nativeImage", Exec) {
+    dependsOn(tasks.proguard)
+    group = "distribution"
+
+    def file = tasks.proguard.outputs.files.singleFile
+    def out = project.layout.buildDirectory.file("outputs/dragapult")
+    out.get().asFile.parentFile.mkdirs()
+
+    inputs.file(file)
+
+    onlyIf {
+        System.getProperty("java.vendor").containsIgnoreCase("graalvm")
+    }
+    commandLine(
+            "native-image",
+            "-jar", file,
+            "-o", out.get().asFile,
+            "--verbose",
+            "--add-modules=java.base,java.sql,java.xml",
+            "-march=native",
+            "-O3",
+            "--no-fallback",
+            "--strict-image-heap",
+            "--gc=epsilon"
+    )
 }
 
 dependencies {
