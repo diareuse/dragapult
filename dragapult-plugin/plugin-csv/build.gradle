@@ -1,7 +1,0 @@
-plugins {
-    id 'jvm-library'
-}
-
-dependencies {
-    implementation project(":dragapult-plugin:plugin-core")
-}
