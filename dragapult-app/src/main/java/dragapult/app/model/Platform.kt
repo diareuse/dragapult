@@ -1,10 +1,10 @@
 package dragapult.app.model
 
-enum class Platform() {
+enum class Platform {
 
-    Android(),
-    Apple(),
-    Json();
+    Android,
+    Apple,
+    Json;
 
     companion object {
 
