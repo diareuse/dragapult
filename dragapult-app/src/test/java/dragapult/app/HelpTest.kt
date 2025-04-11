@@ -9,13 +9,23 @@ class HelpTest : CommandLineHarness() {
     @Test
     fun `prints global help`() = simpleTest(
         prepare = { arrayOf("-h") },
-        test = { it.execute() }
+        test = {
+            val out = withOutputStream {
+                it.command.execute()
+            }
+            assert(out.isNotEmpty())
+        }
     )
 
     @Test
     fun `prints consume help`() = simpleTest(
         prepare = { arrayOf("consume", "-h") },
-        test = { it.execute() }
+        test = {
+            val out = withOutputStream {
+                it.command.execute()
+            }
+            assert(out.isNotEmpty())
+        }
     )
 
     @Test
@@ -23,7 +33,7 @@ class HelpTest : CommandLineHarness() {
         prepare = { arrayOf("generate", "-h") },
         test = {
             val out = withOutputStream {
-                it.execute()
+                it.command.execute()
             }
             assert(out.isNotEmpty())
         }
@@ -31,10 +41,10 @@ class HelpTest : CommandLineHarness() {
 
     @Test
     fun `fails on unknown command`() = simpleTest(
-        prepare = { arrayOf("-h") },
+        prepare = { arrayOf("beepboop") },
         test = {
             assertFails {
-                it.execute()
+                it.command.execute()
             }
         }
     )

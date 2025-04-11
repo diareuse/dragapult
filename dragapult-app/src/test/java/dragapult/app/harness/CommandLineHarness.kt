@@ -1,6 +1,6 @@
 package dragapult.app.harness
 
-import dragapult.app.Command
+import dragapult.app.App
 import dragapult.app.DaggerApp
 import java.io.ByteArrayOutputStream
 import java.io.File
@@ -39,7 +39,7 @@ abstract class CommandLineHarness {
                     input = checkNotNull(input),
                     output = checkNotNull(output)
                 )
-                it.execute()
+                it.command.execute()
                 verify(setup)
             }
         )
@@ -47,11 +47,10 @@ abstract class CommandLineHarness {
 
     fun simpleTest(
         prepare: () -> Array<out String>,
-        test: (Command) -> Unit
+        test: (App) -> Unit
     ) {
         val app = DaggerApp.factory().create(prepare())
-        val command = app.command
-        test(command)
+        test(app)
     }
 
     inline fun withOutputStream(body: () -> Unit): String {
