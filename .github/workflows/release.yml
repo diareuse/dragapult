@@ -37,15 +37,15 @@ jobs:
     needs: [ build-graal ]
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with:
           name: dragapult-macos-latest
           path: macos
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with:
           name: dragapult-ubuntu-latest
           path: ubuntu
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with:
           name: dragapult-windows-latest
           path: windows
