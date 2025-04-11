@@ -1,5 +1,6 @@
 package dragapult.app
 
+import dragapult.app.harness.ConversionHarness
 import dragapult.app.ir.json.ReaderJsonIR
 import dragapult.app.ir.json.WriterJsonIR
 import dragapult.app.ir.yaml.ReaderYamlIR
