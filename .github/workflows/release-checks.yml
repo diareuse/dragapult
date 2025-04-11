@@ -19,7 +19,7 @@ jobs:
           distribution: temurin
       - uses: gradle/gradle-build-action@v3
         with:
-          arguments: check
+          arguments: check --info
       - uses: dorny/test-reporter@v2
         if: always()
         with:
