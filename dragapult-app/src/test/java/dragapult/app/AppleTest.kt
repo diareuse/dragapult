@@ -1,32 +1,26 @@
 package dragapult.app
 
-import dragapult.app.v2.apple.ReaderApple
-import dragapult.app.v2.apple.WriterApple
-import dragapult.app.v2.ir.json.ReaderJsonIR
-import dragapult.app.v2.ir.json.WriterJsonIR
-import java.io.ByteArrayOutputStream
-import java.nio.file.Files
+import dragapult.app.harness.CommandLineHarness
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
-class AppleTest : ConversionHarness() {
+class AppleTest : CommandLineHarness() {
 
     @Test
     fun `read from apple matches json IR`() = test(
         prepare = {
-            val output = ByteArrayOutputStream()
-            val reader = ReaderApple(resourceDir("apple"))
-            val writer = WriterJsonIR(output)
-            TestSetup.ToIR(reader, writer, output)
+            arrayOf(
+                "consume",
+                "-i", inputResDir("apple"),
+                "-o", outputFile(),
+                "-t", "apple",
+                "-r", "json"
+            )
         },
-        test = { (reader, writer, output) ->
-            reader.copyTo(writer)
-            output.toString("UTF-8")
-        },
-        verify = { actual ->
+        verify = { (_, output) ->
             assertEquals(
                 expected = resourceFileAsString("ir/keys.json.ir"),
-                actual = actual
+                actual = output.readText()
             )
         }
     )
@@ -34,18 +28,17 @@ class AppleTest : ConversionHarness() {
     @Test
     fun `read from json IR matches apple`() = test(
         prepare = {
-            val reader = ReaderJsonIR(resourceFile("ir/keys.json.ir"))
-            val outputDir = Files.createTempDirectory("apple-test").toFile()
-            val writer = WriterApple(outputDir)
-            TestSetup.FromIR(reader, writer, outputDir)
+            arrayOf(
+                "generate",
+                "-i", inputResFile("ir/keys.json.ir"),
+                "-o", outputDir(),
+                "-t", "apple",
+                "-s", "json"
+            )
         },
-        test = { (reader, writer, outputDir) ->
-            reader.copyTo(writer)
-            outputDir
-        },
-        verify = { dir ->
-            dir.walk().filter { it.isFile }.forEach {
-                val expected = resourceFileAsString("output/apple/${it.relativeTo(dir)}")
+        verify = { (_, output) ->
+            output.walk().filter { it.isFile }.forEach {
+                val expected = resourceFileAsString("output/apple/${it.relativeTo(output)}")
                 val actual = it.reader().readText()
                 assertEquals(
                     expected = expected,
