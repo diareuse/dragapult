@@ -16,12 +16,13 @@ import dragapult.app.ir.yaml.WriterYamlIR
 import dragapult.app.json.ReaderJson
 import dragapult.app.json.WriterJson
 
-@Module(includes = [CommandLineModule::class])
+@Module(includes = [CommandLineModule::class, PluginModule::class])
 class CommandModule {
 
     @Provides
     fun provide(
-        option: Subroutine
+        option: Subroutine,
+        plugins: Set<@JvmSuppressWildcards TranslationPlugin>
     ): Command {
         val reader: TranslationReader
         val writer: TranslationWriter
@@ -56,10 +57,15 @@ class CommandModule {
                 }
             }
         }
+        val plugins = plugins.sortedByDescending { it.priority }
         return Command {
             writer.use { writer ->
-                for (ir in reader)
-                    writer.append(ir)
+                for (ir in reader) {
+                    val out = plugins.fold(ir) { acc, it ->
+                        it.modify(acc)
+                    }
+                    writer.append(out)
+                }
             }
         }
     }
