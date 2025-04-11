@@ -7,7 +7,7 @@ shadow = "9.0.0-beta12"
 csv = "1.13.0"
 kaml = "0.76.0"
 xml = "0.91.0"
-json = "1.8.0"
+json = "1.8.1"
 cli = "1.9.0"
 
 [libraries]
