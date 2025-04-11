@@ -2,11 +2,7 @@ package dragapult.app.di
 
 import dagger.Module
 import dagger.Provides
-import dragapult.app.util.printHelp
-import org.apache.commons.cli.CommandLine
-import org.apache.commons.cli.CommandLineParser
-import org.apache.commons.cli.DefaultParser
-import org.apache.commons.cli.Options
+import org.apache.commons.cli.*
 import javax.inject.Provider
 
 @Module(includes = [OptionsModule::class])
@@ -37,10 +33,20 @@ class CommandLineModule {
         val opt = OptionModule(cli.build())
         val subargs = Array(args.size - 1) { args[it + 1] }
         return when {
-            opt.help -> options.printHelp()
-            opt.consume -> OptionConsumeModule(parser.parse(consume.get(), subargs))
-            opt.generate -> OptionGenerateModule(parser.parse(generate.get(), subargs))
-            else -> options.printHelp()
+            opt.help -> HelpSubroutine(options)
+            opt.consume -> try {
+                OptionConsumeModule(parser.parse(consume.get(), subargs))
+            } catch (_: MissingOptionException) {
+                HelpSubroutine(consume.get())
+            }
+
+            opt.generate -> try {
+                OptionGenerateModule(parser.parse(generate.get(), subargs))
+            } catch (_: MissingOptionException) {
+                HelpSubroutine(generate.get())
+            }
+
+            else -> error("Unknown options, please use -h or --help to print help message")
         }
     }
 
