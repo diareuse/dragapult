@@ -66,7 +66,6 @@ class ReaderAndroid(
                         out[string.name] = ir.copy(translations = translations, metadata = metadata)
                     }
                 } catch (e: Throwable) {
-                    println(it.absolutePath)
                     e.printStackTrace()
                 }
             }
