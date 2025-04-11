@@ -1,10 +1,10 @@
-package dragapult.app.v2.ir.yaml
+package dragapult.app.ir.yaml
 
 import com.charleskorn.kaml.Yaml
 import com.charleskorn.kaml.YamlConfiguration
 import com.charleskorn.kaml.decodeFromStream
-import dragapult.app.v2.TranslationKeyIR
-import dragapult.app.v2.TranslationReader
+import dragapult.app.TranslationKeyIR
+import dragapult.app.TranslationReader
 import kotlinx.serialization.ExperimentalSerializationApi
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable

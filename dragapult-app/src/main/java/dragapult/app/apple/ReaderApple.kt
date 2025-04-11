@@ -1,7 +1,7 @@
-package dragapult.app.v2.apple
+package dragapult.app.apple
 
-import dragapult.app.v2.TranslationKeyIR
-import dragapult.app.v2.TranslationReader
+import dragapult.app.TranslationKeyIR
+import dragapult.app.TranslationReader
 import nl.adaptivity.xmlutil.core.impl.multiplatform.Language
 import java.io.File
 import java.util.*

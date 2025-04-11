@@ -1,4 +1,4 @@
-package dragapult.app.v2
+package dragapult.app
 
 import java.util.*
 

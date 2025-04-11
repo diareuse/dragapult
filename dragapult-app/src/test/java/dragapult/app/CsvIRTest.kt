@@ -1,9 +1,9 @@
 package dragapult.app
 
-import dragapult.app.v2.ir.csv.ReaderCsvIR
-import dragapult.app.v2.ir.csv.WriterCsvIR
-import dragapult.app.v2.ir.json.ReaderJsonIR
-import dragapult.app.v2.ir.json.WriterJsonIR
+import dragapult.app.ir.csv.ReaderCsvIR
+import dragapult.app.ir.csv.WriterCsvIR
+import dragapult.app.ir.json.ReaderJsonIR
+import dragapult.app.ir.json.WriterJsonIR
 import java.io.ByteArrayOutputStream
 import kotlin.test.Test
 import kotlin.test.assertEquals

@@ -1,7 +1,7 @@
-package dragapult.app.v2.ir.csv
+package dragapult.app.ir.csv
 
-import dragapult.app.v2.TranslationKeyIR
-import dragapult.app.v2.TranslationWriter
+import dragapult.app.TranslationKeyIR
+import dragapult.app.TranslationWriter
 import org.apache.commons.csv.CSVFormat
 import org.apache.commons.csv.CSVPrinter
 import java.io.OutputStream

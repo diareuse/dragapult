@@ -1,7 +1,5 @@
 package dragapult.app
 
-import dragapult.app.v2.TranslationReader
-import dragapult.app.v2.TranslationWriter
 import java.io.ByteArrayOutputStream
 import java.io.File
 

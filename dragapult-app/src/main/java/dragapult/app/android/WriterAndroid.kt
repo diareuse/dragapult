@@ -1,7 +1,7 @@
-package dragapult.app.v2.android
+package dragapult.app.android
 
-import dragapult.app.v2.TranslationKeyIR
-import dragapult.app.v2.TranslationWriter
+import dragapult.app.TranslationKeyIR
+import dragapult.app.TranslationWriter
 import kotlinx.serialization.Serializable
 import nl.adaptivity.xmlutil.XmlDeclMode
 import nl.adaptivity.xmlutil.core.KtXmlWriter

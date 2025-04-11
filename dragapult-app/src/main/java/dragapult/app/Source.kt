@@ -1,4 +1,4 @@
-package dragapult.app.model
+package dragapult.app
 
 enum class Source {
 

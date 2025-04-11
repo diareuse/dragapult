@@ -1,7 +1,7 @@
-package dragapult.app.v2.json
+package dragapult.app.json
 
-import dragapult.app.v2.TranslationKeyIR
-import dragapult.app.v2.TranslationReader
+import dragapult.app.TranslationKeyIR
+import dragapult.app.TranslationReader
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
