@@ -13,8 +13,4 @@ interface TranslationKeyIR {
         val properties: Map<String, String>?
     }
 
-    enum class FileType {
-        Android, Apple, Csv, Json, Yaml, Toml
-    }
-
 }
