@@ -3,8 +3,8 @@ package dragapult.app.di
 import dagger.Module
 import dagger.Provides
 import dagger.multibindings.IntoSet
-import dragapult.app.model.Platform
-import dragapult.app.model.Source
+import dragapult.app.Platform
+import dragapult.app.Source
 import org.apache.commons.cli.CommandLine
 import org.apache.commons.cli.Option
 import java.io.File

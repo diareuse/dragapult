@@ -2,23 +2,19 @@ package dragapult.app.di
 
 import dagger.Module
 import dagger.Provides
-import dragapult.app.Command
-import dragapult.app.model.Platform
-import dragapult.app.model.Source
-import dragapult.app.v2.TranslationReader
-import dragapult.app.v2.TranslationWriter
-import dragapult.app.v2.android.ReaderAndroid
-import dragapult.app.v2.android.WriterAndroid
-import dragapult.app.v2.apple.ReaderApple
-import dragapult.app.v2.apple.WriterApple
-import dragapult.app.v2.ir.csv.ReaderCsvIR
-import dragapult.app.v2.ir.csv.WriterCsvIR
-import dragapult.app.v2.ir.json.ReaderJsonIR
-import dragapult.app.v2.ir.json.WriterJsonIR
-import dragapult.app.v2.ir.yaml.ReaderYamlIR
-import dragapult.app.v2.ir.yaml.WriterYamlIR
-import dragapult.app.v2.json.ReaderJson
-import dragapult.app.v2.json.WriterJson
+import dragapult.app.*
+import dragapult.app.android.ReaderAndroid
+import dragapult.app.android.WriterAndroid
+import dragapult.app.apple.ReaderApple
+import dragapult.app.apple.WriterApple
+import dragapult.app.ir.csv.ReaderCsvIR
+import dragapult.app.ir.csv.WriterCsvIR
+import dragapult.app.ir.json.ReaderJsonIR
+import dragapult.app.ir.json.WriterJsonIR
+import dragapult.app.ir.yaml.ReaderYamlIR
+import dragapult.app.ir.yaml.WriterYamlIR
+import dragapult.app.json.ReaderJson
+import dragapult.app.json.WriterJson
 
 @Module(includes = [CommandLineModule::class])
 class CommandModule {

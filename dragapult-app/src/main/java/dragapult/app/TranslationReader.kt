@@ -1,3 +1,3 @@
-package dragapult.app.v2
+package dragapult.app
 
 interface TranslationReader : Iterator<TranslationKeyIR>

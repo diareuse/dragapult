@@ -1,7 +1,7 @@
-package dragapult.app.v2.apple
+package dragapult.app.apple
 
-import dragapult.app.v2.TranslationKeyIR
-import dragapult.app.v2.TranslationWriter
+import dragapult.app.TranslationKeyIR
+import dragapult.app.TranslationWriter
 import java.io.File
 import java.io.OutputStreamWriter
 import java.util.*

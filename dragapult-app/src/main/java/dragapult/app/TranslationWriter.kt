@@ -1,4 +1,4 @@
-package dragapult.app.v2
+package dragapult.app
 
 interface TranslationWriter : AutoCloseable {
     fun append(ir: TranslationKeyIR)

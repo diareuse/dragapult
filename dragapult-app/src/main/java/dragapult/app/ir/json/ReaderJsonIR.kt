@@ -1,55 +1,55 @@
-package dragapult.app.v2.ir.json
+package dragapult.app.ir.json
 
-import dragapult.app.v2.TranslationKeyIR
-import dragapult.app.v2.TranslationWriter
+import dragapult.app.TranslationKeyIR
+import dragapult.app.TranslationReader
 import kotlinx.serialization.ExperimentalSerializationApi
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
-import kotlinx.serialization.builtins.MapSerializer
-import kotlinx.serialization.builtins.serializer
 import kotlinx.serialization.descriptors.PrimitiveKind
 import kotlinx.serialization.descriptors.PrimitiveSerialDescriptor
 import kotlinx.serialization.encoding.Decoder
 import kotlinx.serialization.encoding.Encoder
 import kotlinx.serialization.json.Json
-import kotlinx.serialization.json.encodeToStream
-import kotlinx.serialization.modules.plus
-import kotlinx.serialization.modules.serializersModuleOf
-import java.io.OutputStream
+import kotlinx.serialization.json.decodeFromStream
+import java.io.InputStream
 import java.util.*
-import kotlin.reflect.KClass
 
-class WriterJsonIR(
-    private val output: OutputStream
-) : TranslationWriter {
-
+class ReaderJsonIR(
+    private val input: InputStream
+) : TranslationReader {
     @OptIn(ExperimentalSerializationApi::class)
     private val json = Json {
         prettyPrint = true
         prettyPrintIndent = "\t"
         explicitNulls = false
         encodeDefaults = false
-        serializersModule = serializersModule + serializersModuleOf(
-            SortedMap::class as KClass<Map<String, String>>,
-            MapSerializer(String.serializer(), String.serializer())
-        )
-    }
-    private val keys = sortedMapOf<String, Key>(compareBy { it.lowercase() })
-
-    override fun append(ir: TranslationKeyIR) {
-        keys[ir.key] = Key(
-            comment = ir.metadata?.comment,
-            properties = ir.metadata?.properties,
-            translations = ir.translations.toSortedMap(compareBy { it.toLanguageTag() })
-        )
     }
 
-    @OptIn(ExperimentalSerializationApi::class)
-    override fun close() {
-        json.encodeToStream<Map<String, Key>>(keys, output)
-        output.flush()
-        output.close()
+    val map = json.decodeFromStream<Map<String, Key>>(input).toSortedMap()
+    val iter = map.iterator()
+
+    override fun hasNext(): Boolean {
+        return iter.hasNext()
+    }
+
+    override fun next(): TranslationKeyIR {
+        return TranslationKeyIRFromKey(iter.next())
+    }
+
+    @JvmInline
+    private value class TranslationKeyIRFromKey(private val entry: Map.Entry<String, Key>) : TranslationKeyIR {
+        override val key: String
+            get() = entry.key
+        override val metadata: TranslationKeyIR.Metadata?
+            get() = object : TranslationKeyIR.Metadata {
+                override val comment: String?
+                    get() = entry.value.comment
+                override val properties: Map<String, String>?
+                    get() = entry.value.properties
+            }.takeIf { it.comment != null || it.properties != null }
+        override val translations: Map<Locale, String>
+            get() = entry.value.translations
     }
 
     @Serializable
@@ -72,5 +72,4 @@ class WriterJsonIR(
             encoder.encodeString(value.toLanguageTag())
         }
     }
-
 }
