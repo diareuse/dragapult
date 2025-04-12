@@ -2,6 +2,7 @@ import proguard.gradle.ProGuardTask
 
 plugins {
     id 'jvm-application'
+    id 'jacoco'
 }
 
 application {
@@ -53,6 +54,20 @@ tasks.register("nativeImage", Exec) {
             "--strict-image-heap",
             "--gc=epsilon"
     )
+}
+
+jacoco {
+    toolVersion = "0.8.13"
+}
+
+tasks.check.finalizedBy(jacocoTestReport)
+
+tasks.jacocoTestReport.configure {
+    dependsOn tasks.test
+    reports {
+        xml.required = true
+        html.required = false
+    }
 }
 
 dependencies {

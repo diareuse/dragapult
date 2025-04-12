@@ -1,0 +1,22 @@
+name: Coverage Report
+
+on:
+  push:
+
+jobs:
+  codacy:
+    runs-on: ubuntu-latest
+    name: codacy-coverage-reporter
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          java-version: 21
+          distribution: temurin
+      - uses: gradle/actions/setup-gradle@v3
+      - run: ./gradlew check
+      - name: Run codacy-coverage-reporter
+        uses: codacy/codacy-coverage-reporter-action@v1
+        with:
+          project-token: ${{ secrets.CODACY_PROJECT_TOKEN }}
+          coverage-reports: "**/reports/jacoco/**/jacoco*.xml"
