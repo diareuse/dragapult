@@ -13,7 +13,8 @@ import java.util.*
 
 class WriterAndroid(
     private val outputDirectory: File,
-    private val fileName: String = "strings.xml"
+    private val fileName: String = "strings.xml",
+    private val default: String = "en"
 ) : TranslationWriter {
 
     private val xml = XML {
@@ -32,7 +33,7 @@ class WriterAndroid(
                 name = ir.key,
                 translatable = ir.metadata?.properties?.get("translatable") != "false",
                 comment = ir.metadata?.comment,
-                parameters = null,
+                parameters = ir.metadata?.properties?.toMutableMap()?.apply { remove("translatable") },
                 content = CompactFragment(translation)
             )
             resources.getOrPut(locale) { mutableListOf() }.add(it)
@@ -42,7 +43,10 @@ class WriterAndroid(
     override fun close() {
         for (locale in resources.keys) {
             val res = Resources(strings = resources[locale]!!)
-            val file = File(outputDirectory, "values-${locale.toLanguageTag()}/$fileName")
+            val file = when (locale.toLanguageTag()) {
+                default -> File(outputDirectory, "values/$fileName")
+                else -> File(outputDirectory, "values-${locale.toLanguageTag()}/$fileName")
+            }
             file.parentFile?.mkdirs()
             file.outputStream().writer().use { output ->
                 xml.encodeToWriter(
