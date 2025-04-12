@@ -16,7 +16,7 @@ class ReaderApple(
     private val patternMeta = """(?<metadata>(?:/\*@\s*\w+\s*=\s*"?.+"?\s+\*/\s)+\s*)?"""
 
     @Language("RegExp")
-    private val patternComment = """(?:/\*\s*(?<comment>[\s\S]*)\s*\*/\s*)?"""
+    private val patternComment = """(?:/\*\s*(?<comment>[\s\S]*?)\s*\*/\s*)?"""
 
     @Language("RegExp")
     private val patternKey = """['"](?<key>.+)['"]"""
