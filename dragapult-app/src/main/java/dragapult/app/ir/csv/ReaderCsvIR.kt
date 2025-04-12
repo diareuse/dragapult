@@ -17,6 +17,7 @@ class ReaderCsvIR(
         val format = CSVFormat.DEFAULT.builder()
             .setHeader()
             .setSkipHeaderRecord(true)
+            .setCommentMarker(Char(3))
             .get()
         format.parse(input.reader()).forEach {
             data += TranslationKeyCsv(it)

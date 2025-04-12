@@ -11,7 +11,9 @@ class WriterCsvIR(
 ) : TranslationWriter {
 
     private val items = mutableListOf<TranslationKeyIR>()
-    private val format = CSVFormat.DEFAULT.builder().get()
+    private val format = CSVFormat.DEFAULT.builder()
+        .setCommentMarker(Char(3))
+        .get()
 
     override fun append(ir: TranslationKeyIR) {
         items += ir
@@ -27,14 +29,14 @@ class WriterCsvIR(
                 add("properties")
             })
             for (item in items) {
+                val comment = item.metadata?.comment
+                if (comment != null)
+                    printer.printComment(comment)
                 printer.printRecord(buildList {
                     add(item.key)
                     addAll(keys.map { item.translations[it] })
                     add(item.metadata?.properties?.entries?.joinToString("\n") { "${it.key}=${it.value}" })
                 })
-                val comment = item.metadata?.comment
-                if (comment != null)
-                    printer.printComment(comment)
             }
             writer.flush()
         }
