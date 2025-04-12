@@ -1,5 +1,8 @@
 # Dragapult
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a9f217ff552d4cdfb690e78cb93c20e7)](https://app.codacy.com/gh/diareuse/dragapult/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/a9f217ff552d4cdfb690e78cb93c20e7)](https://app.codacy.com/gh/diareuse/dragapult/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_coverage)
+
 Dragapult is a versatile tool that allows consuming and generating i18n (internationalization) files.
 
 Currently supported platforms:
