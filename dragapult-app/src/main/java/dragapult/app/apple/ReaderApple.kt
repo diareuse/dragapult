@@ -25,7 +25,7 @@ class ReaderApple(
     private val patternValue = """['"](?<value>.*)['"]"""
 
     init {
-        dir.walk().filter { it.isFile }.filter { it.extension == "strings" }.forEach { file ->
+        dir.walk().filter { it.isFile }.forEach { file ->
             val regex = Regex("""${patternMeta}${patternComment}${patternKey}\s*=\s*${patternValue}\s*;""")
             regex.findAll(file.readText()).forEach {
                 val metadata = it.groups["metadata"]?.value?.let {

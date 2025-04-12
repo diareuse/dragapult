@@ -22,7 +22,7 @@ class ReaderJson(
     val out = sortedMapOf<String, JsonIR>()
 
     init {
-        dir.walk().filter { it.isFile }.filter { it.extension == "json" }.forEach {
+        dir.walk().filter { it.isFile }.forEach {
             val locale = Locale.forLanguageTag(it.parentFile.name)
             val data = json.decodeFromStream<Map<String, Value>>(it.inputStream()).toSortedMap()
             for ((key, value) in data) {
