@@ -1,0 +1,10 @@
+<?xml version='1.1' encoding='UTF-8' ?>
+<resources>
+    <string name="a_regular_string" comment="This is just a regular string">Regular string</string>
+    <string name="b_non_translatable_string" translatable="false" comment="This should be never translated">Don't translate this</string>
+    <string name="c_multi_line_string">This
+is
+multiline
+string</string>
+    <string name="d_quoted_string">"Quoted" string</string>
+</resources>

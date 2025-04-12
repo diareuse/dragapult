@@ -11,7 +11,7 @@ class AndroidTest : CommandLineHarness() {
         prepare = {
             arrayOf(
                 "consume",
-                "-i", inputResDir("android/res"),
+                "-i", inputResDir("output/android"),
                 "-o", outputFile(),
                 "-t", "android",
                 "-r", "json"
@@ -38,7 +38,7 @@ class AndroidTest : CommandLineHarness() {
         },
         verify = { (_, output) ->
             output.walk().filter { it.isFile }.forEach {
-                val expected = resourceFileAsString("output/android/res/${it.relativeTo(output)}.out")
+                val expected = resourceFileAsString("output/android/${it.relativeTo(output)}.out")
                 val actual = it.reader().readText()
                 assertEquals(
                     expected = expected,

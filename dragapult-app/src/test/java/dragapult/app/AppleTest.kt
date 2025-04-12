@@ -11,7 +11,7 @@ class AppleTest : CommandLineHarness() {
         prepare = {
             arrayOf(
                 "consume",
-                "-i", inputResDir("apple"),
+                "-i", inputResDir("output/apple"),
                 "-o", outputFile(),
                 "-t", "apple",
                 "-r", "json"
@@ -38,7 +38,7 @@ class AppleTest : CommandLineHarness() {
         },
         verify = { (_, output) ->
             output.walk().filter { it.isFile }.forEach {
-                val expected = resourceFileAsString("output/apple/${it.relativeTo(output)}")
+                val expected = resourceFileAsString("output/apple/${it.relativeTo(output)}.out")
                 val actual = it.reader().readText()
                 assertEquals(
                     expected = expected,

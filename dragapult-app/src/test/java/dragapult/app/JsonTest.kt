@@ -11,7 +11,7 @@ class JsonTest : CommandLineHarness() {
         prepare = {
             arrayOf(
                 "consume",
-                "-i", inputResDir("json"),
+                "-i", inputResDir("output/json"),
                 "-o", outputFile(),
                 "-t", "json",
                 "-r", "json"
