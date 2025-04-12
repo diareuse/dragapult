@@ -38,32 +38,35 @@ class ReaderAndroid(
                     val langRegion = tags.take(1).firstOrNull() ?: "en"
                     val locale = Locale.forLanguageTag(langRegion)
                     for (string in res.strings) {
-                        val ir = out.getOrPut(string.name) {
-                            AndroidIR(
-                                key = string.name,
-                                metadata = AndroidIR.Metadata(
-                                    comment = string.comment?.takeIf { it.isNotBlank() },
-                                    properties = string.parameters?.takeIf { it.isNotEmpty() }
-                                ).takeIf { it.comment != null || it.properties != null },
-                                translations = mapOf(locale to string.content.contentString)
-                            )
-                        }
+                        var ir = out[string.name] ?: AndroidIR(
+                            key = string.name,
+                            metadata = AndroidIR.Metadata(
+                                comment = string.comment?.takeIf { it.isNotBlank() },
+                                properties = string.parameters?.takeIf { it.isNotEmpty() }
+                            ).takeIf { it.comment != null || it.properties != null },
+                            translations = mapOf(locale to string.content.contentString)
+                        )
                         val translatable = string.translatable
-                        val properties = if (!translatable) {
-                            val map = ir.metadata?.properties.orEmpty().toMutableMap()
-                            map["translatable"] = "false"
-                            map
-                        } else {
-                            ir.metadata?.properties
-                        }
-                        val metadata =
-                            if (properties != null) ir.metadata?.copy(properties = properties) ?: AndroidIR.Metadata(
-                                null,
-                                properties
-                            ) else null
-                        val translations = ir.translations.toMutableMap()
-                        translations[locale] = string.content.contentString
-                        out[string.name] = ir.copy(translations = translations, metadata = metadata)
+                        val properties = buildMap {
+                            var p = string.parameters
+                            if (p != null) putAll(p)
+                            p = ir.metadata?.properties
+                            if (p != null) putAll(p)
+                            if (!translatable)
+                                put("translatable", "false")
+                        }.takeUnless { it.isEmpty() }
+                        ir = ir.copy(
+                            metadata = ir.metadata?.copy(properties = properties) ?: AndroidIR.Metadata(
+                                comment = string.comment,
+                                properties = string.parameters.orEmpty().toMutableMap().apply {
+                                    putAll(properties.orEmpty())
+                                }.takeUnless { it.isEmpty() }
+                            ),
+                            translations = ir.translations.toMutableMap().apply {
+                                put(locale, string.content.contentString)
+                            }
+                        )
+                        out[string.name] = ir
                     }
                 } catch (e: Throwable) {
                     e.printStackTrace()
