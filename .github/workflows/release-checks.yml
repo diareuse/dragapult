@@ -12,14 +12,12 @@ jobs:
       pull-requests: write
     steps:
       - uses: actions/checkout@v4
-      - name: Set Java
-        uses: actions/setup-java@v4
+      - uses: actions/setup-java@v4
         with:
           java-version: 21
           distribution: temurin
-      - uses: gradle/gradle-build-action@v3
-        with:
-          arguments: check --info
+      - uses: gradle/actions/setup-gradle@v3
+      - run: ./gradlew check
       - uses: dorny/test-reporter@v2
         if: always()
         with:
@@ -32,14 +30,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Set Java
-        uses: actions/setup-java@v4
+      - uses: actions/setup-java@v4
         with:
           java-version: 21
           distribution: temurin
-      - uses: gradle/gradle-build-action@v3
-        with:
-          arguments: shadowJar
+      - uses: gradle/actions/setup-gradle@v3
+      - run: ./gradlew shadowJar
 
   merge:
     runs-on: ubuntu-latest

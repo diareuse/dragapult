@@ -13,6 +13,7 @@ class WriterCsvIR(
     private val items = mutableListOf<TranslationKeyIR>()
     private val format = CSVFormat.DEFAULT.builder()
         .setCommentMarker(Char(3))
+        .setRecordSeparator("\n")
         .get()
 
     override fun append(ir: TranslationKeyIR) {
