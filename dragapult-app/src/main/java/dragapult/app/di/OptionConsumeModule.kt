@@ -42,7 +42,7 @@ object OptionConsumeModule {
         .longOpt("input-type")
         .hasArg()
         .required()
-        .desc("Required. Defines input type for the \"input-directory\" argument. It takes in account the different project structures for respective the types. Allowed types are ${Platform.Companion.valuesString()}.")
+        .desc("Required. Defines input type for the \"input-directory\" argument. It takes in account the different project structures for respective the types. Allowed types are ${Platform.entries.joinToString()}.")
         .build()
 
     @get:Consume
@@ -53,7 +53,7 @@ object OptionConsumeModule {
         .longOpt("output-type")
         .hasArg()
         .required()
-        .desc("Required. Defines output type for \"output-file\" argument. It chooses a specific parser capable of converting the data. Allowed types are ${Source.Companion.valuesString()}")
+        .desc("Required. Defines output type for \"output-file\" argument. It chooses a specific parser capable of converting the data. Allowed types are ${Source.entries.joinToString()}")
         .build()
 
     @get:Consume
@@ -76,10 +76,10 @@ object OptionConsumeModule {
             get() = File(cli.getOptionValue(OptionConsumeModule.outputFile).let(::requireNotNull))
 
         val inputType
-            get() = Platform.valueOfOption(cli.getOptionValue(OptionConsumeModule.inputType).let(::requireNotNull))
+            get() = Platform.valueOf(cli.getOptionValue(OptionConsumeModule.inputType).let(::requireNotNull))
 
         val outputType
-            get() = Source.valueOfOption(cli.getOptionValue(OptionConsumeModule.outputType).let(::requireNotNull))
+            get() = Source.valueOf(cli.getOptionValue(OptionConsumeModule.outputType).let(::requireNotNull))
 
         val help
             get() = cli.hasOption(OptionConsumeModule.help)

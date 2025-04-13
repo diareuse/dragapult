@@ -20,11 +20,12 @@ import java.io.OutputStream
 import java.util.*
 import kotlin.reflect.KClass
 
+@Suppress("UNCHECKED_CAST")
+@OptIn(ExperimentalSerializationApi::class)
 class WriterJsonIR(
     private val output: OutputStream
 ) : TranslationWriter {
 
-    @OptIn(ExperimentalSerializationApi::class)
     private val json = Json {
         prettyPrint = true
         prettyPrintIndent = "\t"
@@ -39,8 +40,8 @@ class WriterJsonIR(
 
     override fun append(ir: TranslationKeyIR) {
         keys[ir.key] = Key(
-            comment = ir.metadata?.comment,
-            properties = ir.metadata?.properties,
+            comment = ir.metadata.comment,
+            properties = ir.metadata.properties.takeUnless { it.isEmpty() },
             translations = ir.translations.toSortedMap(compareBy { it.toLanguageTag() })
         )
     }

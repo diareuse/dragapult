@@ -31,9 +31,9 @@ class WriterAndroid(
         for ((locale, translation) in ir.translations) {
             val it = StringDefinition(
                 name = ir.key,
-                translatable = ir.metadata?.properties?.get("translatable") != "false",
-                comment = ir.metadata?.comment,
-                parameters = ir.metadata?.properties?.toMutableMap()?.apply { remove("translatable") },
+                translatable = ir.metadata.properties["translatable"] != "false",
+                comment = ir.metadata.comment,
+                parameters = ir.metadata.properties.toMutableMap().apply { remove("translatable") }.toSortedMap(),
                 content = CompactFragment(translation)
             )
             resources.getOrPut(locale) { mutableListOf() }.add(it)

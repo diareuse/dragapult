@@ -1,20 +1,34 @@
 package dragapult.app
 
-enum class Source {
+sealed interface Source : FileKind {
 
-    Json,
-    Csv,
-    Yaml;
+    val label: String
+
+    data object Json : Source {
+        override val label = "json"
+    }
+
+    data object Csv : Source {
+        override val label = "csv"
+    }
+
+    data object Yaml : Source {
+        override val label = "yaml"
+    }
 
     companion object {
 
-        fun valuesString() = listOf("json", "csv", "yaml")
+        val entries = sequence {
+            yield(Json.label)
+            yield(Csv.label)
+            yield(Yaml.label)
+        }
 
-        fun valueOfOption(type: String) = when (type) {
-            "json" -> Json
-            "csv" -> Csv
-            "yaml" -> Yaml
-            else -> throw IllegalArgumentException("Unsupported file type $type")
+        fun valueOf(value: String) = when (value) {
+            Json.label -> Json
+            Csv.label -> Csv
+            Yaml.label -> Yaml
+            else -> error("Unknown value $value")
         }
 
     }

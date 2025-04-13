@@ -15,10 +15,10 @@ import kotlinx.serialization.json.decodeFromStream
 import java.io.InputStream
 import java.util.*
 
+@OptIn(ExperimentalSerializationApi::class)
 class ReaderJsonIR(
-    private val input: InputStream
+    input: InputStream
 ) : TranslationReader {
-    @OptIn(ExperimentalSerializationApi::class)
     private val json = Json {
         prettyPrint = true
         prettyPrintIndent = "\t"
@@ -26,30 +26,20 @@ class ReaderJsonIR(
         encodeDefaults = false
     }
 
-    val map = json.decodeFromStream<Map<String, Key>>(input).toSortedMap()
-    val iter = map.iterator()
+    private val map = json.decodeFromStream<Map<String, Key>>(input).toSortedMap()
+    private val iter = map.iterator()
 
     override fun hasNext(): Boolean {
         return iter.hasNext()
     }
 
     override fun next(): TranslationKeyIR {
-        return TranslationKeyIRFromKey(iter.next())
-    }
-
-    @JvmInline
-    private value class TranslationKeyIRFromKey(private val entry: Map.Entry<String, Key>) : TranslationKeyIR {
-        override val key: String
-            get() = entry.key
-        override val metadata: TranslationKeyIR.Metadata?
-            get() = object : TranslationKeyIR.Metadata {
-                override val comment: String?
-                    get() = entry.value.comment
-                override val properties: Map<String, String>?
-                    get() = entry.value.properties
-            }.takeIf { it.comment != null || it.properties != null }
-        override val translations: Map<Locale, String>
-            get() = entry.value.translations
+        val (key, value) = iter.next()
+        val ir = TranslationKeyIR(key)
+        ir.metadata.comment = value.comment
+        ir.metadata.properties.putAll(value.properties.orEmpty())
+        ir.translations.putAll(value.translations)
+        return ir
     }
 
     @Serializable

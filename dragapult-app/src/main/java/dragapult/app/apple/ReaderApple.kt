@@ -10,7 +10,7 @@ class ReaderApple(
     dir: File
 ) : TranslationReader {
 
-    private val out = mutableMapOf<String, AppleIR>()
+    private val out = mutableMapOf<String, TranslationKeyIR>()
 
     @Language("RegExp")
     private val patternMeta = """(?<metadata>(?:/\*@\s*\w+\s*=\s*"?.+"?\s+\*/\s)+\s*)?"""
@@ -37,52 +37,15 @@ class ReaderApple(
                 }
                 val comment = it.groups["comment"]?.value?.trim()
                 val key = it.groups["key"]?.value
-                val value =
-                    it.groups["value"]?.value?.replace("%@", "%s")?.replace("\\\\n", "\\p")?.replace("\\n", "\n")
-                        ?.replace("\\p", "\\n")
+                val value = it.groups["value"]?.value
                 if (key != null && value != null) {
                     val locale = Locale.forLanguageTag(file.parentFile.name.substringBefore(".lproj"))
-                    val ir = out.getOrPut(key) {
-                        AppleIR(
-                            key = key,
-                            metadata = AppleIR.Metadata(
-                                comment = comment,
-                                properties = metadata
-                            ).takeIf { it.comment != null || it.properties != null },
-                            translations = mapOf(locale to value)
-                        )
-                    }
-                    out[key] = ir.add(locale, value).update(comment, metadata)
+                    val ir = out.getOrPut(key) { TranslationKeyIR(key) }
+                    ir.metadata.comment = ir.metadata.comment ?: comment
+                    ir.metadata.properties.putAll(metadata.orEmpty())
+                    ir.translations.put(locale, value)
                 }
             }
-        }
-    }
-
-    data class AppleIR(
-        override val key: String,
-        override val metadata: Metadata?,
-        override val translations: Map<Locale, String>
-    ) : TranslationKeyIR {
-        data class Metadata(
-            override val comment: String? = null,
-            override val properties: Map<String, String>? = null
-        ) : TranslationKeyIR.Metadata
-
-        fun update(comment: String?, properties: Map<String, String>?): AppleIR {
-            return AppleIR(
-                key = key,
-                metadata = metadata?.copy(comment = comment, properties = properties) ?: Metadata(
-                    comment = comment,
-                    properties = properties
-                ),
-                translations = translations
-            )
-        }
-
-        fun add(locale: Locale, translation: String): AppleIR {
-            return copy(
-                translations = translations + (locale to translation)
-            )
         }
     }
 
@@ -93,9 +56,7 @@ class ReaderApple(
     }
 
     override fun next(): TranslationKeyIR {
-        return iter.next().run {
-            copy(translations = translations.toSortedMap(compareBy { it.toLanguageTag() }))
-        }
+        return iter.next()
     }
 
 }

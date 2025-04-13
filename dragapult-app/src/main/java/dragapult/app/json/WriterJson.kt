@@ -2,6 +2,7 @@ package dragapult.app.json
 
 import dragapult.app.TranslationKeyIR
 import dragapult.app.TranslationWriter
+import kotlinx.serialization.ExperimentalSerializationApi
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
@@ -9,6 +10,7 @@ import kotlinx.serialization.json.encodeToStream
 import java.io.File
 import java.util.*
 
+@OptIn(ExperimentalSerializationApi::class)
 class WriterJson(
     private val dir: File,
     private val fileName: String = "strings.json"
@@ -24,8 +26,8 @@ class WriterJson(
         for ((locale, translation) in ir.translations) {
             val map = files.getOrPut(locale) { sortedMapOf() }
             map[ir.key] = Value(
-                comment = ir.metadata?.comment,
-                parameters = ir.metadata?.properties,
+                comment = ir.metadata.comment,
+                parameters = ir.metadata.properties.takeUnless { it.isEmpty() },
                 value = translation
             )
         }

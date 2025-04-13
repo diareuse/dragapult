@@ -13,7 +13,7 @@ class WriterYamlIR(
     private val out: OutputStream,
 ) : TranslationWriter {
 
-    val yaml = Yaml(
+    private val yaml = Yaml(
         configuration = YamlConfiguration(
             encodeDefaults = false,
             strictMode = false,
@@ -26,8 +26,8 @@ class WriterYamlIR(
     override fun append(ir: TranslationKeyIR) {
         items += Key(
             name = ir.key,
-            comment = ir.metadata?.comment,
-            properties = ir.metadata?.properties?.map { Property(it.key, it.value) },
+            comment = ir.metadata.comment,
+            properties = ir.metadata.properties.map { Property(it.key, it.value) }.takeUnless { it.isEmpty() },
             translations = ir.translations.mapKeys { it.key.toLanguageTag() }.toSortedMap(compareBy { it })
         )
     }

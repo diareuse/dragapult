@@ -22,21 +22,14 @@ class WriterApple(
                 file.outputStream().writer()
             }
 
-            val props = ir.metadata?.properties
-            if (props != null) {
-                for ((k, v) in props) {
-                    out.appendLine("/*@ $k = $v */")
-                }
+            for ((k, v) in ir.metadata.properties) {
+                out.appendLine("/*@ $k = $v */")
             }
-            val c = ir.metadata?.comment
+            val c = ir.metadata.comment
             if (c != null) {
                 out.appendLine("/* $c */")
             }
-            out.appendLine(
-                "\"${ir.key}\" = \"${
-                    value.replace("%s", "%@").replace("\\n", "\\\\n").replace("\n", "\\n")
-                }\";"
-            )
+            out.appendLine("\"${ir.key}\" = \"$value\";")
         }
     }
 

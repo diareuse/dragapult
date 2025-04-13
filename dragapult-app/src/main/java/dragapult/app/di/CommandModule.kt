@@ -26,10 +26,14 @@ class CommandModule {
     ): Command {
         val reader: TranslationReader
         val writer: TranslationWriter
+        val inputType: FileKind
+        val outputType: FileKind
         when (option) {
             is OptionConsumeModule.Parsed -> {
                 val input = option.inputDirectory
                 val output = option.outputFile.outputStream()
+                inputType = option.inputType
+                outputType = option.outputType
                 reader = when (option.inputType) {
                     Platform.Android -> ReaderAndroid(input)
                     Platform.Apple -> ReaderApple(input)
@@ -45,6 +49,8 @@ class CommandModule {
             is OptionGenerateModule.Parsed -> {
                 val input = option.inputFile.inputStream()
                 val output = option.outputDirectory
+                inputType = option.inputType
+                outputType = option.outputType
                 reader = when (option.inputType) {
                     Source.Json -> ReaderJsonIR(input)
                     Source.Csv -> ReaderCsvIR(input)
@@ -65,10 +71,10 @@ class CommandModule {
         return Command {
             writer.use { writer ->
                 for (ir in reader) {
-                    val out = plugins.fold(ir) { acc, it ->
-                        it.modify(acc)
+                    for (plugin in plugins) {
+                        plugin.modify(inputType, outputType, ir)
                     }
-                    writer.append(out)
+                    writer.append(ir)
                 }
             }
         }

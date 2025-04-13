@@ -30,13 +30,13 @@ class WriterCsvIR(
                 add("properties")
             })
             for (item in items) {
-                val comment = item.metadata?.comment
+                val comment = item.metadata.comment
                 if (comment != null)
                     printer.printComment(comment)
                 printer.printRecord(buildList {
                     add(item.key)
                     addAll(keys.map { item.translations[it] })
-                    add(item.metadata?.properties?.entries?.joinToString("\n") { "${it.key}=${it.value}" })
+                    add(item.metadata.properties.entries.joinToString("\n") { "${it.key}=${it.value}" })
                 })
             }
             writer.flush()

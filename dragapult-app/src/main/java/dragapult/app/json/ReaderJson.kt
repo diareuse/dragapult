@@ -2,6 +2,7 @@ package dragapult.app.json
 
 import dragapult.app.TranslationKeyIR
 import dragapult.app.TranslationReader
+import kotlinx.serialization.ExperimentalSerializationApi
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.Json
@@ -9,8 +10,9 @@ import kotlinx.serialization.json.decodeFromStream
 import java.io.File
 import java.util.*
 
+@OptIn(ExperimentalSerializationApi::class)
 class ReaderJson(
-    private val dir: File
+    dir: File
 ) : TranslationReader {
     private val json = Json {
         explicitNulls = false
@@ -19,29 +21,22 @@ class ReaderJson(
         isLenient = true
     }
 
-    val out = sortedMapOf<String, JsonIR>()
+    private val out = sortedMapOf<String, TranslationKeyIR>()
 
     init {
         dir.walk().filter { it.isFile }.forEach {
             val locale = Locale.forLanguageTag(it.parentFile.name)
             val data = json.decodeFromStream<Map<String, Value>>(it.inputStream()).toSortedMap()
             for ((key, value) in data) {
-                val ir = out.getOrPut(key) {
-                    JsonIR(
-                        key = key,
-                        metadata = JsonIR.Metadata(
-                            comment = value.comment,
-                            properties = value.parameters
-                        ).takeIf { it.comment != null || it.properties != null },
-                        translations = mapOf(locale to value.value)
-                    )
-                }
-                out[key] = ir.copy(translations = ir.translations + (locale to value.value))
+                val ir = out.getOrPut(key) { TranslationKeyIR(key) }
+                ir.metadata.comment = ir.metadata.comment ?: value.comment
+                ir.metadata.properties.putAll(value.parameters.orEmpty())
+                ir.translations.put(locale, value.value)
             }
         }
     }
 
-    val iter = out.iterator()
+    private val iter = out.iterator()
 
     override fun hasNext(): Boolean {
         return iter.hasNext()
@@ -49,17 +44,6 @@ class ReaderJson(
 
     override fun next(): TranslationKeyIR {
         return iter.next().value
-    }
-
-    data class JsonIR(
-        override val key: String,
-        override val metadata: TranslationKeyIR.Metadata?,
-        override val translations: Map<Locale, String>
-    ) : TranslationKeyIR {
-        data class Metadata(
-            override val comment: String? = null,
-            override val properties: Map<String, String>? = null
-        ) : TranslationKeyIR.Metadata
     }
 
     @Serializable

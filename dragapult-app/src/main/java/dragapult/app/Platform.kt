@@ -1,20 +1,34 @@
 package dragapult.app
 
-enum class Platform {
+sealed interface Platform : FileKind {
 
-    Android,
-    Apple,
-    Json;
+    val label: String
+
+    data object Android : Platform {
+        override val label = "android"
+    }
+
+    data object Apple : Platform {
+        override val label = "apple"
+    }
+
+    data object Json : Platform {
+        override val label = "json"
+    }
 
     companion object {
 
-        fun valuesString() = listOf("apple", "android", "json")
+        val entries = sequence {
+            yield(Android.label)
+            yield(Apple.label)
+            yield(Json.label)
+        }
 
-        fun valueOfOption(type: String) = when (type) {
-            "apple" -> Apple
-            "android" -> Android
-            "json" -> Json
-            else -> throw IllegalArgumentException("Unsupported file type $type")
+        fun valueOf(value: String) = when (value) {
+            Android.label -> Android
+            Apple.label -> Apple
+            Json.label -> Json
+            else -> error("Unknown value $value")
         }
 
     }

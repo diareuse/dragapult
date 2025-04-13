@@ -25,7 +25,7 @@ class ReaderAndroid(
         this.xmlDeclMode = XmlDeclMode.Charset
     }
 
-    val out = mutableMapOf<String, AndroidIR>()
+    val out = mutableMapOf<String, TranslationKeyIR>()
 
     init {
         dir.walk()
@@ -38,35 +38,12 @@ class ReaderAndroid(
                     val langRegion = tags.take(1).firstOrNull() ?: "en"
                     val locale = Locale.forLanguageTag(langRegion)
                     for (string in res.strings) {
-                        var ir = out[string.name] ?: AndroidIR(
-                            key = string.name,
-                            metadata = AndroidIR.Metadata(
-                                comment = string.comment?.takeIf { it.isNotBlank() },
-                                properties = string.parameters?.takeIf { it.isNotEmpty() }
-                            ).takeIf { it.comment != null || it.properties != null },
-                            translations = mapOf(locale to string.content.contentString)
-                        )
-                        val translatable = string.translatable
-                        val properties = buildMap {
-                            var p = string.parameters
-                            if (p != null) putAll(p)
-                            p = ir.metadata?.properties
-                            if (p != null) putAll(p)
-                            if (!translatable)
-                                put("translatable", "false")
-                        }.takeUnless { it.isEmpty() }
-                        ir = ir.copy(
-                            metadata = ir.metadata?.copy(properties = properties) ?: AndroidIR.Metadata(
-                                comment = string.comment,
-                                properties = string.parameters.orEmpty().toMutableMap().apply {
-                                    putAll(properties.orEmpty())
-                                }.takeUnless { it.isEmpty() }
-                            ),
-                            translations = ir.translations.toMutableMap().apply {
-                                put(locale, string.content.contentString)
-                            }
-                        )
-                        out[string.name] = ir
+                        val ir = out.getOrPut(string.name) { TranslationKeyIR(string.name) }
+                        ir.metadata.comment = ir.metadata.comment ?: string.comment
+                        ir.metadata.properties.putAll(string.parameters.orEmpty())
+                        if (!string.translatable)
+                            ir.metadata.properties.put("translatable", "false")
+                        ir.translations.put(locale, string.content.contentString)
                     }
                 } catch (e: Throwable) {
                     e.printStackTrace()
@@ -74,19 +51,7 @@ class ReaderAndroid(
             }
     }
 
-    data class AndroidIR(
-        override val key: String,
-        override val metadata: Metadata?,
-        override val translations: Map<Locale, String>
-    ) : TranslationKeyIR {
-
-        data class Metadata(
-            override val comment: String?,
-            override val properties: Map<String, String>?
-        ) : TranslationKeyIR.Metadata
-    }
-
-    val iter = out.values.iterator()
+    private val iter = out.values.iterator()
 
     override fun hasNext(): Boolean {
         return iter.hasNext()

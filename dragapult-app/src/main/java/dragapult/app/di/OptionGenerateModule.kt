@@ -42,7 +42,7 @@ object OptionGenerateModule {
         .longOpt("output-type")
         .hasArg()
         .required()
-        .desc("Required. Defines output type for the \"output-directory\" argument. It takes in account the different project structures for respective the types. Allowed types are ${Platform.Companion.valuesString()}.")
+        .desc("Required. Defines output type for the \"output-directory\" argument. It takes in account the different project structures for respective the types. Allowed types are ${Platform.entries.joinToString()}.")
         .build()
 
     @get:Generate
@@ -53,7 +53,7 @@ object OptionGenerateModule {
         .longOpt("input-type")
         .hasArg()
         .required()
-        .desc("Required. Defines input type for \"input-file\" argument. It chooses a specific parser capable of converting the data. Allowed types are ${Source.Companion.valuesString()}")
+        .desc("Required. Defines input type for \"input-file\" argument. It chooses a specific parser capable of converting the data. Allowed types are ${Source.entries.joinToString()}")
         .build()
 
     @get:Generate
@@ -86,10 +86,10 @@ object OptionGenerateModule {
             get() = File(cli.getOptionValue(OptionGenerateModule.outputDirectory))
 
         val outputType
-            get() = Platform.valueOfOption(cli.getOptionValue(OptionGenerateModule.outputType))
+            get() = Platform.valueOf(cli.getOptionValue(OptionGenerateModule.outputType))
 
         val inputType
-            get() = Source.valueOfOption(cli.getOptionValue(OptionGenerateModule.inputType))
+            get() = Source.valueOf(cli.getOptionValue(OptionGenerateModule.inputType))
 
         val blankValues
             get() = cli.hasOption(OptionGenerateModule.blankValues)

@@ -12,7 +12,7 @@ import java.io.InputStream
 import java.util.*
 
 class ReaderYamlIR(
-    private val input: InputStream
+    input: InputStream
 ) : TranslationReader {
     @OptIn(ExperimentalSerializationApi::class)
     private val yaml = Yaml(
@@ -23,32 +23,21 @@ class ReaderYamlIR(
         )
     )
 
-    val map = yaml.decodeFromStream<List<Key>>(input)
-    val iter = map.iterator()
+    private val map = yaml.decodeFromStream<List<Key>>(input)
+    private val iter = map.iterator()
 
     override fun hasNext(): Boolean {
         return iter.hasNext()
     }
 
     override fun next(): TranslationKeyIR {
-        return TranslationKeyIRFromKey(iter.next())
+        val key = iter.next()
+        val ir = TranslationKeyIR(key.name)
+        ir.metadata.comment = key.comment
+        ir.metadata.properties.putAll(key.properties?.associate { it.name to it.value }.orEmpty())
+        ir.translations.putAll(key.translations.mapKeys { Locale.forLanguageTag(it.key) })
+        return ir
     }
-
-    @JvmInline
-    private value class TranslationKeyIRFromKey(private val entry: Key) : TranslationKeyIR {
-        override val key: String
-            get() = entry.name
-        override val metadata: TranslationKeyIR.Metadata?
-            get() = object : TranslationKeyIR.Metadata {
-                override val comment: String?
-                    get() = entry.comment
-                override val properties: Map<String, String>?
-                    get() = entry.properties?.associate { it.name to it.value }
-            }.takeIf { it.comment != null || it.properties != null }
-        override val translations: Map<Locale, String>
-            get() = entry.translations.mapKeys { Locale.forLanguageTag(it.key) }
-    }
-
 
     @Serializable
     data class Key(
