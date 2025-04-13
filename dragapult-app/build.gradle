@@ -1,3 +1,4 @@
+import org.apache.tools.ant.taskdefs.condition.Os
 import proguard.gradle.ProGuardTask
 
 plugins {
@@ -38,12 +39,15 @@ tasks.register("nativeImage", Exec) {
     out.get().asFile.parentFile.mkdirs()
 
     inputs.file(file)
+    outputs.file(out.get())
 
     onlyIf {
         System.getProperty("java.vendor").containsIgnoreCase("graalvm")
     }
+    def affix = Os.isFamily(Os.FAMILY_WINDOWS) ? ".cmd" : ""
+    def path = new File(System.getenv("JAVA_HOME"), "bin/native-image$affix").absolutePath
     commandLine(
-            "native-image",
+            path,
             "-jar", file,
             "-o", out.get().asFile,
             "--verbose",
