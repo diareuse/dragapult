@@ -7,6 +7,7 @@ import dragapult.app.Platform
 import dragapult.app.Source
 import org.apache.commons.cli.CommandLine
 import org.apache.commons.cli.Option
+import org.apache.commons.cli.Options
 import java.io.File
 
 @Module
@@ -65,7 +66,15 @@ object OptionConsumeModule {
         .desc("Prints this help message")
         .build()
 
-    operator fun invoke(cli: CommandLine) = Parsed(cli)
+    operator fun invoke(cli: CommandLine): Subroutine {
+        val parsed = Parsed(cli)
+        if (parsed.help)
+            return HelpSubroutine(Options().apply {
+                for (option in options)
+                    addOption(option)
+            })
+        return parsed
+    }
 
     class Parsed(private val cli: CommandLine) : Subroutine {
 

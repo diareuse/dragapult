@@ -13,6 +13,7 @@ class HelpTest : CommandLineHarness() {
             val out = withOutputStream {
                 it.command.execute()
             }
+            println(out)
             assert(out.isNotEmpty())
         }
     )
@@ -24,6 +25,7 @@ class HelpTest : CommandLineHarness() {
             val out = withOutputStream {
                 it.command.execute()
             }
+            println(out)
             assert(out.isNotEmpty())
         }
     )
@@ -35,6 +37,7 @@ class HelpTest : CommandLineHarness() {
             val out = withOutputStream {
                 it.command.execute()
             }
+            println(out)
             assert(out.isNotEmpty())
         }
     )
