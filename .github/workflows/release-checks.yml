@@ -16,7 +16,7 @@ jobs:
         with:
           java-version: 21
           distribution: temurin
-      - uses: gradle/actions/setup-gradle@v3
+      - uses: gradle/actions/setup-gradle@v4
       - run: ./gradlew check
       - uses: dorny/test-reporter@v2
         if: always()
@@ -34,7 +34,7 @@ jobs:
         with:
           java-version: 21
           distribution: temurin
-      - uses: gradle/actions/setup-gradle@v3
+      - uses: gradle/actions/setup-gradle@v4
       - run: ./gradlew shadowJar
 
   merge:
