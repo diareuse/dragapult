@@ -5,6 +5,7 @@ import app.dragapult.android.ReaderAndroid
 import app.dragapult.android.WriterAndroid
 import app.dragapult.apple.ReaderApple
 import app.dragapult.apple.WriterApple
+import app.dragapult.di.PluginModule
 import app.dragapult.ir.csv.ReaderCsvIR
 import app.dragapult.ir.csv.WriterCsvIR
 import app.dragapult.ir.json.ReaderJsonIR

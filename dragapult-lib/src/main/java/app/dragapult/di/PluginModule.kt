@@ -1,4 +1,4 @@
-package dragapult.app.di
+package app.dragapult.di
 
 import app.dragapult.TranslationPlugin
 import app.dragapult.plugins.PrefixQuotes
@@ -17,7 +17,7 @@ abstract class PluginModule {
 
         @IntoSet
         @Provides
-        fun noop() = TranslationPlugin(Int.MAX_VALUE) { _, _, _ -> }
+        fun noop() = TranslationPlugin.Companion(Int.MAX_VALUE) { _, _, _ -> }
 
     }
 
