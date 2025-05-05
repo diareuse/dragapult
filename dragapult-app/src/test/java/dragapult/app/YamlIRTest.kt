@@ -1,10 +1,10 @@
 package dragapult.app
 
+import app.dragapult.ir.json.ReaderJsonIR
+import app.dragapult.ir.json.WriterJsonIR
+import app.dragapult.ir.yaml.ReaderYamlIR
+import app.dragapult.ir.yaml.WriterYamlIR
 import dragapult.app.harness.ConversionHarness
-import dragapult.app.ir.json.ReaderJsonIR
-import dragapult.app.ir.json.WriterJsonIR
-import dragapult.app.ir.yaml.ReaderYamlIR
-import dragapult.app.ir.yaml.WriterYamlIR
 import java.io.ByteArrayOutputStream
 import kotlin.test.Test
 import kotlin.test.assertEquals

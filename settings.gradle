@@ -9,3 +9,6 @@ dependencyResolutionManagement {
 rootProject.name = 'dragapult-i18n'
 
 include 'dragapult-app'
+
+include 'dragapult-app',
+        'dragapult-lib',

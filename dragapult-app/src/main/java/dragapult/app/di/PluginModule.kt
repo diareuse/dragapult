@@ -1,14 +1,14 @@
 package dragapult.app.di
 
+import app.dragapult.TranslationPlugin
+import app.dragapult.plugins.PrefixQuotes
+import app.dragapult.plugins.ReplaceCharLineBreakWithLiteral
+import app.dragapult.plugins.ReplaceLiteralLineBreakWithChar
+import app.dragapult.plugins.UnPrefixQuotes
 import dagger.Binds
 import dagger.Module
 import dagger.Provides
 import dagger.multibindings.IntoSet
-import dragapult.app.TranslationPlugin
-import dragapult.app.plugins.PrefixQuotes
-import dragapult.app.plugins.ReplaceCharLineBreakWithLiteral
-import dragapult.app.plugins.ReplaceLiteralLineBreakWithChar
-import dragapult.app.plugins.UnPrefixQuotes
 
 @Module
 abstract class PluginModule {

@@ -1,0 +1,12 @@
+plugins {
+    id 'jvm-library'
+}
+
+dependencies {
+    implementation libs.kotlin.serialization.json
+    implementation libs.kotlin.serialization.xml
+    implementation libs.kotlin.serialization.yaml
+    implementation libs.apache.csv
+    implementation libs.dagger
+    ksp libs.dagger.compiler
+}

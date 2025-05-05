@@ -1,10 +1,10 @@
 package dragapult.app.di
 
+import app.dragapult.Platform
+import app.dragapult.Source
 import dagger.Module
 import dagger.Provides
 import dagger.multibindings.IntoSet
-import dragapult.app.Platform
-import dragapult.app.Source
 import org.apache.commons.cli.CommandLine
 import org.apache.commons.cli.Option
 import org.apache.commons.cli.Options

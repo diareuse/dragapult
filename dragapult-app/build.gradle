@@ -60,10 +60,7 @@ tasks.register("nativeImage", Exec) {
 }
 
 dependencies {
-    implementation libs.kotlin.serialization.json
-    implementation libs.kotlin.serialization.xml
-    implementation libs.kotlin.serialization.yaml
-    implementation libs.apache.csv
+    implementation project(":dragapult-lib")
     implementation libs.apache.cli
     implementation libs.dagger
     ksp libs.dagger.compiler

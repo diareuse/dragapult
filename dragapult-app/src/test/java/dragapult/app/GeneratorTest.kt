@@ -1,12 +1,13 @@
 package dragapult.app
 
-import dragapult.app.android.WriterAndroid
-import dragapult.app.apple.WriterApple
-import dragapult.app.ir.csv.WriterCsvIR
-import dragapult.app.ir.json.ReaderJsonIR
-import dragapult.app.ir.json.WriterJsonIR
-import dragapult.app.ir.yaml.WriterYamlIR
-import dragapult.app.json.WriterJson
+import app.dragapult.TranslationWriter
+import app.dragapult.android.WriterAndroid
+import app.dragapult.apple.WriterApple
+import app.dragapult.ir.csv.WriterCsvIR
+import app.dragapult.ir.json.ReaderJsonIR
+import app.dragapult.ir.json.WriterJsonIR
+import app.dragapult.ir.yaml.WriterYamlIR
+import app.dragapult.json.WriterJson
 import java.io.File
 import kotlin.test.Ignore
 import kotlin.test.Test

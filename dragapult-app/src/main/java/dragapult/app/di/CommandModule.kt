@@ -1,20 +1,21 @@
 package dragapult.app.di
 
+import app.dragapult.*
+import app.dragapult.android.ReaderAndroid
+import app.dragapult.android.WriterAndroid
+import app.dragapult.apple.ReaderApple
+import app.dragapult.apple.WriterApple
+import app.dragapult.ir.csv.ReaderCsvIR
+import app.dragapult.ir.csv.WriterCsvIR
+import app.dragapult.ir.json.ReaderJsonIR
+import app.dragapult.ir.json.WriterJsonIR
+import app.dragapult.ir.yaml.ReaderYamlIR
+import app.dragapult.ir.yaml.WriterYamlIR
+import app.dragapult.json.ReaderJson
+import app.dragapult.json.WriterJson
 import dagger.Module
 import dagger.Provides
-import dragapult.app.*
-import dragapult.app.android.ReaderAndroid
-import dragapult.app.android.WriterAndroid
-import dragapult.app.apple.ReaderApple
-import dragapult.app.apple.WriterApple
-import dragapult.app.ir.csv.ReaderCsvIR
-import dragapult.app.ir.csv.WriterCsvIR
-import dragapult.app.ir.json.ReaderJsonIR
-import dragapult.app.ir.json.WriterJsonIR
-import dragapult.app.ir.yaml.ReaderYamlIR
-import dragapult.app.ir.yaml.WriterYamlIR
-import dragapult.app.json.ReaderJson
-import dragapult.app.json.WriterJson
+import dragapult.app.Command
 
 @Module(includes = [CommandLineModule::class, PluginModule::class])
 class CommandModule {
