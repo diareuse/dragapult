@@ -1,0 +1,27 @@
+plugins {
+    id "jvm-gradle"
+    alias libs.plugins.kotlin.jvm
+}
+
+gradlePlugin {
+    plugins {
+        create("dragapult") {
+            id = "dragapult"
+            implementationClass = "app.dragapult.DragapultPlugin"
+        }
+    }
+}
+
+test {
+    useJUnitPlatform()
+}
+
+dependencies {
+    implementation project(":dragapult-lib")
+    implementation libs.dagger
+    ksp libs.dagger.compiler
+
+    implementation libs.plugin.android.application
+
+    testImplementation libs.kotlin.test.junit
+}

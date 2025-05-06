@@ -1,0 +1,19 @@
+plugins {
+    id "com.android.application" version "8.9.2"
+    id "dragapult"
+}
+
+repositories {
+    google()
+}
+
+android {
+    namespace "app.dragapult"
+    compileSdk 35
+    defaultConfig {
+    }
+}
+
+dragapult {
+    inputFile.set(project.file("input.json"))
+}

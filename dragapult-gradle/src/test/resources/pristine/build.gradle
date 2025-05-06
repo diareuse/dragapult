@@ -1,0 +1,7 @@
+plugins {
+    id("dragapult")
+}
+
+dragapult {
+    inputFile.set(project.file("input.json"))
+}

@@ -12,9 +12,3 @@ dependencyResolutionManagement {
         google()
     }
 }
-
-rootProject.name = 'dragapult-i18n'
-
-include 'dragapult-app',
-        'dragapult-lib',
-        'dragapult-gradle'
