@@ -11,14 +11,16 @@ class DragapultPlugin : Plugin<Project> {
     override fun apply(target: Project) {
         val extension = target.extensions.create("dragapult", DragapultExtension::class.java)
         forEachVariant(target) { variant ->
-            val generateStrings = target.tasks.register("generate${variant}Strings", GenerateStringsTask::class.java) {
+            val generateStrings = target.tasks.register(
+                "generate${variant.replaceFirstChar { it.uppercase() }}Strings",
+                GenerateStringsTask::class.java
+            ) {
                 it.inputFile.set(extension.inputFile)
                 it.outputDirectory.set(extension.outputDirectory)
                 it.inputFileType.set(extension.inputFileType)
                 it.outputFileType.set(extension.outputFileType)
                 it.buildVariant.set(variant)
             }
-            println(generateStrings.name)
             target.tasks.findByName("preBuild")?.dependsOn(generateStrings)
         }
     }
@@ -36,7 +38,7 @@ class DragapultPlugin : Plugin<Project> {
             return body("")
         }
         extension.onVariants { variant ->
-            body(variant.name.replaceFirstChar { it.uppercase() })
+            body(variant.name)
         }
     }
 
