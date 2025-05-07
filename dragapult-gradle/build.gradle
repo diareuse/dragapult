@@ -1,12 +1,18 @@
 plugins {
     id "jvm-gradle"
+    alias libs.plugins.publish
     alias libs.plugins.kotlin.jvm
+}
+
+mavenPublishing {
+    publishToMavenCentral(com.vanniktech.maven.publish.SonatypeHost.CENTRAL_PORTAL)
+    signAllPublications()
 }
 
 gradlePlugin {
     plugins {
         create("dragapult") {
-            id = "dragapult"
+            id = "io.github.diareuse.dragapult"
             implementationClass = "app.dragapult.DragapultPlugin"
         }
     }
