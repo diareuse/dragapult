@@ -9,7 +9,7 @@ kaml = "0.77.1"
 xml = "0.91.0"
 json = "1.8.1"
 cli = "1.9.0"
-android = "8.9.2"
+android = "8.10.0"
 
 [libraries]
 plugin-android-application = { module = "com.android.application:com.android.application.gradle.plugin", version.ref = "android" }
