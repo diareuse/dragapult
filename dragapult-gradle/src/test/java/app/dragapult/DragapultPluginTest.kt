@@ -48,8 +48,14 @@ class DragapultPluginTest : GradleTestHarness() {
         verify = {
             assertEquals(TaskOutcome.SUCCESS, it.task(":generateDebugStrings")?.outcome)
             assertEquals(TaskOutcome.SUCCESS, it.task(":generateReleaseStrings")?.outcome)
-            assertTrue(resolve("build/generated/res/resValues/debug").exists())
-            assertTrue(resolve("build/generated/res/resValues/release").exists())
+            assertTrue(
+                actual = resolve("build/generated/res/resValues/debug").exists(),
+                message = "Expected to see build/generated/res/resValues/debug directory, but the directory tree is following: ${walkBottomUp().joinToString { it.absolutePath }}"
+            )
+            assertTrue(
+                actual = resolve("build/generated/res/resValues/release").exists(),
+                message = "Expected to see build/generated/res/resValues/release directory, but the directory tree is following: ${walkBottomUp().joinToString { it.absolutePath }}"
+            )
         }
     )
 
