@@ -33,7 +33,7 @@ class DragapultPluginTest : GradleTestHarness() {
                 }
                 .map { it.parent.substringAfter("-", "") }
                 .toSet()
-            assertContentEquals(setOf("ch", "cs", "", "vi", "fa"), actual.asIterable())
+            assertContentEquals(setOf("ch", "cs", "", "vi", "fa").sorted(), actual.sorted())
         }
     )
 
