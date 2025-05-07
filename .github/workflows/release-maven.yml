@@ -29,5 +29,7 @@ jobs:
           echo "VERSION_NAME=$versionName" >> gradle.properties
           echo "mavenCentralUsername=${{ secrets.MAVEN_USERNAME }}" >> gradle.properties
           echo "mavenCentralPassword=${{ secrets.MAVEN_PASSWORD }}" >> gradle.properties
+          echo "signingInMemoryKeyId=${{ secrets.SIGNING_KEY_ID }}" >> gradle.properties
+          echo "signingInMemoryKeyPassword=${{ secrets.SIGNING_KEY_PASS }}" >> gradle.properties
           echo "signingInMemoryKey=${{ secrets.SIGNING_KEY }}" >> gradle.properties
       - run: ./gradlew publishAndReleaseToMavenCentral --no-configuration-cache
