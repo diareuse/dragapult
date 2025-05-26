@@ -32,4 +32,9 @@ jobs:
           echo "signingInMemoryKeyId=${{ secrets.SIGNING_KEY_ID }}" >> gradle.properties
           echo "signingInMemoryKeyPassword=${{ secrets.SIGNING_KEY_PASS }}" >> gradle.properties
           echo "signingInMemoryKey=${{ secrets.SIGNING_KEY }}" >> gradle.properties
-      - run: ./gradlew publishAndReleaseToMavenCentral --no-configuration-cache
+      - run: |
+          if [ "${{ github.ref_type }}" == "branch" ]; then
+            ./gradlew publishAllPublicationsToMavenCentralRepository --no-configuration-cache
+          else
+            ./gradlew publishAndReleaseToMavenCentral --no-configuration-cache
+          fi
