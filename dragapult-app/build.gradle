@@ -51,7 +51,7 @@ tasks.register("nativeImage", Exec) {
             "-o", out.get().asFile,
             "--verbose",
             "--add-modules=java.base,java.sql,java.xml",
-            "-march=native",
+            "-march=compatibility",
             "-O3",
             "--no-fallback",
             "--strict-image-heap",
