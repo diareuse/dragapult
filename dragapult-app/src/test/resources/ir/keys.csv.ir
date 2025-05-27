@@ -8,3 +8,4 @@ is
 multiline
 string",,,
 d_quoted_string,,,"""Quoted"" string",,,
+e_ampersand,&,&&,&&&,&&&&,&&&&&,

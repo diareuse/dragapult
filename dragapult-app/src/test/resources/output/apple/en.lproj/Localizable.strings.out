@@ -5,3 +5,4 @@
 "b_non_translatable_string" = "Don't translate this";
 "c_multi_line_string" = "This\nis\nmultiline\nstring";
 "d_quoted_string" = ""Quoted" string";
+"e_ampersand" = "&&&";

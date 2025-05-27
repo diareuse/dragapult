@@ -1,10 +1,7 @@
 package app.dragapult.di
 
 import app.dragapult.TranslationPlugin
-import app.dragapult.plugins.PrefixQuotes
-import app.dragapult.plugins.ReplaceCharLineBreakWithLiteral
-import app.dragapult.plugins.ReplaceLiteralLineBreakWithChar
-import app.dragapult.plugins.UnPrefixQuotes
+import app.dragapult.plugins.*
 import dagger.Binds
 import dagger.Module
 import dagger.Provides
@@ -36,5 +33,9 @@ abstract class PluginModule {
     @Binds
     @IntoSet
     abstract fun replaceCharLineBreakWithLiteral(plugin: ReplaceCharLineBreakWithLiteral): TranslationPlugin
+
+    @Binds
+    @IntoSet
+    abstract fun prefixAmpersand(plugin: PrefixAmpersand): TranslationPlugin
 
 }

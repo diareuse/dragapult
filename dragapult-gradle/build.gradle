@@ -4,11 +4,6 @@ plugins {
     alias libs.plugins.kotlin.jvm
 }
 
-mavenPublishing {
-    publishToMavenCentral(com.vanniktech.maven.publish.SonatypeHost.CENTRAL_PORTAL)
-    signAllPublications()
-}
-
 gradlePlugin {
     plugins {
         create("dragapult") {

@@ -27,5 +27,14 @@
 		"keys": {
 			"en": "\"Quoted\" string"
 		}
+	},
+	"e_ampersand": {
+		"keys": {
+			"ch": "&",
+			"cs": "&&",
+			"en": "&&&",
+			"fa": "&&&&",
+			"vi": "&&&&&"
+		}
 	}
 }
