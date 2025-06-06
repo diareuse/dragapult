@@ -11,9 +11,6 @@ abstract class GenerateStringsTask : DefaultTask() {
     @get:InputFile
     abstract val inputFile: RegularFileProperty
 
-    @get:Input
-    abstract val buildVariant: Property<String>
-
     @get:Optional
     @get:Input
     abstract val inputFileType: Property<String>
@@ -40,9 +37,7 @@ abstract class GenerateStringsTask : DefaultTask() {
             Platform.Json.label -> Platform.Json
             else -> error("Unsupported output file type: $f")
         }
-        val outputDir = outputDirectory
-            .orElse(project.layout.buildDirectory.dir("generated/res/resValues/${buildVariant.get()}"))
-            .get().asFile
+        val outputDir = outputDirectory.get().asFile
         val app = DaggerApp.factory().create(source, platform, inputFile.get().asFile, outputDir)
         val dp = app.dragapult
         dp.convert()
