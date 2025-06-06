@@ -6,6 +6,7 @@ import kotlin.test.*
 
 class DragapultPluginTest : GradleTestHarness() {
 
+    @Ignore("We're dropping support for non-android project in the first release")
     @Test
     fun `task passes in pristine state`() = test(
         prepare = {
@@ -16,6 +17,7 @@ class DragapultPluginTest : GradleTestHarness() {
         verify = { assertEquals(TaskOutcome.SUCCESS, it.task(":generateStrings")?.outcome) }
     )
 
+    @Ignore("We're dropping support for non-android project in the first release")
     @Test
     fun `task generates expected output`() = test(
         prepare = {
@@ -44,16 +46,16 @@ class DragapultPluginTest : GradleTestHarness() {
             resolve("settings.gradle").writeContentOf("android/settings.gradle")
             resolve("input.json").writeContentOf("android/input.json")
         },
-        test = { withArguments("generateDebugStrings", "generateReleaseStrings") },
+        test = { withArguments("generateDragapultDebugStrings", "generateDragapultReleaseStrings") },
         verify = {
-            assertEquals(TaskOutcome.SUCCESS, it.task(":generateDebugStrings")?.outcome)
-            assertEquals(TaskOutcome.SUCCESS, it.task(":generateReleaseStrings")?.outcome)
+            assertEquals(TaskOutcome.SUCCESS, it.task(":generateDragapultDebugStrings")?.outcome)
+            assertEquals(TaskOutcome.SUCCESS, it.task(":generateDragapultReleaseStrings")?.outcome)
             assertTrue(
-                actual = resolve("build/generated/res/resValues/debug").exists(),
+                actual = resolve("build/generated/res/generateDragapultDebugStrings").exists(),
                 message = "Expected to see build/generated/res/resValues/debug directory, but the directory tree is following: ${walkBottomUp().joinToString { it.absolutePath }}"
             )
             assertTrue(
-                actual = resolve("build/generated/res/resValues/release").exists(),
+                actual = resolve("build/generated/res/generateDragapultReleaseStrings").exists(),
                 message = "Expected to see build/generated/res/resValues/release directory, but the directory tree is following: ${walkBottomUp().joinToString { it.absolutePath }}"
             )
         }
