@@ -3,6 +3,7 @@ package app.dragapult.di
 import app.dragapult.Dragapult
 import app.dragapult.Platform
 import app.dragapult.Source
+import app.dragapult.TranslationPlugin
 import app.dragapult.android.WriterAndroid
 import app.dragapult.apple.WriterApple
 import app.dragapult.ir.csv.ReaderCsvIR
@@ -21,7 +22,8 @@ class DragapultModule {
         inputType: Source,
         outputType: Platform,
         @Input ingress: File,
-        @Output egress: File
+        @Output egress: File,
+        plugins: Set<@JvmSuppressWildcards TranslationPlugin>
     ): Dragapult {
         val input = ingress.inputStream()
         val reader = when (inputType) {
@@ -37,6 +39,9 @@ class DragapultModule {
         return Dragapult {
             writer.use { writer ->
                 for (key in reader) {
+                    for (plugin in plugins) {
+                        plugin.modify(inputType, outputType, key)
+                    }
                     writer.append(key)
                 }
             }
