@@ -20,6 +20,10 @@ abstract class PluginModule {
 
     @Binds
     @IntoSet
+    abstract fun replaceAppleFormatSpecifier(plugin: ReplaceAppleFormatSpecifier): TranslationPlugin
+
+    @Binds
+    @IntoSet
     abstract fun prefixQuotes(plugin: PrefixQuotes): TranslationPlugin
 
     @Binds
