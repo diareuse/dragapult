@@ -7,7 +7,7 @@ shadow = "9.0.0-beta17"
 csv = "1.14.0"
 kaml = "0.82.0"
 xml = "0.91.1"
-json = "1.8.1"
+json = "1.9.0"
 cli = "1.9.0"
 android = "8.11.0"
 
