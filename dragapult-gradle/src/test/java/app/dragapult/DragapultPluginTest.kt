@@ -46,18 +46,55 @@ class DragapultPluginTest : GradleTestHarness() {
             resolve("settings.gradle").writeContentOf("android/settings.gradle")
             resolve("input.json").writeContentOf("android/input.json")
         },
-        test = { withArguments("generateDragapultDebugStrings", "generateDragapultReleaseStrings") },
+        test = { withArguments("generateDragapultDebugDefaultStrings", "generateDragapultReleaseDefaultStrings") },
         verify = {
-            assertEquals(TaskOutcome.SUCCESS, it.task(":generateDragapultDebugStrings")?.outcome)
-            assertEquals(TaskOutcome.SUCCESS, it.task(":generateDragapultReleaseStrings")?.outcome)
+            val debug = checkNotNull(it.task(":generateDragapultDebugDefaultStrings")) {
+                "Expected to see task ':generateDragapultDebugDefaultStrings', but were only ${it.tasks.joinToString { it.path }}"
+            }
+            val release = checkNotNull(it.task(":generateDragapultReleaseDefaultStrings")) {
+                "Expected to see task ':generateDragapultReleaseDefaultStrings', but were only ${it.tasks.joinToString { it.path }}"
+            }
+            assertEquals(TaskOutcome.SUCCESS, debug.outcome)
+            assertEquals(TaskOutcome.SUCCESS, release.outcome)
             assertTrue(
-                actual = resolve("build/generated/res/generateDragapultDebugStrings").exists(),
+                actual = resolve("build/generated/res/generateDragapultDebugDefaultStrings").exists(),
                 message = "Expected to see build/generated/res/resValues/debug directory, but the directory tree is following: ${walkBottomUp().joinToString { it.absolutePath }}"
             )
             assertTrue(
-                actual = resolve("build/generated/res/generateDragapultReleaseStrings").exists(),
+                actual = resolve("build/generated/res/generateDragapultReleaseDefaultStrings").exists(),
                 message = "Expected to see build/generated/res/resValues/release directory, but the directory tree is following: ${walkBottomUp().joinToString { it.absolutePath }}"
             )
+        }
+    )
+
+    @Test
+    fun `task downloads and generates expected output`() = test(
+        prepare = { server ->
+            resolve("build.gradle").writeContentOf("download/build.gradle")
+            resolve("settings.gradle").writeContentOf("download/settings.gradle")
+            server.addHandler("/input.json") {
+                check(requestMethod.lowercase() == "get")
+                check(requestHeaders.getFirst("X-Foo") == "bar")
+                check(requestHeaders.getFirst("Authorization") == "Bearer i-am-token")
+                respond(200, resourceAsStream("download/input.json"))
+            }
+        },
+        test = {
+            withArguments(
+                "generateDragapultDebugDefaultRemoteStrings",
+                "generateDragapultReleaseDefaultRemoteStrings"
+            )
+        },
+        verify = {
+            assertEquals(TaskOutcome.SUCCESS, it.task(":generateDragapultDebugDefaultRemoteStrings")?.outcome)
+            assertEquals(TaskOutcome.SUCCESS, it.task(":generateDragapultReleaseDefaultRemoteStrings")?.outcome)
+            val actual = resolve("build/generated").walk()
+                .filter { it.isFile }
+                .filter { it.parent.contains("values") }
+                .onEach { assertEquals("strings.xml", it.name) }
+                .map { it.parent.substringAfter("-", "") }
+                .toSet()
+            assertContentEquals(setOf("ch", "cs", "", "vi", "fa").sorted(), actual.sorted())
         }
     )
 

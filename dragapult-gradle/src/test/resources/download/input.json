@@ -1,0 +1,31 @@
+{
+  "a_regular_string": {
+    "comment": "This is just a regular string",
+    "keys": {
+      "ch": "Regular na hilo'",
+      "cs": "Pravidelný řetězec",
+      "en": "Regular string",
+      "fa": "رشته معمولی",
+      "vi": "Chuỗi thường"
+    }
+  },
+  "b_non_translatable_string": {
+    "comment": "This should be never translated",
+    "properties": {
+      "translatable": "false"
+    },
+    "keys": {
+      "en": "Don't translate this"
+    }
+  },
+  "c_multi_line_string": {
+    "keys": {
+      "en": "This\nis\nmultiline\nstring"
+    }
+  },
+  "d_quoted_string": {
+    "keys": {
+      "en": "\"Quoted\" string"
+    }
+  }
+}

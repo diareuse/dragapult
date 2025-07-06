@@ -1,6 +1,10 @@
 package app.dragapult
 
+import app.dragapult.definition.LocalDefinitionDeclaration
+import app.dragapult.util.capitalize
+import com.android.build.api.variant.Variant
 import org.gradle.api.DefaultTask
+import org.gradle.api.Project
 import org.gradle.api.file.DirectoryProperty
 import org.gradle.api.file.RegularFileProperty
 import org.gradle.api.provider.Property
@@ -15,11 +19,6 @@ abstract class GenerateStringsTask : DefaultTask() {
     @get:Input
     abstract val inputFileType: Property<String>
 
-    @get:Optional
-    @get:Input
-    abstract val outputFileType: Property<String>
-
-    @get:Optional
     @get:OutputDirectory
     abstract val outputDirectory: DirectoryProperty
 
@@ -31,12 +30,7 @@ abstract class GenerateStringsTask : DefaultTask() {
             Source.Yaml.label -> Source.Yaml
             else -> error("Unsupported input file type: $f")
         }
-        val platform = when (val f = outputFileType.getOrElse(Platform.Android.label)) {
-            Platform.Android.label -> Platform.Android
-            Platform.Apple.label -> Platform.Apple
-            Platform.Json.label -> Platform.Json
-            else -> error("Unsupported output file type: $f")
-        }
+        val platform = Platform.Android
         val outputDir = outputDirectory.get().asFile
         val app = DaggerApp.factory().create(source, platform, inputFile.get().asFile, outputDir)
         val dp = app.dragapult
@@ -50,6 +44,24 @@ abstract class GenerateStringsTask : DefaultTask() {
         "csv" -> Source.Csv.label
         "yml", "yaml" -> Source.Yaml.label
         else -> error("Unsupported input file extension: $extension")
+    }
+
+    // ---
+
+    companion object {
+
+        fun create(
+            project: Project,
+            variant: Variant,
+            definition: LocalDefinitionDeclaration
+        ) = project.tasks.register(
+            "generateDragapult${variant.name.capitalize()}${definition.name?.capitalize().orEmpty()}Strings",
+            GenerateStringsTask::class.java
+        ) {
+            it.inputFile.set(definition.file)
+            it.inputFileType.set(definition.inputFileType)
+        }
+
     }
 
 }

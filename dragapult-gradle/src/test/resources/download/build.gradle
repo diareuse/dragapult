@@ -1,0 +1,28 @@
+plugins {
+    id "com.android.application" version "8.9.2"
+    id "io.github.diareuse.dragapult"
+}
+
+repositories {
+    google()
+}
+
+android {
+    namespace "app.dragapult"
+    compileSdk 35
+    defaultConfig {
+    }
+}
+
+dragapult {
+    remote("default") { rr ->
+        rr.inputFileType = "json"
+        rr.url "http://localhost:8081/input.json"
+        rr.headers { hh ->
+            hh.header "X-Foo", "bar"
+        }
+        rr.authorization { aa ->
+            aa.bearer "i-am-token"
+        }
+    }
+}

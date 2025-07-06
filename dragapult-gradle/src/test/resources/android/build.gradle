@@ -15,5 +15,7 @@ android {
 }
 
 dragapult {
-    inputFile.set(project.file("input.json"))
+    local("default") { ll ->
+        ll.file = project.file("input.json")
+    }
 }
