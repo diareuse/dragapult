@@ -8,54 +8,20 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-graal:
-    name: Artifact for ${{ matrix.os }}
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        os: [ windows-latest, ubuntu-latest, macos-latest ]
-    steps:
-      - uses: actions/checkout@v4
-      - uses: graalvm/setup-graalvm@v1
-        with:
-          java-version: '21'
-          distribution: 'graalvm-community'
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: gradle/actions/setup-gradle@v4
-      - run: ./gradlew nativeImage
-      - name: Upload binary
-        uses: actions/upload-artifact@v4
-        with:
-          name: dragapult-${{ matrix.os }}
-          path: dragapult-app/build/outputs/dragapult*
-          retention-days: 1
-
-  release:
-    needs: [ build-graal ]
+  build-and-release:
+    name: Java Artifact
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/download-artifact@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
         with:
-          name: dragapult-macos-latest
-          path: macos
-      - uses: actions/download-artifact@v4
-        with:
-          name: dragapult-ubuntu-latest
-          path: ubuntu
-      - uses: actions/download-artifact@v4
-        with:
-          name: dragapult-windows-latest
-          path: windows
-      - name: Rename Files
-        run: |
-          mv macos/dragapult macos/dragapult-mac
-          mv ubuntu/dragapult ubuntu/dragapult-linux
-          mv windows/dragapult.exe windows/dragapult-windows.exe
+          java-version: 21
+          distribution: temurin
+      - uses: gradle/actions/setup-gradle@v4
+      - run: ./gradlew build
       - name: Release
         uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            macos/dragapult-mac
-            ubuntu/dragapult-linux
-            windows/dragapult-windows.exe
+            dragapult-app/build/distributions/dragapult-app-shadow.zip
