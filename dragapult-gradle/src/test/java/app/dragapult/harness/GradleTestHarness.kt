@@ -22,8 +22,7 @@ abstract class GradleTestHarness {
 
     @AfterEach
     fun tearDownInternal() {
-        //testDir.deleteRecursively()
-        println(testDir.absolutePath)
+        testDir.deleteRecursively()
     }
 
     fun test(
