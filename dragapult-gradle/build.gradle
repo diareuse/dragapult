@@ -25,4 +25,5 @@ dependencies {
     implementation libs.plugin.android.application
 
     testImplementation libs.kotlin.test.junit
+    testImplementation(gradleTestKit())
 }

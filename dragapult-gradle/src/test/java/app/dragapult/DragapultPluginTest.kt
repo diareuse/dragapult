@@ -70,7 +70,7 @@ class DragapultPluginTest : GradleTestHarness() {
     @Test
     fun `plugin works with kotlin`() = test(
         prepare = {
-            resolve("build.gradle").writeContentOf("android/build.gradle.kts")
+            resolve("build.gradle.kts").writeContentOf("android/build.gradle.kts")
             resolve("settings.gradle").writeContentOf("android/settings.gradle")
             resolve("input.json").writeContentOf("android/input.json")
         },
