@@ -1,21 +1,21 @@
 package app.dragapult.extension
 
 import app.dragapult.definition.BaseDefinitionDeclaration
-import groovy.lang.Closure
 import org.gradle.api.provider.ListProperty
 
+@ExtensionDsl
 abstract class DragapultExtension {
 
     abstract val definitions: ListProperty<BaseDefinitionDeclaration>
 
     fun remote(
         name: String,
-        block: Closure<RemoteDefinitionExtension>
-    ) = definitions.add(RemoteDefinitionExtension(name).apply { block.call(this) })
+        block: RemoteDefinitionExtension.() -> Unit
+    ) = definitions.add(RemoteDefinitionExtension(name).apply(block))
 
     fun local(
         name: String,
-        block: Closure<LocalDefinitionExtension>
-    ) = definitions.add(LocalDefinitionExtension(name).apply { block.call(this) })
+        block: LocalDefinitionExtension.() -> Unit
+    ) = definitions.add(LocalDefinitionExtension(name).apply(block))
 
 }

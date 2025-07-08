@@ -68,6 +68,34 @@ class DragapultPluginTest : GradleTestHarness() {
     )
 
     @Test
+    fun `plugin works with kotlin`() = test(
+        prepare = {
+            resolve("build.gradle").writeContentOf("android/build.gradle.kts")
+            resolve("settings.gradle").writeContentOf("android/settings.gradle")
+            resolve("input.json").writeContentOf("android/input.json")
+        },
+        test = { withArguments("generateDragapultDebugDefaultStrings", "generateDragapultReleaseDefaultStrings") },
+        verify = {
+            val debug = checkNotNull(it.task(":generateDragapultDebugDefaultStrings")) {
+                "Expected to see task ':generateDragapultDebugDefaultStrings', but were only ${it.tasks.joinToString { it.path }}"
+            }
+            val release = checkNotNull(it.task(":generateDragapultReleaseDefaultStrings")) {
+                "Expected to see task ':generateDragapultReleaseDefaultStrings', but were only ${it.tasks.joinToString { it.path }}"
+            }
+            assertEquals(TaskOutcome.SUCCESS, debug.outcome)
+            assertEquals(TaskOutcome.SUCCESS, release.outcome)
+            assertTrue(
+                actual = resolve("build/generated/res/generateDragapultDebugDefaultStrings").exists(),
+                message = "Expected to see build/generated/res/resValues/debug directory, but the directory tree is following: ${walkBottomUp().joinToString { it.absolutePath }}"
+            )
+            assertTrue(
+                actual = resolve("build/generated/res/generateDragapultReleaseDefaultStrings").exists(),
+                message = "Expected to see build/generated/res/resValues/release directory, but the directory tree is following: ${walkBottomUp().joinToString { it.absolutePath }}"
+            )
+        }
+    )
+
+    @Test
     fun `task downloads and generates expected output`() = test(
         prepare = { server ->
             resolve("build.gradle").writeContentOf("download/build.gradle")
