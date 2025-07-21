@@ -16,18 +16,24 @@ sealed interface Platform : FileKind {
         override val label = "json"
     }
 
+    data object Unity : Platform {
+        override val label = "unity"
+    }
+
     companion object {
 
         val entries = sequence {
             yield(Android.label)
             yield(Apple.label)
             yield(Json.label)
+            yield(Unity.label)
         }
 
         fun valueOf(value: String) = when (value) {
             Android.label -> Android
             Apple.label -> Apple
             Json.label -> Json
+            Unity.label -> Unity
             else -> error("Unknown value $value")
         }
 

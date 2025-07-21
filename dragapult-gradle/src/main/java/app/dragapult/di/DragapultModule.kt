@@ -10,6 +10,7 @@ import app.dragapult.ir.csv.ReaderCsvIR
 import app.dragapult.ir.json.ReaderJsonIR
 import app.dragapult.ir.yaml.ReaderYamlIR
 import app.dragapult.json.WriterJson
+import app.dragapult.unity.WriterUnity
 import dagger.Module
 import dagger.Provides
 import java.io.File
@@ -35,6 +36,7 @@ class DragapultModule {
             Platform.Android -> WriterAndroid(egress)
             Platform.Apple -> WriterApple(egress)
             Platform.Json -> WriterJson(egress)
+            Platform.Unity -> WriterUnity(egress)
         }
         return Dragapult {
             writer.use { writer ->

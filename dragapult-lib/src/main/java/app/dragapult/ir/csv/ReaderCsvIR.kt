@@ -30,9 +30,7 @@ class ReaderCsvIR(
                         pair[0] to pair.getOrNull(1).orEmpty()
                     }
                     ?.takeUnless { it.isEmpty() }
-                    ?.forEach { (k, v) ->
-                        metadata.properties.put(k, v)
-                    }
+                    ?.toMap(metadata.properties)
                 record.toMap().toMutableMap()
                     .apply {
                         remove(record.parser.headerNames[0])
@@ -41,9 +39,7 @@ class ReaderCsvIR(
                     .mapKeys { Locale.forLanguageTag(it.key) }
                     .filter { it.value.isNotBlank() }
                     .toSortedMap(compareBy { it.toLanguageTag() })
-                    .forEach { (k, v) ->
-                        translations.put(k, v)
-                    }
+                    .toMap(translations)
             }
         }
     }

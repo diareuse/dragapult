@@ -14,6 +14,8 @@ import app.dragapult.ir.yaml.ReaderYamlIR
 import app.dragapult.ir.yaml.WriterYamlIR
 import app.dragapult.json.ReaderJson
 import app.dragapult.json.WriterJson
+import app.dragapult.unity.ReaderUnity
+import app.dragapult.unity.WriterUnity
 import dagger.Module
 import dagger.Provides
 import dragapult.app.Command
@@ -40,6 +42,7 @@ class CommandModule {
                     Platform.Android -> ReaderAndroid(input)
                     Platform.Apple -> ReaderApple(input)
                     Platform.Json -> ReaderJson(input)
+                    Platform.Unity -> ReaderUnity(input)
                 }
                 writer = when (option.outputType) {
                     Source.Json -> WriterJsonIR(output)
@@ -62,6 +65,7 @@ class CommandModule {
                     Platform.Android -> WriterAndroid(output)
                     Platform.Apple -> WriterApple(output)
                     Platform.Json -> WriterJson(output)
+                    Platform.Unity -> WriterUnity(output)
                 }
             }
 

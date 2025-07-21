@@ -1,0 +1,9 @@
+Key,Shared Comments,Chamorro(ch),Czech(cs),English(en),Persian(fa),Vietnamese(vi),Properties
+a_regular_string,This is just a regular string,Regular na hilo',Pravidelný řetězec,Regular string,رشته معمولی,Chuỗi thường,
+b_non_translatable_string,This should be never translated,,,Don't translate this,,,translatable=false
+c_multi_line_string,,,,"This
+is
+multiline
+string",,,
+d_quoted_string,,,,"""Quoted"" string",,,
+e_ampersand,,&,&&,&&&,&&&&,&&&&&,
