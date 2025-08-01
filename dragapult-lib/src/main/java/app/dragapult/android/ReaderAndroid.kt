@@ -3,11 +3,13 @@ package app.dragapult.android
 import app.dragapult.TranslationKeyIR
 import app.dragapult.TranslationReader
 import app.dragapult.android.model.Resources
+import nl.adaptivity.xmlutil.ExperimentalXmlUtilApi
 import nl.adaptivity.xmlutil.core.KtXmlReader
 import nl.adaptivity.xmlutil.serialization.XML
 import java.io.File
 import java.util.*
 
+@OptIn(ExperimentalXmlUtilApi::class)
 internal class ReaderAndroid(
     dir: File,
     xml: XML
