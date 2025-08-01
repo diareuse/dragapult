@@ -2,28 +2,16 @@ package app.dragapult.android
 
 import app.dragapult.TranslationKeyIR
 import app.dragapult.TranslationReader
-import kotlinx.serialization.Serializable
-import nl.adaptivity.xmlutil.XmlDeclMode
+import app.dragapult.android.model.Resources
 import nl.adaptivity.xmlutil.core.KtXmlReader
 import nl.adaptivity.xmlutil.serialization.XML
-import nl.adaptivity.xmlutil.serialization.XmlElement
-import nl.adaptivity.xmlutil.serialization.XmlSerialName
-import nl.adaptivity.xmlutil.serialization.XmlValue
-import nl.adaptivity.xmlutil.util.CompactFragment
 import java.io.File
 import java.util.*
 
-class ReaderAndroid(
-    dir: File
+internal class ReaderAndroid(
+    dir: File,
+    xml: XML
 ) : TranslationReader {
-
-    private val xml = XML {
-        recommended {
-            ignoreUnknownChildren()
-            this.pedantic = false
-        }
-        this.xmlDeclMode = XmlDeclMode.Charset
-    }
 
     val out = mutableMapOf<String, TranslationKeyIR>()
 
@@ -60,29 +48,5 @@ class ReaderAndroid(
     override fun next(): TranslationKeyIR {
         return iter.next()
     }
-
-    @Serializable
-    @XmlSerialName("resources")
-    private data class Resources(
-        val strings: List<StringDefinition> = emptyList()
-    )
-
-    @Serializable
-    @XmlSerialName("string")
-    private data class StringDefinition(
-        @XmlElement(false)
-        @XmlSerialName("name")
-        val name: String,
-        @XmlSerialName("translatable")
-        @XmlElement(false)
-        val translatable: Boolean = true,
-        @XmlSerialName("comment")
-        @XmlElement(false)
-        val comment: String?,
-        @XmlElement(false)
-        val parameters: Map<String, String>? = null,
-        @XmlValue
-        val content: CompactFragment = CompactFragment("")
-    )
 
 }

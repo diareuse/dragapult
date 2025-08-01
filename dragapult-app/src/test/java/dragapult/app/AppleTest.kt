@@ -42,7 +42,8 @@ class AppleTest : CommandLineHarness() {
                 val actual = it.reader().readText()
                 assertEquals(
                     expected = expected,
-                    actual = actual
+                    actual = actual,
+                    message = "${it.absolutePath}"
                 )
             }
         }

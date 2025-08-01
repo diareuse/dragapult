@@ -1,6 +1,6 @@
 package app.dragapult.di
 
-import javax.inject.Qualifier
+import jakarta.inject.Qualifier
 
 @Qualifier
 annotation class Output

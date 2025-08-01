@@ -5,8 +5,8 @@ import app.dragapult.Platform
 import app.dragapult.TranslationKeyIR
 import app.dragapult.TranslationPlugin
 import app.dragapult.util.ensurePrefix
-import javax.inject.Inject
-import javax.inject.Singleton
+import jakarta.inject.Inject
+import jakarta.inject.Singleton
 
 @Singleton
 class PrefixQuotes @Inject constructor() : TranslationPlugin {

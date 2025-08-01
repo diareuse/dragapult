@@ -21,11 +21,11 @@ abstract class GenerateStringsFromRemoteTask : DefaultTask() {
         get() = object : RemoteDefinitionDeclaration {
             override val url: URL
                 get() = URI(this@GenerateStringsFromRemoteTask.url.get()).toURL()
-            override val headers: Map<String, List<String>>?
+            override val headers: Map<String, List<String>>
                 get() = this@GenerateStringsFromRemoteTask.headers.get()
             override val requestMethod: String
                 get() = this@GenerateStringsFromRemoteTask.requestMethod.get()
-            override val name: String?
+            override val name: String
                 get() = this@GenerateStringsFromRemoteTask.taskName.get()
             override val inputFileType: String
                 get() = this@GenerateStringsFromRemoteTask.inputFileType.get()
@@ -62,9 +62,8 @@ abstract class GenerateStringsFromRemoteTask : DefaultTask() {
         }
         val platform = Platform.Android
         val outputDir = outputDirectory.get().asFile
-        val app = DaggerApp.factory().create(source, platform, file, outputDir)
-        val dp = app.dragapult
-        dp.convert()
+        val app = DaggerApp.create().dragapult
+        app.convert(source, platform, file, outputDir)
     }
 
     // ---

@@ -1,6 +1,6 @@
 package dragapult.app.di
 
-import javax.inject.Qualifier
+import jakarta.inject.Qualifier
 
 @Qualifier
 annotation class Consume

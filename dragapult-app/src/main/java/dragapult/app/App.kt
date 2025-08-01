@@ -3,7 +3,7 @@ package dragapult.app
 import dagger.BindsInstance
 import dagger.Component
 import dragapult.app.di.CommandModule
-import javax.inject.Singleton
+import jakarta.inject.Singleton
 
 @Singleton
 @Component(modules = [CommandModule::class])

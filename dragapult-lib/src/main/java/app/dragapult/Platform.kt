@@ -5,19 +5,23 @@ sealed interface Platform : FileKind {
     val label: String
 
     data object Android : Platform {
-        override val label = "android"
+        override val label get() = LABEL
+        const val LABEL = "android"
     }
 
     data object Apple : Platform {
-        override val label = "apple"
+        override val label get() = LABEL
+        const val LABEL = "apple"
     }
 
     data object Json : Platform {
-        override val label = "json"
+        override val label get() = LABEL
+        const val LABEL = "json"
     }
 
     data object Unity : Platform {
-        override val label = "unity"
+        override val label get() = LABEL
+        const val LABEL = "unity"
     }
 
     companion object {

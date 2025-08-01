@@ -5,15 +5,18 @@ sealed interface Source : FileKind {
     val label: String
 
     data object Json : Source {
-        override val label = "json"
+        override val label get() = LABEL
+        const val LABEL = "json"
     }
 
     data object Csv : Source {
-        override val label = "csv"
+        override val label get() = LABEL
+        const val LABEL = "csv"
     }
 
     data object Yaml : Source {
-        override val label = "yaml"
+        override val label get() = LABEL
+        const val LABEL = "yaml"
     }
 
     companion object {

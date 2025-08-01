@@ -2,8 +2,8 @@ package dragapult.app.di
 
 import dagger.Module
 import dagger.Provides
+import jakarta.inject.Provider
 import org.apache.commons.cli.*
-import javax.inject.Provider
 
 @Module(includes = [OptionsModule::class])
 class CommandLineModule {

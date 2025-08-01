@@ -4,8 +4,8 @@ import app.dragapult.FileKind
 import app.dragapult.Platform
 import app.dragapult.TranslationKeyIR
 import app.dragapult.TranslationPlugin
-import javax.inject.Inject
-import javax.inject.Singleton
+import jakarta.inject.Inject
+import jakarta.inject.Singleton
 
 @Singleton
 class PrefixAmpersand @Inject constructor() : TranslationPlugin {

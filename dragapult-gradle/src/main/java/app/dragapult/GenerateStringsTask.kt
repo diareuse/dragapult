@@ -32,9 +32,8 @@ abstract class GenerateStringsTask : DefaultTask() {
         }
         val platform = Platform.Android
         val outputDir = outputDirectory.get().asFile
-        val app = DaggerApp.factory().create(source, platform, inputFile.get().asFile, outputDir)
-        val dp = app.dragapult
-        dp.convert()
+        val app = DaggerApp.create().dragapult
+        app.convert(source, platform, inputFile.get().asFile, outputDir)
     }
 
     // ---

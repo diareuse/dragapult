@@ -1,6 +1,5 @@
 package dragapult.app
 
 fun main(args: Array<out String>) {
-    val app = DaggerApp.factory().create(args)
-    app.command.execute()
+    DaggerApp.factory().create(args).command.execute()
 }
