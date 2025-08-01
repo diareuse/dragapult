@@ -6,7 +6,7 @@ plugins {
 }
 
 application {
-    mainClassName = 'dragapult.app.MainKt'
+    mainClass.set('dragapult.app.MainKt')
 }
 
 tasks.register("proguard", ProGuardTask) {
