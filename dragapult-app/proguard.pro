@@ -90,6 +90,9 @@
     @kotlinx.serialization.Polymorphic <fields>;
 }
 
+# === CSV ===
+-dontwarn org.apache.commons.csv.**
+
 # === Optimization settings ===
 -optimizationpasses 5
 -overloadaggressively
