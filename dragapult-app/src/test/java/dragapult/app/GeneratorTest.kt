@@ -9,6 +9,7 @@ import app.dragapult.ir.csv.WriterCsvIR
 import app.dragapult.ir.csv.di.CsvDepIRModule
 import app.dragapult.ir.json.ReaderJsonIR
 import app.dragapult.ir.json.WriterJsonIR
+import app.dragapult.ir.json.di.JsonDepIRModule
 import app.dragapult.ir.yaml.WriterYamlIR
 import app.dragapult.json.WriterJson
 import java.io.File
@@ -19,7 +20,11 @@ import kotlin.test.Test
 class GeneratorTest {
 
     val classLoader get() = this::class.java.classLoader
-    val reader get() = ReaderJsonIR(classLoader.getResourceAsStream("keys.json")!!)
+    val reader
+        get() = ReaderJsonIR(
+            classLoader.getResourceAsStream("keys.json")!!,
+            JsonDepIRModule().json(Preferences.jsonIR())
+        )
 
     @Test
     fun toCsvIr() {
@@ -34,7 +39,8 @@ class GeneratorTest {
 
     @Test
     fun toJsonIr() {
-        WriterJsonIR(asFile("ir/keys.json.ir").outputStream()).pipe()
+        val json = JsonDepIRModule().json(Preferences.jsonIR())
+        WriterJsonIR(asFile("ir/keys.json.ir").outputStream(), json).pipe()
     }
 
     // ---

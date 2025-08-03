@@ -7,6 +7,7 @@ import dagger.Module
 import dagger.Provides
 import dagger.multibindings.IntoMap
 import dagger.multibindings.StringKey
+import kotlinx.serialization.json.Json
 import java.io.File
 
 @Module(includes = [JsonDepIRModule::class])
@@ -15,6 +16,12 @@ class JsonWriterIRModule {
     @Provides
     @IntoMap
     @StringKey(Source.Json.LABEL)
-    fun json(file: File): TranslationWriter = WriterJsonIR(file.outputStream())
+    fun json(
+        file: File,
+        json: Json
+    ): TranslationWriter = WriterJsonIR(
+        output = file.outputStream(),
+        json = json
+    )
 
 }
