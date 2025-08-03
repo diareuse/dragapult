@@ -50,7 +50,8 @@ class GeneratorTest {
 
     @Test
     fun toApple() {
-        WriterApple(asDir("output/apple"), "Localizable.strings.out").pipe()
+        val prefs = Preferences.apple(outputFileName = "Localizable.strings.out")
+        WriterApple(asDir("output/apple"), prefs).pipe()
     }
 
     // ---

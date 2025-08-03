@@ -2,6 +2,7 @@ package app.dragapult.apple.di
 
 import app.dragapult.Platform
 import app.dragapult.TranslationWriter
+import app.dragapult.apple.ApplePreferences
 import app.dragapult.apple.WriterApple
 import dagger.Module
 import dagger.Provides
@@ -15,6 +16,12 @@ class AppleWriterModule {
     @Provides
     @IntoMap
     @StringKey(Platform.Apple.LABEL)
-    fun apple(file: File): TranslationWriter = WriterApple(file)
+    fun apple(
+        file: File,
+        prefs: ApplePreferences
+    ): TranslationWriter = WriterApple(
+        dir = file,
+        prefs = prefs
+    )
 
 }

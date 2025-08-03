@@ -43,7 +43,7 @@ class ReaderApple(
                     val ir = out.getOrPut(key) { TranslationKeyIR(key) }
                     ir.metadata.comment = ir.metadata.comment ?: comment
                     ir.metadata.properties.putAll(metadata.orEmpty())
-                    ir.translations.put(locale, value)
+                    ir.translations[locale] = value
                 }
             }
         }
