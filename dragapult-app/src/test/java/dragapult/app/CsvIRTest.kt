@@ -1,7 +1,9 @@
 package dragapult.app
 
+import app.dragapult.Preferences
 import app.dragapult.ir.csv.ReaderCsvIR
 import app.dragapult.ir.csv.WriterCsvIR
+import app.dragapult.ir.csv.di.CsvDepIRModule
 import app.dragapult.ir.json.ReaderJsonIR
 import app.dragapult.ir.json.WriterJsonIR
 import dragapult.app.harness.ConversionHarness
@@ -15,7 +17,8 @@ class CsvIRTest : ConversionHarness() {
     fun `read from csv IR matches json IR`() = test(
         prepare = {
             val output = ByteArrayOutputStream()
-            val reader = ReaderCsvIR(resourceFile("ir/keys.csv.ir"))
+            val format = CsvDepIRModule().format(Preferences.csvIR())
+            val reader = ReaderCsvIR(resourceFile("ir/keys.csv.ir"), format)
             val writer = WriterJsonIR(output)
             TestSetup.ToIR(reader, writer, output)
         },
@@ -36,7 +39,8 @@ class CsvIRTest : ConversionHarness() {
         prepare = {
             val output = ByteArrayOutputStream()
             val reader = ReaderJsonIR(resourceFile("ir/keys.json.ir"))
-            val writer = WriterCsvIR(output)
+            val format = CsvDepIRModule().format(Preferences.csvIR())
+            val writer = WriterCsvIR(output, format)
             TestSetup.ToIR(reader, writer, output)
         },
         test = { (reader, writer, output) ->

@@ -7,6 +7,7 @@ import dagger.Module
 import dagger.Provides
 import dagger.multibindings.IntoMap
 import dagger.multibindings.StringKey
+import org.apache.commons.csv.CSVFormat
 import java.io.File
 
 @Module(includes = [CsvDepIRModule::class])
@@ -15,6 +16,12 @@ class CsvWriterIRModule {
     @Provides
     @IntoMap
     @StringKey(Source.Csv.LABEL)
-    fun csv(file: File): TranslationWriter = WriterCsvIR(file.outputStream())
+    fun csv(
+        file: File,
+        format: CSVFormat
+    ): TranslationWriter = WriterCsvIR(
+        output = file.outputStream(),
+        format = format
+    )
 
 }

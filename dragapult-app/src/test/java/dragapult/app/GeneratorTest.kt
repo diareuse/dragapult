@@ -6,6 +6,7 @@ import app.dragapult.android.WriterAndroid
 import app.dragapult.android.di.AndroidDepModule
 import app.dragapult.apple.WriterApple
 import app.dragapult.ir.csv.WriterCsvIR
+import app.dragapult.ir.csv.di.CsvDepIRModule
 import app.dragapult.ir.json.ReaderJsonIR
 import app.dragapult.ir.json.WriterJsonIR
 import app.dragapult.ir.yaml.WriterYamlIR
@@ -22,7 +23,8 @@ class GeneratorTest {
 
     @Test
     fun toCsvIr() {
-        WriterCsvIR(asFile("ir/keys.csv.ir").outputStream()).pipe()
+        val format = CsvDepIRModule().format(Preferences.csvIR())
+        WriterCsvIR(asFile("ir/keys.csv.ir").outputStream(), format).pipe()
     }
 
     @Test

@@ -14,7 +14,7 @@ class WriterResolverModule {
         readers: Map<String, @JvmSuppressWildcards Provider<TranslationWriter>>,
         platform: Platform
     ): TranslationWriter {
-        return readers.getValue(platform.label).get().apply { println("writer: $this") }
+        return readers.getValue(platform.label).get()
     }
 
 }

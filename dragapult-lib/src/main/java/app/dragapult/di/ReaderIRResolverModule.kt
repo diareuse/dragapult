@@ -14,7 +14,7 @@ class ReaderIRResolverModule {
         readers: Map<String, @JvmSuppressWildcards Provider<TranslationReader>>,
         source: Source
     ): TranslationReader {
-        return readers.getValue(source.label).get().apply { println("reader: $this") }
+        return readers.getValue(source.label).get()
     }
 
 }

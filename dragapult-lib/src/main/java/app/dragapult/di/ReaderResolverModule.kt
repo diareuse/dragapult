@@ -14,7 +14,7 @@ class ReaderResolverModule {
         readers: Map<String, @JvmSuppressWildcards Provider<TranslationReader>>,
         platform: Platform
     ): TranslationReader {
-        return readers.getValue(platform.label).get().apply { println("reader: $this") }
+        return readers.getValue(platform.label).get()
     }
 
 }

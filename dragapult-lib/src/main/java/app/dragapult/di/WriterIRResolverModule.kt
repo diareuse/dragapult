@@ -14,7 +14,7 @@ class WriterIRResolverModule {
         writers: Map<String, @JvmSuppressWildcards Provider<TranslationWriter>>,
         source: Source
     ): TranslationWriter {
-        return writers.getValue(source.label).get().apply { println("writer: $this") }
+        return writers.getValue(source.label).get()
     }
 
 }

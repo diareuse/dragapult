@@ -4,10 +4,10 @@ plugins {
 }
 
 dependencies {
-    implementation libs.kotlin.serialization.json
+    api libs.kotlin.serialization.json
     api libs.kotlin.serialization.xml
-    implementation libs.kotlin.serialization.yaml
-    implementation libs.apache.csv
+    api libs.kotlin.serialization.yaml
+    api libs.apache.csv
     implementation libs.dagger
     ksp libs.dagger.compiler
 }

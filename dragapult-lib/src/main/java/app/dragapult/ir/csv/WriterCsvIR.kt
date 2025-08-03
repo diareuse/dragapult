@@ -7,14 +7,11 @@ import org.apache.commons.csv.CSVPrinter
 import java.io.OutputStream
 
 class WriterCsvIR(
-    private val output: OutputStream
+    private val output: OutputStream,
+    private val format: CSVFormat
 ) : TranslationWriter {
 
     private val items = mutableListOf<TranslationKeyIR>()
-    private val format = CSVFormat.DEFAULT.builder()
-        .setCommentMarker(Char(3))
-        .setRecordSeparator("\n")
-        .get()
 
     override fun append(ir: TranslationKeyIR) {
         items += ir
