@@ -5,6 +5,7 @@ import app.dragapult.apple.ApplePreferences
 import app.dragapult.ir.csv.CsvIRPreferences
 import app.dragapult.ir.json.JsonIRPreferences
 import app.dragapult.ir.yaml.YamlIRPreferences
+import app.dragapult.json.JsonPreferences
 import java.util.*
 
 internal class PreferencesStatic(
@@ -13,6 +14,7 @@ internal class PreferencesStatic(
     override val csvIR: CsvIRPreferences,
     override val jsonIR: JsonIRPreferences,
     override val yamlIR: YamlIRPreferences,
+    override val json: JsonPreferences,
 ) : Preferences {
 
     class Android(
@@ -50,5 +52,15 @@ internal class PreferencesStatic(
     }
 
     class YamlIR : YamlIRPreferences
+
+    class Json(
+        explicitNulls: Boolean?,
+        isLenient: Boolean?,
+        outputFileName: String?
+    ) : JsonPreferences {
+        override val explicitNulls = explicitNulls ?: super.explicitNulls
+        override val isLenient = isLenient ?: super.isLenient
+        override val outputFileName = outputFileName ?: super.outputFileName
+    }
 
 }

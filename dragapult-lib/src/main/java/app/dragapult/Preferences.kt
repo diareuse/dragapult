@@ -5,6 +5,7 @@ import app.dragapult.apple.ApplePreferences
 import app.dragapult.ir.csv.CsvIRPreferences
 import app.dragapult.ir.json.JsonIRPreferences
 import app.dragapult.ir.yaml.YamlIRPreferences
+import app.dragapult.json.JsonPreferences
 import java.util.*
 
 interface Preferences {
@@ -13,6 +14,7 @@ interface Preferences {
     val csvIR: CsvIRPreferences
     val jsonIR: JsonIRPreferences
     val yamlIR: YamlIRPreferences
+    val json: JsonPreferences
 
     companion object {
         fun static(
@@ -20,13 +22,15 @@ interface Preferences {
             apple: ApplePreferences = apple(),
             csvIR: CsvIRPreferences = csvIR(),
             jsonIR: JsonIRPreferences = jsonIR(),
-            yamlIR: YamlIRPreferences = yamlIR()
+            yamlIR: YamlIRPreferences = yamlIR(),
+            json: JsonPreferences = json()
         ): Preferences = PreferencesStatic(
             android = android,
             apple = apple,
             csvIR = csvIR,
             jsonIR = jsonIR,
-            yamlIR = yamlIR
+            yamlIR = yamlIR,
+            json = json,
         )
 
         fun android(
@@ -64,5 +68,15 @@ interface Preferences {
         )
 
         fun yamlIR(): YamlIRPreferences = PreferencesStatic.YamlIR()
+
+        fun json(
+            explicitNulls: Boolean? = null,
+            isLenient: Boolean? = null,
+            outputFileName: String? = null
+        ): JsonPreferences = PreferencesStatic.Json(
+            explicitNulls = explicitNulls,
+            isLenient = isLenient,
+            outputFileName = outputFileName,
+        )
     }
 }

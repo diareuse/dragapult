@@ -6,6 +6,7 @@ import app.dragapult.apple.ApplePreferences
 import app.dragapult.ir.csv.CsvIRPreferences
 import app.dragapult.ir.json.JsonIRPreferences
 import app.dragapult.ir.yaml.YamlIRPreferences
+import app.dragapult.json.JsonPreferences
 import dagger.Module
 import dagger.Provides
 
@@ -26,5 +27,8 @@ class PreferencesModule {
 
     @Provides
     fun yamlIR(prefs: Preferences): YamlIRPreferences = prefs.yamlIR
+
+    @Provides
+    fun json(prefs: Preferences): JsonPreferences = prefs.json
 
 }

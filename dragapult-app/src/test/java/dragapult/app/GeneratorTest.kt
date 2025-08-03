@@ -13,6 +13,7 @@ import app.dragapult.ir.json.di.JsonDepIRModule
 import app.dragapult.ir.yaml.WriterYamlIR
 import app.dragapult.ir.yaml.di.YamlDepIRModule
 import app.dragapult.json.WriterJson
+import app.dragapult.json.di.JsonDepModule
 import java.io.File
 import kotlin.test.Ignore
 import kotlin.test.Test
@@ -55,7 +56,9 @@ class GeneratorTest {
 
     @Test
     fun toJson() {
-        WriterJson(asDir("output/json"), "strings.json.out").pipe()
+        val prefs = Preferences.json(outputFileName = "strings.json.out")
+        val json = JsonDepModule().json(prefs)
+        WriterJson(asDir("output/json"), json, prefs).pipe()
     }
 
     @Test
