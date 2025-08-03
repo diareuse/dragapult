@@ -1,7 +1,8 @@
-package app.dragapult.json
+package app.dragapult.json.di
 
 import app.dragapult.Platform
-import app.dragapult.TranslationWriter
+import app.dragapult.TranslationReader
+import app.dragapult.json.ReaderJson
 import dagger.Module
 import dagger.Provides
 import dagger.multibindings.IntoMap
@@ -9,11 +10,11 @@ import dagger.multibindings.StringKey
 import java.io.File
 
 @Module(includes = [JsonDepModule::class])
-class JsonWriterModule {
+class JsonReaderModule {
 
     @Provides
     @IntoMap
     @StringKey(Platform.Json.LABEL)
-    fun json(file: File): TranslationWriter = WriterJson(file)
+    fun json(file: File): TranslationReader = ReaderJson(file)
 
 }

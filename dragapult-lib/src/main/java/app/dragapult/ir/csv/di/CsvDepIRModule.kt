@@ -1,4 +1,4 @@
-package app.dragapult.ir.csv
+package app.dragapult.ir.csv.di
 
 import dagger.Module
 

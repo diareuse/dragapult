@@ -1,7 +1,8 @@
-package app.dragapult.unity
+package app.dragapult.unity.di
 
 import app.dragapult.Platform
 import app.dragapult.TranslationReader
+import app.dragapult.unity.ReaderUnity
 import dagger.Module
 import dagger.Provides
 import dagger.multibindings.IntoMap

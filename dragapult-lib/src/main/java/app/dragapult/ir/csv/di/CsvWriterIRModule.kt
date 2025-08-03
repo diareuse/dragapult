@@ -1,7 +1,8 @@
-package app.dragapult.ir.csv
+package app.dragapult.ir.csv.di
 
 import app.dragapult.Source
 import app.dragapult.TranslationWriter
+import app.dragapult.ir.csv.WriterCsvIR
 import dagger.Module
 import dagger.Provides
 import dagger.multibindings.IntoMap

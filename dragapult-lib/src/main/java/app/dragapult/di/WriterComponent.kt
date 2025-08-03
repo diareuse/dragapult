@@ -2,10 +2,10 @@ package app.dragapult.di
 
 import app.dragapult.Platform
 import app.dragapult.TranslationWriter
-import app.dragapult.android.AndroidWriterModule
-import app.dragapult.apple.AppleWriterModule
-import app.dragapult.json.JsonWriterModule
-import app.dragapult.unity.UnityWriterModule
+import app.dragapult.android.di.AndroidWriterModule
+import app.dragapult.apple.di.AppleWriterModule
+import app.dragapult.json.di.JsonWriterModule
+import app.dragapult.unity.di.UnityWriterModule
 import dagger.BindsInstance
 import dagger.Subcomponent
 import java.io.File

@@ -1,4 +1,4 @@
-package app.dragapult.apple
+package app.dragapult.apple.di
 
 import dagger.Module
 

@@ -1,4 +1,4 @@
-package app.dragapult.ir.json
+package app.dragapult.ir.json.di
 
 import dagger.Module
 

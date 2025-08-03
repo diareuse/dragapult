@@ -1,7 +1,8 @@
-package app.dragapult.android
+package app.dragapult.android.di
 
 import app.dragapult.Platform
 import app.dragapult.TranslationReader
+import app.dragapult.android.ReaderAndroid
 import dagger.Module
 import dagger.Provides
 import dagger.multibindings.IntoMap

@@ -2,10 +2,10 @@ package app.dragapult.di
 
 import app.dragapult.Platform
 import app.dragapult.TranslationReader
-import app.dragapult.android.AndroidReaderModule
-import app.dragapult.apple.AppleReaderModule
-import app.dragapult.json.JsonReaderModule
-import app.dragapult.unity.UnityReaderModule
+import app.dragapult.android.di.AndroidReaderModule
+import app.dragapult.apple.di.AppleReaderModule
+import app.dragapult.json.di.JsonReaderModule
+import app.dragapult.unity.di.UnityReaderModule
 import dagger.BindsInstance
 import dagger.Subcomponent
 import java.io.File

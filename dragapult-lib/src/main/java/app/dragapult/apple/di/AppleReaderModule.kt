@@ -1,7 +1,8 @@
-package app.dragapult.apple
+package app.dragapult.apple.di
 
 import app.dragapult.Platform
-import app.dragapult.TranslationWriter
+import app.dragapult.TranslationReader
+import app.dragapult.apple.ReaderApple
 import dagger.Module
 import dagger.Provides
 import dagger.multibindings.IntoMap
@@ -9,11 +10,11 @@ import dagger.multibindings.StringKey
 import java.io.File
 
 @Module(includes = [AppleDepModule::class])
-class AppleWriterModule {
+class AppleReaderModule {
 
     @Provides
     @IntoMap
     @StringKey(Platform.Apple.LABEL)
-    fun apple(file: File): TranslationWriter = WriterApple(file)
+    fun apple(file: File): TranslationReader = ReaderApple(file)
 
 }

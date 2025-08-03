@@ -1,4 +1,4 @@
-package app.dragapult.android
+package app.dragapult.android.di
 
 import dagger.Module
 import dagger.Provides

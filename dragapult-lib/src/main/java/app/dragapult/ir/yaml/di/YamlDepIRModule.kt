@@ -1,4 +1,4 @@
-package app.dragapult.ir.yaml
+package app.dragapult.ir.yaml.di
 
 import dagger.Module
 
