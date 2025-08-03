@@ -11,6 +11,7 @@ import app.dragapult.ir.json.ReaderJsonIR
 import app.dragapult.ir.json.WriterJsonIR
 import app.dragapult.ir.json.di.JsonDepIRModule
 import app.dragapult.ir.yaml.WriterYamlIR
+import app.dragapult.ir.yaml.di.YamlDepIRModule
 import app.dragapult.json.WriterJson
 import java.io.File
 import kotlin.test.Ignore
@@ -34,7 +35,8 @@ class GeneratorTest {
 
     @Test
     fun toYamlIr() {
-        WriterYamlIR(asFile("ir/keys.yaml.ir").outputStream()).pipe()
+        val yaml = YamlDepIRModule().yaml()
+        WriterYamlIR(asFile("ir/keys.yaml.ir").outputStream(), yaml).pipe()
     }
 
     @Test

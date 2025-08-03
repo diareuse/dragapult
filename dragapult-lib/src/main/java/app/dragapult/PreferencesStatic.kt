@@ -4,13 +4,15 @@ import app.dragapult.android.AndroidPreferences
 import app.dragapult.apple.ApplePreferences
 import app.dragapult.ir.csv.CsvIRPreferences
 import app.dragapult.ir.json.JsonIRPreferences
+import app.dragapult.ir.yaml.YamlIRPreferences
 import java.util.*
 
 internal class PreferencesStatic(
     override val android: AndroidPreferences,
     override val apple: ApplePreferences,
     override val csvIR: CsvIRPreferences,
-    override val jsonIR: JsonIRPreferences
+    override val jsonIR: JsonIRPreferences,
+    override val yamlIR: YamlIRPreferences,
 ) : Preferences {
 
     class Android(
@@ -46,5 +48,7 @@ internal class PreferencesStatic(
         override val prettyPrintIndent = prettyPrintIndent ?: super.prettyPrintIndent
         override val explicitNulls = explicitNulls ?: super.explicitNulls
     }
+
+    class YamlIR : YamlIRPreferences
 
 }

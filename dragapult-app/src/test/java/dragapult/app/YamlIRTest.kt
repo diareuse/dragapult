@@ -6,6 +6,7 @@ import app.dragapult.ir.json.WriterJsonIR
 import app.dragapult.ir.json.di.JsonDepIRModule
 import app.dragapult.ir.yaml.ReaderYamlIR
 import app.dragapult.ir.yaml.WriterYamlIR
+import app.dragapult.ir.yaml.di.YamlDepIRModule
 import dragapult.app.harness.ConversionHarness
 import java.io.ByteArrayOutputStream
 import kotlin.test.Test
@@ -17,7 +18,8 @@ class YamlIRTest : ConversionHarness() {
     fun `read from yaml IR matches json IR`() = test(
         prepare = {
             val output = ByteArrayOutputStream()
-            val reader = ReaderYamlIR(resourceFile("ir/keys.yaml.ir"))
+            val yaml = YamlDepIRModule().yaml()
+            val reader = ReaderYamlIR(resourceFile("ir/keys.yaml.ir"), yaml)
             val format = JsonDepIRModule().json(Preferences.jsonIR())
             val writer = WriterJsonIR(output, format)
             TestSetup.ToIR(reader, writer, output)
@@ -40,7 +42,8 @@ class YamlIRTest : ConversionHarness() {
             val json = JsonDepIRModule().json(Preferences.jsonIR())
             val reader = ReaderJsonIR(resourceFile("ir/keys.json.ir"), json)
             val output = ByteArrayOutputStream()
-            val writer = WriterYamlIR(output)
+            val yaml = YamlDepIRModule().yaml()
+            val writer = WriterYamlIR(output, yaml)
             TestSetup.ToIR(reader, writer, output)
         },
         test = { (reader, writer, output) ->
