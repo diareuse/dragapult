@@ -2,29 +2,20 @@ package app.dragapult.android
 
 import app.dragapult.TranslationKeyIR
 import app.dragapult.TranslationWriter
-import kotlinx.serialization.Serializable
-import nl.adaptivity.xmlutil.XmlDeclMode
+import app.dragapult.android.model.Resources
+import app.dragapult.android.model.StringDefinition
 import nl.adaptivity.xmlutil.core.KtXmlWriter
-import nl.adaptivity.xmlutil.core.XmlVersion
-import nl.adaptivity.xmlutil.serialization.*
+import nl.adaptivity.xmlutil.serialization.XML
 import nl.adaptivity.xmlutil.util.CompactFragment
 import java.io.File
 import java.util.*
 
 class WriterAndroid(
     private val outputDirectory: File,
-    private val fileName: String = "strings.xml",
-    private val default: String = "en"
+    private val xml: XML,
+    private val prefs: AndroidPreferences
 ) : TranslationWriter {
 
-    private val xml = XML {
-        recommended {
-            ignoreUnknownChildren()
-            this.pedantic = false
-            encodeDefault = XmlSerializationPolicy.XmlEncodeDefault.NEVER
-        }
-        this.xmlDeclMode = XmlDeclMode.Charset
-    }
     private val resources = mutableMapOf<Locale, MutableList<StringDefinition>>()
 
     override fun append(ir: TranslationKeyIR) {
@@ -43,17 +34,19 @@ class WriterAndroid(
     override fun close() {
         for (locale in resources.keys) {
             val res = Resources(strings = resources[locale]!!)
-            val file = when (locale.toLanguageTag()) {
-                default -> File(outputDirectory, "values/$fileName")
-                else -> File(outputDirectory, "values-${locale.toLanguageTag()}/$fileName")
+            val fileName = when {
+                prefs.setDefaultLocaleExplicitly -> "values-${locale.toLanguageTag()}/${prefs.outputFileName}"
+                prefs.defaultLocale.toLanguageTag() == locale.toLanguageTag() -> "values/${prefs.outputFileName}"
+                else -> "values-${locale.toLanguageTag()}/${prefs.outputFileName}"
             }
+            val file = File(outputDirectory, fileName)
             file.parentFile?.mkdirs()
             file.outputStream().writer().use { output ->
                 xml.encodeToWriter(
                     target = KtXmlWriter(
-                        output,
-                        xmlDeclMode = XmlDeclMode.Minimal,
-                        xmlVersion = XmlVersion.XML10
+                        writer = output,
+                        xmlDeclMode = xml.config.xmlDeclMode,
+                        xmlVersion = xml.config.xmlVersion
                     ),
                     value = res,
                     prefix = null
@@ -62,29 +55,5 @@ class WriterAndroid(
             }
         }
     }
-
-    @Serializable
-    @XmlSerialName("resources")
-    private data class Resources(
-        val strings: List<StringDefinition> = emptyList()
-    )
-
-    @Serializable
-    @XmlSerialName("string")
-    private data class StringDefinition(
-        @XmlElement(false)
-        @XmlSerialName("name")
-        val name: String,
-        @XmlSerialName("translatable")
-        @XmlElement(false)
-        val translatable: Boolean = true,
-        @XmlSerialName("comment")
-        @XmlElement(false)
-        val comment: String?,
-        @XmlElement(false)
-        val parameters: Map<String, String>? = null,
-        @XmlValue
-        val content: CompactFragment = CompactFragment("")
-    )
 
 }

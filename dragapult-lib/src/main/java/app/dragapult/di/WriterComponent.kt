@@ -1,6 +1,7 @@
 package app.dragapult.di
 
 import app.dragapult.Platform
+import app.dragapult.Preferences
 import app.dragapult.TranslationWriter
 import app.dragapult.android.di.AndroidWriterModule
 import app.dragapult.apple.di.AppleWriterModule
@@ -16,7 +17,8 @@ import java.io.File
         AndroidWriterModule::class,
         AppleWriterModule::class,
         JsonWriterModule::class,
-        UnityWriterModule::class
+        UnityWriterModule::class,
+        PreferencesModule::class
     ]
 )
 interface WriterComponent {
@@ -27,7 +29,8 @@ interface WriterComponent {
     interface Factory {
         fun create(
             @BindsInstance platform: Platform,
-            @BindsInstance file: File
+            @BindsInstance file: File,
+            @BindsInstance prefs: Preferences
         ): WriterComponent
     }
 }

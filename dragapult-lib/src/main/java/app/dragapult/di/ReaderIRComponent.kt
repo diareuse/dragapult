@@ -1,5 +1,6 @@
 package app.dragapult.di
 
+import app.dragapult.Preferences
 import app.dragapult.Source
 import app.dragapult.TranslationReader
 import app.dragapult.ir.csv.di.CsvReaderIRModule
@@ -14,7 +15,8 @@ import java.io.File
         ReaderIRResolverModule::class,
         JsonReaderIRModule::class,
         CsvReaderIRModule::class,
-        YamlReaderIRModule::class
+        YamlReaderIRModule::class,
+        PreferencesModule::class
     ]
 )
 interface ReaderIRComponent {
@@ -25,7 +27,8 @@ interface ReaderIRComponent {
     interface Factory {
         fun create(
             @BindsInstance source: Source,
-            @BindsInstance file: File
+            @BindsInstance file: File,
+            @BindsInstance prefs: Preferences
         ): ReaderIRComponent
     }
 

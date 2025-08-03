@@ -23,14 +23,14 @@ class DragapultModule {
         readerIRFactory: Provider<ReaderIRComponent.Factory>,
         writerFactory: Provider<WriterComponent.Factory>,
         writerIRFactory: Provider<WriterIRComponent.Factory>
-    ) = Dragapult { input, output, ingress, egress ->
+    ) = Dragapult { input, output, ingress, egress, prefs ->
         val reader = when (input) {
-            is Platform -> readerFactory.get().create(input, ingress).reader
-            is Source -> readerIRFactory.get().create(input, ingress).reader
+            is Platform -> readerFactory.get().create(input, ingress, prefs).reader
+            is Source -> readerIRFactory.get().create(input, ingress, prefs).reader
         }
         val writer: TranslationWriter = when (output) {
-            is Platform -> writerFactory.get().create(output, egress).writer
-            is Source -> writerIRFactory.get().create(output, egress).writer
+            is Platform -> writerFactory.get().create(output, egress, prefs).writer
+            is Source -> writerIRFactory.get().create(output, egress, prefs).writer
         }
         writer.use { writer ->
             for (key in reader) {

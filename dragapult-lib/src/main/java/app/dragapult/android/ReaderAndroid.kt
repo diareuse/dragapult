@@ -8,13 +8,12 @@ import nl.adaptivity.xmlutil.ExperimentalXmlUtilApi
 import nl.adaptivity.xmlutil.core.KtXmlReader
 import nl.adaptivity.xmlutil.serialization.XML
 import java.io.File
-import java.util.*
 
 @OptIn(ExperimentalXmlUtilApi::class)
 internal class ReaderAndroid(
     dir: File,
     xml: XML,
-    private val defaultLocale: Locale = Locale.ENGLISH
+    private val prefs: AndroidPreferences
 ) : TranslationReader {
 
     private val resourceFiles = dir.walk().filter { it.isFile }
@@ -28,7 +27,7 @@ internal class ReaderAndroid(
             checkNotNull(folder) {
                 "Parent file for resource is null, we need it to determine locale"
             }
-            val locale = folder.parseLocale(defaultLocale)
+            val locale = folder.parseLocale(prefs.defaultLocale)
             for (string in res.strings) out.getOrPut(string.name) { TranslationKeyIR(string.name) }.apply {
                 metadata.comment = metadata.comment ?: string.comment
                 metadata.properties.putAll(string.parameters.orEmpty())

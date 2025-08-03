@@ -1,6 +1,7 @@
 package dragapult.app.di
 
 import app.dragapult.Dragapult
+import app.dragapult.Preferences
 import app.dragapult.di.DragapultModule
 import dagger.Module
 import dagger.Provides
@@ -25,14 +26,16 @@ class CommandModule {
                 s.inputType,
                 s.outputType,
                 s.inputDirectory,
-                s.outputFile
+                s.outputFile,
+                Preferences.static()
             )
 
             is OptionGenerateModule.Parsed -> dragapult.convert(
                 s.inputType,
                 s.outputType,
                 s.inputFile,
-                s.outputDirectory
+                s.outputDirectory,
+                Preferences.static()
             )
         }
     }

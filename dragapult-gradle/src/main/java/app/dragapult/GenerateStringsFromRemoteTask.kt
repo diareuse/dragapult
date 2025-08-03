@@ -63,7 +63,7 @@ abstract class GenerateStringsFromRemoteTask : DefaultTask() {
         val platform = Platform.Android
         val outputDir = outputDirectory.get().asFile
         val app = DaggerApp.create().dragapult
-        app.convert(source, platform, file, outputDir)
+        app.convert(source, platform, file, outputDir, Preferences.static())
     }
 
     // ---

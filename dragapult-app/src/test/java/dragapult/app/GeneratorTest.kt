@@ -1,7 +1,9 @@
 package dragapult.app
 
+import app.dragapult.Preferences
 import app.dragapult.TranslationWriter
 import app.dragapult.android.WriterAndroid
+import app.dragapult.android.di.AndroidDepModule
 import app.dragapult.apple.WriterApple
 import app.dragapult.ir.csv.WriterCsvIR
 import app.dragapult.ir.json.ReaderJsonIR
@@ -37,7 +39,8 @@ class GeneratorTest {
 
     @Test
     fun toAndroid() {
-        WriterAndroid(asDir("output/android"), "strings.xml.out").pipe()
+        val prefs = Preferences.android(outputFileName = "strings.xml.out")
+        WriterAndroid(asDir("output/android"), AndroidDepModule().xml(), prefs).pipe()
     }
 
     @Test

@@ -10,7 +10,7 @@ import nl.adaptivity.xmlutil.serialization.XmlSerializationPolicy
 @Module
 class AndroidDepModule {
     @Provides
-    internal fun xml(): XML = XML {
+    fun xml(): XML = XML {
         recommended {
             ignoreUnknownChildren()
             this.pedantic = false

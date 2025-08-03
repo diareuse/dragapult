@@ -1,6 +1,7 @@
 package app.dragapult.di
 
 import app.dragapult.Platform
+import app.dragapult.Preferences
 import app.dragapult.TranslationReader
 import app.dragapult.android.di.AndroidReaderModule
 import app.dragapult.apple.di.AppleReaderModule
@@ -16,7 +17,8 @@ import java.io.File
         AndroidReaderModule::class,
         AppleReaderModule::class,
         JsonReaderModule::class,
-        UnityReaderModule::class
+        UnityReaderModule::class,
+        PreferencesModule::class
     ]
 )
 interface ReaderComponent {
@@ -27,7 +29,8 @@ interface ReaderComponent {
     interface Factory {
         fun create(
             @BindsInstance platform: Platform,
-            @BindsInstance file: File
+            @BindsInstance file: File,
+            @BindsInstance prefs: Preferences
         ): ReaderComponent
     }
 
