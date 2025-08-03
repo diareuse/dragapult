@@ -8,60 +8,57 @@ import java.io.File
 import java.util.*
 
 class ReaderUnity(
-    dir: File
+    dir: File,
+    format: CSVFormat,
+    private val prefs: UnityPreferences
 ) : TranslationReader {
 
-    private val data = mutableListOf<TranslationKeyIR>()
-
-    init {
-        val format = CSVFormat.DEFAULT.builder()
-            .setHeader()
-            .setSkipHeaderRecord(true)
-            .get()
-        dir.walk().filter { it.isFile }
-            .filter { it.extension == "csv" }
-            .forEach { file ->
-                file.inputStream().use { input ->
-                    format.parse(input.reader()).forEach { record ->
-                        data += TranslationKeyIR(record.get(0)).apply {
-                            metadata.comment = record.getOrNull("Shared Comments")?.takeUnless { it.isBlank() }
-                            record.getOrNull("Properties")
-                                ?.split("\n")
-                                ?.filter { it.isNotBlank() }
-                                ?.associate {
-                                    val pair = it.split("=", limit = 2)
-                                    pair[0] to pair.getOrNull(1).orEmpty()
-                                }
-                                ?.takeUnless { it.isEmpty() }
-                                ?.toMap(metadata.properties)
-                            record.toMap().toMutableMap()
-                                .apply {
-                                    remove(record.parser.headerNames.find { it.lowercase() == "key" || it.lowercase() == "keys" })
-                                    remove(record.parser.headerNames.find { it.lowercase().endsWith("comments") })
-                                    remove("Properties")
-                                }
-                                .mapKeys { (k, v) ->
-                                    val tag = k.substringAfter('(').substringBefore(')')
-                                    Locale.forLanguageTag(tag)
-                                }
-                                .filter { it.value.isNotBlank() }
-                                .toSortedMap(compareBy { it.toLanguageTag() })
-                                .toMap(translations)
-                        }
+    private val data by lazy {
+        val data = mutableListOf<TranslationKeyIR>()
+        val files = dir.walk().filter { it.isFile }.filter { it.extension == "csv" }
+        for (file in files) {
+            file.inputStream().use { input ->
+                format.parse(input.reader()).forEach { record ->
+                    data += TranslationKeyIR(record.get(0)).apply {
+                        metadata.comment = record.getOrNull(prefs.sharedCommentsLabel)?.takeUnless { it.isBlank() }
+                        record.getOrNull(prefs.propertiesLabel)
+                            ?.split("\n")
+                            ?.filter { it.isNotBlank() }
+                            ?.associate {
+                                val pair = it.split("=", limit = 2)
+                                pair[0] to pair.getOrNull(1).orEmpty()
+                            }
+                            ?.takeUnless { it.isEmpty() }
+                            ?.toMap(metadata.properties)
+                        record.toMap().toMutableMap()
+                            .apply {
+                                remove(prefs.keyLabel)
+                                remove(record.parser.headerNames.find { it.lowercase().endsWith(prefs.commentsLabel) })
+                                remove(prefs.sharedCommentsLabel)
+                                remove(prefs.propertiesLabel)
+                            }
+                            .mapKeys { (k, v) ->
+                                val tag = k.substringAfter('(').substringBefore(')')
+                                Locale.forLanguageTag(tag)
+                            }
+                            .filter { it.value.isNotBlank() }
+                            .toSortedMap(compareBy { it.toLanguageTag() })
+                            .toMap(translations)
                     }
                 }
             }
+        }
+        data.iterator()
     }
 
     private fun CSVRecord.getOrNull(key: String) = if (isSet(key)) get(key) else null
-    private val iter = data.iterator()
 
     override fun hasNext(): Boolean {
-        return iter.hasNext()
+        return data.hasNext()
     }
 
     override fun next(): TranslationKeyIR {
-        return iter.next()
+        return data.next()
     }
 
 }

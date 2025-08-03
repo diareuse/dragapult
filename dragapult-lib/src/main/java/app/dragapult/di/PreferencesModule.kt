@@ -7,6 +7,7 @@ import app.dragapult.ir.csv.CsvIRPreferences
 import app.dragapult.ir.json.JsonIRPreferences
 import app.dragapult.ir.yaml.YamlIRPreferences
 import app.dragapult.json.JsonPreferences
+import app.dragapult.unity.UnityPreferences
 import dagger.Module
 import dagger.Provides
 
@@ -30,5 +31,8 @@ class PreferencesModule {
 
     @Provides
     fun json(prefs: Preferences): JsonPreferences = prefs.json
+
+    @Provides
+    fun unity(prefs: Preferences): UnityPreferences = prefs.unity
 
 }

@@ -6,6 +6,7 @@ import app.dragapult.ir.csv.CsvIRPreferences
 import app.dragapult.ir.json.JsonIRPreferences
 import app.dragapult.ir.yaml.YamlIRPreferences
 import app.dragapult.json.JsonPreferences
+import app.dragapult.unity.UnityPreferences
 import java.util.*
 
 internal class PreferencesStatic(
@@ -15,6 +16,7 @@ internal class PreferencesStatic(
     override val jsonIR: JsonIRPreferences,
     override val yamlIR: YamlIRPreferences,
     override val json: JsonPreferences,
+    override val unity: UnityPreferences,
 ) : Preferences {
 
     class Android(
@@ -60,6 +62,20 @@ internal class PreferencesStatic(
     ) : JsonPreferences {
         override val explicitNulls = explicitNulls ?: super.explicitNulls
         override val isLenient = isLenient ?: super.isLenient
+        override val outputFileName = outputFileName ?: super.outputFileName
+    }
+
+    class Unity(
+        sharedCommentsLabel: String?,
+        commentsLabel: String?,
+        propertiesLabel: String?,
+        keyLabel: String?,
+        outputFileName: String?,
+    ) : UnityPreferences {
+        override val sharedCommentsLabel = sharedCommentsLabel ?: super.sharedCommentsLabel
+        override val commentsLabel = commentsLabel ?: super.commentsLabel
+        override val propertiesLabel = propertiesLabel ?: super.propertiesLabel
+        override val keyLabel = keyLabel ?: super.keyLabel
         override val outputFileName = outputFileName ?: super.outputFileName
     }
 
