@@ -1,6 +1,6 @@
 [versions]
 kotlin-version = "2.2.20"
-dagger = "2.57.1"
+dagger = "2.57.2"
 ksp = "2.2.20-2.0.3"
 publish = "0.34.0"
 shadow = "9.2.1"
