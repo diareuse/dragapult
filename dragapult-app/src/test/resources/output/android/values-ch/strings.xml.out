@@ -1,4 +1,4 @@
-<?xml version='1.1' encoding='UTF-8' ?>
+<?xml version='1.0' ?>
 <resources>
     <string name="a_regular_string" comment="This is just a regular string">Regular na hilo\'</string>
     <string name="e_ampersand">\u0026</string>

@@ -3,52 +3,48 @@ package app.dragapult.android
 import app.dragapult.TranslationKeyIR
 import app.dragapult.TranslationReader
 import app.dragapult.android.model.Resources
+import app.dragapult.util.parseLocale
 import nl.adaptivity.xmlutil.ExperimentalXmlUtilApi
 import nl.adaptivity.xmlutil.core.KtXmlReader
 import nl.adaptivity.xmlutil.serialization.XML
 import java.io.File
-import java.util.*
 
 @OptIn(ExperimentalXmlUtilApi::class)
 internal class ReaderAndroid(
     dir: File,
-    xml: XML
+    xml: XML,
+    private val prefs: AndroidPreferences
 ) : TranslationReader {
 
-    val out = mutableMapOf<String, TranslationKeyIR>()
-
-    init {
-        dir.walk()
-            .filter { it.isFile }
-            .forEach {
-                try {
-                    val res = xml.decodeFromReader<Resources>(KtXmlReader(it.inputStream()))
-                    // todo parse manually, this is inefficient
-                    val tags = it.parentFile!!.name.splitToSequence("-").drop(1)
-                    val langRegion = tags.take(1).firstOrNull() ?: "en"
-                    val locale = Locale.forLanguageTag(langRegion)
-                    for (string in res.strings) {
-                        val ir = out.getOrPut(string.name) { TranslationKeyIR(string.name) }
-                        ir.metadata.comment = ir.metadata.comment ?: string.comment
-                        ir.metadata.properties.putAll(string.parameters.orEmpty())
-                        if (!string.translatable)
-                            ir.metadata.properties.put("translatable", "false")
-                        ir.translations.put(locale, string.content.contentString)
-                    }
-                } catch (e: Throwable) {
-                    e.printStackTrace()
-                }
+    private val resourceFiles = dir.walk().filter { it.isFile }
+    private val out by lazy {
+        val out = mutableMapOf<String, TranslationKeyIR>()
+        for (it in resourceFiles) {
+            val res = it.inputStream().use { input ->
+                xml.decodeFromReader<Resources>(KtXmlReader(input))
             }
+            val folder = it.parentFile
+            checkNotNull(folder) {
+                "Parent file for resource is null, we need it to determine locale"
+            }
+            val locale = folder.parseLocale(prefs.defaultLocale)
+            for (string in res.strings) out.getOrPut(string.name) { TranslationKeyIR(string.name) }.apply {
+                metadata.comment = metadata.comment ?: string.comment
+                metadata.properties.putAll(string.parameters.orEmpty())
+                if (!string.translatable)
+                    metadata.properties["translatable"] = "false"
+                translations[locale] = string.content.contentString
+            }
+        }
+        out.values.iterator()
     }
 
-    private val iter = out.values.iterator()
-
     override fun hasNext(): Boolean {
-        return iter.hasNext()
+        return out.hasNext()
     }
 
     override fun next(): TranslationKeyIR {
-        return iter.next()
+        return out.next()
     }
 
 }

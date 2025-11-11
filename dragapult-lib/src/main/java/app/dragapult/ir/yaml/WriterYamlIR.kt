@@ -2,24 +2,16 @@ package app.dragapult.ir.yaml
 
 import app.dragapult.TranslationKeyIR
 import app.dragapult.TranslationWriter
+import app.dragapult.ir.yaml.model.Key
+import app.dragapult.ir.yaml.model.Property
 import com.charleskorn.kaml.Yaml
-import com.charleskorn.kaml.YamlConfiguration
 import com.charleskorn.kaml.encodeToStream
-import kotlinx.serialization.SerialName
-import kotlinx.serialization.Serializable
 import java.io.OutputStream
 
 class WriterYamlIR(
     private val out: OutputStream,
+    private val yaml: Yaml
 ) : TranslationWriter {
-
-    private val yaml = Yaml(
-        configuration = YamlConfiguration(
-            encodeDefaults = false,
-            strictMode = false,
-            codePointLimit = Int.MAX_VALUE
-        )
-    )
 
     private val items = mutableListOf<Key>()
 
@@ -35,25 +27,5 @@ class WriterYamlIR(
     override fun close() {
         yaml.encodeToStream(items, out)
     }
-
-    @Serializable
-    data class Key(
-        @SerialName("key")
-        val name: String,
-        @SerialName("comment")
-        val comment: String? = null,
-        @SerialName("properties")
-        val properties: List<Property>? = null,
-        @SerialName("translations")
-        val translations: Map<String, String>
-    )
-
-    @Serializable
-    data class Property(
-        @SerialName("name")
-        val name: String,
-        @SerialName("value")
-        val value: String
-    )
 
 }

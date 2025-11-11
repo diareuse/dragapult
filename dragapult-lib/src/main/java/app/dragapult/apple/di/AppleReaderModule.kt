@@ -1,7 +1,8 @@
-package app.dragapult.apple
+package app.dragapult.apple.di
 
 import app.dragapult.Platform
 import app.dragapult.TranslationReader
+import app.dragapult.apple.ReaderApple
 import dagger.Module
 import dagger.Provides
 import dagger.multibindings.IntoMap

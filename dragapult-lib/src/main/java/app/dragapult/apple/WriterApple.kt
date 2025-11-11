@@ -8,7 +8,7 @@ import java.util.*
 
 class WriterApple(
     private val dir: File,
-    private val fileName: String = "Localizable.strings"
+    private val prefs: ApplePreferences
 ) : TranslationWriter {
 
     private val writers = mutableMapOf<Locale, OutputStreamWriter>()
@@ -16,7 +16,7 @@ class WriterApple(
     override fun append(ir: TranslationKeyIR) {
         for ((lang, value) in ir.translations) {
             val out = writers.getOrPut(lang) {
-                val file = File(dir, "${lang.toLanguageTag()}.lproj/${fileName}")
+                val file = File(dir, "${lang.toLanguageTag()}.lproj/${prefs.outputFileName}")
                 file.parentFile?.mkdirs()
                 file.createNewFile()
                 file.outputStream().writer()

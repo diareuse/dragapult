@@ -8,7 +8,8 @@ fun interface Dragapult {
         source: FileKind,
         target: FileKind,
         ingress: File,
-        egress: File
+        egress: File,
+        prefs: Preferences
     )
 
 }

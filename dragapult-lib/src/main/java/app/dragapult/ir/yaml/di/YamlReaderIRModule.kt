@@ -1,7 +1,9 @@
-package app.dragapult.ir.yaml
+package app.dragapult.ir.yaml.di
 
 import app.dragapult.Source
 import app.dragapult.TranslationReader
+import app.dragapult.ir.yaml.ReaderYamlIR
+import com.charleskorn.kaml.Yaml
 import dagger.Module
 import dagger.Provides
 import dagger.multibindings.IntoMap
@@ -14,6 +16,12 @@ class YamlReaderIRModule {
     @Provides
     @IntoMap
     @StringKey(Source.Yaml.LABEL)
-    fun yaml(file: File): TranslationReader = ReaderYamlIR(file.inputStream())
+    fun yaml(
+        file: File,
+        yaml: Yaml
+    ): TranslationReader = ReaderYamlIR(
+        input = file.inputStream(),
+        yaml = yaml
+    )
 
 }

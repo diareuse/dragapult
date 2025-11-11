@@ -8,13 +8,11 @@ import java.io.File
 
 class WriterUnity(
     private val dir: File,
-    private val fileName: String = "strings.csv"
+    private val format: CSVFormat,
+    private val prefs: UnityPreferences,
 ) : TranslationWriter {
 
     private val items = mutableListOf<TranslationKeyIR>()
-    private val format = CSVFormat.DEFAULT.builder()
-        .setRecordSeparator("\n")
-        .get()
 
     override fun append(ir: TranslationKeyIR) {
         items += ir
@@ -22,16 +20,16 @@ class WriterUnity(
 
     override fun close() {
         val keys = items.flatMap { it.translations.keys }.distinct()
-        val output = File(dir, fileName).apply {
+        val output = File(dir, prefs.outputFileName).apply {
             createNewFile()
         }
         output.writer().use { writer ->
             val printer = CSVPrinter(writer, format)
             printer.printRecord(buildList {
-                add("Key")
-                add("Shared Comments")
+                add(prefs.keyLabel)
+                add(prefs.sharedCommentsLabel)
                 addAll(keys.map { "${it.displayLanguage}(${it.toLanguageTag()})" })
-                add("Properties")
+                add(prefs.propertiesLabel)
             })
             for (item in items) {
                 val comment = item.metadata.comment

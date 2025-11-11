@@ -1,4 +1,4 @@
-package app.dragapult.android
+package app.dragapult.android.di
 
 import dagger.Module
 import dagger.Provides
@@ -10,7 +10,7 @@ import nl.adaptivity.xmlutil.serialization.XmlSerializationPolicy
 @Module
 class AndroidDepModule {
     @Provides
-    internal fun xml(): XML = XML {
+    fun xml(): XML = XML {
         recommended {
             ignoreUnknownChildren()
             this.pedantic = false

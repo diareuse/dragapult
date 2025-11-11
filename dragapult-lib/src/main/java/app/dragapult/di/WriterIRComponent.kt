@@ -1,10 +1,11 @@
 package app.dragapult.di
 
+import app.dragapult.Preferences
 import app.dragapult.Source
 import app.dragapult.TranslationWriter
-import app.dragapult.ir.csv.CsvWriterIRModule
-import app.dragapult.ir.json.JsonWriterIRModule
-import app.dragapult.ir.yaml.YamlWriterIRModule
+import app.dragapult.ir.csv.di.CsvWriterIRModule
+import app.dragapult.ir.json.di.JsonWriterIRModule
+import app.dragapult.ir.yaml.di.YamlWriterIRModule
 import dagger.BindsInstance
 import dagger.Subcomponent
 import java.io.File
@@ -14,7 +15,8 @@ import java.io.File
         WriterIRResolverModule::class,
         JsonWriterIRModule::class,
         CsvWriterIRModule::class,
-        YamlWriterIRModule::class
+        YamlWriterIRModule::class,
+        PreferencesModule::class
     ]
 )
 interface WriterIRComponent {
@@ -25,7 +27,8 @@ interface WriterIRComponent {
     interface Factory {
         fun create(
             @BindsInstance source: Source,
-            @BindsInstance file: File
+            @BindsInstance file: File,
+            @BindsInstance prefs: Preferences
         ): WriterIRComponent
     }
 

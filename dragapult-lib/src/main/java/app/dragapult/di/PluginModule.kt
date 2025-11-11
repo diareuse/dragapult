@@ -4,19 +4,14 @@ import app.dragapult.TranslationPlugin
 import app.dragapult.plugins.*
 import dagger.Binds
 import dagger.Module
-import dagger.Provides
 import dagger.multibindings.IntoSet
+import dagger.multibindings.Multibinds
 
 @Module
 abstract class PluginModule {
 
-    companion object {
-
-        @IntoSet
-        @Provides
-        fun noop() = TranslationPlugin.Companion(Int.MAX_VALUE) { _, _, _ -> }
-
-    }
+    @Multibinds
+    abstract fun translations(): Set<TranslationPlugin>
 
     @Binds
     @IntoSet

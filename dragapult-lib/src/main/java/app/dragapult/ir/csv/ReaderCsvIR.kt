@@ -8,17 +8,12 @@ import java.io.InputStream
 import java.util.*
 
 class ReaderCsvIR(
-    input: InputStream
+    input: InputStream,
+    format: CSVFormat
 ) : TranslationReader {
 
-    private val data = mutableListOf<TranslationKeyIR>()
-
-    init {
-        val format = CSVFormat.DEFAULT.builder()
-            .setHeader()
-            .setSkipHeaderRecord(true)
-            .setCommentMarker(Char(3))
-            .get()
+    private val data by lazy {
+        val data = mutableListOf<TranslationKeyIR>()
         format.parse(input.reader()).forEach { record ->
             data += TranslationKeyIR(record.get(0)).apply {
                 metadata.comment = record.comment?.takeUnless { it.isBlank() }
@@ -42,17 +37,17 @@ class ReaderCsvIR(
                     .toMap(translations)
             }
         }
+        data.iterator()
     }
 
     private fun CSVRecord.getOrNull(key: String) = if (isSet(key)) get(key) else null
-    private val iter = data.iterator()
 
     override fun hasNext(): Boolean {
-        return iter.hasNext()
+        return data.hasNext()
     }
 
     override fun next(): TranslationKeyIR {
-        return iter.next()
+        return data.next()
     }
 
 }
