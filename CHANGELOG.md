@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.0.0](https://github.com/diareuse/dragapult/compare/1.1.0...2.0.0) (2026-01-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* **plugin:** enhance Dragapult with remote/local support
+
+### Features
+
+* **plugin:** enhance Dragapult with remote/local support ([5377fd7](https://github.com/diareuse/dragapult/commit/5377fd7b9793f7d7d4f5906955a7ef55882ea06e)), closes [#44](https://github.com/diareuse/dragapult/issues/44)
+* **unity:** add Unity CSV reader and writer support ([f05f6ab](https://github.com/diareuse/dragapult/commit/f05f6aba57054299e1758c758e3022bca2fc0f5e))
+
+
+### Bug Fixes
+
+* **plugin:** add DSL markers and Kotlin task test ([c1c0a8d](https://github.com/diareuse/dragapult/commit/c1c0a8db1145c807ef1c3be6e9e4b1bba690060b))
+
 ## [1.1.0](https://github.com/diareuse/dragapult/compare/1.0.7...1.1.0) (2025-07-03)
 
 
