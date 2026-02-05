@@ -1,5 +1,5 @@
 [versions]
-kotlin-version = "2.3.0"
+kotlin-version = "2.3.10"
 dagger = "2.59.1"
 ksp = "2.3.5"
 publish = "0.36.0"
