@@ -18,7 +18,7 @@ jobs:
           distribution: temurin
       - uses: gradle/actions/setup-gradle@v5
       - run: ./gradlew check
-      - uses: dorny/test-reporter@v2
+      - uses: dorny/test-reporter@v3
         if: always()
         with:
           name: Tests
