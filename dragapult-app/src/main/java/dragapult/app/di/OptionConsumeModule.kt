@@ -22,7 +22,7 @@ object OptionConsumeModule {
         .hasArg()
         .required()
         .desc("Required. Input directory meant for resource consumption. Accepts a single parameter which represents the nearest parent of all resource configurations. Accepts relative paths. Example: \"-i src/res\"")
-        .build()
+        .get()
 
     @get:Consume
     @get:IntoSet
@@ -33,7 +33,7 @@ object OptionConsumeModule {
         .hasArg()
         .required()
         .desc("Required. Output file created after consuming all resource input files. It will be created exactly as specified. May or may not require you to create parent folders. Doesn't infer file type from extension automatically, it needs to be specified as part of \"output-type\" argument. Example: \"-o out/translations.csv\"")
-        .build()
+        .get()
 
     @get:Consume
     @get:IntoSet
@@ -44,7 +44,7 @@ object OptionConsumeModule {
         .hasArg()
         .required()
         .desc("Required. Defines input type for the \"input-directory\" argument. It takes in account the different project structures for respective the types. Allowed types are ${Platform.entries.joinToString()}.")
-        .build()
+        .get()
 
     @get:Consume
     @get:IntoSet
@@ -55,7 +55,7 @@ object OptionConsumeModule {
         .hasArg()
         .required()
         .desc("Required. Defines output type for \"output-file\" argument. It chooses a specific parser capable of converting the data. Allowed types are ${Source.entries.joinToString()}")
-        .build()
+        .get()
 
     @get:Consume
     @get:IntoSet
@@ -64,7 +64,7 @@ object OptionConsumeModule {
         .option("h")
         .longOpt("help")
         .desc("Prints this help message")
-        .build()
+        .get()
 
     operator fun invoke(cli: CommandLine): Subroutine {
         val parsed = Parsed(cli)

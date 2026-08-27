@@ -15,7 +15,7 @@ object OptionModule {
         .argName("consume")
         .option("c")
         .desc("Consumes platform files into a common file type. Try \"consume --help\" for usage info.")
-        .build()
+        .get()
 
     @get:IntoSet
     @get:Provides
@@ -23,7 +23,7 @@ object OptionModule {
         .argName("generate")
         .option("g")
         .desc("Generates platform files from a common file type. Try \"generate --help\" for usage info.")
-        .build()
+        .get()
 
     @get:IntoSet
     @get:Provides
@@ -31,7 +31,7 @@ object OptionModule {
         .option("h")
         .longOpt("help")
         .desc("Prints this help message.")
-        .build()
+        .get()
 
     operator fun invoke(cli: CommandLine) = Parsed(cli)
 

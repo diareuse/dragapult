@@ -3,7 +3,11 @@ package dragapult.app.di
 import dagger.Module
 import dagger.Provides
 import jakarta.inject.Provider
-import org.apache.commons.cli.*
+import org.apache.commons.cli.CommandLine
+import org.apache.commons.cli.CommandLineParser
+import org.apache.commons.cli.DefaultParser
+import org.apache.commons.cli.MissingOptionException
+import org.apache.commons.cli.Options
 
 @Module(includes = [OptionsModule::class])
 class CommandLineModule {
@@ -30,7 +34,7 @@ class CommandLineModule {
                 break
             }
         }
-        val opt = OptionModule(cli.build())
+        val opt = OptionModule(cli.get())
         val subargs = Array(args.size - 1) { args[it + 1] }
         return when {
             opt.help -> HelpSubroutine(options)
