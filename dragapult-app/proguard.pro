@@ -1,6 +1,8 @@
 -keepattributes *Annotation*,Signature,InnerClasses
 -verbose
 -dontwarn app.dragapult.**
+-dontwarn dragapult.**
+-dontwarn kotlin.**
 
 -keep class nl.adaptivity.xmlutil.jdk.StAXStreamingFactory
 -dontnote **
