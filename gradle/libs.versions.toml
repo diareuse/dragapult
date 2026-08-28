@@ -1,7 +1,7 @@
 [versions]
 kotlin-version = "2.4.10"
 dagger = "2.60.1"
-ksp = "2.3.9"
+ksp = "2.3.11"
 publish = "0.37.0"
 shadow = "9.4.2"
 csv = "1.14.0"
