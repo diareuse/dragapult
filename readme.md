@@ -1,3 +1,7 @@
+# Deprecated
+
+Use Jetpack Compose resources instead.
+
 # Dragapult
 
 [![Codacy grade](https://img.shields.io/codacy/grade/a9f217ff552d4cdfb690e78cb93c20e7)][code-quality]
